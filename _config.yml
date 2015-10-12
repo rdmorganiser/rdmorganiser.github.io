@@ -8,17 +8,13 @@ url: "http://dmpwerkzeug.github.io"
 markdown: kramdown
 permalink: pretty
 
-# navigation:
-# - title: Projektbeschreibung
-#   url: '/#overview'
-# - title: Arbeitspakete
-#   url: '/#workpackages'
-# - title: Team
-#   url: '/#team'
-# - title: Partner
-#   url: '#partner'
-
 navigation:
+- title: Projektbeschreibung
+  url: '/#overview'
+- title: Arbeitspakete
+  url: '/#workpackages'
+- title: Team
+  url: '/#team'
 
 team:
 - name: Claudia Engelhardt
