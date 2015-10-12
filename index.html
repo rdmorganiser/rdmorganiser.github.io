@@ -1,1 +1,81 @@
-This is a placeholder for something else.
+---
+layout: page
+---
+
+<div class="home" data-spy="scroll" data-target="#sidebar">
+
+    <div class="header">
+        <h1>DMPwerkzeug</h1>
+        <p class="subtitle">
+            Entwicklung und Implementierung eines Werkzeugs für die Planung, Umsetzung und Kontrolle des Forschungsdatenmanagements
+        </p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2 id="overview">Projektbeschreibung</h2>
+
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+
+            <h2 id="workpackages">Arbeitspakete</h2>
+
+            <h3>Konzeption</h3>
+
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+
+            <h3>Software</h3>
+
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+
+            <h3>Community und Nutzertests</h3>
+
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+
+            <h2 id="team">Team</h2>
+
+            {% for member in site.team %}
+            <div class="team-member">
+                <img src="{{ member.image}}" />
+                <p>
+                    <strong>{{ member.name }}</strong><br />{{ member.affiliation }}<br />{{ member.info }}
+                </p>
+            </div>
+            {% endfor %}
+
+            <h2 id="partner">Partner</h2>
+
+            {% for partner in site.partner %}
+            <div class="partner">
+                <a href="{{ partner.link }}">
+                    <img src="{{ partner.logo}}" />
+                </a>
+                <p>
+                    <a href="{{ partner.link }}"><strong>{{ partner.name }}</strong></a><br />{{ partner.info }}
+                </p>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="col-md-3">
+            <h4 id="toc">Inhalt</h4>
+
+            <ul id="sidebar" class="nav affix-top">
+                <li><a href="#overview">Projektbeschreibung</a></li>
+                <li><a href="#workpackages">Arbeitspakete</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#partner">Partner</a></li>
+            </ul>
+
+            <h4 id="contact">Kontakt</h4>
+        </div>
+    </div>
+</div>

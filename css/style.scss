@@ -1,0 +1,158 @@
+---
+---
+
+$darkblue: #101F70;
+$lightgray: #ccc;
+$mediumgray: #999;
+$fontcolor: #484c55;
+
+@font-face {
+    font-family: "DroidSans";
+    src: url('../font/DroidSans.ttf');
+}
+@font-face {
+    font-family: "DroidSans";
+    src: url('../font/DroidSans-Bold.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DroidSans-Mono";
+    src: url('../font/DroidSansMono.ttf');
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url('../font/DroidSerif.ttf');
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url('../font/DroidSerif-Bold.ttf');
+    font-weight: bold;
+}
+body {
+    font-family: DroidSans, sans;
+    color: $darkblue;
+
+    padding-bottom: 80px;
+}
+.mono, pre {
+    font-family: DroidSans-Mono;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: DroidSerif, sans;
+    font-weight: normal;
+    color: $darkblue;
+}
+h2 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+h3 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+h4 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+pre {
+    margin-bottom: 10px;
+}
+
+.navbar-inverse {
+    background-color: $darkblue;
+    color: $lightgray;
+}
+.dropdown-menu {
+    border-radius: 0;
+}
+
+.wrapper {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.justify p {
+    text-align: justify;
+}
+
+.footer {
+    color: #999;
+    padding-top: 10px;
+}
+.footer a {
+    color: #999;
+}
+
+/* navbar */
+
+.navbar-brand {
+    font-family: DroidSerif, sans;
+}
+
+/* header */
+
+.header {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.header h1 {
+    font-size: 64px;
+    line-height: 64px;
+
+    margin: 0 0 20px 0;
+}
+.header .subtitle {
+    font-size: 30px;
+    line-height: 40px;
+
+    color: $mediumgray;
+    margin: 0;
+}
+
+/* team and partner */
+
+.team-member {
+    height: 140px;
+    margin-top: 20px;
+}
+.team-member img {
+    display: block;
+    float: left;
+    height: 140px;
+    width: 140px;
+    margin-left: 80px;
+    border-radius: 50%;
+}
+.team-member p {
+    margin-left: 260px;
+    padding-top: 20px;
+}
+
+.partner {
+    margin-top: 20px;
+    height: 150px;
+}
+.partner img {
+    display: block;
+    float: left;
+    height: 100px;
+    width: 140px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+}
+.partner p {
+    margin-left: 260px;
+    padding-top: 30px;
+}
+
+/* home */
+
+.home {
+    height: 100%;
+}
