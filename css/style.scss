@@ -44,6 +44,12 @@ h1, h2, h3, h4, h5, h6 {
     color: $darkblue;
 }
 
+/* some overrides of bootstrap behavoir */
+
+p {
+    text-align: justify;
+}
+
 /* headlines */
 
 h2 {
@@ -74,9 +80,6 @@ pre {
     margin-top: 60px;
     margin-bottom: 40px;
 }
-.justify p {
-    text-align: justify;
-}
 
 footer {
     background-color: $darkgrey;
@@ -106,7 +109,7 @@ footer a {
 
 .header {
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 .header h1 {
     font-size: 64px;
@@ -115,8 +118,10 @@ footer a {
     margin: 0 0 20px 0;
 }
 .header .subtitle {
-    font-size: 30px;
+    font-size: 28px;
     line-height: 40px;
+
+    text-align: left;
 
     color: $mediumgray;
     margin: 0;

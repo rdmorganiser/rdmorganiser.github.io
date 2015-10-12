@@ -4,11 +4,13 @@ layout: page
 
 <div class="home" data-spy="scroll" data-target="#sidebar">
 
-    <div class="header">
-        <h1>DMPwerkzeug</h1>
-        <p class="subtitle">
-            Entwicklung und Implementierung eines Werkzeugs für die Planung, Umsetzung und Kontrolle des Forschungsdatenmanagements
-        </p>
+    <div class="row header">
+        <div class="col-md-9">
+            <h1>DMPwerkzeug</h1>
+            <p class="subtitle">
+                Entwicklung und Implementierung eines Werkzeugs für die Planung, Umsetzung und Kontrolle des Forschungsdatenmanagements
+            </p>
+        </div>
     </div>
 
     <div class="row">
@@ -46,7 +48,7 @@ layout: page
             <div class="team-member">
                 <img src="{{ member.image}}" />
                 <p>
-                    <strong>{{ member.name }}</strong><br />{{ member.affiliation }}<br />{{ member.info }}
+                    <strong>{{ member.name }}</strong> {{ member.info }}
                 </p>
             </div>
             {% endfor %}

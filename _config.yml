@@ -22,24 +22,19 @@ navigation:
 
 team:
 - name: Claudia Engelhardt
-  affiliation: FH Potsdam / SUB Göttingen
-  info: Lorem ipsum ...
+  info: ist wissenschaftliche Mitarbeiterin and der Fachhochschule Potsdam (FHP) und der Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB).
   image: /img/team/ce.jpg
 - name: Jochen Klar
-  affiliation: Leibniz-Institut für Astrophysik Potsdam (AIP)
-  info: Lorem ipsum ...
+  info: ist wissenschaftlicher Mitarbeiter am Leibniz-Institut für Astrophysik Potsdam (AIP). Dort Arbeitet er sowohl an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen.
   image: /img/team/jk.jpg
 - name: Jens Ludwig
-  affiliation: Staatsbibliothek zu Berlin
-  info: Lorem ipsum ...
+  info: ist wissenschaftlicher Mitarbeiter an der Staatsbibliothek zu Berlin.
   image: /img/team/jl.jpg
 - name: Harry Enke
-  affiliation: Leibniz-Institut für Astrophysik Potsdam (AIP)
-  info: Lorem ipsum ...
+  info: leitet die E-Science Gruppe am Leibniz-Institut für Astrophysik Potsdam (AIP). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er war als PI des Astrogrid-D am Aufbau des akademischen D-Grids beteiligt und ist Mitglied des German Astrophysics Virtual Observatory (GAVO).
   image: /img/team/he.jpg
 - name: Heike Neuroth
-  affiliation: FH Potsdam
-  info: Lorem ipsum ...
+  info: ist Professorin für Bibliothekswissenschaften an der Fachhochschule Potsdam (FHP). Ihr Arbeitsgebiet umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der langzeitarchivieung und den Digital Humanities.
   image: /img/team/hn.jpg
 
 partner:
