@@ -55,7 +55,7 @@ p {
 h2 {
     font-size: 30px;
     line-height: 30px;
-    margin-top: 30px;
+    margin-top: 0;
     margin-bottom: 15px;
 }
 h3 {
@@ -80,12 +80,14 @@ pre {
     margin-top: 60px;
     margin-bottom: 40px;
 }
-
+.block {
+    margin-bottom: 60px;
+}
 footer {
     background-color: $darkgrey;
     color: #999;
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
 }
 footer a {
     color: #999;
@@ -138,11 +140,10 @@ footer a {
     float: left;
     height: 140px;
     width: 140px;
-    margin-left: 80px;
     border-radius: 50%;
 }
 .team-member p {
-    margin-left: 260px;
+    margin-left: 180px;
     padding-top: 20px;
 }
 
@@ -157,10 +158,9 @@ footer a {
     width: 140px;
     margin-top: 25px;
     margin-bottom: 25px;
-    margin-left: 80px;
 }
 .partner p {
-    margin-left: 260px;
+    margin-left: 180px;
     padding-top: 30px;
 }
 
