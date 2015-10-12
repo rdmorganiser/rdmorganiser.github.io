@@ -4,7 +4,10 @@
 $darkblue: #101F70;
 $lightgray: #ccc;
 $mediumgray: #999;
+$darkgrey: #112;
 $fontcolor: #484c55;
+
+/* fonts */
 
 @font-face {
     font-family: "DroidSans";
@@ -31,8 +34,6 @@ $fontcolor: #484c55;
 body {
     font-family: DroidSans, sans;
     color: $darkblue;
-
-    padding-bottom: 80px;
 }
 .mono, pre {
     font-family: DroidSans-Mono;
@@ -42,6 +43,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     color: $darkblue;
 }
+
+/* headlines */
+
 h2 {
     font-size: 30px;
     line-height: 30px;
@@ -64,13 +68,7 @@ pre {
     margin-bottom: 10px;
 }
 
-.navbar-inverse {
-    background-color: $darkblue;
-    color: $lightgray;
-}
-.dropdown-menu {
-    border-radius: 0;
-}
+/* layout */
 
 .wrapper {
     margin-top: 60px;
@@ -80,11 +78,13 @@ pre {
     text-align: justify;
 }
 
-.footer {
+footer {
+    background-color: $darkgrey;
     color: #999;
-    padding-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
-.footer a {
+footer a {
     color: #999;
 }
 
@@ -92,6 +92,14 @@ pre {
 
 .navbar-brand {
     font-family: DroidSerif, sans;
+}
+
+.navbar-inverse {
+    background-color: $darkblue;
+    color: $lightgray;
+}
+.dropdown-menu {
+    border-radius: 0;
 }
 
 /* header */
