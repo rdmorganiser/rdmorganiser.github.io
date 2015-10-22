@@ -6,13 +6,15 @@ Die erste Überarbeitung wird primär auf dem Know-How aus eigenen weiteren erw�
 
 ### Software
 
-Die für den Projekterfolg nötigen Software-Entwicklungsarbeiten werden in diesem Arbeitspaket durchgeführt. Hierzu zählen die Konzeption der Softwarearchitektur und des zugehörigen Daten­bankmodells sowie die Entwicklung der Applikation. Hierbei wird sowohl auf eigene Vorarbeiten im Be­reich der Web-Entwicklung, als auch die oben erwähnten, quell-offenen Tools DMPonline und DMPTool aufgebaut.
+Die für den Projekterfolg nötigen Software-Entwicklungsarbeiten werden in diesem Arbeitspaket durchgeführt. Hierzu zählen die Konzeption der Softwarearchitektur und des zugehörigen Daten­bankmodells sowie die Entwicklung der Applikation. Hierbei wird sowohl auf eigene Vorarbeiten im Be­reich der Web-Entwicklung, als auch die oben erwähnten, quell-offenen Tools [DMPonline](https://dmponline.dcc.ac.uk) und [DMPTool](https://dmptool.org/) aufgebaut.
 
 Um einen parallelen Arbeitsablauf zu ermöglichen und eine Trennung von Inhalt und Applikation zu erreichen, wird der Kern der Software zunächst unabhängig von den im Arbeitspaket Konzeption erarbeiteten Fragen und Antworten entwickelt. In den ersten Monaten der Projektlaufzeit konzentrieren sich die Arbeiten auf die Entwicklung der Softwarearchitektur und eines passenden Datenbankmodells.
 
 Zusätzlich werden die Schnittstellen der bestehenden Werkzeuge und weiterer relevanter Initiativen daraufhin untersucht, ob sie in das DMPwerkzeug integriert wer­den können. Aufbauend darauf wird ein Prototyp entwickelt, welcher mit einem vorläufigen Fragenset die prinzipielle Funktionalität der Applikation demonstriert.
 
 Mit dem Abschluss der oben beschriebenen konzeptionellen Arbeiten werden die erarbeiteten Fragenkomplexe in die Anwendung überführt und eine erste nutzbare Version erstellt. Diese Version wird zunächst an zentraler Stelle installiert und den Nutzenden für die im Arbeitspaket Community und Nutzertests beschriebene Evaluation zugänglich gemacht. In enger Zusammenarbeit mit diesem Arbeitspaket werden dann die in den Test gefundenen Fehler beseitigt, Verbesserungen eingefügt und so die Applikation in einem iterativen Prozess nach und nach finalisiert.
+
+Der Quellcode der Anwendung wird schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und wird auf [github.com/DMPwerkzeug](https://github.com/DMPwerkzeug) abrufbar sein.
 
 ### Community und Nutzertests
 
