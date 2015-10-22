@@ -3,8 +3,8 @@
 
 $darkblue: #101F70;
 $lightgray: #ccc;
-$mediumgray: #999;
-$darkgrey: #112;
+$mediumgray: #666;
+$darkgray: #112;
 $fontcolor: #484c55;
 
 /* fonts */
@@ -49,6 +49,17 @@ h1, h2, h3, h4, h5, h6, .navbar-nav a {
 p {
     text-align: justify;
 }
+a,
+a:visited,
+a:hover,
+a:focus {
+    color: $darkblue;
+    text-decoration: underline;
+}
+a:hover {
+    color: $mediumgray;
+}
+
 a.anchor {
     display: block;
     position: relative;
@@ -93,10 +104,10 @@ pre {
     margin-bottom: 40px;
 }
 .block {
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 footer {
-    background-color: $darkgrey;
+    background-color: $darkgray;
     color: #999;
     padding-top: 40px;
     padding-bottom: 60px;
@@ -108,12 +119,15 @@ footer a {
 /* navbar */
 
 .navbar-brand {
-    font-family: DroidSerif, sans;
+    font-family: DroidSans, sans;
 }
-
 .navbar-inverse {
     background-color: $darkblue;
     color: $lightgray;
+}
+.navbar-inverse a {
+    font-family: DroidSans, sans;
+    text-decoration: none;
 }
 .dropdown-menu {
     border-radius: 0;
