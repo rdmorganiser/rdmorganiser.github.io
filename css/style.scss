@@ -168,9 +168,11 @@ footer a {
     width: 140px;
     border-radius: 50%;
 }
-.team-member p {
-    margin-left: 180px;
-    padding-top: 20px;
+.team-member-info {
+    padding-left: 40px;
+    height: 140px;
+    display: table-cell;
+    vertical-align:middle;
 }
 
 .partner {

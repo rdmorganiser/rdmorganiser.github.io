@@ -1,1 +1,1 @@
-**Heike Neuroth** ist Professorin für Bibliothekswissenschaften an der Fachhochschule Potsdam (FHP). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der langzeitarchivieung und den Digital Humanities.
+**Heike Neuroth** ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities.
