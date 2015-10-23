@@ -1,0 +1,1 @@
+**Jochen Klar** ist wissenschaftlicher Mitarbeiter am Leibniz-Institut für Astrophysik Potsdam (AIP). Er arbeitet dort an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen.

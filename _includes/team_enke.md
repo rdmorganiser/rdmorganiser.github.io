@@ -1,0 +1,1 @@
+**Harry Enke** leitet die E-Science Gruppe am Leibniz-Institut für Astrophysik Potsdam (AIP). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er war als Projektmanager des Astrogrid-D am Aufbau des akademischen D-Grids beteiligt und ist Mitglied des German Astrophysics Virtual Observatory (GAVO).

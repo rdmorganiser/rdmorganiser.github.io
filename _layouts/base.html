@@ -1,11 +1,64 @@
 <!DOCTYPE html>
 <html>
     <head>
-        {% include head.html %}
+        <meta charset="UTF-8">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{site.title}}</title>
+
+        <link href="{{ site.baseurl }}/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/solarized-light.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/style.css" media="screen" rel="stylesheet" type="text/css">
+
+        <script src="{{ site.baseurl }}/js/jquery-2.1.1.min.js"></script>
+        <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+        <script>
+        $(function() {
+            $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                    var target = $(this.hash);
+                    if (target.selector === '#top') {
+                        $('html,body').animate({
+                            scrollTop: 0
+                        }, 600);
+                        return false;
+                    } else {
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                        if (target.length) {
+                            $('html,body').animate({
+                                scrollTop: target.offset().top
+                            }, 600);
+                            return false;
+                        }
+                    }
+                }
+            });
+        });
+        </script>
     </head>
 
     <body>
-        {% include navigation.html %}
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="{{ site.baseurl }}/#top">DMPwerkzeug</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        {% for node in site.navigation %}
+                        <li><a href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
 
         <div class="wrapper">
             <div class="container">
@@ -13,6 +66,23 @@
             </div>
         </div>
 
-        {% include footer.html %}
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        {% capture footer_left %}{% include footer_left.md %}{% endcapture %}
+                        {{ footer_left | markdownify }}
+                    </div>
+                    <div class="col-md-4">
+                        {% capture footer_center %}{% include footer_center.md %}{% endcapture %}
+                        {{ footer_center | markdownify }}
+                    </div>
+                    <div class="col-md-4">
+                        {% capture footer_right %}{% include footer_right.md %}{% endcapture %}
+                        {{ footer_right | markdownify }}
+                    </div>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>

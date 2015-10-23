@@ -20,7 +20,8 @@ layout: page
         </div>
 
         <div class="col-md-9">
-            {% capture project %}{% include project.md %}{% endcapture %}{{ project | markdownify }}
+            {% capture project %}{% include project.md %}{% endcapture %}
+            {{ project | markdownify }}
         </div>
     </div>
 
@@ -30,7 +31,8 @@ layout: page
             <h2>Arbeitspakete</h2>
         </div>
         <div class="col-md-9">
-            {% capture workpackages %}{% include workpackages.md %}{% endcapture %}{{ workpackages | markdownify }}
+            {% capture workpackages %}{% include workpackages.md %}{% endcapture %}
+            {{ workpackages | markdownify }}
         </div>
     </div>
 
@@ -44,7 +46,8 @@ layout: page
             <div class="team-member">
                 <img src="{{ site.baseurl }}/{{ member.image}}" />
                 <p>
-                    <strong>{{ member.name }}</strong> {{ member.info }}
+                    {% capture info %}{% include {{member.include}} %}{% endcapture %}
+                    {{ info | markdownify }}
                 </p>
             </div>
             {% endfor %}

@@ -17,21 +17,16 @@ navigation:
   url: '#team'
 
 team:
-- name: Claudia Engelhardt
-  info: ist wissenschaftliche Mitarbeiterin and der Fachhochschule Potsdam (FHP) und der Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB).
-  image: /img/team/ce.jpg
-- name: Jochen Klar
-  info: ist wissenschaftlicher Mitarbeiter am Leibniz-Institut für Astrophysik Potsdam (AIP). Er arbeitet dort an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen.
-  image: /img/team/jk.jpg
-# - name: Jens Ludwig
-#  info: ist wissenschaftlicher Mitarbeiter an der Staatsbibliothek zu Berlin.
-#  image: /img/team/jl.jpg
-- name: Harry Enke
-  info: leitet die E-Science Gruppe am Leibniz-Institut für Astrophysik Potsdam (AIP). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er war als Projektmanager des Astrogrid-D am Aufbau des akademischen D-Grids beteiligt und ist Mitglied des German Astrophysics Virtual Observatory (GAVO).
-  image: /img/team/he.jpg
-- name: Heike Neuroth
-  info: ist Professorin für Bibliothekswissenschaften an der Fachhochschule Potsdam (FHP). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der langzeitarchivieung und den Digital Humanities.
-  image: /img/team/hn.jpg
+- include: team_engelhardt.md
+  image: /img/team/engelhardt.jpg
+- include: team_klar.md
+  image: /img/team/klar.jpg
+# - include: team_ludwig.md
+#  image: /img/team/ludwig.jpg
+- include: team_enke.md
+  image: /img/team/enke.jpg
+- include: team_neuroth.md
+  image: /img/team/neuroth.jpg
 
 partner:
 - name: Leibniz-Institut für Astrophysik Potsdam (AIP)
@@ -46,10 +41,10 @@ partner:
   link: http://www.sub.uni-goettingen.de
   info: Lorem ipsum ...
   logo: /img/partner/sub.jpg
-- name: Staatsbibliothek zu Berlin
-  link: http://staatsbibliothek-berlin.de
-  info: Lorem ipsum ...
-  logo: /img/partner/sbb.jpg
+# - name: Staatsbibliothek zu Berlin
+#   link: http://staatsbibliothek-berlin.de
+#   info: Lorem ipsum ...
+#   logo: /img/partner/sbb.jpg
 - name: Deutsche Forschungsgemeinschaft
   link: http://www.dfg.de
   info: Lorem ipsum ...
