@@ -106,15 +106,6 @@ pre {
 .block {
     margin-bottom: 40px;
 }
-footer {
-    background-color: $darkgray;
-    color: #999;
-    padding-top: 40px;
-    padding-bottom: 60px;
-}
-footer a {
-    color: #999;
-}
 
 /* navbar */
 
@@ -123,7 +114,6 @@ footer a {
 }
 .navbar-inverse {
     background-color: $darkblue;
-    color: $lightgray;
 }
 .navbar-inverse a {
     font-family: DroidSans, sans;
@@ -155,6 +145,16 @@ footer a {
     margin: 0;
 }
 
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 48px;
+    }
+    .header .subtitle {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
 /* team and partner */
 
 .team-member {
@@ -172,9 +172,29 @@ footer a {
     padding-left: 40px;
     height: 140px;
     display: table-cell;
-    vertical-align:middle;
+    vertical-align: middle;
 }
 
+@media (max-width: 768px) {
+    .team-member {
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .team-member img {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .team-member-info {
+        margin-top: 20px;
+        padding: 0;
+        height: auto;
+        display: block;
+    }
+}
+
+/*
 .partner {
     margin-top: 20px;
     height: 150px;
@@ -191,9 +211,38 @@ footer a {
     margin-left: 180px;
     padding-top: 30px;
 }
+*/
 
 /* home */
 
 .home {
     height: 100%;
+}
+
+/* footer */
+footer {
+    background-color: $darkgray;
+    color: #999;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+footer .footer-col{
+    padding-bottom: 20px;
+}
+footer a,
+footer a:visited {
+    color: #999;
+}
+footer h3 {
+    color: #999;
+}
+footer p {
+    text-align: left;
+}
+footer .aip-logo {
+    width: 200px;
+    margin-bottom: 30px;
+}
+footer .dfg-logo {
+    margin-bottom: 20px;
 }
