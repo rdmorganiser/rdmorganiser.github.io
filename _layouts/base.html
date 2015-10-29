@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{site.title}}</title>
+
+        <link href="{{ site.baseurl }}/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/solarized-light.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/style.css" media="screen" rel="stylesheet" type="text/css">
+
+        <script src="{{ site.baseurl }}/js/jquery-2.1.1.min.js"></script>
+        <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+        <script>
+        $(document).ready(function () {
+            // smooth scroll for anchor link click
+            $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                    var target = $(this.hash);
+                    if (target.selector === '#top') {
+                        $('html,body').animate({
+                            scrollTop: 0
+                        }, 600);
+                        return false;
+                    } else {
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                        if (target.length) {
+                            $('html,body').animate({
+                                scrollTop: target.offset().top
+                            }, 600);
+                            return false;
+                        }
+                    }
+                }
+            });
+
+            // close the hamburger menu on click
+            $(".navbar-nav li a").click(function(event) {
+                $(".navbar-collapse").collapse('hide');
+            });
+        });
+        </script>
+    </head>
+
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="{{ site.baseurl }}/#top">DMPwerkzeug</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        {% for node in site.navigation %}
+                        <li>
+                            <a href="{{ site.baseurl }}/{{ node.url }}">
+                                {{ node.title }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="wrapper">
+            <div class="container">
+                {{ content }}
+            </div>
+        </div>
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Partner</h3>
+                        <a href="http://www.aip.de">
+                            <img class="aip-logo" src="{{ site.baseurl }}/img/logos/AIP_DE_neg.png">
+                        </a>
+                        <a href="http://www.fh-potsdam.de/">
+                            <img class="fhp-logo" src="{{ site.baseurl }}/img/logos/fhp.png">
+                        </a>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Förderung</h3>
+                        <img class="dfg-logo" src="{{ site.baseurl }}/img/logos/dfg_logo_schriftzug_weiss.png">
+                        <h3>Open Source</h3>
+                        <div>
+                            DMPwerkzeug ist auf <a href="https://github.com/DMPwerkzeug">github.com</a> veröffentlicht.
+                        </div>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Impressum</h3>
+                        <p>
+                            Diese Webseite wird vom <a href="http://www.aip.de">Leibniz-Institut für Astrophysik Potsdam (AIP)</a> betrieben.
+                        </p>
+                        <p>
+                            Es gilt das unter <a href="http://www.aip.de/de/impressum">http://www.aip.de/de/impressum</a> zu findende Impressum des AIP.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

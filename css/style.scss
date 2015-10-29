@@ -1,0 +1,252 @@
+---
+---
+
+$darkblue: #101F70;
+$lightgray: #ccc;
+$mediumgray: #666;
+$darkgray: #112;
+$fontcolor: #484c55;
+
+/* fonts */
+
+@font-face {
+    font-family: "DroidSans";
+    src: url('../font/DroidSans.ttf');
+}
+@font-face {
+    font-family: "DroidSans";
+    src: url('../font/DroidSans-Bold.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DroidSans-Mono";
+    src: url('../font/DroidSansMono.ttf');
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url('../font/DroidSerif.ttf');
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url('../font/DroidSerif-Bold.ttf');
+    font-weight: bold;
+}
+body {
+    font-family: DroidSans, sans;
+    color: $darkblue;
+}
+.mono, pre {
+    font-family: DroidSans-Mono;
+}
+h1, h2, h3, h4, h5, h6, .navbar-nav a {
+    font-family: DroidSerif, sans;
+    font-weight: normal;
+    color: $darkblue;
+}
+
+/* some overrides of general/bootstrap behavoir */
+
+p {
+    text-align: justify;
+}
+a,
+a:visited,
+a:hover,
+a:focus {
+    color: $darkblue;
+    text-decoration: underline;
+}
+a:hover {
+    color: $mediumgray;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -80px;
+    visibility: hidden;
+}
+a.anchor-top {
+    display: block;
+    position: relative;
+    top: 0;
+    visibility: hidden;
+}
+
+/* headlines */
+
+h2 {
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h4 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+pre {
+    margin-bottom: 10px;
+}
+
+/* layout */
+
+.wrapper {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.block {
+    margin-bottom: 40px;
+}
+
+/* navbar */
+
+.navbar-brand {
+    font-family: DroidSans, sans;
+}
+.navbar-inverse {
+    background-color: $darkblue;
+}
+.navbar-inverse a {
+    font-family: DroidSans, sans;
+    text-decoration: none;
+}
+.dropdown-menu {
+    border-radius: 0;
+}
+
+/* header */
+
+.header {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.header h1 {
+    font-size: 64px;
+    line-height: 64px;
+
+    margin: 0 0 20px 0;
+}
+.header .subtitle {
+    font-size: 28px;
+    line-height: 40px;
+
+    text-align: left;
+
+    color: $mediumgray;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 48px;
+    }
+    .header .subtitle {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
+/* team and partner */
+
+.team-member {
+    height: 140px;
+    margin-top: 20px;
+}
+.team-member img {
+    display: block;
+    float: left;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+}
+.team-member-info {
+    padding-left: 40px;
+    height: 140px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    .team-member {
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .team-member img {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .team-member-info {
+        margin-top: 20px;
+        padding: 0;
+        height: auto;
+        display: block;
+    }
+}
+
+/*
+.partner {
+    margin-top: 20px;
+    height: 150px;
+}
+.partner img {
+    display: block;
+    float: left;
+    height: 100px;
+    width: 140px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.partner p {
+    margin-left: 180px;
+    padding-top: 30px;
+}
+*/
+
+/* home */
+
+.home {
+    height: 100%;
+}
+
+/* footer */
+footer {
+    background-color: $darkgray;
+    color: #999;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+footer .footer-col{
+    padding-bottom: 20px;
+}
+footer a,
+footer a:visited {
+    color: #999;
+}
+footer h3 {
+    color: #999;
+}
+footer p {
+    text-align: left;
+}
+footer img {
+    display: block;
+}
+footer .aip-logo {
+    width: 200px;
+    margin-bottom: 25px;
+}
+footer .dfg-logo {
+    width: 290px;
+    margin-bottom: 20px;
+}

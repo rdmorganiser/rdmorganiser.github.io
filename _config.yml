@@ -1,0 +1,52 @@
+# Site settings
+title: DMPwerkzeug
+description: ""
+baseurl: "/dmp"
+url: "http://dmpwerkzeug.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+navigation:
+- title: Projektbeschreibung
+  url: '#overview'
+- title: Arbeitspakete
+  url: '#workpackages'
+- title: Team
+  url: '#team'
+
+team:
+- include: team_engelhardt.md
+  image: /img/team/engelhardt.jpg
+- include: team_klar.md
+  image: /img/team/klar.jpg
+- include: team_enke.md
+  image: /img/team/enke.jpg
+- include: team_neuroth.md
+  image: /img/team/neuroth.jpg
+- include: team_ludwig.md
+  image: /img/team/ludwig.jpg
+
+partner:
+- name: Leibniz-Institut für Astrophysik Potsdam (AIP)
+  link: http://www.aip.de
+  info: Lorem ipsum ...
+  logo: /img/partner/aip.jpg
+- name: Fachhochschule Potsdam
+  link: www.fh-potsdam.de
+  info: Lorem ipsum ...
+  logo: /img/partner/fhp.jpg
+- name: Niedersächsische Staats- und Universitätsbibliothek Göttingen
+  link: http://www.sub.uni-goettingen.de
+  info: Lorem ipsum ...
+  logo: /img/partner/sub.jpg
+# - name: Staatsbibliothek zu Berlin
+#   link: http://staatsbibliothek-berlin.de
+#   info: Lorem ipsum ...
+#   logo: /img/partner/sbb.jpg
+- name: Deutsche Forschungsgemeinschaft
+  link: http://www.dfg.de
+  info: Lorem ipsum ...
+  logo: /img/partner/dfg.jpg
+

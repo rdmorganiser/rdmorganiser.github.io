@@ -1,1 +1,56 @@
-coming soon
+---
+layout: page
+---
+
+<div class="home">
+
+    <div class="row header">
+        <div class="col-md-8">
+            <h1>DMPwerkzeug</h1>
+            <p class="subtitle">
+                Entwicklung und Implementierung eines Werkzeugs für die Planung, Umsetzung und Kontrolle des Forschungsdatenmanagements
+            </p>
+        </div>
+    </div>
+
+    <div class="row block">
+        <div class="col-md-3">
+            <a class="anchor" id="overview"></a>
+            <h2>Projekt</h2>
+        </div>
+
+        <div class="col-md-9">
+            {% capture project %}{% include project.md %}{% endcapture %}
+            {{ project | markdownify }}
+        </div>
+    </div>
+
+    <div class="row block">
+        <div class="col-md-3">
+            <a class="anchor" id="workpackages"></a>
+            <h2>Arbeitspakete</h2>
+        </div>
+        <div class="col-md-9">
+            {% capture workpackages %}{% include workpackages.md %}{% endcapture %}
+            {{ workpackages | markdownify }}
+        </div>
+    </div>
+
+    <div class="row block">
+        <div class="col-md-3">
+            <a class="anchor" id="team"></a>
+            <h2>Team</h2>
+        </div>
+        <div class="col-md-9">
+            {% for member in site.team %}
+            <div class="team-member">
+                <img src="{{ site.baseurl }}/{{ member.image}}" />
+                <div class="team-member-info">
+                    {% capture info %}{% include {{member.include}} %}{% endcapture %}
+                    {{ info | markdownify }}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
