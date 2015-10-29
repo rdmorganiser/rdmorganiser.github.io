@@ -1,7 +1,7 @@
 # Site settings
 title: DMPwerkzeug
 description: ""
-baseurl: "/"
+baseurl: ""
 url: "http://dmpwerkzeug.github.io"
 
 # Build settings
@@ -41,12 +41,7 @@ partner:
   link: http://www.sub.uni-goettingen.de
   info: Lorem ipsum ...
   logo: /img/partner/sub.jpg
-# - name: Staatsbibliothek zu Berlin
-#   link: http://staatsbibliothek-berlin.de
-#   info: Lorem ipsum ...
-#   logo: /img/partner/sbb.jpg
 - name: Deutsche Forschungsgemeinschaft
   link: http://www.dfg.de
   info: Lorem ipsum ...
   logo: /img/partner/dfg.jpg
-
