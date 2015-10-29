@@ -44,7 +44,7 @@ layout: page
         <div class="col-md-9">
             {% for member in site.team %}
             <div class="team-member">
-                <img src="{{ site.baseurl }}/{{ member.image}}" />
+                <img src="{{ site.baseurl }}{{ member.image}}" />
                 <div class="team-member-info">
                     {% capture info %}{% include {{member.include}} %}{% endcapture %}
                     {{ info | markdownify }}
