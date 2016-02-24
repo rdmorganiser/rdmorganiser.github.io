@@ -38,6 +38,17 @@ layout: page
 
     <div class="row block">
         <div class="col-md-3">
+            <a class="anchor" id="networking"></a>
+            <h2>Vernetzung</h2>
+        </div>
+        <div class="col-md-9">
+            {% capture networking %}{% include networking.md %}{% endcapture %}
+            {{ networking | markdownify }}
+        </div>
+    </div>
+
+    <div class="row block">
+        <div class="col-md-3">
             <a class="anchor" id="team"></a>
             <h2>Team</h2>
         </div>
