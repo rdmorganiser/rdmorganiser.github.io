@@ -112,9 +112,17 @@ pre {
     background-color: white;
 }
 .page {
-    margin: 40px 140px 40px 140px;
+    margin: 40px 0;
     padding: 40px;
 }
+
+@media (min-width: 1200px) {
+    .page {
+        margin-left: 140px;
+        margin-right: 140px;
+    }
+}
+
 /* navbar */
 
 .navbar-brand {
@@ -169,25 +177,6 @@ pre {
         display: block;
     }
 }
-
-/*
-.partner {
-    margin-top: 20px;
-    height: 150px;
-}
-.partner img {
-    display: block;
-    float: left;
-    height: 100px;
-    width: 140px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-.partner p {
-    margin-left: 180px;
-    padding-top: 30px;
-}
-*/
 
 /* home */
 
