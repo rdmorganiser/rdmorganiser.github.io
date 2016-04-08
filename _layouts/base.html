@@ -15,69 +15,12 @@
     </head>
 
     <body>
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed"
-                            data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="{{ site.baseurl }}">DMPwerkzeug</a>
-                </div>
-
-                <div class="collapse navbar-collapse" id="navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        {% for node in site.navigation %}
-                        <li>
-                            <a href="{{ site.baseurl }}{{ node.url }}">
-                                {{ node.title }}
-                            </a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-        </div>
+        {% include navigation.html %}
 
         <div class="wrapper">
             {{ content }}
         </div>
 
-        <footer>
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Partner</h3>
-                        <a href="http://www.aip.de">
-                            <img class="aip-logo" src="{{ site.baseurl }}/img/logos/AIP_DE_neg.png">
-                        </a>
-                        <a href="http://www.fh-potsdam.de/">
-                            <img class="fhp-logo" src="{{ site.baseurl }}/img/logos/fhp.png">
-                        </a>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Förderung</h3>
-                        <img class="dfg-logo" src="{{ site.baseurl }}/img/logos/dfg_logo_schriftzug_weiss.png">
-                        <h3>Open Source</h3>
-                        <div>
-                            DMPwerkzeug ist auf <a href="https://github.com/DMPwerkzeug">github.com</a> veröffentlicht.
-                        </div>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Kontakt</h3>
-                        <p>
-                            <a href="mailto:DMPW@LISTSERV.DFN.DE">DMPW@LISTSERV.DFN.DE</a>
-                        </p>
-                        <h3>Impressum</h3>
-                        <p>
-                            Diese Webseite wird vom <a href="http://www.aip.de">Leibniz-Institut für Astrophysik Potsdam (AIP)</a> betrieben. Es gilt das <a href="http://www.aip.de/de/impressum">Impressum des AIP</a>.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        {% include footer.html %}
     </body>
 </html>

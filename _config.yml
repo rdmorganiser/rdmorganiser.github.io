@@ -19,22 +19,3 @@ navigation:
   url: kooperationen
 - title: Team
   url: team
-
-
-partner:
-- name: Leibniz-Institut für Astrophysik Potsdam (AIP)
-  link: http://www.aip.de
-  info: Lorem ipsum ...
-  logo: /img/partner/aip.jpg
-- name: Fachhochschule Potsdam
-  link: www.fh-potsdam.de
-  info: Lorem ipsum ...
-  logo: /img/partner/fhp.jpg
-- name: Niedersächsische Staats- und Universitätsbibliothek Göttingen
-  link: http://www.sub.uni-goettingen.de
-  info: Lorem ipsum ...
-  logo: /img/partner/sub.jpg
-- name: Deutsche Forschungsgemeinschaft
-  link: http://www.dfg.de
-  info: Lorem ipsum ...
-  logo: /img/partner/dfg.jpg
