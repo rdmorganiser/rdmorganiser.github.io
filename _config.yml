@@ -9,24 +9,17 @@ markdown: kramdown
 permalink: pretty
 
 navigation:
-- title: Projektbeschreibung
-  url: '#overview'
+- title: Projekt
+  url: ''
 - title: Arbeitspakete
-  url: '#workpackages'
+  url: arbeitspakete
+- title: Vernetzung
+  url: vernetzung
+- title: Kooperationen
+  url: kooperationen
 - title: Team
-  url: '#team'
+  url: team
 
-team:
-- include: team_engelhardt.md
-  image: /img/team/engelhardt.jpg
-- include: team_klar.md
-  image: /img/team/klar.jpg
-- include: team_enke.md
-  image: /img/team/enke.jpg
-- include: team_neuroth.md
-  image: /img/team/neuroth.jpg
-- include: team_ludwig.md
-  image: /img/team/ludwig.jpg
 
 partner:
 - name: Leibniz-Institut für Astrophysik Potsdam (AIP)

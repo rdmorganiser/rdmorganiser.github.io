@@ -1,1 +1,0 @@
-**Jens Ludwig** ist Sprecher der gemeinsamen Arbeitsgruppe "Forschungsdaten" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/).
