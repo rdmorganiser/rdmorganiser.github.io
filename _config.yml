@@ -1,7 +1,8 @@
 # Site settings
 title: DMPwerkzeug
 description: ""
-baseurl: "/dmpwerkzeug/github-page/"
+baseurl: ""
+#baseurl: "/dmpwerkzeug/github-page/"
 url: "http://dmpwerkzeug.github.io"
 
 # Build settings
