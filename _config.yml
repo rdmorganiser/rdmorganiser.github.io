@@ -1,8 +1,8 @@
 # Site settings
 title: DMPwerkzeug
 description: ""
-baseurl: "/"
-#baseurl: "/dmpwerkzeug/github-page/"
+baseurl: ""
+#baseurl: "/dmpwerkzeug/github-page"
 url: "http://dmpwerkzeug.github.io"
 
 # Build settings
@@ -11,12 +11,12 @@ permalink: pretty
 
 navigation:
 - title: Projekt
-  url: ''
+  url: /
 - title: Arbeitspakete
-  url: arbeitspakete
+  url: /arbeitspakete
 - title: Vernetzung
-  url: vernetzung
+  url: /vernetzung
 - title: Kooperationen
-  url: kooperationen
+  url: /kooperationen
 - title: Team
-  url: team
+  url: /team
