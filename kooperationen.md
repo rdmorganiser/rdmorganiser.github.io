@@ -3,7 +3,7 @@ title: Kooperationen
 layout: page
 ---
 
-Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert DMPwerkzeug mit verschiedenen Partnern:
+Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
 ### Fachwissenschaften
 

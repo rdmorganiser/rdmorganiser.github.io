@@ -1,9 +1,8 @@
 # Site settings
-title: DMPwerkzeug
+title: RDMO
 description: ""
 baseurl: ""
-#baseurl: "/dmpwerkzeug/github-page"
-url: "http://dmpwerkzeug.github.io"
+url: "http://rdmorganiser.github.io"
 
 # Build settings
 markdown: kramdown
