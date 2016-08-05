@@ -8,14 +8,39 @@ url: "http://rdmorganiser.github.io"
 markdown: kramdown
 permalink: pretty
 
-navigation:
-- title: Projekt
-  url: /
-- title: Arbeitspakete
-  url: /arbeitspakete
-- title: Vernetzung
-  url: /vernetzung
-- title: Kooperationen
-  url: /kooperationen
-- title: Team
-  url: /team
+navitems:
+  index:
+    label:
+      de: Projekt
+      en: Project
+    path:
+      de: /
+      en: /en
+  workpackages:
+    label:
+      de: Arbeitspakete
+      en: Work packages
+    path:
+      de: /arbeitspakete
+      en: /en/workpackages
+  networking:
+    label:
+      de: Vernetzung
+      en: Networking
+    path:
+      de: /vernetzung
+      en: /en/networking
+  cooperations:
+    label:
+      de: Kooperationen
+      en: Cooperations
+    path:
+      de: /kooperationen
+      en: /en/cooperations
+  team:
+    label:
+      de: Team
+      en: Team
+    path:
+      de: /team
+      en: /en/team

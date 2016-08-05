@@ -8,18 +8,39 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ site.baseurl }}/">RDMO</a>
+                <a class="navbar-brand" href="{{ site.baseurl }}{{ site.navitems.index.path[page.lang] }}">RDMO</a>
             </div>
 
             <div class="collapse navbar-collapse" id="navbar-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    {% for node in site.navigation %}
+                <ul class="nav navbar-nav">
+                    {% for navitem in site.navitems %}
                     <li>
-                        <a href="{{ site.baseurl }}{{ node.url }}">
-                            {{ node.title }}
+                        <a href="{{ site.baseurl }}{{ navitem[1].path[page.lang] }}">
+                            {{ navitem[1].label[page.lang] }}
                         </a>
                     </li>
                     {% endfor %}
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="{{ site.baseurl }}{{ site.navitems[page.key].path.de }}">
+                            {% if page.lang == 'de' %}
+                                <u>Deutsch</u>
+                            {% else %}
+                                <span>Deutsch</span>
+                            {% endif %}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ site.baseurl }}{{ site.navitems[page.key].path.en }}">
+                            {% if page.lang == 'en' %}
+                                <u>English</u>
+                            {% else %}
+                                <span>English</span>
+                            {% endif %}
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>

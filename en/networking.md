@@ -2,7 +2,7 @@
 layout: page
 
 key: networking
-lang: de
+lang: en
 ---
 
 Vernetzung

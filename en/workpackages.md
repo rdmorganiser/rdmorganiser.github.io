@@ -2,7 +2,7 @@
 layout: page
 
 key: workpackages
-lang: de
+lang: en
 ---
 
 Arbeitspakete
