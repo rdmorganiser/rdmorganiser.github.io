@@ -1,9 +1,15 @@
 ---
 title: Projekt
 layout: front
+
+key: index
+lang: de
 ---
 
-**Ziel des Projekts ist es, ein Werkzeug zur Verfügung zu stellen, das die strukturierte Planung, Umsetzung und Organisation des Forschungsdatenmanagements unterstützt und zusätzlich die textuelle Ausgabe eines Datenmanagementplans (DMP) ermöglicht.**
+Projekt
+=======
+
+**Ziel des Projekts ist es, ein Werkzeug zur Verfügung zu stellen, das die strukturierte Planung, Umsetzung und Verwaltung des Forschungsdatenmanagements unterstützt und zusätzlich die textuelle Ausgabe eines Datenmanagementplans (DMP) ermöglicht.**
 
 DMP legen dar, wie, mit welchen Mitteln und in welchem Umfang die anfallenden Forschungsdaten während eines Projekts und für die Folgezeit gesichert und zugreifbar gemacht werden. Um Wissenschaftlerinnen und Wissenschaftlern ein Hilfsmittel zur Erstellung dieser DMP an die Hand zu geben, wurden in der Vergangenheit durch mehrere Institutionen spezielle Online-Tools entwickelt. Vorreiter sind hier das [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in Großbritannien mit [DMPonline](https://dmponline.dcc.ac.uk), die [California Digital Library (CDL)](http://www.cdlib.org) mit dem [DMPTool](https://dmptool.org/) und in Deutschland die [Universität Bielefeld](https://data.uni-bielefeld.de/de/data-management-plan).
 

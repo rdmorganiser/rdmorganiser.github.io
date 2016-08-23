@@ -1,14 +1,14 @@
 ---
 layout: page
 
-key: networking
-lang: de
+key: outreach
+lang: en
 ---
 
-Vernetzung
-==========
+Outreach
+========
 
-Neben den oben erwähnten Veranstaltungen zur Evaluation des Werkzeugs werden auf nationaler Ebene die Vernetzung und der fachliche Austausch über Arbeitsgruppen bzw. -kreise einschlägiger Initiativen vorangetrieben. Bisher wurde das Vorhaben bei folgenden Anlässen vorgestellt und diskutiert:
+In parallel to what is described in our work packages, there are various activities, presentations and interactions on national and international level. As of now, we presented the project at the following events:
 
 * [2. Workshop der DINI/nestor-AG Forschungsdaten](http://www.forschungsdaten.org/index.php/DINI-nestor-WS2), 23.03.2015, Berlin  
 **Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen**  
@@ -31,11 +31,11 @@ organization of research data management.**
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke*  
 [Link zum Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf)
 
-An der FH Potsdam wird das Projekt zudem in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften  thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Projektarbeiten entstanden:
+At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did course work on various aspects associated with the project:
 
-* Datenmanagementpläne. Eine Bestandsübersicht.
-* Publikation von Forschungsdaten.
-* Forschungsdatenmanagementplan in der Astrophysik.
-* Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid.
+* Datenmanagementpläne. Eine Bestandsübersicht. (Data management plans / An overview)
+* Publikation von Forschungsdaten. (Publication of research data)
+* Forschungsdatenmanagementplan in der Astrophysik. (Data management plans for Astrophysical data)
+* Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. (RDM specifics for Social Sciences, using WissGrid project material)
 
-Ein Kursteilnehmer wird seine Masterarbeit zum Thema "Datenmodellierung für Forschungsdatenmanagementpläne" (Arbeitstitel) im Projektkontext verfassen.
+A master thesis on “Data modeling for Research Data Management Plans” was written in cooperation with our project.

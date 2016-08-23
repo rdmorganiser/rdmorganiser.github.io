@@ -1,16 +1,23 @@
 ---
-title: Kooperationen
 layout: page
+
+key: cooperation
+lang: de
 ---
+
+Kooperationen
+=============
 
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
-### Fachwissenschaften
+Fachwissenschaften
+------------------
 
 * [Arbeitsgruppe Optische Sonnenphysik am Leibniz-Institut für Astrophysik Potsdam](http://www.aip.de/de/forschung/forschungsschwerpunkt-kmf/cosmic-magnetic-fields/sonnenphysik/optische-sonnenphysik)
 * [Projekt TwinLife](http://www.twin-life.de/de)
 
-### Infrastruktur
+Infrastruktur
+-------------
 
 * [Projekt DataWiz](http://www.zpid.de/index.php?wahl=forschung&uwahl=informationstechnologie&uuwahl=DataWiz)
 * [GESIS - Datenarchiv für Sozialwissenschaften](http://www.gesis.org/home/)
