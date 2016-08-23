@@ -26,10 +26,10 @@ navitems:
   networking:
     label:
       de: Vernetzung
-      en: Networking
+      en: Outreach
     path:
       de: /vernetzung
-      en: /en/networking
+      en: /en/outreach
   cooperations:
     label:
       de: Kooperationen

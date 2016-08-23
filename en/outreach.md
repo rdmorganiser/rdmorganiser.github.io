@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: networking
+key: outreach
 lang: en
 ---
 
@@ -35,9 +35,7 @@ At FH Potsdam, the project collaborated with a one semester course for master st
 
 * Datenmanagementpläne. Eine Bestandsübersicht. (Data management plans / An overview)
 * Publikation von Forschungsdaten. (Publication of research data)
-* Forschungsdatenmanagementplan in der Astrophysik. (Data management plans for Astrophysical data) 
-* Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. (RDM specifics for Social Sciences, using WissGrid project material )
+* Forschungsdatenmanagementplan in der Astrophysik. (Data management plans for Astrophysical data)
+* Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. (RDM specifics for Social Sciences, using WissGrid project material)
 
-One master student writes his master thesis on “Data modeling for Research Data Management Plans” working with our project.
-
-
+A master thesis on “Data modeling for Research Data Management Plans” was written in cooperation with our project.
