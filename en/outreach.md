@@ -31,7 +31,7 @@ organization of research data management.**
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke*  
 [Link zum Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf)
 
-At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In  a project course in winter semester 2015/16, students did course work on various aspects associated with the  project:
+At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did course work on various aspects associated with the project:
 
 * Datenmanagementpläne. Eine Bestandsübersicht. (Data management plans / An overview)
 * Publikation von Forschungsdaten. (Publication of research data)
