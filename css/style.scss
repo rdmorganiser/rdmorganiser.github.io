@@ -2,7 +2,7 @@
 ---
 
 $darkblue: #101F70;
-$lightgray: #f5f4e9;
+$lightgray: #f5f5f5;
 $mediumgray: #666;
 $darkgray: #112;
 $fontcolor: #484c55;
@@ -76,23 +76,17 @@ a.anchor-top {
 
 /* headlines */
 
-h2 {
+h1 {
     font-size: 30px;
     line-height: 30px;
     margin-top: 0;
     margin-bottom: 15px;
 }
-h3 {
+h2 {
     font-size: 20px;
     line-height: 30px;
     margin-top: 0;
     margin-bottom: 15px;
-}
-h4 {
-    font-size: 16px;
-    line-height: 16px;
-    margin-top: 10px;
-    margin-bottom: 5px;
 }
 pre {
     margin-bottom: 10px;

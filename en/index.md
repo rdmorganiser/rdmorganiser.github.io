@@ -6,7 +6,7 @@ lang: en
 ---
 
 Project
--------
+=======
 
 **Research Data Management Organiser (RDMO) develops a tool to support the systematic planning, organisation and implementation of research data management throughout the course of a project. An additional feature will be the output of a data management plan in the form of a text document.**
 

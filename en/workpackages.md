@@ -5,16 +5,18 @@ key: workpackages
 lang: en
 ---
 
+Workpackages
+============
+
 Concept
 -------
-
-### Concept
 
 The content and its logical structure and dependencies have to be cast into a user friendly flow of questions, This is the main task of WP1. It uses material already available from previous work which will be critically assessed, extended and modularised. In addition, we want to include specialized sections for disciplinary variations.
 
 The first iteration will chiefly assess the available Know-How from our own work and already published works. The general questions and the specialised sections for specific target groups need to be carefully fitted to create a robust application with a decision tree that enables a stable implementation. In following iterations, the usability, robustness and extensibility will be reviewed and improved.
 
-### Software
+Software
+--------
 
 WP2 will implement the concepts worked out in WP1. This requires the selection of an appropriate software platform and the development of an architecture and a database model. We base this on our experiences with implementing web applications and will make use of the Open Source code of [DMPonline](https://dmponline.dcc.ac.uk) and [DMPTool](https://dmptool.org/).
 
@@ -24,7 +26,8 @@ In later stages, functionalities like export/import and continuous updating of t
 
 The source code will be available from the first stages of development on with an OpenSource license  on github.com/DMPwerkzeug.
 
-### Testing by Community and Users
+Testing by Community and Users
+------------------------------
 
 Feedback and input from the community are needed with regards  to assess the usability, to work out extended sets of discipline-specific questions or to gather feedback on the various features. Improving  the tool is an iterative process that will help to eliminate errors and problems of the implementation.
 

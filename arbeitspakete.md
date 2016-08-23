@@ -6,15 +6,17 @@ lang: de
 ---
 
 Arbeitspakete
--------------
+=============
 
-### Konzeption
+Konzeption
+----------
 
 In diesem Arbeitspaket werden die Inhalte, die logische Struktur und der Bedienungsablauf für das geplante Werkzeug für Forschungsdatenmanagemenpläne erarbeitet. Dies umfasst als Hauptaufgaben die inhaltliche Aktualisierung der Vorarbeiten, die Erweiterung um verschiedene Zielgruppenausrichtungen, die Modularisierung, die Verknüpfung mit Folgeaufgaben und die Strukturierung des Ablaufs sowie der logischen Abhängigkeiten der Leitfragen.
 
 Die erste Überarbeitung wird primär auf dem Know-How aus eigenen und weiteren Vorarbeiten, relevanten nationalen und internationalen Veröffentlichung sowie auf eigenen Analysen und Erfahrungswerten beruhen. Einige Fragen können vermutlich nicht durch dieses Vorgehen entschieden werden oder benötigen je nach Situation und Zielgruppe unterschiedliche Konfigurationen. Diese Fragen werden als Teil der Zielgruppen-Evaluationen und in Einzelgesprächen mit Zielgruppenvertreterinnen und -vertretern thematisiert. Die Ergebnisse werden Grundlage der Überarbeitung. Fragen, Entscheidungsbaum und abschließende Informationen werden als sog. Wireframes, d.h. konzeptuelle Ablaufdiagramme, dem Arbeitspaket Software zur Implementierung übergeben.
 
-### Software
+Software
+--------
 
 Die für den Projekterfolg nötigen Software-Entwicklungsarbeiten werden in diesem Arbeitspaket durchgeführt. Hierzu zählen die Konzeption der Softwarearchitektur und des zugehörigen Daten­bankmodells sowie die Entwicklung der Applikation. Hierbei wird sowohl auf eigene Vorarbeiten im Be­reich der Web-Entwicklung, als auch die oben erwähnten, quell-offenen Tools [DMPonline](https://dmponline.dcc.ac.uk) und [DMPTool](https://dmptool.org/) aufgebaut.
 
@@ -26,7 +28,8 @@ Mit dem Abschluss der oben beschriebenen konzeptionellen Arbeiten werden die era
 
 Der Quellcode der Anwendung wird schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und wird auf [github.com/rdmorganiser](https://github.com/rdmorganiser) abrufbar sein.
 
-### Community und Nutzertests
+Community und Nutzertests
+-------------------------
 
 In diesem Arbeitspaket wird der Prototyp durch Angehörige der verschiedenen Zielgruppen (jeweils Forschende und Infrastrukturvertreterinnen und -vertreter in den Kontexten Arbeitsgruppe, Projekt sowie Institut) getestet und evaluiert. Auf Grundlage dieses Nutzer­feedbacks werden in einem iterativen Prozess Fehler behoben und Verbesserungen eingearbeitet, um zu gewährleisten, dass die finale Version der Anwendung den Anforderungen und Bedürf­nissen der Zielgruppen entspricht. Die Tests finden in zwei Runden statt: die erste nach etwa einem Drittel, die zweite etwa nach dem zweiten Drittel der Projektlaufzeit.
 
