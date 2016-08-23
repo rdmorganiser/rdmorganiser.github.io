@@ -5,35 +5,31 @@ key: workpackages
 lang: en
 ---
 
-Arbeitspakete
+Concept 
 -------------
 
-### Konzeption
+### Concept
 
-In diesem Arbeitspaket werden die Inhalte, die logische Struktur und der Bedienungsablauf für das geplante Werkzeug für Forschungsdatenmanagemenpläne erarbeitet. Dies umfasst als Hauptaufgaben die inhaltliche Aktualisierung der Vorarbeiten, die Erweiterung um verschiedene Zielgruppenausrichtungen, die Modularisierung, die Verknüpfung mit Folgeaufgaben und die Strukturierung des Ablaufs sowie der logischen Abhängigkeiten der Leitfragen.
+The content and its logical structure and dependencies have to be cast into a user friendly flow of questions, This is the main task of WP1. It uses material already available from previous work which will be critically assessed, extended and modularised. In addition, we want to include specialized sections for disciplinary variations. 
 
-Die erste Überarbeitung wird primär auf dem Know-How aus eigenen und weiteren Vorarbeiten, relevanten nationalen und internationalen Veröffentlichung sowie auf eigenen Analysen und Erfahrungswerten beruhen. Einige Fragen können vermutlich nicht durch dieses Vorgehen entschieden werden oder benötigen je nach Situation und Zielgruppe unterschiedliche Konfigurationen. Diese Fragen werden als Teil der Zielgruppen-Evaluationen und in Einzelgesprächen mit Zielgruppenvertreterinnen und -vertretern thematisiert. Die Ergebnisse werden Grundlage der Überarbeitung. Fragen, Entscheidungsbaum und abschließende Informationen werden als sog. Wireframes, d.h. konzeptuelle Ablaufdiagramme, dem Arbeitspaket Software zur Implementierung übergeben.
+The first iteration will chiefly assess the available Know-How from our own work and already published works. The general questions and the specialised sections for specific target groups need to be carefully fitted to create a robust application with a decision tree that enables a stable implementation. In following iterations, the usability, robustness and extensibility will be reviewed and improved. 
+
 
 ### Software
 
-Die für den Projekterfolg nötigen Software-Entwicklungsarbeiten werden in diesem Arbeitspaket durchgeführt. Hierzu zählen die Konzeption der Softwarearchitektur und des zugehörigen Daten­bankmodells sowie die Entwicklung der Applikation. Hierbei wird sowohl auf eigene Vorarbeiten im Be­reich der Web-Entwicklung, als auch die oben erwähnten, quell-offenen Tools [DMPonline](https://dmponline.dcc.ac.uk) und [DMPTool](https://dmptool.org/) aufgebaut.
+WP2 will implement the concepts worked out in WP1. This requires the selection of an appropriate software platform and the development of an architecture and a database model. We base this on our experiences with implementing web applications and will make use of the Open Source code of [DMPonline](https://dmponline.dcc.ac.uk) and  [DMPTool](https://dmptool.org/). 
 
-Um einen parallelen Arbeitsablauf zu ermöglichen und eine Trennung von Inhalt und Applikation zu erreichen, wird der Kern der Software zunächst unabhängig von den im Arbeitspaket Konzeption erarbeiteten Fragen und Antworten entwickelt. In den ersten Monaten der Projektlaufzeit konzentrieren sich die Arbeiten auf die Entwicklung der Softwarearchitektur und eines passenden Datenbankmodells.
+The core of the architecture and basic features (i.e. interaction with user, server/client functionalities, multi-lingual questions) of the planned application are developed in parallel with WP1 conceptual work. Also, we will explore how to interface with other tools and existing infrastructure. A prototype based on this work, with a preliminary set of questions, has formed the basis for a first round of testing with collaborating projects. 
 
-Zusätzlich werden die Schnittstellen der bestehenden Werkzeuge und weiterer relevanter Initiativen daraufhin untersucht, ob sie in RDMO integriert wer­den können. Aufbauend darauf wird ein Prototyp entwickelt, welcher mit einem vorläufigen Fragenset die prinzipielle Funktionalität der Applikation demonstriert.
+In later stages, functionalities like export/import and continuous updating of the gathered information, templates for output formats etc. will be added. The final version of the tool is planned to be applicable within small project groups as well as whole institutions running independent instances of the software.  
 
-Mit dem Abschluss der oben beschriebenen konzeptionellen Arbeiten werden die erarbeiteten Fragenkomplexe in die Anwendung überführt und eine erste nutzbare Version erstellt. Diese Version wird zunächst an zentraler Stelle installiert und den Nutzenden für die im Arbeitspaket Community und Nutzertests beschriebene Evaluation zugänglich gemacht. In enger Zusammenarbeit mit diesem Arbeitspaket werden dann die in den Test gefundenen Fehler beseitigt, Verbesserungen eingefügt und so die Applikation in einem iterativen Prozess nach und nach finalisiert.
+The source code will be available from the first stages of development on with an OpenSource license  on github.com/DMPwerkzeug.
 
-Der Quellcode der Anwendung wird schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und wird auf [github.com/rdmorganiser](https://github.com/rdmorganiser) abrufbar sein.
 
-### Community und Nutzertests
+### Testing by Community and Users
 
-In diesem Arbeitspaket wird der Prototyp durch Angehörige der verschiedenen Zielgruppen (jeweils Forschende und Infrastrukturvertreterinnen und -vertreter in den Kontexten Arbeitsgruppe, Projekt sowie Institut) getestet und evaluiert. Auf Grundlage dieses Nutzer­feedbacks werden in einem iterativen Prozess Fehler behoben und Verbesserungen eingearbeitet, um zu gewährleisten, dass die finale Version der Anwendung den Anforderungen und Bedürf­nissen der Zielgruppen entspricht. Die Tests finden in zwei Runden statt: die erste nach etwa einem Drittel, die zweite etwa nach dem zweiten Drittel der Projektlaufzeit.
+Feedback and input from the community are needed with regards  to assess the usability, to work out extended sets of discipline-specific questions or to gather feedback on the various features. Improving  the tool is an iterative process that will help to eliminate errors and problems of the implementation. 
+WP3 will organize tests with collaborating projects and partners (from Social Sciences and Astronomy, from data providers and IT-departments) and also workshops for a broader audience to gather input for the iterative improvement of the tool. We plan two rounds of tests and workshops, the first round is already doner, the second will be done a year after the project has started. Especially the first round is designed to gather input for community specific aspects of the questionnaire and associated data management tasks. 
+While the feedback from scientists will focus on gathering specifics on content, discussion with IT infrastructure providers will address deployment into and adaptability of features to the institutional context. This input  and interaction is a necessary element for delivering a useful tool that can be efficiently implemented and maintained.
+The final version of the tool will be presented and discussed in a public workshop. In some cases, our collaborators will offer deployment of the RDMO for various departments or groups.
 
-Die Nutzertests werden in der Form von Workshops durchgeführt, die Hands-on-Sessions und Gruppengespräche zur Evaluierung beinhalten werden. Im Mittelpunkt steht dabei die Frage, inwieweit das Tool für ihre Arbeit hilfreich und dazu geeignet ist, das Forschungsdatenmanagement zu unterstützen, wozu neben der einfachen Bedienbarkeit vor allem auch die inhaltliche Dimension beleuchtet werden muss. D.h. die Workshops, die im ersten Drittel der Projektlaufzeit durchgeführt werden, werden auch eine Gelegenheit sein, zielgruppen- und disziplinspezifische Anforderungen zu erheben.
-
-Während die Tests mit den Forschenden sich hauptsächlich auf die inhaltlichen Aspekte konzentrieren, wird in den Workshops mit Infrastrukturvertreterinnen und -vertretern zusätzlich die Konfigurierbarkeit und Anpassbarkeit des Werkzeuges für die Bedürfnisse des jeweiligen institutionellen Kontextes in den Blick genommen.
-
-Auf Grundlage der Ergebnisse der Nutzertests werden Iterationen des Fragenkatalogs und der Aufgabenverwaltung vorgenommen und Fehler in der Software behoben.
-
-Die finale Version von RDMO wird in einem Abschlussworkshop der Community vorgestellt.
