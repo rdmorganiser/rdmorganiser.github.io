@@ -23,6 +23,13 @@ navitems:
     path:
       de: /arbeitspakete
       en: /en/workpackages
+  software:
+    label:
+      de: Software
+      en: Software
+    path:
+      de: /software
+      en: /en/software
   networking:
     label:
       de: Vernetzung
