@@ -43,4 +43,6 @@ At FH Potsdam, the project collaborated with a one semester course for master st
 * Forschungsdatenmanagementplan in der Astrophysik. (Data management plans for Astrophysical data)
 * Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. (RDM specifics for Social Sciences, using WissGrid project material)
 
+A extensive collection of literature on the topic [Research Data Management](https://www.zotero.org/groups/forschungsdaten/items) on Zotero was created.
+
 A master thesis on “Data modeling for Research Data Management Plans” was written in cooperation with our project.
