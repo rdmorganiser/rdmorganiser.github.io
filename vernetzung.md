@@ -43,4 +43,7 @@ An der FH Potsdam wird das Projekt zudem in einer einsemestrigen Lehrveranstaltu
 * Forschungsdatenmanagementplan in der Astrophysik.
 * Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid.
 
-Ein Kursteilnehmer wird seine Masterarbeit zum Thema "Datenmodellierung für Forschungsdatenmanagementpläne" (Arbeitstitel) im Projektkontext verfassen.
+Es wurde eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmenagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
+
+Ein Kursteilnehmer hat seine Masterarbeit zum Thema "Datenmodellierung für Forschungsdatenmanagementpläne" (Arbeitstitel) im Projektkontext verfasst.
+
