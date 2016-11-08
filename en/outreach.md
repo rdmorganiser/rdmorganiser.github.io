@@ -41,19 +41,19 @@ organization of research data management.**
 *Jochen Klar*  
 [Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Slides](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
-At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did course work on various aspects associated with the project:
+At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did coursework on various aspects associated with the project and wrote the following term papers:
 
 * **Datenmanagementpläne. Eine Bestandsübersicht. / Data management plans. An overview.**  
 *Marcus Heinrich, Martin Heger*  
-{% comment %} [Article]({{ site.baseurl }}/docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf) {% endcomment %}
+[Link to paper]({{ site.baseurl }}/docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf)
 
 * **Publikation von Forschungsdaten. / Publication of research data.**  
 *Christoph Steinhof*  
-{% comment %} [Article]({{ site.baseurl }}/docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf) {% endcomment %}
+[Link to paper]({{ site.baseurl }}/docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf)
 
 * **Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. / RDM specifics for Social Sciences, using WissGrid project material.**  
 *Michaela Meyer*  
-{% comment %} [Article]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf) {% endcomment %}
+[Link to paper]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
 
 * **Forschungsdatenmanagementplan in der Astrophysik. / Data management plans for Astrophysical data.**  
 *Anna Lehmann*
