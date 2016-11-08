@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: networking
+key: outreach
 lang: de
 ---
 

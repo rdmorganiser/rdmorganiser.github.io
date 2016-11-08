@@ -30,14 +30,14 @@ navitems:
     path:
       de: /software
       en: /en/software
-  networking:
+  outreach:
     label:
       de: Vernetzung
       en: Outreach
     path:
       de: /vernetzung
       en: /en/outreach
-  cooperations:
+  cooperation:
     label:
       de: Kooperationen
       en: Cooperations
