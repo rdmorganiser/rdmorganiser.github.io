@@ -11,7 +11,7 @@ Workpackages
 Concept
 -------
 
-The content and its logical structure and dependencies have to be cast into a user friendly flow of questions, This is the main task of WP1. It uses material already available from previous work which will be critically assessed, extended and modularised. In addition, we want to include specialized sections for disciplinary variations.
+The content and its logical structure and dependencies have to be cast into a user friendly flow of questions, which is the main task of WP1. It uses material already available from previous work which will be critically assessed, extended and modularised. In addition, we want to include specialized sections for disciplinary variations.
 
 The first iteration will chiefly assess the available Know-How from our own work and already published works. The general questions and the specialised sections for specific target groups need to be carefully fitted to create a robust application with a decision tree that enables a stable implementation. In following iterations the usability, robustness and extensibility will be reviewed and improved.
 
@@ -24,7 +24,7 @@ The core of the architecture and basic features (i.e. interaction with user, ser
 
 In later stages, functionalities like export/import and continuous updating of the gathered information, templates for output formats etc. will be added. The final version of the tool is planned to be applicable within small project groups as well as for whole institutions running independent instances of the software.
 
-The source code will be available from the first stages of development on with an OpenSource license (Apache 2.0) on github.com/DMPwerkzeug.
+The source code will be available from the first stages of development on with an OpenSource license (Apache 2.0) on [github.com/rdmorganiser](https://github.com/rdmorganiser).
 
 Testing by Community and Users
 ------------------------------

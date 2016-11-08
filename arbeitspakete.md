@@ -24,7 +24,7 @@ Um einen parallelen Arbeitsablauf zu ermöglichen und eine Trennung von Inhalt u
 
 Zusätzlich werden die Schnittstellen der bestehenden Werkzeuge und weiterer relevanter Initiativen daraufhin untersucht, ob sie in RDMO integriert wer­den können. Aufbauend darauf wird ein Prototyp entwickelt, welcher mit einem vorläufigen Fragenset die prinzipielle Funktionalität der Applikation demonstriert.
 
-Mit dem Abschluss der oben beschriebenen konzeptionellen Arbeiten werden die erarbeiteten Fragenkomplexe in die Anwendung überführt und eine erste nutzbare Version erstellt. Diese Version wird zunächst an zentraler Stelle installiert und den Nutzenden für die im Arbeitspaket Community und Nutzertests beschriebene Evaluation zugänglich gemacht. In enger Zusammenarbeit mit diesem Arbeitspaket werden dann die in den Test gefundenen Fehler beseitigt, Verbesserungen eingefügt und so die Applikation in einem iterativen Prozess nach und nach finalisiert.
+Mit dem Abschluss der oben beschriebenen konzeptionellen Arbeiten werden die erarbeiteten Fragenkomplexe in die Anwendung überführt und eine erste nutzbare Version erstellt. Diese Version wird zunächst an zentraler Stelle installiert und den Nutzenden für die im Arbeitspaket Community und Nutzertests beschriebene Evaluation zugänglich gemacht. In enger Zusammenarbeit mit diesem Arbeitspaket werden dann die in den Tests gefundenen Fehler beseitigt, Verbesserungen eingefügt und so die Applikation in einem iterativen Prozess nach und nach finalisiert.
 
 Der Quellcode der Anwendung wird schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und wird auf [github.com/rdmorganiser](https://github.com/rdmorganiser) abrufbar sein.
 
