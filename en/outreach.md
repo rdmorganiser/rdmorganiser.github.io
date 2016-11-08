@@ -15,34 +15,49 @@ In parallel to what is described in our work packages, there are various activit
 *Jochen Klar, Harry Enke, Claudia Engelhardt, Jens Ludwig*  
 [Slides](http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf)
 
-* [Helmholtz Open Science Webinar](http://oa.helmholtz.de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten.html), October 26 / November 11, 2015  
+* [Helmholtz Open Science Webinar](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/), October 26 / November 11, 2015  
 **Tools zur Erstellung von Forschungsdatenmanagementplänen**  
 *Jochen Klar*  
-[Slides](http://oa.helmholtz.de/fileadmin/user_upload/redakteur/Workshops/helmholtz_datenwebinar30_klar.pdf)
+[Slides](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/helmholtz_datenwebinar30_klar.pdf)
 
-* [RDA-Deutschland-Treffen 2015](http://oa.helmholtz.de/bewusstsein-schaerfen/workshops/rda-de-15.html), November 25/26, 2015  
+* [RDA-Deutschland-Treffen 2015](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/), November 25/26, 2015  
 **Breakout-Session zu Datenmanagementplänen**  
 *Jochen Klar, Hermann Stehouwer, Torsten Trippel*  
-[Abstract](http://oa.helmholtz.de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts.html#c3994)
+[Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115)
 
-* [EGU General Assembly 2016: Open Access to Research Data and Public Sector Information towards Open Science](http://oa.helmholtz.de/bewusstsein-schaerfen/workshops/rda-de-15.html), April 21, 2016  
+* [EGU General Assembly 2016: Open Access to Research Data and Public Sector Information towards Open Science](http://www.egu2016.eu/), April 21, 2016  
 **DMPwerkzeug - A tool to support the planning, implementation, and
 organization of research data management.**  
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke*  
-[Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf)
+[Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf), [Slides](http://presentations.copernicus.org/EGU2016-16394_presentation.pdf)
+
+* [DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything](http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/), 20. Mai 2016  
+**Datenmodellierung für Forschungsdatenmanagementpläne**  
+*Martin Heger*  
+[Abstract](http://dgi-info.de/wp-content/uploads/2015/11/Heger_DGI2016.pdf), [Slides](http://dgi-info.de/wp-content/uploads/2015/11/DGI-Pr%C3%A4sentation_Martin-Heger.pdf)
 
 * [Annual Meeting of the German Astronomical Society, Splinter Meeting: E-Science & Virtual Observatory](https://escience.aip.de/ag2016/), September 15, 2016  
 **RDMO - Research Data Management Organiser**  
 *Jochen Klar*  
-[Abstract](https://www.ag2016.de/PDF/S5-63.pdf)
+[Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Slides](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
 At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did course work on various aspects associated with the project:
 
-* Datenmanagementpläne. Eine Bestandsübersicht. (Data management plans / An overview)
-* Publikation von Forschungsdaten. (Publication of research data)
-* Forschungsdatenmanagementplan in der Astrophysik. (Data management plans for Astrophysical data)
-* Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. (RDM specifics for Social Sciences, using WissGrid project material)
+* **Datenmanagementpläne. Eine Bestandsübersicht. / Data management plans. An overview.**  
+*Marcus Heinrich, Martin Heger*  
+{% comment %} [Article]({{ site.baseurl }}/docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf) {% endcomment %}
 
-A extensive collection of literature on the topic [Research Data Management](https://www.zotero.org/groups/forschungsdaten/items) on Zotero was created.
+* **Publikation von Forschungsdaten. / Publication of research data.**  
+*Christoph Steinhof*  
+{% comment %} [Article]({{ site.baseurl }}/docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf) {% endcomment %}
 
-A master thesis on “Data modeling for Research Data Management Plans” was written in cooperation with our project.
+* **Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid. / RDM specifics for Social Sciences, using WissGrid project material.**  
+*Michaela Meyer*  
+{% comment %} [Article]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf) {% endcomment %}
+
+* **Forschungsdatenmanagementplan in der Astrophysik. / Data management plans for Astrophysical data.**  
+*Anna Lehmann*
+
+An extensive collection of literature on the topic [Research Data Management](https://www.zotero.org/groups/forschungsdaten/items) on Zotero was created.
+
+A master thesis on “Data modeling for Research Data Management Plans” was written by Martin Heger in cooperation with our project.
