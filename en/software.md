@@ -8,7 +8,7 @@ lang: en
 Software
 ========
 
-RDMO is  implemented as a web application. It is, even in the development stage, available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative editing and maintenance of all necessary information for a sustainable data management. his is done along the notion of *projects*, which will be defined by the users for their particular context.
+RDMO is implemented as a web application. It is, even in the development stage, available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative editing and maintenance of all necessary information for a sustainable data management. his is done along the notion of *projects*, which will be defined by the users for their particular context.
 
 As of now, we plan the following features:
 
@@ -33,14 +33,14 @@ The information can be retrieved in several ways:
 
 * Aggregation of the given information into textual views (e.g. structured for data management plans to be used in proposals for Horizon 2020)
 * Time line of all tasks to be done regarding data management
-* Notifications about upcoming  (predefined) events
-* Overview summarizing different projects,  for e.g. information about required IT-resources
+* Notifications about upcoming (predefined) events
+* Overview summarizing different projects, e.g. information about required IT-resources
 * Interfaces to external services or data models (e.g. CERIF)
 
 Setup and operation
 -------------------
 
-We pay special attention to making RDMO easily installable and customisable, so that institutions like research institutes, libraries and university groups can adapt  it for their work. This includes:
+We pay special attention to making RDMO easily installable and customisable, so that institutions like research institutes, libraries and university groups can adapt it for their work. This includes:
 
 * Complete customisation of the user interface
     * Corporate design

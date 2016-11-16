@@ -23,8 +23,8 @@ Die Eingabe der Informationen zu einem Projekt erfolgt in Form eines strukturier
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.)
 * Nutzung von kontrollierten Vokabularen als Antwortoptionen
 * Diskussions- und Kommentarfunktionen
-* Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u.ä.)
-* Einfrieren des Informationsstandes  für Projekte zu bestimmten Zeitpunkten mittels Snapshots
+* Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u. ä.)
+* Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
 
 Ausgabe
 -------
@@ -35,7 +35,7 @@ Die eingegebenen Informationen können auf verschiedene Arten abgerufen werden:
 * Zeitliche Übersicht von anstehenden Aufgaben zum Datenmanagement
 * Benachrichtigungsfunktionen über anstehende Ereignisse während der Laufzeit des Projektes
 * Übersichtsansichten über verschiedene Projekte, beispielsweise zu benötigten IT-Ressourcen
-* Schnittstellen zu externen Services bzw. Datenmodellen (z.B. CERIF)
+* Schnittstellen zu externen Services bzw. Datenmodellen (z. B. CERIF)
 
 Installation und Betrieb
 ------------------------
