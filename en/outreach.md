@@ -41,7 +41,7 @@ organization of research data management.**
 *Jochen Klar*  
 [Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Slides](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
-At FH Potsdam, the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did coursework on various aspects associated with the project and wrote the following term papers:
+At [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/), the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did coursework on various aspects associated with the project and wrote the following term papers:
 
 * **Datenmanagementpläne. Eine Bestandsübersicht. / Data management plans. An overview.**  
 *Marcus Heinrich, Martin Heger*  
@@ -60,4 +60,5 @@ At FH Potsdam, the project collaborated with a one semester course for master st
 
 An extensive collection of literature on the topic [Research Data Management](https://www.zotero.org/groups/forschungsdaten/items) on Zotero was created.
 
-A master thesis on “Data modeling for Research Data Management Plans” was written by Martin Heger in cooperation with our project.
+A master thesis on “Data modeling for Research Data Management Plans” was written by Martin Heger in cooperation with our project.  
+[Link to master thesis]({{ site.baseurl }}/docs/Heger_MA.pdf)

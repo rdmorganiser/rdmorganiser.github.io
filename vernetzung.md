@@ -41,7 +41,7 @@ organization of research data management.**
 *Jochen Klar*  
 [Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Folien](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
-An der FH Potsdam wird das Projekt zudem in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
+An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projekt zudem in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
 
 * **Datenmanagementpläne. Eine Bestandsübersicht.**  
 *Marcus Heinrich, Martin Heger*  
@@ -60,4 +60,5 @@ An der FH Potsdam wird das Projekt zudem in einer einsemestrigen Lehrveranstaltu
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
-Im Projektkontext hat Martin Heger seine Masterarbeit zum Thema "Datenmodellierung für Forschungsdatenmanagementpläne" verfasst.
+Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdatenmanagementpläne" verfasst.  
+[Link zur Masterarbeit]({{ site.baseurl }}/docs/Heger_MA.pdf)
