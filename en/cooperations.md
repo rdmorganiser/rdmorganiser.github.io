@@ -13,14 +13,14 @@ The project needs feedback from disciplines and IT infrastructure representative
 Disciplines
 -----------
 
-* [Research Group Optical Solar Physics in Leibniz Institute for Astrophysics Potsdam](http://www.aip.de/de/forschung/forschungsschwerpunkt-kmf/cosmic-magnetic-fields/sonnenphysik/optische-sonnenphysik)
-* [Project TwinLife](http://www.twin-life.de/de)
+* [Research Group Optical Solar Physics in Leibniz Institute for Astrophysics Potsdam](http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/solar-physics/optical-solar-physics?set_language=en)
+* [Project TwinLife](http://www.twin-life.de/en)
 
 Infrastructure
 --------------
 
-* [Project DataWiz](http://www.zpid.de/index.php?wahl=forschung&uwahl=informationstechnologie&uuwahl=DataWiz)
-* [GESIS - Data Archive for the Social Sciences (DAS)](http://www.gesis.org/home/)
+* [Project DataWiz](https://www.zpid.de/index.php?wahl=forschung&uwahl=informationstechnologie&uuwahl=DataWiz&lang=EN)
+* [GESIS - Data Archive for the Social Sciences (DAS)](http://www.gesis.org/en/home/)
 * [Göttingen eResearch Alliance](http://www.eresearch.uni-goettingen.de/)
-* [Heidelberg University, Competence Centre for Research Data](http://data.uni-heidelberg.de/)
-* [University Library Duisburg-Essen](https://www.uni-due.de/ub/index.php)
+* [Heidelberg University, Competence Centre for Research Data](http://data.uni-heidelberg.de/index.en.html)
+* [University Library Duisburg-Essen](https://www.uni-due.de/ub/en/eindex.php)
