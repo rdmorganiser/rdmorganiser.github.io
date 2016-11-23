@@ -19,7 +19,7 @@ Die Eingabe der Informationen zu einem Projekt erfolgt in Form eines strukturier
 
 * Kollaboratives Arbeiten der verschiedenen Stakeholder
 * Überspringen redundanter Fragen auf Basis bereits gegebener Antworten
-* Fortschrittsanzeige der schone getätigten Eingaben
+* Fortschrittsanzeige der bereits getätigten Eingaben
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.)
 * Nutzung von kontrollierten Vokabularen als Antwortoptionen
 * Diskussions- und Kommentarfunktionen
