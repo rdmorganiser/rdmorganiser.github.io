@@ -41,6 +41,10 @@ organization of research data management.**
 *Jochen Klar*  
 [Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Folien](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
+* [RDA-Deutschland-Treffen 2016](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/), 28. November 2016  
+**Jenseits von Datenmanagementplänen**  
+*Jens Ludwig*
+
 An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projekt zudem in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
 
 * **Datenmanagementpläne. Eine Bestandsübersicht.**  
