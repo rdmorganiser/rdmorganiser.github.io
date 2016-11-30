@@ -31,7 +31,7 @@ organization of research data management.**
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke*  
 [Abstract](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf), [Slides](http://presentations.copernicus.org/EGU2016-16394_presentation.pdf)
 
-* [DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything](http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/), 20. Mai 2016  
+* [DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything](http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/), May 20, 2016  
 **Datenmodellierung für Forschungsdatenmanagementpläne**  
 *Martin Heger*  
 [Abstract](http://dgi-info.de/wp-content/uploads/2015/11/Heger_DGI2016.pdf), [Slides](http://dgi-info.de/wp-content/uploads/2015/11/DGI-Pr%C3%A4sentation_Martin-Heger.pdf)
@@ -41,7 +41,7 @@ organization of research data management.**
 *Jochen Klar*  
 [Abstract](https://www.ag2016.de/PDF/S5-63.pdf), [Slides](https://escience.aip.de/ag2016/klar_AG2016.pdf)
 
-* [RDA-Deutschland-Treffen 2016](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/), 28. November 2016  
+* [RDA-Deutschland-Treffen 2016](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/), November 28, 2016  
 **Jenseits von Datenmanagementplänen**  
 *Jens Ludwig*  
 [Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993)
