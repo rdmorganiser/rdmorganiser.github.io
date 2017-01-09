@@ -44,7 +44,7 @@ organization of research data management.**
 * [RDA-Deutschland-Treffen 2016](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/), November 28, 2016  
 **Jenseits von Datenmanagementplänen**  
 *Jens Ludwig*  
-[Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993)
+[Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993), [Slides](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf)
 
 At [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/), the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did coursework on various aspects associated with the project and wrote the following term papers:
 
