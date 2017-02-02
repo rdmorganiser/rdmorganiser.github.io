@@ -60,9 +60,6 @@ At [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/), th
 *Michaela Meyer*  
 [Link to paper]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
 
-* **Forschungsdatenmanagementplan in der Astrophysik. / Data management plans for Astrophysical data.**  
-*Anna Lehmann*
-
 An extensive collection of literature on the topic [Research Data Management](https://www.zotero.org/groups/forschungsdaten/items) on Zotero was created.
 
 A master thesis on “Data modeling for Research Data Management Plans” was written by Martin Heger in cooperation with our project.  

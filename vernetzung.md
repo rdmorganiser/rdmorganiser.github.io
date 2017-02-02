@@ -60,9 +60,6 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 *Michaela Meyer*  
 [Link zur Hausarbeit]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
 
-* **Forschungsdatenmanagementplan in der Astrophysik.**  
-*Anna Lehmann*
-
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
 Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdatenmanagementpläne" verfasst.  
