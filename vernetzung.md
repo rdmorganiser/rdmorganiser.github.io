@@ -8,7 +8,7 @@ lang: de
 Vernetzung
 ==========
 
-Neben den vom Projekt durchgeführten Veranstaltungen zur Evaluation des Werkzeugs werden auf nationaler Ebene die Vernetzung und der fachliche Austausch über Arbeitsgruppen bzw. -kreise einschlägiger Initiativen vorangetrieben.
+Neben den vom Projekt durchgeführten Veranstaltungen zur Evaluierung des Werkzeugs werden auf nationaler Ebene die Vernetzung und der fachliche Austausch über Arbeitsgruppen bzw. -kreise einschlägiger Initiativen vorangetrieben.
 
 In den nächsten Wochen wird RDMO bei den folgenden Veranstaltungen vorgestellt:
 
