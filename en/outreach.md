@@ -12,14 +12,6 @@ In parallel to what is described in our work packages, there are various activit
 
 In the upcoming weeks, we will present RDMO at the following events:
 
-* [Jour Fixe FDM der Digitale Hochschule NRW](https://www.dh-nrw.de/termine/aktuelle-termine/9-jour-fixe-fdm-13032017/), March 13, 2017, Essen  
-**RDMO - Research Data Management Organiser**  
-*Jochen Klar*  
-
-* [E-Science-Tage 2017](https://e-science-tage.de/de/tagung), March 17, 2017, Heidelberg  
-**Workshop / Tutorial: RDMO**  
-*Jochen Klar*  
-
 * [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/oral/23924), April 28, 2017, Wien  
 **RDMO - RDMO - Research Data Management Organiser**  
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig*  
@@ -66,6 +58,14 @@ organization of research data management.**
 **Jenseits von Datenmanagementplänen**  
 *Jens Ludwig*  
 [Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993), [Slides](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf)
+
+* [Jour Fixe FDM der Digitale Hochschule NRW](https://www.dh-nrw.de/termine/aktuelle-termine/9-jour-fixe-fdm-13032017/), March 13, 2017, Essen  
+**RDMO - Research Data Management Organiser**  
+*Jochen Klar*  
+
+* [E-Science-Tage 2017](https://e-science-tage.de/de/tagung), March 17, 2017, Heidelberg  
+**Workshop / Tutorial: RDMO**  
+*Jochen Klar*  
 
 At [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/), the project collaborated with a one semester course for master students of Information Science. In winter semester 2015/2016 students from a project course did coursework on various aspects associated with the project and wrote the following term papers:
 

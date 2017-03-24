@@ -12,14 +12,6 @@ Neben den vom Projekt durchgeführten Veranstaltungen zur Evaluierung des Werkze
 
 In den nächsten Wochen wird RDMO bei den folgenden Veranstaltungen vorgestellt:
 
-* [Jour Fixe FDM der Digitale Hochschule NRW](https://www.dh-nrw.de/termine/aktuelle-termine/9-jour-fixe-fdm-13032017/), 13. März 2017, Essen  
-**RDMO - Research Data Management Organiser**  
-*Jochen Klar*  
-
-* [E-Science-Tage 2017](https://e-science-tage.de/de/tagung), 17. März 2017, Heidelberg  
-**Workshop / Tutorial: RDMO**  
-*Jochen Klar*  
-
 * [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/oral/23924), 28. April 2017, Wien  
 **RDMO - RDMO - Research Data Management Organiser**  
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig*  
@@ -66,6 +58,14 @@ organization of research data management.**
 **Jenseits von Datenmanagementplänen**  
 *Jens Ludwig*  
 [Abstract](http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993), [Folien](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf)
+
+* [Jour Fixe FDM der Digitale Hochschule NRW](https://www.dh-nrw.de/termine/aktuelle-termine/9-jour-fixe-fdm-13032017/), 13. März 2017, Essen  
+**RDMO - Research Data Management Organiser**  
+*Jochen Klar*  
+
+* [E-Science-Tage 2017](https://e-science-tage.de/de/tagung), 17. März 2017, Heidelberg  
+**Workshop / Tutorial: RDMO**  
+*Jochen Klar*  
 
 An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projekt zudem in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
 
