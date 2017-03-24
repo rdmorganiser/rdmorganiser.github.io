@@ -19,8 +19,10 @@ Fachwissenschaften
 Infrastruktur
 -------------
 
+* [bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg](https://bwfdm.scc.kit.edu/)
 * [Projekt DataWiz](http://www.zpid.de/index.php?wahl=forschung&uwahl=informationstechnologie&uuwahl=DataWiz)
 * [GESIS - Datenarchiv für Sozialwissenschaften](http://www.gesis.org/home/)
 * [Göttingen eResearch Alliance](http://www.eresearch.uni-goettingen.de/)
+* [Fraunhofer-Gesellschaft](https://www.fraunhofer.de/)
 * [Kompetenzzentrum Forschungsdaten der Universität Heidelberg](http://data.uni-heidelberg.de/)
 * [Universitätsbibliothek Duisburg-Essen](https://www.uni-due.de/ub/index.php)
