@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "DroidSans";
+    src: url("../font/DroidSans.ttf");
+}
+@font-face {
+    font-family: "DroidSans";
+    src: url("../font/DroidSans-Bold.ttf"); font-weight: bold;
+}
+@font-face {
+    font-family: "DroidSansMono";
+    src: url("../font/DroidSansMono.ttf");
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url("../font/DroidSerif.ttf");
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url("../font/DroidSerif-Bold.ttf"); font-weight: bold;
+}
+body {
+    font-family: DroidSans, sans;
+    color: #333;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: DroidSerif, serif;
+    font-weight: normal;
+    color: #101F70;
+}
+.remark-slide-content h1 {
+    font-size: 2em;
+}
+.remark-slide-content h2 {
+    font-size: 1.6em;
+}
+.remark-slide-content h3 {
+    font-size: 1.2em;
+}
+.remark-slide-content h4 {
+    font-size: 1em;
+}
+code {
+    color: #f92672;
+}
+.remark-code, .remark-inline-code, .remark-code-line {
+    font-family: DroidSansMono, mono;
+}
+.serif {
+    font-family: DroidSerif, serif;
+}
+a, a:hover, a:focus, a:visited {
+    color: #101F70;
+    text-decoration: none;
+}
+.remark-slide-content {
+    font-size: 26px;
+}
+.inverted {
+    color: white;
+    background-color: #101F70;
+}
+.inverted h1, .inverted h2, .inverted h3, .inverted h4, .inverted h5 .inverted h6,
+.inverted a, .inverted a:hover, .inverted a:focus, .inverted a:visited {
+    color: white;
+}
+.background-image h2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: -4em;
+    padding-left: 4em;
+    margin-right: -4em;
+    padding-right: 4em;
+}

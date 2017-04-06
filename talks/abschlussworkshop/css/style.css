@@ -1,0 +1,65 @@
+body {
+    background-color: #f5f5f5;
+}
+img {
+    max-width: 100%;
+}
+ol > li,
+ul > li {
+    line-height: 36px;
+    margin-bottom: 10px;
+}
+ul > li > ul {
+    margin-top: 10px;
+}
+.remark-slide-content {
+    background-size: cover;
+}
+.small {
+    font-size: .8em;
+}
+.attribution {
+    position: absolute;
+    left: 20px;
+    bottom: 12px;
+    opacity: .5;
+}
+.attribution p {
+    margin: 0;
+    font-size: 0.6em;
+}
+
+.logo img {
+    width: 8em;
+}
+.team {
+    text-align: center;
+    height: 6em;
+}
+.team img {
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+}
+.partner {
+    margin: 1em auto;
+}
+.partner td {
+    vertical-align: center;
+    text-align: center;
+    width: 32%;
+    height: 6em;
+    padding: 0 2%;
+}
+.architecture {
+    text-align: center;
+}
+.architecture img {
+    width: 80%;
+}
+.summary {
+    margin-top: 4em;
+}
+.qr img {
+    width: 10em;
+}
