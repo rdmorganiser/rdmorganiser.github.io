@@ -413,4 +413,4 @@ class: center, middle, inverted
 Vielen Dank für die Aufmerksamkeit
 ----------------------------------
 
-[https://rdmorganizer.github.io/talks/abschlussworkshop](https://rdmorganizer.github.com/talks/abschlussworkshop)
+[https://rdmorganiser.github.io/talks/abschlussworkshop](https://rdmorganizer.github.com/talks/abschlussworkshop)
