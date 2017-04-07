@@ -10,6 +10,8 @@ class: center, middle
 
 [rdmorganiser.github.io](https://rdmorganiser.github.io)
 
+[rdmo.aip.de](https://rdmo.aip.de)
+
 ---
 
 class: center, middle, inverted
@@ -101,75 +103,72 @@ class: center, middle
 ---
 
 class: inverted, background-image
-background-image: url(img/wrench.jpg)
+background-image: url(img/konzept/01.jpg)
 
 ## Projektergebnis: Software/Werkzeug
-
-.attribution[
-  <a href="https://commons.wikimedia.org/wiki/User:Yiyi">Dario Crespi</a>, <a href="https://commons.wikimedia.org/wiki/File:Open-ended_wrench.JPG">Open-ended wrench</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>
-]
 
 ---
 
 class: inverted, background-image
-background-image: url(img/nuts.jpg)
+background-image: url(img/konzept/02.jpg)
 
 ## Zweck des Werkzeugs: Forschungsdatenmanagement unterstützen
 
 ---
 
 class: inverted, background-image
+background-image: url(img/konzept/04.jpg)
+
+## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
+
+---
+
+class: inverted, background-image
+background-image: url(img/konzept/05.jpg)
+
+## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
+
+---
+
+class: inverted, background-image
+background-image: url(img/konzept/06.jpg)
+
+## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
+
+---
+
+class: inverted, background-image
+background-image: url(img/konzept/03.jpg)
 
 ## Zweck: DMPs als Teil eines Drittmittelantrags
 
-[Bild von unsinniger Verwendung eines Nagels und Schraubenschlüssel]
+---
+
+class: inverted, background-image
+background-image: url(img/konzept/07.jpg)
+
+## Zweck: "actionable DMPs" Aufgaben durch andere Systeme ausführen lassen
 
 ---
 
 class: inverted, background-image
+background-image: url(img/konzept/08.jpg)
 
-## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
-
-Aufgaben für verschiedene Zwecke und Akteure im Projekt
-
-[Bild: verschiedene Muttern an verschiedenen Fahrrädern, verschiedene Stellen, Klimzugstange, Gashahn, Stromkasten]
+## Zweck: "active DMPs" Aufgaben und Informationen während des Projekts anpassen
 
 ---
 
 class: inverted, background-image
-
-## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
-
-"actionable DMPs": Aufgaben durch andere Systeme ausführen lassen
-
-[Bild von Fahrrad mit zwei Schraubenschlüsseln]
-
----
-
-class: inverted, background-image
-
-## Zweck: FDM-Aufgaben durch Information und Planung unterstützen
-
-"active DMPs": Aufgaben und Informationen während des Projekts anpassen
-
-[Fahrrad im Park]
-
----
-
-class: inverted, background-image
+background-image: url(img/konzept/09.jpg)
 
 ## typischer Fehler: DMPs als Erkenntnis-Projekt und möglichst detailliert
 
-[Bild von ganz vielen unnützen Schrauben in einem Holzstück]
-
 ---
 
 class: inverted, background-image
+background-image: url(img/konzept/10.jpg)
 
-RDMO statt DMP-Werkzeug
------------------------
-
-[Bild von Schraubenschlüssel-Set]
+## RDMO statt DMP-Werkzeug
 
 ---
 
@@ -193,7 +192,7 @@ Fragenkatalog
   * Logische Strukturierung
   * Verknüpfung von Fragen, Antwortoptionen, Ansichten und Aufgaben
   * Hilfetexte und Links zu weiteren Informationen
-* Ausloten disziplinspezifische Anpassungsbedarfs
+* Ausloten disziplinspezifischen Anpassungsbedarfs
   * Astrophysik
   * Sozialwissenschaften
 * Kompatibilität mit Datenmodellen
@@ -220,11 +219,11 @@ Software
 * Realisierung einer Webanwendung auf Basis von:
   * Python und dem [Django Framework](https://www.djangoproject.com)
   * JavaScript und [AngularJS 1](https://angularjs.org)
-  * [Bootstap 3](http://getbootstrap.com/)
+  * [Bootstrap 3](http://getbootstrap.com/)
   * [Font Awesome](http://fontawesome.io)
   * [Pandoc](http://pandoc.org)
 * Nutzung einer relationalen Datenbank (MySQL, PostgreSQL, Oracle, SQLite)
-* Schnittstellen (LDAP, Shibboleth, OAuth)
+* Authenfizierungschnittstellen (LDAP, Shibboleth, OAuth)
 * Zentrale Demo-Instanz auf https://rdmo.aip.de
 
 ---
@@ -246,8 +245,8 @@ Community und Nutzertests
 -------------------------
 
 * User-Tests:
-  * [Arbeitsgruppe Sonnenphysik](http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/solar-physics/optical-solar-physics)/[GREGOR Telekop](https://gregor.aip.de/) am AIP
-  * [TwinLife](http://www.twin-life.de/) am DIW
+  * [Arbeitsgruppe Sonnenphysik](http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/solar-physics/optical-solar-physics)/[GREGOR Telekop](https://gregor.aip.de/), Partner AIP
+  * [TWINLIVE](http://www.twin-life.de/), Partner DIW
 * Vernetzung:
   * DataWiz, eRA, GESIS, UB Heidelberg, UB Duisburg Essen
   * bwFDM-info, gfbio, Digitale Hochschule NRW
@@ -400,7 +399,7 @@ Zusammenfassung
 
 .summary[
 * Organisation des Datenmanagements über die gesamte Projektlaufzeit
-* Einbindung aller involvierten Stakeholder
+* Einbindung aller Stakeholder
 * Abfragen der relevanten Informationen über ein strukturiertes Interview
 * Abrufen der Informationen über verschiedene Exporte
 * Hohe Anpassbarkeit an institutionelles und fachspezifische Umfeld
