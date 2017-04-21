@@ -12,7 +12,7 @@ In parallel to what is described in our work packages, there are various activit
 
 In the upcoming weeks, we will present RDMO at the following events:
 
-* [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/oral/23924), April 28, 2017, Wien  
+* [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/orals/23924), April 28, 2017, Wien  
 **RDMO - RDMO - Research Data Management Organiser**  
 *Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig*  
 [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf)
