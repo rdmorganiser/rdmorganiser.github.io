@@ -1,0 +1,113 @@
+body {
+    background-color: #f5f5f5;
+}
+img {
+    max-width: 100%;
+}
+ol > li,
+ul > li {
+    line-height: 36px;
+    margin-bottom: 10px;
+}
+ul > li > ul {
+    margin-top: 10px;
+}
+.small {
+    font-size: .8em;
+}
+.right {
+    float: right;
+}
+.right p {
+    margin: 0;
+}
+.attribution {
+    position: absolute;
+    left: 20px;
+    bottom: 12px;
+    opacity: .5;
+}
+.attribution p {
+    margin: 0;
+    font-size: 0.6em;
+}
+
+.logo img {
+    width: 8em;
+}
+.partner {
+    margin-right: 0.5em;
+    float: right;
+}
+.partner img {
+    display: block;
+    margin-top: 0.3em;
+    width: 10em;
+}
+.team {
+    text-align: center;
+    height: 6em;
+}
+.team img {
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+}
+.aim {
+    margin-top: 4em;
+    font-style: italic;
+}
+.aim p {
+    font-size: 1.4em;
+    line-height: 1.6em;
+}
+.history {
+    margin: 4em auto;
+}
+.history td {
+    vertical-align: center;
+    text-align: center;
+}
+.history .arrow {
+    font-size: 1.5em;
+    padding: 0 1em 0 1em;
+}
+.history .image {
+    width: 10em;
+    height: 10em;
+}
+.history .image em {
+    font-size: 2em;
+}
+.agenda img {
+    position: absolute;
+    display: block;
+    float: right;
+    top: 6.2em;
+    right: 4em;
+    height: 8em;
+}
+.screen img {
+    margin-top: 0.3em;
+    box-shadow: 0px 0px 10px grey;
+}
+.architecture {
+    text-align: center;
+}
+.architecture img {
+    width: 80%;
+}
+.uncle-sam img {
+    position: absolute;
+    display: block;
+    float: right;
+    top: 6.2em;
+    right: 4em;
+    height: 16em;
+}
+.summary {
+    margin-top: 3em;
+}
+.qr img {
+    width: 10em;
+}
