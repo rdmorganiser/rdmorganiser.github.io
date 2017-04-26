@@ -79,14 +79,14 @@ Why RDMO?
 
 #### Organizer instead of plan
 
-* Organize the data management over the whole lifetime<br /> of a project and beyond
-* Involve all stakeholders involved in data management
+* Organize the data management over the<br /> whole lifetime of a project and beyond
+* Engage all stakeholders
 
 #### Local instead of central
 
 * Full customization of the content
-  * institutional context
-  * research field
+  * disciplinary context
+  * institutional environment
 * Easily deployable for universities, institutes, infrastructures, collaborations ...
 
 .attribution[
@@ -100,7 +100,7 @@ Software
 
 * Wep application based on Python, Django, AngularJS and Pandoc
 * Authentication with LDAP, Shibboleth, OAuth
-* Demo-Instance available at https://rdmo.aip.de
+* Demo instance available at https://rdmo.aip.de
 
 ### Open Source
 
@@ -116,7 +116,7 @@ Concept and Community
 
 * Update of the work done in the WissGrid context
 * Structure of the questionnaire
-  * Sequence of questions, what to skip?
+  * Sequence and interdependence of questions, what to skip?
   * Templates for DMP output
   * Internationalization (English, German)
 * User tests with
@@ -161,7 +161,7 @@ RDMO Architecture
 -----------------
 
 .architecture[
-    ![RDMO Architecture](img/architecture.png)
+    ![RDMO Architecture](img/architecture.svg)
 ]
 
 ---

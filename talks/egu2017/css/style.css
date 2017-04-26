@@ -83,9 +83,9 @@ ul > li > ul {
     position: absolute;
     display: block;
     float: right;
-    top: 6.2em;
+    top: 5.5em;
     right: 4em;
-    height: 8em;
+    height: 12em;
 }
 .screen img {
     margin-top: 0.3em;
