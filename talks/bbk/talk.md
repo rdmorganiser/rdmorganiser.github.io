@@ -445,7 +445,7 @@ class: center, middle, inverted
 Vielen Dank für die Aufmerksamkeit
 ----------------------------------
 
-[https://rdmorganizer.github.com/talks/bbk](https://rdmorganizer.github.com/talks/bbk)
+[https://rdmorganiser.github.com/talks/bbk](https://rdmorganiser.github.com/talks/bbk)
 
 jklar@aip.de, [@jochenklar](https://twitter.com/jochenklar)
 
