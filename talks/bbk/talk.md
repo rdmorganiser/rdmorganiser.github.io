@@ -4,13 +4,13 @@ class: center, middle
     ![RDMO](img/RDMO-logo.png)
 ]
 
-# Research Data Management Organiser
+## Research Data Management Organiser
+
+Ein neues Werkzeug für das Forschungsdatenmanagement
 
 ### Jochen Klar
 
 [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)
-
-[rdmorganiser.github.io](https://rdmorganiser.github.io), [rdmo.aip.de](https://rdmo.aip.de)
 
 ---
 
