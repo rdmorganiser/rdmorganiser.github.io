@@ -10,7 +10,11 @@ Outreach
 
 In parallel to what is described in our work packages, there are various activities, presentations and interactions on national and international level.
 
+{% comment %}
 In the upcoming weeks, we will present RDMO at the following events:
+{% endcomment %}
+
+As of now, we presented the project at numerous events:
 
 * [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/orals/23924), April 28, 2017, Wien  
 **RDMO - RDMO - Research Data Management Organiser**  
@@ -20,8 +24,6 @@ In the upcoming weeks, we will present RDMO at the following events:
 * [Berliner Bibliothekswissenschaftliches Kolloquium](https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar), Mai 30, 2017, Berlin  
 **RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement**  
 *Jochen Klar*  
-
-As of now, we presented the project at numerous events:
 
 * [2. Workshop der DINI/nestor-AG Forschungsdaten](http://www.forschungsdaten.org/index.php/DINI-nestor-WS2), March 23, 2015, Berlin  
 **Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen**  

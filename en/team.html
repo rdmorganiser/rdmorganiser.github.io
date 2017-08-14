@@ -4,15 +4,12 @@ layout: page
 key: team
 lang: en
 
-team:
-- text: "**Claudia Engelhardt** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
-  image: /img/team/engelhardt.jpg
-
+current:
 - text: "**Jochen Klar** works as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). His specialities are the development and operation of astronomical databases and web services. He works in interdisciplinary projects researching data management and data publication infrastructures. He is a member of the editorial team of [forschungsdaten.org](http://www.forschungsdaten.org/)."
   image: /img/team/klar.jpg
 
-- text: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\". He also works with the RDMO project."
-  image: /img/team/heger.jpg
+- text: "**Claudia Kramer** is ..."
+  image: /img/team/kramer.jpg
 
 - text: "**Harry Enke** leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](http://www.leibniz-gemeinschaft.de/ueber-uns/organisation/arbeitskreise/arbeitskreis-forschungsdaten/)."
   image: /img/team/enke.jpg
@@ -22,16 +19,38 @@ team:
 
 - text: "**Jens Ludwig** is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/)."
   image: /img/team/ludwig.jpg
+
+- text: "**Frank Tristram** is ..."
+  image: /img/team/tristram.jpg
+
+former:
+- text: "**Claudia Engelhardt** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
+  image: /img/team/engelhardt.jpg
+- text: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
+  image: /img/team/heger.jpg
+
 ---
 
 <h1>Team</h1>
 
-{% for member in page.team %}
+<h2>Current team members</h2>
+
+{% for member in page.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}{{ member.image}}" />
     <div class="team-member-info">
         {{ member.text | markdownify }}
     </div>
 </div>
+{% endfor %}
 
+<h2>Former team members</h2>
+
+{% for member in page.former %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text | markdownify }}
+    </div>
+</div>
 {% endfor %}

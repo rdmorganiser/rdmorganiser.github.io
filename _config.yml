@@ -10,12 +10,16 @@ permalink: pretty
 
 navitems:
   index:
+    path:
+      de: /
+      en: /en
+  project:
     label:
       de: Projekt
       en: Project
     path:
-      de: /
-      en: /en
+      de: /projekt
+      en: /en/project
   workpackages:
     label:
       de: Arbeitspakete

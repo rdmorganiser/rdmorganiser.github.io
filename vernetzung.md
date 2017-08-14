@@ -10,7 +10,11 @@ Vernetzung
 
 Neben den vom Projekt durchgeführten Veranstaltungen zur Evaluierung des Werkzeugs werden auf nationaler Ebene die Vernetzung und der fachliche Austausch über Arbeitsgruppen bzw. -kreise einschlägiger Initiativen vorangetrieben.
 
+{% comment %}
 In den nächsten Wochen wird RDMO bei den folgenden Veranstaltungen vorgestellt:
+{% endcomment %}
+
+In der Vergangenheit wurde das Vorhaben bei zahlreichen Anlässen vorgestellt und diskutiert:
 
 * [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/orals/23924), 28. April 2017, Wien  
 **RDMO - RDMO - Research Data Management Organiser**  
@@ -20,8 +24,6 @@ In den nächsten Wochen wird RDMO bei den folgenden Veranstaltungen vorgestellt:
 * [Berliner Bibliothekswissenschaftliches Kolloquium](https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar), 30. Mai 2017, Berlin  
 **RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement**  
 *Jochen Klar*  
-
-In der Vergangenheit wurde das Vorhaben bei zahlreichen Anlässen vorgestellt und diskutiert:
 
 * [2. Workshop der DINI/nestor-AG Forschungsdaten](http://www.forschungsdaten.org/index.php/DINI-nestor-WS2), 23. März 2015, Berlin  
 **Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen**  
@@ -83,5 +85,5 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
-Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdatenmanagementpläne" verfasst.  
+Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdaten-managementpläne" verfasst.  
 [Link zur Masterarbeit]({{ site.baseurl }}/docs/Heger_MA.pdf)
