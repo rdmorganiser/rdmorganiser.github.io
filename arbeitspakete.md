@@ -14,7 +14,7 @@ Erweiterung des Organisers
 Der RDMO ist in der ersten Projektphase mit den grundlegenden Features ausgestattet 
 worden, die für die Organisierung des Datemanagements benötigt werden. Die geplanten 
 Erweiterungen und Veränderungen betreffen sind insbesondere die Vereinfachung für die
-Anwender durch Flexibiliserung des Fragenkatalogs und Aufgabendefinition.
+Anwender durch Flexibilisierung der Erfassung von Informationen und der Aufgabendefinition.
 
 
 Integration in vorhandene Infrastruktur
@@ -32,7 +32,7 @@ Nachhaltigkeit und Community-Bildung
 Der RDMO ist ein für das Forschungsdatenmanagement entwickeltes Instrument. Das Projekt sieht seine Hauptaufgabe hier in der Zusammenarbeit mit allen im Forschungsdatemmanagement engagierten Partnern, bei
 der Organisierung eines fruchtbaren Dialogs und dem Aufbau von Kooperationsstrukturen, um die Nachhaltigkeit und Weiterentwicklung des RDMO zu steueren. Das schliesst internationale Zusammenarbeit in- und ausserhalb von RDA mit Partnern wie DCC und CDL ein.
 
-Dissmination und Training
+Dissemination und Training
 ---------
 
 Bereitstellung von geeigneten Materialien für Schulungen und Tutorials, insbesondere Online-Material, mit verschiedenen Nutzungsszenarien für Anwendungfälle, z.B. Datenmanagement-Plan für einen Wissenschaftler, IT-Sicht für Speicherbedarf, Kostensicht für einen Forschungsreferenten oder Abteilungsleiter).
