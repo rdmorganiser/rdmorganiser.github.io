@@ -28,5 +28,7 @@ Entwicklungsziele für die zweite Projektphase sind insbesondere:
 - Beteiligung an der Entwicklung eines internationalen Austauschformats für DMPs
 - verbesserte technische Wartbarkeit durch Standardisierung der Installation (Docker-Container) und Integration eines Update-Mechanismus
 
-Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter rdmo-team@listserv.dfn.de. Das RDMO-Projekt wird durch die DFG gefördert.
+Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter rdmo-team@listserv.dfn.de. 
+
+Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
 
