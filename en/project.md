@@ -12,6 +12,7 @@ Project
 
 Data management plans are one of the crucial components of research data management, but their potential is rarely exhausted. Often they are only a part of the project proposal, never again updated. RDMO is a companion during the whole research process offering multiple functionalities to track the data. 
 Among the core functionalities of RDMO are:
+
 * central instance for all informations pertaining to the reserach data managment of a project
 * adaptable templates for questionnaire and reporting 
 * easy customisation of look and feel, versioning of information
@@ -19,6 +20,7 @@ Among the core functionalities of RDMO are:
 * templates for various purposes, e.g. funder required DMP 
 
 The project now targets:
+
 * extending the data model towards task definition and handling
 * role based views for stakeholders across multiple projects
 * support of repositories and identifier systems to link with data storage systems or long term archives
