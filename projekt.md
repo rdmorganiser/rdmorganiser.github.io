@@ -5,20 +5,32 @@ key: project
 lang: de
 ---
 
-Aktuelles
-
-
 Projekt
 =======
+**Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.** 
 
-**Ziel des Projekts ist es, ein Werkzeug zur Verfügung zu stellen, das die strukturierte Planung, Umsetzung und Verwaltung des Forschungsdatenmanagements unterstützt und zusätzlich die textuelle Ausgabe eines Datenmanagementplans (DMP) ermöglicht.**
+Datenmanagementpläne sind eine der wichtigsten Komponenten des Forschungsdatenmanagements, deren Nutzung und Potential jedoch weiterhin nicht ausgeschöpft sind. Oft werden sie nur als Teil des Antragstextes verstanden und im Projektverlauf nicht mehr aktualisiert. RDMO unterstützt durch eine Vielzahl von Funktionen die Begleitung des gesamten Forschungsprozesses, damit das Forschungsdatenmanagement während des gesamten Projekts auch tatsächlich anhand des Plans organisiert und nach Bedarf angepasst werden kann. 
 
-DMP legen dar, wie, mit welchen Mitteln und in welchem Umfang die anfallenden Forschungsdaten während eines Projekts und für die Folgezeit gesichert und zugreifbar gemacht werden. Um Wissenschaftlerinnen und Wissenschaftlern ein Hilfsmittel zur Erstellung dieser DMP an die Hand zu geben, wurden in der Vergangenheit durch mehrere Institutionen spezielle Online-Tools entwickelt. Vorreiter sind hier das [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in Großbritannien mit [DMPonline](https://dmponline.dcc.ac.uk), die [California Digital Library (CDL)](http://www.cdlib.org) mit dem [DMPTool](https://dmptool.org/) und in Deutschland die [Universität Bielefeld](https://data.uni-bielefeld.de/de/data-management-plan).
+Zu den Kernfunktionalitäten von RDMO zählen:
 
-Hauptzweck der genannten Instrumente ist es, Forschende bei der Erstellung von DMP gemäß den Vorgaben des jeweiligen Förderers zu unterstützen. Während diese Werkzeuge sinnvolle Hilfsmittel im Rahmen der Antragstellung sind, beschränken sie sich jedoch im Wesentlichen auf die für diesen Zweck relevanten Fragen und schöpfen mithin nicht das volle Potential von DMP aus. Neben der Dokumentation des Forschungsdaten­manage­ments können DMP auch dazu dienen, die Planung des Forschungsdatenmanagements schon im Vorfeld zu optimieren, die Umsetzung im Projektverlauf – gewissermaßen als Leitfaden – zu unterstützen und dadurch die Effizienz und Qualität von wissenschaftlicher Arbeit zu erhöhen. Die Wissenschaftlerin oder der Wissenschaftler hätte in diesem Fall voraussichtlich eine höhere Moti­vation, zum eigenen Nutzen einen DMP zu erstellen.
+* zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
+* anpassbare Frage- und Antwortvorlagen
+* leicht anpassbares Design
+* fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
+* Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
+* Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.  
 
-Unser Projekt wird auf externen und eigenen Vorarbeiten (insbesondere dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) aufbauend ein Werkzeug zur Verfügung stellen, das die strukturierte Planung, Umsetzung und Verwaltung des For­schungs­datenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
+Entwicklungsziele für die zweite Projektphase sind insbesondere:
 
-Zielgruppe werden alle im Forschungsdatenmanagement Involvierten und nicht nur die For­schenden sein. Die Anwendung wird inhaltlich und technisch hinreichend anpassbar sein, um sowohl dis­zi­plinären als auch institutionellen Unterschieden gerecht zu werden. Besonderes Augenmerk liegt auf der lokalen Installation und Einbettung in bestehende IT-Administrationsprozesse. Das Online-Tool wird mehrsprachig (in der ersten Form deutsch und englisch) angeboten werden.
+* Erweiterung des Datenmodells um Aufgaben 
+* ein Rollenkonzept mit rollenbezogenen Ansichten, um Informationen und Aufgaben zielgruppenspezifisch und projektübergreifend zu verwalten
+* Unterstützung von Repositorien und Identifiersystemen, um Datenmanagementpläne mit den tatsächlichen Daten in temporären Projektspeicherorten bzw. in dauerhaften Datenrepositorien zu verlinken.
+* Unterstützung der Auswertung von DMPs, um z.B. automatisch Datenrepositorien zu empfehlen oder Kostenabschätzung anhand der Kriterien der Datenrepositorien durchzuführen
+* Ausbau der unterstützten Authentifizierungs- und Autorisierungs-Systeme 
+* Beteiligung an der Entwicklung eines internationalen Austauschformats für DMPs
+* verbesserte technische Wartbarkeit durch Standardisierung der Installation (Docker-Container) und Integration eines Update-Mechanismus
 
-Auf diesen Seiten informieren wir über unser Projekt, die einzelnen [Arbeitspakete]({{ site.baseurl }}/arbeitspakete), unsere [Vernetzungsaktivitäten]({{ site.baseurl }}/vernetzung) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen). Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter <a href="rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter rdmo-team@listserv.dfn.de. 
+
+Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
+
