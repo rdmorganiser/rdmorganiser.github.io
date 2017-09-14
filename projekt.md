@@ -19,7 +19,7 @@ Zu den Kernfunktionalitäten von RDMO zählen:
 * leicht anpassbares Design
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
-* Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer. 
+* Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.
 
 Entwicklungsziele für die zweite Projektphase sind insbesondere:
 
@@ -34,3 +34,5 @@ Entwicklungsziele für die zweite Projektphase sind insbesondere:
 Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 
 Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
+
+Die Beschreibung der ersten Projektphase kann [hier](/erste-projektphase) eingesehen werden.
