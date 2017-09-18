@@ -20,6 +20,10 @@ navitems:
     path:
       de: /projekt
       en: /en/project
+  phase1:
+    path:
+      de: /erste-projektphase
+      en: /en/first-project-phase
   workpackages:
     label:
       de: Arbeitspakete
