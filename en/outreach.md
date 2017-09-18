@@ -16,14 +16,19 @@ In the upcoming weeks, we will present RDMO at the following events:
 
 As of now, we presented the project at numerous events:
 
-* [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/orals/23924), April 28, 2017, Wien  
-**RDMO - RDMO - Research Data Management Organiser**  
-*Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig*  
-[Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf)
+* [LISA VIII: Astronomy Librarianship in the era of Big Data and Open Science, http://cds.u-strasbg.fr/meetings/Lisa8/), 30. Mai 2017, Berlin  
+**Research Data Management Organiser (RDMO)**  
+*Harry Enke, Jochen Klar*  
+[Slides](http://cds.u-strasbg.fr/meetings/Lisa8/public/presentations/wednesday/afternoon/08_RDMO-Talk-LISAVIII.pdf)
 
 * [Berliner Bibliothekswissenschaftliches Kolloquium](https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar), Mai 30, 2017, Berlin  
 **RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement**  
 *Jochen Klar*  
+
+* [EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science](http://meetingorganizer.copernicus.org/EGU2017/orals/23924), April 28, 2017, Wien  
+**RDMO - RDMO - Research Data Management Organiser**  
+*Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig*  
+[Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf)
 
 * [2. Workshop der DINI/nestor-AG Forschungsdaten](http://www.forschungsdaten.org/index.php/DINI-nestor-WS2), March 23, 2015, Berlin  
 **Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen**  
