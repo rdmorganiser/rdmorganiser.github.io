@@ -8,7 +8,7 @@ lang: en
 Software
 ========
 
-RDMO is implemented as a web application. It is, even in the development stage, available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative editing and maintenance of all necessary information for a sustainable data management. his is done along the notion of *projects*, which will be defined by the users for their particular context.
+RDMO is implemented as a web application. It is, even in the development stage, available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative collecting, editing and maintenance of all necessary information for a sustainable data management. This is done along the notion of *projects*, which will be defined by the users for their particular context.
 
 As of now, we plan the following features:
 
