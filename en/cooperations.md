@@ -19,8 +19,10 @@ Disciplines
 Infrastructure
 --------------
 
+* [bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg](https://bwfdm.scc.kit.edu/english/index.php)
 * [Project DataWiz](https://www.zpid.de/index.php?wahl=forschung&uwahl=informationstechnologie&uuwahl=DataWiz&lang=EN)
 * [GESIS - Data Archive for the Social Sciences (DAS)](http://www.gesis.org/en/home/)
 * [Göttingen eResearch Alliance](http://www.eresearch.uni-goettingen.de/)
+* [Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)
 * [Heidelberg University, Competence Centre for Research Data](http://data.uni-heidelberg.de/index.en.html)
 * [University Library Duisburg-Essen](https://www.uni-due.de/ub/en/eindex.php)
