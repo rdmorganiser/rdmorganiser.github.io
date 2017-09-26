@@ -16,7 +16,7 @@ changes will simplify the application by more flexible information gathering rou
 tasks by users.
 
 
-Integration into exisiting infrastructure
+Integration into existing infrastructure
 --------
 
 Improving the standardised installation and maintenance procedures. Support for widely used 
