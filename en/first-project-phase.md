@@ -8,7 +8,7 @@ lang: en
 First projekt phase
 ===================
 
-*Most of RDMO was developed during the first project phase from November 2015 - April 2017. On this page, we document the description of the project and the workpackages. Please note that the information on this page is there for not up to date.*
+*Most of RDMO was developed during the first project phase from November 2015 - April 2017. On this page, we document the description of the project and the workpackages. Please note that the information on this page is no longer up to date.*
 
 Project description
 -------------------
