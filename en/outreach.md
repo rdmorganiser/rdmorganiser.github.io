@@ -8,7 +8,7 @@ lang: en
 Outreach
 ========
 
-In parallel to what is described in our work packages, there are various activities, presentations and interactions on national and international level.
+Additionally to workshops and activities organised by the project there are various activities, presentations and interactions on national and international level.
 
 {% comment %}
 In the upcoming weeks, we will present RDMO at the following events:
