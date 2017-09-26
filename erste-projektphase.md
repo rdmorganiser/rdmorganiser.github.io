@@ -8,7 +8,7 @@ lang: de
 Erste Projektphase
 ==================
 
-*In der ersten Projektphase wurde von November 2015 - April 2017 die erste Version von RDMO entwickelt. Hier dokumentieren wir die Beschreibung des Projektes und der Arbeitspakete. Bitte beachten Sie das die Informationen auf dieser Seite daher nicht mehr aktuell sind.*
+*In der ersten Projektphase wurde von November 2015 - April 2017 die erste Version von RDMO entwickelt. Hier dokumentieren wir die Beschreibung des Projektes und der Arbeitspakete. Bitte beachten Sie, dass die Informationen auf dieser Seite daher nicht mehr aktuell sind.*
 
 Projektbeschreibung
 -------------------
