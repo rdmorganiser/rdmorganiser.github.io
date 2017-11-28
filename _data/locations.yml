@@ -1,0 +1,9 @@
+- name: Leibniz-Institut für Astrophysik Potsdam
+  url: https://rdmo.aip.de
+  contact: Jochen Klar
+  lat: 13.104167
+  lon: 52.405
+- name: Ruhr Universität Bochum
+  contact: Johannes Frenzel
+  lat: 7.261572
+  lon: 51.4439
