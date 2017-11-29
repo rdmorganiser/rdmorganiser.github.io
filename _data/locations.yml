@@ -3,7 +3,21 @@
   contact: Jochen Klar
   lat: 13.104167
   lon: 52.405
+  col: blue
 - name: Ruhr Universität Bochum
   contact: Johannes Frenzel
   lat: 7.261572
   lon: 51.4439
+  col: gray
+- name: IZUS / Universitätsbibliothek Stuttgart
+  url: www.ub.uni-stuttgart.de
+  contact: Florian Fritze
+  lat : 9.1686
+  lon: 48.78231
+  col: blue
+- name: Fachhochschule Potsdam
+  url: www.fh-potsdam.de
+  contact: Janine Vierheller
+  lat: 13.0512984
+  lon: 52.413501
+  col: green 
