@@ -19,5 +19,17 @@
   url: www.fh-potsdam.de
   contact: Janine Vierheller
   lat: 13.0512984
-  lon: 52.413501
-  col: green 
+  lon: 52.413501 
+  col: green
+- name: Karlsruher Institut für Technologie
+  url: www.kit.edu
+  contact: Claudia Kramer
+  lat: 8.4121891
+  lon: 49.00955
+  col: green
+- name: Staatsbibliothek zu Berlin
+  url: www.stattsbibliothek-berlin.de
+  contact: Jens Ludwig
+  lat: 13.3708135
+  lon: 52.5076003
+  col: green
