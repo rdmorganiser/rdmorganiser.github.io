@@ -12,7 +12,7 @@ $(document).ready(function() {
     var template = Handlebars.compile(source);
 
     var greenIcon = new L.Icon({
-       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
        iconSize: [25, 41],
        iconAnchor: [12, 41],
@@ -20,9 +20,35 @@ $(document).ready(function() {
        shadowSize: [41, 41]
     });
 
+    var blueIcon = new L.Icon({
+       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+       iconSize: [25, 41],
+       iconAnchor: [12, 41],
+       popupAnchor: [1, -34],
+       shadowSize: [41, 41]
+    });
+
+    var greyIcon = new L.Icon({
+       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-grey.png',
+       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+       iconSize: [25, 41],
+       iconAnchor: [12, 41],
+       popupAnchor: [1, -34],
+       shadowSize: [41, 41]
+    });
     $.each(_locations, function (key, location) {
         var html = template(location);
-        var marker = L.marker([location.lon, location.lat], {icon: greenIcon}).addTo(map);
+	var decide = location.col;
+	if (decide == 'green'){
+        	var marker = L.marker([location.lon, location.lat], {icon: greenIcon}).addTo(map);
+	}
+	else if (decide == 'blue'){
+		var marker = L.marker([location.lon, location.lat], {icon: blueIcon}).addTo(map);
+	}
+	else{
+		var marker = L.marker([location.lon, location.lat], {icon:greyIcon}).addTo(map);
+	}
         marker.bindPopup(html);
     });
 });
