@@ -27,7 +27,7 @@ GitHub organisation und source code
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
 Documentation
-: [rdmo.readthedocs.io](https://rdmo.readthedocs.io)
+: [rdmo.readthedocs.io](https://rdmo.readthedocs.io/en/latest)
 
 Demo instance
 : [rdmo.aip.de](https://rdmo.aip.de)
