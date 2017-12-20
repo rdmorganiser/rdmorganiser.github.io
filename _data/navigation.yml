@@ -1,0 +1,50 @@
+index:
+  path:
+    de: /
+    en: /en
+project:
+  label:
+    de: Projekt
+    en: Project
+  path:
+    de: /projekt
+    en: /en/project
+phase1:
+  path:
+    de: /erste-projektphase
+    en: /en/first-project-phase
+workpackages:
+  label:
+    de: Arbeitspakete
+    en: Work packages
+  path:
+    de: /arbeitspakete
+    en: /en/workpackages
+software:
+  label:
+    de: Software
+    en: Software
+  path:
+    de: /software
+    en: /en/software
+outreach:
+  label:
+    de: Vernetzung
+    en: Outreach
+  path:
+    de: /vernetzung
+    en: /en/outreach
+cooperation:
+  label:
+    de: Kooperationen
+    en: Cooperations
+  path:
+    de: /kooperationen
+    en: /en/cooperations
+team:
+  label:
+    de: Team
+    en: Team
+  path:
+    de: /team
+    en: /en/team
