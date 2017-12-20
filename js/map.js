@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var map = L.map('map');
-    map.setView([51.165, 10.455278], 5);
+    map.setView([51.165, 10.455278], 6);
 
     L.tileLayer('https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
         'attribution': 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> | Contributors <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a> | Tiles © <a href="http://cartodb.com/attributions">CartoDB</a>',
@@ -37,18 +37,22 @@ $(document).ready(function() {
        popupAnchor: [1, -34],
        shadowSize: [41, 41]
     });
+
     $.each(_locations, function (key, location) {
-        var html = template(location);
-	var decide = location.col;
-	if (decide == 'green'){
-        	var marker = L.marker([location.lon, location.lat], {icon: greenIcon}).addTo(map);
-	}
-	else if (decide == 'blue'){
-		var marker = L.marker([location.lon, location.lat], {icon: blueIcon}).addTo(map);
-	}
-	else{
-		var marker = L.marker([location.lon, location.lat], {icon:greyIcon}).addTo(map);
-	}
-        marker.bindPopup(html);
+        if (typeof(location.lon) != 'undefined' && typeof(location.lat) != 'undefined') {
+            var html = template(location);
+
+            var icon;
+            if (location.color == 'green') {
+                icon = greenIcon;
+            } else if (location.color == 'blue') {
+                icon = blueIcon;
+            } else{
+                icon = greyIcon;
+            }
+
+            var marker = L.marker([location.lon, location.lat], {icon: icon}).addTo(map);
+            marker.bindPopup(html);
+        }
     });
 });

@@ -3,33 +3,73 @@
   contact: Jochen Klar
   lat: 13.104167
   lon: 52.405
-  col: blue
+  color: blue
+
 - name: Ruhr Universität Bochum
   contact: Johannes Frenzel
   lat: 7.261572
   lon: 51.4439
-  col: gray
+  color: gray
+
 - name: IZUS / Universitätsbibliothek Stuttgart
   url: www.ub.uni-stuttgart.de
   contact: Florian Fritze
   lat : 9.1686
   lon: 48.78231
-  col: blue
+  color: blue
+
 - name: Fachhochschule Potsdam
   url: www.fh-potsdam.de
   contact: Janine Vierheller
   lat: 13.0512984
-  lon: 52.413501 
-  col: green
+  lon: 52.413501
+  color: green
+
 - name: Karlsruher Institut für Technologie
   url: www.kit.edu
   contact: Claudia Kramer
   lat: 8.4121891
   lon: 49.00955
-  col: green
+  color: green
+
 - name: Staatsbibliothek zu Berlin
   url: www.stattsbibliothek-berlin.de
   contact: Jens Ludwig
   lat: 13.3708135
   lon: 52.5076003
-  col: green
+  color: green
+
+- name: bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
+  url: https://bwfdm.scc.kit.edu
+
+- name: Göttingen eResearch Alliance
+  url: http://www.eresearch.uni-goettingen.de/
+
+- name: Hessisches Forschungsdateninfrastrukture (HeFDI)
+  url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
+
+- name: Universität Bochum
+  url: http://www.ruhr-uni-bochum.de
+
+- name: Universitäts- und Landesbibliothek Darmstadt
+  url: https://www.ulb.tu-darmstadt.de
+
+- name: Universität Dortmund
+  url: https://www.tu-dortmund.de/uni/de/Uni
+
+- name: Universitätsbibliothek Duisburg-Essen
+
+- name: Universitäten von Düsseldorf, Siegen & Wuppertal
+  url: https://www.uni-due.de/ub/index.php
+
+- name: Universität Trier
+  url: https://www.ub.stuttgart.de/
+
+- name: Leibnitz-Institut für Pflanzenbiochemie
+  url: https://www.uni-trier.de
+
+- name: Max Planck Digital Library (MPDL)
+  url: https://www.mpdl.mpg.de
+
+- name: Wasserforschungsisntitut EAWAG
+  url: http://www.eawag.ch
