@@ -1,0 +1,96 @@
+- event: "LISA VIII: Astronomy Librarianship in the era of Big Data and Open Science"
+  url: http://cds.u-strasbg.fr/meetings/Lisa8
+  date: 2017-06-07
+  place: Straßburg
+  title: Research Data Management Organiser (RDMO)
+  authors: Harry Enke
+  slides: http://cds.u-strasbg.fr/meetings/Lisa8/public/presentations/wednesday/afternoon/08_RDMO-Talk-LISAVIII.pdf
+
+- event: Berliner Bibliothekswissenschaftliches Kolloquium
+  url: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
+  date: 2017-05-30
+  place: Berlin
+  title: "RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement"
+  authors: Jochen Klar
+  recording: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
+
+- event: "EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science"
+  url: http://meetingorganizer.copernicus.org/EGU2017/orals/23924
+  date: 2017-04-28
+  place: Wien
+  title: RDMO - RDMO - Research Data Management Organiser
+  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig
+  abstract: http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf
+
+- event: E-Science-Tage 2017
+  url: https://e-science-tage.de/de/tagung
+  date: 2017-03-17
+  place: Heidelberg
+  title: "Workshop / Tutorial: RDMO"
+  authors: Jochen Klar
+
+- event: Jour Fixe FDM der Digitale Hochschule NRW
+  url: https://www.dh-nrw.de/termine/aktuelle-termine/9-jour-fixe-fdm-13032017/
+  date: 2017-03-13
+  place: Essen
+  title: RDMO - Research Data Management Organiser
+  authors: Jochen Klar
+
+- event: RDA-Deutschland-Treffen 2016
+  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/
+  date: 2016-11-28
+  place: Potsdam
+  title: Jenseits von Datenmanagementplänen
+  authors: Jens Ludwig
+  abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993
+  slides: http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf
+
+- event: "Herbsttagung der Astronomischen Gesellschaft, Splinter Meeting: E-Science & Virtual Observatory"
+  url: https://escience.aip.de/ag2016/
+  date: 2016-09-15
+  place: Bochum
+  title: RDMO - Research Data Management Organiser
+  authors: Jochen Klar
+  abstract: https://www.ag2016.de/PDF/S5-63.pdf
+  slides: https://escience.aip.de/ag2016/klar_AG2016.pdf
+
+- event: "DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything"
+  url: http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/
+  date: 2016-05-20
+  place: Frankfurt am Main
+  title: Datenmodellierung für Forschungsdatenmanagementpläne
+  authors: Martin Heger
+  abstract: http://dgi-info.de/wp-content/uploads/2015/11/Heger_DGI2016.pdf
+  slides: http://dgi-info.de/wp-content/uploads/2015/11/DGI-Pr%C3%A4sentation_Martin-Heger.pdf
+
+- event: "EGU General Assembly 2016: Open Access to Research Data and Public Sector Information towards Open Science"
+  url: http://www.egu2016.eu/
+  date: 2016-04-21
+  place: Wien
+  title: DMPwerkzeug - A tool to support the planning, implementation, and organization of research data management.
+  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke
+  abstract: http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf
+  slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
+
+- event: RDA-Deutschland-Treffen 2015
+  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
+  date: 2015-11-26
+  place: Potsdam
+  title: Breakout-Session zu Datenmanagementplänen
+  authors: Jochen Klar, Hermann Stehouwer, Torsten Trippel
+  abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
+
+- event: Helmholtz Open Science Webinar
+  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/
+  date: 2015-10-26
+  title: Tools zur Erstellung von Forschungsdatenmanagementplänen
+  authors: Jochen Klar
+  slides: http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/helmholtz_datenwebinar30_klar.pdf
+
+- event: 2. Workshop der DINI/nestor-AG Forschungsdaten
+  url: http://www.forschungsdaten.org/index.php/DINI-nestor-WS2
+  date: 2015-05-23
+  place: Berlin
+  title: Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen
+  authors: Jochen Klar, Harry Enke, Claudia Engelhardt, Jens Ludwig
+  slides: http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf
