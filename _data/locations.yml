@@ -3,7 +3,7 @@
   contact: Jochen Klar
   lat: 13.104167
   lon: 52.405
-  color: blue
+  color: green
 
 - name: Ruhr Universität Bochum
   contact: Johannes Frenzel
@@ -47,6 +47,13 @@
 
 # - name: Hessisches Forschungsdateninfrastrukture (HeFDI)
 #   url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
+
+- name: Universität Bayreuth
+  url: https://rdmo.uni-bayreuth.de/rdmo
+  contact: Ursula Higgins, Andreas Weber, Claudia Piesche, Clemens Engelhardt, Birgit Regenfuß
+  lat: 11.586435
+  lon: 49.929511
+  color: blue
 
 - name: Universität Bochum
   url: http://www.ruhr-uni-bochum.de
