@@ -52,10 +52,10 @@
   url: http://www.ruhr-uni-bochum.de
 
 - name: Universitäts- und Landesbibliothek Darmstadt
-  url: https://www.ulb.tu-darmstadt.de
+  url: https://tudmo.ulb.tu-darmstadt.de
   contact: Gerald Langhanke
-  lat: 8.658066
-  lon: 49.876846
+  lat: 8.680805
+  lon: 49.861429
   color: blue
 
 # - name: Universität Dortmund
