@@ -27,10 +27,10 @@ The project now targets:
 * support for suggestion of suitable data repositores, and possibly cost estimations based on their terms
 * extension of interfaces to authentication and authorisation systems
 * participation in the effort of creating an international exchange format for DMP
-* improvement of technical installation, maitenance and update procedures 
+* improvement of technical installation, maintenance and update procedures 
 
 The RDMO collaborates with multiple institutions, discipline specific and other scientific organisations, and also international 
-initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-team@listserv.dfn.de] . 
+initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-team@listserv.dfn.de]. 
 
 The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
 
