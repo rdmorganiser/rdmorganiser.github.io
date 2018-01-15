@@ -19,6 +19,7 @@ Among the core functionalities of RDMO are:
 * built in multilingual support
 * templates for various purposes, e.g. funder required DMP 
 
+In the first project phase these features were implemented to use RDMO for data management. RDMO is now in its second project phase.
 The project now targets:
 
 * extending the data model towards task definition and handling
@@ -28,6 +29,8 @@ The project now targets:
 * extension of interfaces to authentication and authorisation systems
 * participation in the effort of creating an international exchange format for DMP
 * improvement of technical installation, maintenance and update procedures 
+* sustainibility and community building
+* dissemination and training
 
 The RDMO collaborates with multiple institutions, discipline specific and other scientific organisations, and also international 
 initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-team@listserv.dfn.de]. 

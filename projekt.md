@@ -21,15 +21,18 @@ Zu den Kernfunktionalitäten von RDMO zählen:
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
 * Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.
 
-Entwicklungsziele für die zweite Projektphase sind insbesondere:
+Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisatio des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in zweiten Phase.
+Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
 
 * Erweiterung des Datenmodells um Aufgaben
 * ein Rollenkonzept mit rollenbezogenen Ansichten, um Informationen und Aufgaben zielgruppenspezifisch und projektübergreifend zu verwalten
 * Unterstützung von Repositorien und Identifiersystemen, um Datenmanagementpläne mit den tatsächlichen Daten in temporären Projektspeicherorten bzw. in dauerhaften Datenrepositorien zu verlinken.
 * Unterstützung der Auswertung von DMPs, um z.B. automatisch Datenrepositorien zu empfehlen oder Kostenabschätzung anhand der Kriterien der Datenrepositorien durchzuführen
-* Ausbau der unterstützten Authentifizierungs- und Autorisierungs-Systeme
+* Ausbau der unterstützten Authentifizierungs- und Autorisierungs-Systeme (LDAP, Shibboleth, OAuth, ORCID)
 * Beteiligung an der Entwicklung eines internationalen Austauschformats für DMPs
 * verbesserte technische Wartbarkeit durch Standardisierung der Installation (Docker-Container) und Integration eines Update-Mechanismus
+* Nachhaltigkeit und Community-Building
+* Dissemination und Training
 
 Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 

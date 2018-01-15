@@ -5,7 +5,7 @@ key: outreach
 lang: en
 ---
 
-Outreach
+Events
 ========
 
 Additionally to workshops and activities organised by the project there are various activities, presentations and interactions on national and international level.

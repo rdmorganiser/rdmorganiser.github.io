@@ -13,13 +13,6 @@ phase1:
   path:
     de: /erste-projektphase
     en: /en/first-project-phase
-workpackages:
-  label:
-    de: Arbeitspakete
-    en: Work packages
-  path:
-    de: /arbeitspakete
-    en: /en/workpackages
 software:
   label:
     de: Software
@@ -27,10 +20,24 @@ software:
   path:
     de: /software
     en: /en/software
+documentation:
+  label:
+    de: Dokumentation
+    en: Documentation
+  path:
+    de: /dokumentation
+    en: /en/documentation
+latest:
+  label:
+    de: Aktuelles
+    en: News
+  path:
+    de: /aktuelles
+    en: /en/news
 outreach:
   label:
-    de: Vernetzung
-    en: Outreach
+    de: Veranstaltungen
+    en: Events
   path:
     de: /vernetzung
     en: /en/outreach
