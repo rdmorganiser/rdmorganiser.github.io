@@ -17,7 +17,7 @@ New
 ---
 
 * Jan 2018: Dr. Kerstin Vanessa Wedlich gets new membr of the project team. 
-* Dec 2017: Tutorial "How do I create a catalogue in RDMO?"(in German) published: [here](https://forschungsdaten.org/index.php/Katalog_erstellen)
+* Dec 2017: Tutorial ["How do I create a catalogue in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen)(in German) published
 
 So far
 ------

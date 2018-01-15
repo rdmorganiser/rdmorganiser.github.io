@@ -17,7 +17,7 @@ Neu
 ---
 
 * Jan 2018: Dr. Kerstin Vanessa Wedlich ist dem RDMO-Team beigetreten.
-* Dez 2017: Tutorial "Wie erstelle ich einen Fragenktalog in RDMO?" veröffentlicht: [hier]{https://forschungsdaten.org/index.php/Katalog_erstellen}
+* Dez 2017: Tutorial ["Wie erstelle ich einen Fragenktalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) veröffentlicht
 
 Bisher
 ------

@@ -22,7 +22,7 @@ Tutorials
 
 Es werden Tutorials zu spezifischen Fragen auf unserer Projektseite im Wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO) verlinkt.
 
-* "Wie erstelle ich einen Fragenkatalog in RDMO?" [Tutorial](https://forschungsdaten.org/index.php/Katalog_erstellen)
+* ["Wie erstelle ich einen Fragenkatalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen)
 * weitere Tutorials folgen
 
 FAQs
