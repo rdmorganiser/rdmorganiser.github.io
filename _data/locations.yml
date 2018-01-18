@@ -55,9 +55,6 @@
   lon: 49.929511
   color: blue
 
-- name: Universität Bochum
-  url: http://www.ruhr-uni-bochum.de
-
 - name: Universitäts- und Landesbibliothek Darmstadt
   url: https://tudmo.ulb.tu-darmstadt.de
   contact: Gerald Langhanke
