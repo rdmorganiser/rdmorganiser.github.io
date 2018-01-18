@@ -1,7 +1,14 @@
 index:
-  path:
+  path: 
     de: /
     en: /en
+latest:
+  label:
+    de: Aktuelles
+    en: News
+  path:
+    de: /aktuelles
+    en: /en/news
 project:
   label:
     de: Projekt
@@ -27,13 +34,6 @@ documentation:
   path:
     de: /dokumentation
     en: /en/documentation
-latest:
-  label:
-    de: Aktuelles
-    en: News
-  path:
-    de: /aktuelles
-    en: /en/news
 outreach:
   label:
     de: Veranstaltungen

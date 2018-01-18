@@ -16,10 +16,13 @@ Auf diesen Seiten informieren wir über unser [Projekt]({{ site.baseurl }}/proje
 Eine Demo-Instanz finden Sie unter:
 : [rdmo.aip.de](https://rdmo.aip.de)
 
-Unsere öffentliche Mailingliste:
+Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link:
 : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
 Folgen Sie uns auf Twitter:
 : [twitter.com/rdmorganiser](https://twitter.com/rdmorganiser)
 
+Diskutieren Sie mit uns in Slack, einer webbasierten Software:
+: [rdmo.slack.com](https://rdmo.slack.com)
+ 
 Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.

@@ -23,19 +23,16 @@ On these pages, we provide information about the [project]({{ site.baseurl }}/en
 
 More information about the project and our software can be found on the following websites:
 
-GitHub organisation und source code
-: [github.com/rdmorganiser](https://github.com/rdmorganiser)
-
-Documentation
-: [rdmo.readthedocs.io](https://rdmo.readthedocs.io/en/latest)
-
-Demo instance
+Demo instance:
 : [rdmo.aip.de](https://rdmo.aip.de)
 
-Public mailing list
+Register for our public mailing list:
 : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
-Twitter
+Follow us on Twitter:
 : [twitter.com/rdmorganiser](https://twitter.com/rdmorganiser)
+
+Discuss with us on Slack, a web-based software:
+: [rdmo.slack.com](https://rdmo.slack.com)
 
 For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
