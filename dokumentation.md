@@ -11,11 +11,11 @@ Dokumentation
 RDMO ist unter [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/latest) dokumentiert. In dem linken Menü befinden sich mehrere Unterpunkte:
 
 * [Installation](https://rdmo.readthedocs.io/de/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
-* [Einsatz](https://rdmo.reasthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem EInsatz auf einem Webserver betrieben werden
-* [Konfiguration](https://rdmo.readthedocs.io/de/latest/confoguration/index.html) - RDMO kann individuell angepasst werden
+* [Einsatz](https://rdmo.readthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem EInsatz auf einem Webserver betrieben werden
+* [Konfiguration](https://rdmo.readthedocs.io/de/latest/configuration/index.html) - RDMO kann individuell angepasst werden
 * [Administration](https://rdmo.readthedocs.io/de/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
 * [Management](https://rdmo.readthedocs.io/de/latest/management/index.html) - Verwalten, Anlegen und Verändern des Domainbaumes, der Fragekataloge und Ansichten
-* [Upgrade](https://rdmo.readthedocs.de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
+* [Upgrade](https://rdmo.readthedocs.io/de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
 
 Tutorials
 =========

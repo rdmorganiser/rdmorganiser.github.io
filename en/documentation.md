@@ -9,12 +9,12 @@ Documentation
 
 RDMO is documented at [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/latest) In the left-hand site menu there are following keywords:
 
-* [Installation](https://rdmo.readthedocs.io/en/latest/installtion/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
+* [Installation](https://rdmo.readthedocs.io/en/latest/installation/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
 * [Deployment](https://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
 * [Configuration](https://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO can be adapted individually
-* [Administration](https://rdmo.readthedocs.io/en/administration/index.html) - manage users, groups and access permissions
-* [Management](https://rdmo.readthedocs.io/en/latest/management/latest.html) - manage, create and change the domain tree, catlogues and templates 
-* [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/latest.html) - upgrade the RDMO app 
+* [Administration](https://rdmo.readthedocs.io/en/latest/administration/index.html) - manage users, groups and access permissions
+* [Management](https://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catlogues and templates 
+* [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app 
 
 Tutorials
 =========
