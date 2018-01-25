@@ -29,4 +29,4 @@ Es werden Tutorials zu spezifischen Fragen auf unserer Projektseite im Wiki [for
 FAQs
 ====
 
-(in Arbeit)
+* [FAQs](http://www.forschungsdaten.org/index.php/FAQs)

@@ -28,5 +28,5 @@ There are tutorials for specific questions published on our project-describing w
 FAQs
 ====
 
-(in progress)
+* [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
