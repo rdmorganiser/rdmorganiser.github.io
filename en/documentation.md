@@ -21,8 +21,10 @@ Tutorials
 
 There are tutorials for specific questions published on our project-describing webpage in the wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO).
 
-* ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) (only German)
-* ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/ansicht_erstellen) (only German)
+* ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
+(only German)
+* ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/ansicht_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
+(only German)
 *  further tutorials are in progress
 
 FAQs

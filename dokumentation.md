@@ -22,8 +22,9 @@ Tutorials
 
 Es werden Tutorials zu spezifischen Fragen auf unserer Projektseite im Wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO) verlinkt.
 
-* ["Wie erstelle ich einen Fragenkatalog in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
-* ["wie erstelle ich eine Ansicht in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
+* ["Wie erstelle ich einen Fragenkatalog in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [PDF]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
+* ["wie erstelle ich eine Ansicht in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [PDF]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
+
 * weitere Tutorials folgen
 
 FAQs
