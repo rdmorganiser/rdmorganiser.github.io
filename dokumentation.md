@@ -37,3 +37,10 @@ FAQs
 ====
 
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
+
+Fragenkatalog
+=============
+
+Einen Überblick aller Fragen des vollständigen RDMO-Katalog als PDF finden Sie hier:
+
+[Fragenübersicht]({{ site.baseurl }}/docs/Fragen.pdf)	[Fragen mit Hilfetext]({{ site.baseurl }}/docs/Fragen_mit_Hilfe.pdf)
