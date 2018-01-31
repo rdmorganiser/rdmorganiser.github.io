@@ -19,7 +19,13 @@ RDMO is documented at [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/lates
 Tutorials
 =========
 
-There are tutorials for specific questions published on our project-describing webpage in the wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO).
+We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO).
+
+For Users:
+
+* Quickstart Guide [pdf]({{ start.baseurl }}/docs/Schnellstartanleitung.pdf) (Only German)
+
+For Admins:
 
 * ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
 (only German)
