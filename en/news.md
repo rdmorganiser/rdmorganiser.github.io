@@ -17,7 +17,7 @@ Upcoming
 New
 ---
 
-* Feb 2018: PhD Olaf Michaelis becomes a new member of the project team.
+* Feb 2018: Olaf Michaelis becomes a new member of the project team.
 * Jan 2018: [FAQs](http://www.forschungsdaten.org/index.php/FAQs) available
 * Jan 2018: Second tutorial ["How do I create a view in RDMO?"](https://forschungsdaten.org/index.php/ansicht_erstellen) (in German) published.
 * Jan 2018: A catalog for the Switzer National Fonds (SNF) was created.
