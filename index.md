@@ -12,6 +12,8 @@ Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es we
 
 Auf diesen Seiten informieren wir über unser [Projekt]({{ site.baseurl }}/projekt) mit seinen Arbeitspaketen, die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/documentation), [Aktuelles]({{site.baseurl}}/latest),  unsere [Veranstaltungen]({{ site.baseurl }}/vernetzung) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
 
+Die freie Software finden Sie unter:
+: [github.com](https://github.com/rdmorganiser)
 
 Eine Demo-Instanz finden Sie unter:
 : [rdmo.aip.de](https://rdmo.aip.de)
