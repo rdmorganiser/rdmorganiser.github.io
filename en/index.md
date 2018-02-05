@@ -23,6 +23,9 @@ On these pages, we provide information about the [project]({{ site.baseurl }}/en
 
 More information about the project and our software can be found on the following websites:
 
+The free software:
+: [github.com](https://github.com/rdmorganiser)
+
 Demo instance:
 : [rdmo.aip.de](https://rdmo.aip.de)
 
