@@ -8,7 +8,7 @@ lang: de
 Software
 ========
 
-RDMO ist als Webanwendung realisiert und steht, auch schon in der Entwicklungsphase, als Open-Source Software auf [github.com](https://github.com/rdmorganiser) zur Verfügung. Die Software soll es sowohl einzelnen Forschenden als auch Kollaborationen erlauben, alle für das nachhaltige Datenmanagement nötigen Informationen zentral einzugeben und zu verwalten. Auf der obersten Ebene werden diese Informationen anhand von durch die Nutzer im jeweiligen Forschungskontext zu definierenden *Projekten* verwaltet.
+RDMO ist als Webanwendung realisiert und steht, auch schon in der Entwicklungsphase, als Open-Source Software auf [github.com](https://github.com/rdmorganiser) zur Verfügung. Die Software soll es sowohl einzelnen Forschenden als auch Kooperationspartner erlauben, alle für das nachhaltige Datenmanagement nötigen Informationen zentral einzugeben und zu verwalten. Auf der obersten Ebene werden diese Informationen anhand von durch die Nutzer im jeweiligen Forschungskontext zu definierenden *Projekten* verwaltet.
 
 In der jetzigen Planung wird RDMO folgende Features umfassen:
 
