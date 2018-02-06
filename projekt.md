@@ -26,7 +26,7 @@ Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
 
 * Erweiterung des Datenmodells um Aufgaben
 * ein Rollenkonzept mit rollenbezogenen Ansichten, um Informationen und Aufgaben zielgruppenspezifisch und projektübergreifend zu verwalten
-* Unterstützung von Repositorien und Identifiersystemen, um Datenmanagementpläne mit den tatsächlichen Daten in temporären Projektspeicherorten bzw. in dauerhaften Datenrepositorien zu verlinken.
+* Unterstützung von Repositorien und Identifiezierungssystemen, um Datenmanagementpläne mit den tatsächlichen Daten in temporären Projektspeicherorten bzw. in dauerhaften Datenrepositorien zu verlinken.
 * Unterstützung der Auswertung von DMPs, um z.B. automatisch Datenrepositorien zu empfehlen oder Kostenabschätzung anhand der Kriterien der Datenrepositorien durchzuführen
 * Ausbau der unterstützten Authentifizierungs- und Autorisierungs-Systeme (LDAP, Shibboleth, OAuth, ORCID)
 * Beteiligung an der Entwicklung eines internationalen Austauschformats für DMPs
