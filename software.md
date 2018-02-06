@@ -50,7 +50,6 @@ Besonderen Wert legen wir auf die reibungslose Installation und Anpassbarkeit vo
     * Hilfe-/Erläuterungstexte inkl. Verlinkung zu externen Informationsquellen
     * Vorlagen für textuelle Datenmanagementpläne
     * Zu erledigende Aufgaben
-    * Hilfe-/Erläuterungstexte inkl. Verlinkung zu externen Informationsquellen
 * Integration in die lokale Infrastruktur
     * Autorisierung und Authentifizierung
     * Schnittstellen
