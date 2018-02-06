@@ -17,7 +17,7 @@ Eingabe
 
 Die Eingabe der Informationen zu einem Projekt erfolgt in Form eines strukturierten Interviews über ein interaktives Webinterface. Dies beinhaltet folgende Funktionalitäten:
 
-* Kollaboratives Arbeiten der verschiedenen Stakeholder
+* Kooperatives Arbeiten der verschiedenen Stakeholder
 * Überspringen redundanter Fragen auf Basis bereits gegebener Antworten
 * Fortschrittsanzeige der bereits getätigten Eingaben
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.)
