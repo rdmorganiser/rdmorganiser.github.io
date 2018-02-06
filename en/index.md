@@ -5,9 +5,6 @@ key: index
 lang: en
 ---
 
-RDMO project continues
-====
-
 The Research Data Management Organiser (RDMO) enables institutions as well as researchers
 to plan and carry out their management of research data. RDMO can assemble all relevant planning information 
 and data management tasks across the whole life cycle of the research data. 
