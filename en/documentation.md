@@ -27,9 +27,9 @@ For Users:
 
 For Admins:
 
-* ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
+* ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}docs/TutorialFragenkatalog.pdf)
 (only German)
-* ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/ansicht_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
+* ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/ansicht_erstellen) [pdf]({{ site.baseurl }}docs/TutorialAnsicht.pdf)
 (only German)
 *  further tutorials are in progress
 
@@ -43,4 +43,4 @@ Questionaire
 
 An overview of all questions in the RDMO catalog as pdf can be found here:
 
-[Questions]({{ site.baseurl }}/docs/Questions.pdf)	[Questions with help text]({{ site.baseurl }}/docs/Questions_with_help.pdf)
+[Questions]({{ site.baseurl }}docs/Questions.pdf)	[Questions with help text]({{ site.baseurl }}docs/Questions_with_help.pdf)

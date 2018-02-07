@@ -1,57 +1,57 @@
 index:
-  path: 
-    de: /
-    en: /en
+  path:
+    de:
+    en: en/
 latest:
   label:
     de: Aktuelles
     en: News
   path:
-    de: /aktuelles
-    en: /en/news
+    de: aktuelles/
+    en: en/news/
 project:
   label:
     de: Projekt
     en: Project
   path:
-    de: /projekt
-    en: /en/project
+    de: projekt/
+    en: en/project/
 phase1:
   path:
-    de: /erste-projektphase
-    en: /en/first-project-phase
+    de: erste-projektphase/
+    en: en/first-project-phase/
 software:
   label:
     de: Software
     en: Software
   path:
-    de: /software
-    en: /en/software
+    de: software/
+    en: en/software/
 documentation:
   label:
     de: Dokumentation
     en: Documentation
   path:
-    de: /dokumentation
-    en: /en/documentation
+    de: dokumentation/
+    en: en/documentation/
 outreach:
   label:
     de: Veranstaltungen
     en: Events
   path:
-    de: /vernetzung
-    en: /en/outreach
+    de: vernetzung/
+    en: en/outreach/
 cooperation:
   label:
     de: Kooperationen
     en: Cooperations
   path:
-    de: /kooperationen
-    en: /en/cooperations
+    de: kooperationen/
+    en: en/cooperations/
 team:
   label:
     de: Team
     en: Team
   path:
-    de: /team
-    en: /en/team
+    de: team/
+    en: en/team/

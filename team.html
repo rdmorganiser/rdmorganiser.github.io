@@ -4,58 +4,28 @@ layout: page
 key: team
 lang: de
 
-current:
-- text: "**Jochen Klar** ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er arbeitet dort an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen. Er ist Teil des Redaktionsteams von [forschungsdaten.org](http://www.forschungsdaten.org/)."
-  image: /img/team/klar.jpg
-
-- text: "**Janine Vierheller** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeitsschwerpunkte sind Nachhaltigkeit, Community-Building, Dissemination und Training von RDMO."
-  image: /img/team/vierheller.jpg
-
-- text: "**Kerstin Wedlich** ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im bmFM-Info- und im RDMO-Projekt. sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
-  image: /img/team/kerstin.jpg
-
-- text: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
-  image: /img/team/kramer.jpg
-
-- text: "**Harry Enke** leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er ist Sprecher des [Arbeitskreis Forschungsdaten der Leibniz-Gemeinschaft](http://www.leibniz-gemeinschaft.de/ueber-uns/organisation/arbeitskreise/arbeitskreis-forschungsdaten/)."
-  image: /img/team/enke.jpg
-
-- text: "**Heike Neuroth** ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
-  image: /img/team/neuroth.jpg
-
-- text: "**Jens Ludwig** ist Sprecher der gemeinsamen Arbeitsgruppe \"Forschungsdaten\" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/)."
-  image: /img/team/ludwig.jpg
-
-- text: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). Dort leitet er [bwFDM-Info](https://bwfdm.scc.kit.edu) und koordiniert [E-Science Projekte des Landes Baden-Württemberg](https://www.forschungsdaten.info/projekte/). Er ist Teil des Redaktionsteams von [forschungsdaten.info](https://forschungsdaten.info)."
-  image: /img/team/tristram.png
-
-former:
-- text: "**Claudia Engelhardt** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
-  image: /img/team/engelhardt.jpg
-
-- text: "**Martin Heger** ist Master in Informationswissenschaft ([Fachhochschule Potsdam](http://www.fh-potsdam.de/)). Seine Masterarbeit ist \"Datenmodellierung für Forschungsdatenmanagementpläne\"."
-  image: /img/team/heger.jpg
+# team data moved to _data/team.yml
 
 ---
 
 <h1>Team</h1>
 
-{% for member in page.current %}
+{% for member in site.data.team.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text | markdownify }}
+        {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}
 
 <h2>Ehemalige Mitarbeiterinnen und Mitarbeiter</h2>
 
-{% for member in page.former %}
+{% for member in site.data.team.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text | markdownify }}
+        {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}

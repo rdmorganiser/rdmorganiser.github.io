@@ -1,0 +1,56 @@
+current:
+- text:
+    de: "**Harry Enke** leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er ist Sprecher des [Arbeitskreis Forschungsdaten der Leibniz-Gemeinschaft](http://www.leibniz-gemeinschaft.de/ueber-uns/organisation/arbeitskreise/arbeitskreis-forschungsdaten/)."
+    en: "**Harry Enke** leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](http://www.leibniz-gemeinschaft.de/ueber-uns/organisation/arbeitskreise/arbeitskreis-forschungsdaten/)."
+  image: img/team/enke.jpg
+
+- text:
+    de: "**Jochen Klar** ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er arbeitet dort an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen. Er ist Teil des Redaktionsteams von [forschungsdaten.org](http://www.forschungsdaten.org/)."
+    en: "**Jochen Klar** works as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). His specialities are the development and operation of astronomical databases and web services. He works in interdisciplinary projects researching data management and data publication infrastructures. He is a member of the editorial team of [forschungsdaten.org](http://www.forschungsdaten.org/)."
+  image: img/team/klar.jpg
+
+- text:
+    de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
+    en: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
+  image: img/team/kramer.jpg
+
+- text:
+    de: "**Jens Ludwig** ist Sprecher der gemeinsamen Arbeitsgruppe \"Forschungsdaten\" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/)."
+    en: "**Jens Ludwig** is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/)."
+  image: img/team/ludwig.jpg
+
+# - text:
+#     de: "**Olaf Michaelis** ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+#     en: "**Olaf Michaelis** is a research associate at the [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+#   image: img/team/michaelis.jpg
+
+- text:
+    de: "**Heike Neuroth** ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
+    en: "**Heike Neuroth** is a professor for Library Sciences at [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/). Her work comprises of many activities in the areas of electronic archiving, research data management, long-term preservation and digital humanities."
+  image: img/team/neuroth.jpg
+
+- text:
+    de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). Dort leitet er [bwFDM-Info](https://bwfdm.scc.kit.edu) und koordiniert [E-Science Projekte des Landes Baden-Württemberg](https://www.forschungsdaten.info/projekte/). Er ist Teil des Redaktionsteams von [forschungsdaten.info](https://forschungsdaten.info)."
+    en: "**Frank Tristram** is a research associate at [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). He leads [bwFDM-Info](https://bwfdm.scc.kit.edu) and coordinates the [E-Science projects in the state of Baden-Württemberg](https://www.forschungsdaten.info/projekte/). He is a member of the editorial team of [forschungsdaten.info](https://forschungsdaten.info)."
+  image: img/team/tristram.png
+
+- text:
+    de: "**Janine Vierheller** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeitsschwerpunkte sind Nachhaltigkeit, Community-Building, Dissemination und Training von RDMO."
+    en: "**Janine Vierheller** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on sustainability, community building, dissemination and training of RDMO."
+  image: img/team/vierheller.jpg
+
+- text:
+    de: "**Kerstin Wedlich** ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im bmFM-Info- und im RDMO-Projekt. sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
+    en: "**Kerstin Wedlich** is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) im bwFDM-Info and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
+  image: img/team/wedlich.jpg
+
+former:
+- text:
+    de: "**Claudia Engelhardt** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
+    en: "**Claudia Engelhardt** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
+  image: img/team/engelhardt.jpg
+
+- text:
+    de: "**Martin Heger** ist Master in Informationswissenschaft ([Fachhochschule Potsdam](http://www.fh-potsdam.de/)). Seine Masterarbeit ist \"Datenmodellierung für Forschungsdatenmanagementpläne\"."
+    en: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
+  image: img/team/heger.jpg

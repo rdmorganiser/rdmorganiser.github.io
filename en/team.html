@@ -4,57 +4,28 @@ layout: page
 key: team
 lang: en
 
-current:
-- text: "**Jochen Klar** works as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). His specialities are the development and operation of astronomical databases and web services. He works in interdisciplinary projects researching data management and data publication infrastructures. He is a member of the editorial team of [forschungsdaten.org](http://www.forschungsdaten.org/)."
-  image: /img/team/klar.jpg
-
-- text: "**Janine Vierheller** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on sustainability, community building, dissemination and training of RDMO."
-  image: /img/team/vierheller.jpg
-
-- text: "**Kerstin Wedlich** is a research associate at Karlsruhe Isntitute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) im bwFDM-Info and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
-  image: /img/team/kerstin.jpg
-
-- text: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
-  image: /img/team/kramer.jpg
-
-- text: "**Harry Enke** leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](http://www.leibniz-gemeinschaft.de/ueber-uns/organisation/arbeitskreise/arbeitskreis-forschungsdaten/)."
-  image: /img/team/enke.jpg
-
-- text: "**Heike Neuroth** is a professor for Library Sciences at [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/). Her work comprises of many activities in the areas of electronic archiving, research data management, long-term preservation and digital humanities."
-  image: /img/team/neuroth.jpg
-
-- text: "**Jens Ludwig** is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](http://www.langzeitarchivierung.de/Subsites/nestor/)."
-  image: /img/team/ludwig.jpg
-
-- text: "**Frank Tristram** is a research associate at [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). He leads [bwFDM-Info](https://bwfdm.scc.kit.edu) and coordinates the [E-Science projects in the state of Baden-Württemberg](https://www.forschungsdaten.info/projekte/). He is a member of the editorial team of [forschungsdaten.info](https://forschungsdaten.info)."
-  image: /img/team/tristram.png
-
-former:
-- text: "**Claudia Engelhardt** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
-  image: /img/team/engelhardt.jpg
-- text: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
-  image: /img/team/heger.jpg
+# team data moved to _data/team.yml
 
 ---
 
 <h1>Team</h1>
 
-{% for member in page.current %}
+{% for member in site.data.team.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text | markdownify }}
+        {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
 
 <h2>Former team members</h2>
 
-{% for member in page.former %}
+{% for member in site.data.team.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text | markdownify }}
+        {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}

@@ -24,12 +24,12 @@ Alle unsere Tutorials werden hier und auch  auf unserer Projektseite im Wiki [fo
 
 Für Nutzer:
 
-* Schnellstart-Anleitung: [PDF]({{ site.baseurl }}/docs/Schnellstartansicht.pdf)
+* Schnellstart-Anleitung: [PDF]({{ site.baseurl }}docs/Schnellstartansicht.pdf)
 
 Für Administratoren:
 
-* ["Wie erstelle ich einen Fragenkatalog in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [PDF]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
-* ["Wie erstelle ich eine Ansicht in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [PDF]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
+* ["Wie erstelle ich einen Fragenkatalog in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [PDF]({{ site.baseurl }}docs/TutorialFragenkatalog.pdf)
+* ["Wie erstelle ich eine Ansicht in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [PDF]({{ site.baseurl }}docs/TutorialAnsicht.pdf)
 
 * weitere Tutorials folgen
 
@@ -43,4 +43,4 @@ Fragenkatalog
 
 Einen Überblick aller Fragen des vollständigen RDMO-Katalog als PDF finden Sie hier:
 
-[Fragenübersicht]({{ site.baseurl }}/docs/Fragen.pdf)	[Fragen mit Hilfetext]({{ site.baseurl }}/docs/Fragen_mit_Hilfe.pdf)
+[Fragenübersicht]({{ site.baseurl }}docs/Fragen.pdf)	[Fragen mit Hilfetext]({{ site.baseurl }}docs/Fragen_mit_Hilfe.pdf)
