@@ -12,7 +12,7 @@ lang: de
 
 {% for member in site.data.team.current %}
 <div class="team-member">
-    <img src="{{ site.baseurl }}{{ member.image}}" />
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
         {{ member.text.de | markdownify }}
     </div>
@@ -23,7 +23,7 @@ lang: de
 
 {% for member in site.data.team.former %}
 <div class="team-member">
-    <img src="{{ site.baseurl }}{{ member.image}}" />
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
         {{ member.text.de | markdownify }}
     </div>

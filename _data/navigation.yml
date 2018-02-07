@@ -7,15 +7,15 @@ latest:
     de: Aktuelles
     en: News
   path:
-    de: aktuelles/
-    en: en/news/
+    de: aktuelles
+    en: en/news
 project:
   label:
     de: Projekt
     en: Project
   path:
-    de: projekt/
-    en: en/project/
+    de: projekt
+    en: en/project
 phase1:
   path:
     de: erste-projektphase/

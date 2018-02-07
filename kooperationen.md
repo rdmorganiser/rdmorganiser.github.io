@@ -5,7 +5,7 @@ key: cooperation
 lang: de
 ---
 
-<link rel="stylesheet" href="/css/leaflet.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};
@@ -28,9 +28,9 @@ lang: de
 </script>
 {% endraw %}
 
-<script src="/js/handlebars.min.js"></script>
-<script src="/js/leaflet.js"></script>
-<script src="/js/map.js"></script>
+<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
+<script src="{{ site.baseurl }}/js/leaflet.js"></script>
+<script src="{{ site.baseurl }}/js/map.js"></script>
 
 <div id="map" class="map"></div>
 

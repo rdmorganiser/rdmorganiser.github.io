@@ -16,7 +16,7 @@ The tool will be extended by enhancing its implementation of roles and interface
 e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization. 
 Tutorials, documentation and other material are planned for dissemination, and workshops for users and developers.
 
-On these pages, we provide information about the [project]({{ site.baseurl }}en/project), our [workpackages]({{ site.baseurl }}en/workpackages), our [outreach activities]({{ site.baseurl }}en/outreach) and [cooperations]({{ site.baseurl }}en/cooperations/).
+On these pages, we provide information about the [project]({{ site.baseurl }}/en/project), our [workpackages]({{ site.baseurl }}/en/workpackages), our [outreach activities]({{ site.baseurl }}/en/outreach) and [cooperations]({{ site.baseurl }}/en/cooperations/).
 
 More information about the project and our software can be found on the following websites:
 

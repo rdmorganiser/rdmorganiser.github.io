@@ -38,4 +38,4 @@ Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen 
 
 Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
 
-Die Beschreibung der ersten Projektphase kann [hier]({{ site.baseurl }}erste-projektphase) eingesehen werden.
+Die Beschreibung der ersten Projektphase kann [hier]({{ site.baseurl }}/erste-projektphase) eingesehen werden.

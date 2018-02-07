@@ -14,19 +14,19 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 
 * **Datenmanagementpläne. Eine Bestandsübersicht.**  
 *Marcus Heinrich, Martin Heger*  
-[Link zur Hausarbeit]({{ site.baseurl }}docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf)
+[Link zur Hausarbeit]({{ site.baseurl }}/docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf)
 
 * **Publikation von Forschungsdaten.**  
 *Christoph Steinhof*  
-[Link zur Hausarbeit]({{ site.baseurl }}docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf)
+[Link zur Hausarbeit]({{ site.baseurl }}/docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf)
 
 * **Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid.**  
 *Michaela Meyer*  
-[Link zur Hausarbeit]({{ site.baseurl }}docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
+[Link zur Hausarbeit]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
-Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdaten-managementpläne" verfasst. [Link zur Masterarbeit]({{ site.baseurl }}docs/Heger_MA.pdf)
+Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdaten-managementpläne" verfasst. [Link zur Masterarbeit]({{ site.baseurl }}/docs/Heger_MA.pdf)
 
 {% comment %}
 In den nächsten Wochen wird RDMO bei den folgenden Veranstaltungen vorgestellt:
