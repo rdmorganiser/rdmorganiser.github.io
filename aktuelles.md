@@ -8,27 +8,28 @@ lang: de
 Aktuelles
 =========
 
-Demnächst
----------
+Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://twitter.com/rdmorganiser).
 
-* Verbesserter Import und Export
-* Kickoff-Meeting vom RDMO-Team am 8. & 9.2.
 
-Neu
----
+Februar 2018
+------------
 
-* Feb 2018: Olaf Michaelis ist dem RDMO-Team beigetreten.
-* Jan 2018: [FAQs](http://www.forschungsdaten.org/index.php/FAQs) verfügbar
-* Jan 2018: Tutorial ["Wie erstelle ich eine Ansicht in RDMO?"](https://forschungsdaten.org/index.php/Ansicht_erstellen) veröffentlicht.
-* Jan 2018: Ein Fragenkatalog für die Schweizer Nationalfonds (SNF) wurde erstellt.
-* Jan 2018: Dr. Kerstin Vanessa Wedlich ist dem RDMO-Team beigetreten.
+Die aktuellen und neuen Mitglieder des RDMO-Projektteams kamen am 8. und 9. Februar 2018  zum **Kickoff-Meeting**
+am Leibnitz-Institut für Astrophysik Potsdam (AIP) zusammen.
 
-Bisher
-------
+Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf einen **Arbeitsplan** für die nächsten 6 Monate:
 
-* Dez 2017: Tutorial ["Wie erstelle ich einen Fragenktalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) veröffentlicht
-* Nov 2017: Release Version 0.9.0, Trennung von der RDMO-App und dem zentral verwalteten RDMO-Paket
-* Nov 2017: Janine Vierheller ist dem RDMO-Team beigetreten.
-* April - Nov: Vorträge und Verbesserungen von RDMO
-* Nov 2015 - April 2017: erste Projektphase
+* RDMO wird auch in Zukunft bei **Workshops und Konferenzen** Präsenz zeigen. Als nächstes werde wir bei der [Open Science Conference](https://www.open-science-conference.eu/) und dem [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) im März vor Ort sein. Beide Konferenzen finden in Berlin statt.
+* Außerdem identifizierten wir dringend benötigte **Features** und priorisierten ihre Implementation. Wir planen den viel gewünschten verbesserten Import/Export im nächsten Monat zu veröffentlichen. Danach werden wir uns um ein verbessertes Management-Interface kümmern. Dies wird auch die Möglichkeit Fragenkataloge, Abschnitte usw. kopieren und verschieben zu können umfassen.
+* Wir werden weiter an **Tutorials und Schulungs- sowie Outreachmaterialien** arbeiten.
+* Die meisten Institutionen die den Einsatz von RDMO planen, müssen ein **Verfahrensverzeichnis für den Datenschutz** und **Nutzungsbedingungen** formulieren. Wir planen dies durch das Bereitstellen von Vorlagen auf unserer Weibseite zu unterstützen.
 
+
+January 2018
+------------
+
+Wir begrüßen unsere neuen **Teammitglieder** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in [forschungsdaten.info](https://forschungsdaten.info) kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen.
+
+Unsere ersten beiden **Tutorials** zu ["Wie erstelle ich einen Fragenktalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) und ["Wie erstelle ich eine Ansicht in RDMO?"](https://forschungsdaten.org/index.php/Ansicht_erstellen) wurden veröffentlicht. Eine Seite für [häufig gestellte Fragen (FAQ)](http://www.forschungsdaten.org/index.php/FAQs) ist jetzt ebenfalls verfügbar.
+
+Ein neuer **Fragenkatalog für den Schweizer Nationalfonds (SNF)** wurde erstellt und kann auf [GitHub](https://github.com/rdmorganiser/rdmp-catalog) herruntergeladen werden.
