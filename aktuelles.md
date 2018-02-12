@@ -15,14 +15,14 @@ Februar 2018
 ------------
 
 Die aktuellen und neuen Mitglieder des RDMO-Projektteams kamen am 8. und 9. Februar 2018  zum **Kickoff-Meeting**
-am Leibnitz-Institut für Astrophysik Potsdam (AIP) zusammen.
+am Leibniz-Institut für Astrophysik Potsdam (AIP) zusammen.
 
 Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf einen **Arbeitsplan** für die nächsten 6 Monate:
 
 * RDMO wird auch in Zukunft bei **Workshops und Konferenzen** Präsenz zeigen. Als nächstes werde wir bei der [Open Science Conference](https://www.open-science-conference.eu/) und dem [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) im März vor Ort sein. Beide Konferenzen finden in Berlin statt.
-* Außerdem identifizierten wir dringend benötigte **Features** und priorisierten ihre Implementation. Wir planen den viel gewünschten verbesserten Import/Export im nächsten Monat zu veröffentlichen. Danach werden wir uns um ein verbessertes Management-Interface kümmern. Dies wird auch die Möglichkeit umfassen, Fragenkataloge, Abschnitte usw. kopieren und verschieben zu können. Es folgen die Anbindung an externe Software über Plugins und die Integration von APIs, z.B. re3data.org.
+* Außerdem identifizierten wir dringend benötigte **Features** und priorisierten ihre Implementation. Wir planen den oft gewünschten verbesserten Import/Export im nächsten Monat zu implementieren. Danach werden wir uns um ein verbessertes Management-Interface kümmern. Dies wird auch die Möglichkeit umfassen, Fragenkataloge, Abschnitte usw. kopieren und verschieben zu können. Es folgen die Anbindung an externe Software über Plugins und die Integration von APIs, z.B. re3data.org.
 * Wir werden weiter an **Tutorials und Schulungs- sowie Outreachmaterialien** arbeiten.
-* Die meisten Institutionen die den Einsatz von RDMO planen, müssen ein **Verfahrensverzeichnis für den Datenschutz** und **Nutzungsbedingungen** formulieren. Wir planen dies durch das Bereitstellen von Vorlagen auf unserer Weibseite zu unterstützen.
+* Die meisten Institutionen, die den Einsatz von RDMO planen, müssen eine **Verfahrensbescheibung für den Datenschutz** und **Nutzungsbedingungen** formulieren. Wir planen dies durch das Bereitstellen von Vorlagen auf unserer Weibseite zu unterstützen.
 
 
 Januar 2018
