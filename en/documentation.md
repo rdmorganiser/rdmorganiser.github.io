@@ -13,8 +13,8 @@ RDMO is documented at [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/lates
 * [Deployment](https://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
 * [Configuration](https://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO can be adapted individually
 * [Administration](https://rdmo.readthedocs.io/en/latest/administration/index.html) - manage users, groups and access permissions
-* [Management](https://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catlogues and templates 
-* [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app 
+* [Management](https://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
+* [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
 
 Tutorials
 =========

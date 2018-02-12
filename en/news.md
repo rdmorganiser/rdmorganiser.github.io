@@ -18,7 +18,7 @@ On 8th and 9th of February, the current and new members of the RDMO project team
 After a short introduction, we got down to business and agreed on our **work plan** for the next 6 months:
 
 * RDMO will be present also in future at **workshops and conferences**. The next meetings are the [Open Science Conference](https://www.open-science-conference.eu/) and the [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) in March. Both meetings are in Berlin.
-* We identified **upcoming features** in RDMO and prioritised their implementation. We plan to add the much wanted improved Import/Export in the next month. Next, we will improve the management interface, including the possibility to copy and move catalogs, sections, etc.
+* We identified **upcoming features** in RDMO and prioritised their implementation. We plan to add the much wanted improved Import/Export in the next month. Next, we will improve the management interface, including the possibility to copy and move catalogs, sections, etc. Following up, we will implement the interface to 3rd party tools via plugins and the integration of external API, e.g. re3data.org.
 * We will further work on **tutorials and material for training and outreach**.
 * Most institutions who plan to use RDMO will need to create a **documentation regarding data privacy regulations** and **terms of use** in the process. We plan to support this by providing corresponding templates on our webpage.
 
