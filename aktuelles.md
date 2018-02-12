@@ -25,8 +25,8 @@ Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf
 * Die meisten Institutionen die den Einsatz von RDMO planen, müssen ein **Verfahrensverzeichnis für den Datenschutz** und **Nutzungsbedingungen** formulieren. Wir planen dies durch das Bereitstellen von Vorlagen auf unserer Weibseite zu unterstützen.
 
 
-January 2018
-------------
+Januar 2018
+-----------
 
 Wir begrüßen unsere neuen **Teammitglieder** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in [forschungsdaten.info](https://forschungsdaten.info) kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen.
 
