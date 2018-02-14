@@ -65,11 +65,26 @@
 # - name: Universität Dortmund
 #   url: https://www.tu-dortmund.de/uni/de/Uni
 
-- name: Universitätsbibliothek Duisburg-Essen
+- name: Universität Düsseldorf (FoDaKo)
+  url: https://http://www.fodako.de
+  lat: 6.7899203
+  lon: 51.1952525
+  color: gray
 
-# - name: Universitäten von Düsseldorf, Siegen & Wuppertal
-#   url: https://www.uni-due.de/ub/index.php
-
+- name: Universität Wuppertal (FoDaKo)
+  contact: Torsten Rathman
+  url: https://http://www.fodako.de
+  lat: 7.1486939
+  lon: 51.2458565
+  color: gray
+  
+- name: Universität Siegen (FoDaKo)
+  contact: Thomas von Rekowski, Henning Bohn, Volker Hess
+  url: https://http://www.fodako.de
+  lat: 7.1486939
+  lon: 51.2458565
+  color: gray
+  
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/
 
