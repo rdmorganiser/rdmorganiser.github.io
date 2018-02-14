@@ -44,7 +44,11 @@
 
 - name: Göttingen eResearch Alliance
   url: http://www.eresearch.uni-goettingen.de/
-
+  contact: Timo Gnadt, Claudia Engelhardt
+  lat: 9.9358179
+  lon: 51.5400097
+  color: gray
+  
 # - name: Hessisches Forschungsdateninfrastrukture (HeFDI)
 #   url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
