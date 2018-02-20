@@ -41,6 +41,7 @@
 
 - name: bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
   url: https://bwfdm.scc.kit.edu
+  color: gray
 
 - name: Göttingen eResearch Alliance
   url: http://www.eresearch.uni-goettingen.de/
@@ -48,7 +49,7 @@
   lat: 9.9358179
   lon: 51.5400097
   color: gray
-  
+
 # - name: Hessisches Forschungsdateninfrastrukture (HeFDI)
 #   url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
@@ -70,25 +71,25 @@
 #   url: https://www.tu-dortmund.de/uni/de/Uni
 
 - name: Universität Düsseldorf (FoDaKo)
-  url: https://http://www.fodako.de
+  url: http://www.fodako.de
   lat: 6.7899203
   lon: 51.1952525
   color: gray
 
 - name: Universität Wuppertal (FoDaKo)
   contact: Torsten Rathman
-  url: https://http://www.fodako.de
+  url: http://www.fodako.de
   lat: 7.1486939
   lon: 51.2458565
   color: gray
-  
+
 - name: Universität Siegen (FoDaKo)
   contact: Thomas von Rekowski, Henning Bohn, Volker Hess
-  url: https://http://www.fodako.de
+  url: http://www.fodako.de
   lat: 8.0273001
   lon: 50.91082
   color: gray
-  
+
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/
 

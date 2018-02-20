@@ -12,19 +12,37 @@ lang: de
 </script>
 
 {% raw  %}
-<script id="marker-template" type="text/x-handlebars-template">
-    <h4>{{name}}</h4>
+<script id="popup-template" type="text/x-handlebars-template">
 
-    <dl>
-        {{#if url}}
-        <dt>URL</dt>
-        <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
-        {{/if}}
-        {{#if contact}}
-        <dt>Kontakt</dt>
-        <dd>{{contact}}</dd>
-        {{/if}}
-    </dl>
+<h4>{{name}}</h4>
+
+<dl>
+    {{#if url}}
+    <dt>URL</dt>
+    <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
+    {{/if}}
+    {{#if contact}}
+    <dt>Kontakt</dt>
+    <dd>{{contact}}</dd>
+    {{/if}}
+</dl>
+
+</script>
+{% endraw %}
+
+{% raw  %}
+<script id="legend-template" type="text/x-handlebars-template">
+
+<p>
+    <img src="/img/icons/marker-icon-green.png" /> Projektpartner
+</p>
+<p>
+    <img src="/img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
+</p>
+<p>
+    <img src="/img/icons/marker-icon-grey.png" /> Test-Instanzen
+</p>
+
 </script>
 {% endraw %}
 

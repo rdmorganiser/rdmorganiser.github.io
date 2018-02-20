@@ -234,6 +234,22 @@ footer .dfg-logo {
     }
 }
 
+.legend {
+    background-color: white;
+    padding: 4px 8px;
+}
+.legend p {
+    margin-bottom: 5px;
+}
+.legend p:last-child {
+    margin-bottom: 0;
+}
+.legend img {
+    height: 20px;
+    margin-right: 5px;
+}
+
+
 .talks {
     li {
         margin-bottom: 10px;
