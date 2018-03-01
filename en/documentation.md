@@ -44,3 +44,10 @@ Questionaire
 An overview of all questions in the RDMO catalog as pdf can be found here:
 
 [Questions]({{ site.baseurl }}/docs/Questions.pdf)	[Questions with help text]({{ site.baseurl }}/docs/Questions_with_help.pdf)
+
+Promotionmaterial
+=============
+
+We provide promotion material which can be freely used, hence under CC0 licence.
+
+* Postcard in pdf format (in German): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
