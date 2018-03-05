@@ -146,7 +146,7 @@ Projekt RDMO
 
 #### Phase 1 (November 2015 - April 2017)
 
-* Konzeption generischen Fragenkatalogs
+* Konzeption eines generischen Fragenkatalogs
 * Entwicklung der Software
 * Community und Nutzertests
 
@@ -171,7 +171,7 @@ Datenmanagementpläne
   * Langzeitarchivierung
 
 --
-* Erhöhung von Qualität und Effizienz von wissenschaftlicher Arbeit
+* Erhöhung der Qualität und Effizienz von wissenschaftlicher Arbeit
 * Mehr als nur Anforderung der Förderorganisation
 * Im Idealfall Gewinn für den Forschenden und die Institution
 
@@ -253,7 +253,7 @@ RDMO - Lokal statt zentral
 * Lokale Installation durch
   * Universitäten
   * Forschungsinstitute
-  * Infrastrukturen
+  * Infrastrukturanbieter
   * Kollaborationen
 * Anpassung an institutionelles Umfeld
 * Anpassung an disziplinspezifische Aspekte
@@ -270,7 +270,7 @@ Konzeption
   * Logische Strukturierung
   * Verknüpfung von Fragen, Antwortoptionen, Ansichten und Aufgaben
   * Hilfetexte und Links zu weiteren Informationen
-* Ausloten disziplinspezifische Anpassungsbedarfs
+* Ausloten von disziplinspezifischem Anpassungsbedarf
   * Astrophysik
   * Sozialwissenschaften
 * Interoperabilität mit Datenmodellen
@@ -335,8 +335,8 @@ class: inverted
 RDMO Tour Nutzerperspektive
 ----------------------
 
-* Zugang per lokalem Account, Oauth, LDAP Anbindung, Shibboleth
-* Strukturierung anhand von Projekten, Kollaboration
+* Zugang per lokalem Account, OAuth2, LDAP Anbindung, Shibboleth
+* Strukturierung anhand von Projekten, Kollaborationen
 * Strukturiertes Interview
   * verschiedene Widgets, kontollierte Vokabulare, Hilfetexte, Navigation
   * Reiter für verschiedene Projektpartner, Förderer, Datensätze, etc.
