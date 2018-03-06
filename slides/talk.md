@@ -373,7 +373,7 @@ RDMO Architektur
 </style>
 
 .architecture[
-    ![RDMO Architektur](img/architektur.svg)
+    ![RDMO Architektur](img/rdmo.svg)
 ]
 
 ---

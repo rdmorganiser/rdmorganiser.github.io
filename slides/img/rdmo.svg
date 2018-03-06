@@ -77,11 +77,11 @@
 			<text x="53.36" y="398.13" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Projekte</text>		</g>
 		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(161.232,-19.5)">
 			<title>Sheet.8</title>
-			<desc>Optionesets Optionen</desc>
+			<desc>Optionensets Optionen</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="56.6929" cy="379.157" width="113.39" height="56.6929"/>
 			<rect x="0" y="350.811" width="113.386" height="56.6929" class="st1"/>
-			<text x="24.27" y="374.36" class="st3" v:langID="1033"><v:paragraph v:spLine="-1.6" v:horizAlign="1"/><v:tabList/>Optionesets<v:newlineChar/><tspan
+			<text x="20.74" y="374.36" class="st3" v:langID="1033"><v:paragraph v:spLine="-1.6" v:horizAlign="1"/><v:tabList/>Optionensets<v:newlineChar/><tspan
 						x="31.4" dy="1.6em" class="st4">Optionen</tspan></text>		</g>
 		<g id="shape9-26" v:mID="9" v:groupContext="shape" transform="translate(217.925,-161.232)">
 			<title>Sheet.9</title>
