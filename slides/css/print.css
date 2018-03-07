@@ -1,6 +1,6 @@
 @page {
-    /*size: 1210px 681px;*/
-    size: 900px 680px;
+    size: 1210px 681px;
+    /* size: 900px 680px; */
     margin: 0;
 }
 @media print {
