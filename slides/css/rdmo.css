@@ -1,0 +1,148 @@
+@font-face {
+    font-family: "DroidSans";
+    src: url("../font/DroidSans.ttf");
+}
+@font-face {
+    font-family: "DroidSans";
+    src: url("../font/DroidSans-Bold.ttf"); font-weight: bold;
+}
+@font-face {
+    font-family: "DroidSansMono";
+    src: url("../font/DroidSansMono.ttf");
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url("../font/DroidSerif.ttf");
+}
+@font-face {
+    font-family: "DroidSerif";
+    src: url("../font/DroidSerif-Bold.ttf"); font-weight: bold;
+}
+body {
+    font-family: DroidSans, sans;
+    color: #333;
+}
+
+.remark-slide-content {
+    font-size: 26px;
+    padding: 20px 80px 20px 80px;
+}
+
+.remark-slide-content strong {
+    color: #101F70;
+}
+
+/* headlines */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: DroidSerif, serif;
+    font-weight: normal;
+    color: #101F70;
+}
+.remark-slide-content h1,
+.remark-slide-content h2,
+.remark-slide-content h3,
+.remark-slide-content h4 {
+    color: #004178;
+}
+.remark-slide-content h1,
+.remark-slide-content h2 {
+    font-weight: normal;
+}
+.remark-slide-content h1 {
+    font-size: 2em;
+    line-height: 50px;
+}
+.remark-slide-content h2 {
+    font-size: 1.5em;
+    line-height: 40px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.remark-slide-content h3 {
+    font-size: 1.2em;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.remark-slide-content h4 {
+    font-size: 1em;
+    line-height: 20px;
+}
+
+/* paragraphs */
+
+.remark-slide-content p {
+    margin-bottom: 20px;
+}
+
+/* lists */
+
+.remark-slide-content ol > li,
+.remark-slide-content ul > li {
+    margin-bottom: 0.5em;
+}
+.remark-slide-content ul > li > ul {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* links */
+
+.remark-slide-content a,
+.remark-slide-content a:hover,
+.remark-slide-content a:focus,
+.remark-slide-content a:visited {
+    color: #101F70;
+    text-decoration: none;
+}
+
+/* code */
+
+.remark-code,
+.remark-inline-code,
+.remark-code-line {
+    font-family: DroidSansMono, mono;
+}
+.remark-inline-code {
+    color: #f92672;
+}
+
+
+.inverted {
+    color: white;
+    background-color: #101F70;
+}
+.inverted h1, .inverted h2, .inverted h3, .inverted h4, .inverted h5 .inverted h6,
+.inverted a, .inverted a:hover, .inverted a:focus, .inverted a:visited {
+    color: white;
+}
+
+.shadow img {
+    box-shadow: 0 0 10px #666;
+}
+
+.attribution {
+    position: absolute;
+    left: 20px;
+    bottom: 12px;
+    opacity: .5;
+}
+.attribution p {
+    margin: 0;
+    font-size: 0.6em;
+}
+
+/* CC-BY logo */
+
+/*.remark-slide-content:after {
+    content: '';
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    height: 35px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../img/cc.png');
+}*/
