@@ -18,7 +18,7 @@ RDMO ist unter [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/latest) doku
 * [Upgrade](https://rdmo.readthedocs.io/de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
 
 Tutorials
-=========
+---------
 
 Alle unsere Tutorials werden hier und auch auf unserer Projektseite im Wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO) verlinkt.
 
@@ -34,12 +34,12 @@ Für Administratoren:
 * weitere Tutorials folgen
 
 FAQs
-====
+----
 
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
 Fragenkatalog
-=============
+-------------
 
 Einen Überblick aller Fragen des vollständigen RDMO-Katalog als PDF finden Sie hier:
 
@@ -47,7 +47,7 @@ Einen Überblick aller Fragen des vollständigen RDMO-Katalog als PDF finden Sie
 
 
 Werbematerial
-=============
+-------------
 
 Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0-Lizenz steht.
 

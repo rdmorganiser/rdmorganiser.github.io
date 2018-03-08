@@ -17,7 +17,7 @@ RDMO is documented at [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/lates
 * [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
 
 Tutorials
-=========
+---------
 
 We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO).
 
@@ -34,19 +34,19 @@ For Admins:
 *  further tutorials are in progress
 
 FAQs
-====
+----
 
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
 Questionaire
-============
+------------
 
 An overview of all questions in the RDMO catalog as pdf can be found here:
 
 [Questions]({{ site.baseurl }}/docs/Questions.pdf)	[Questions with help text]({{ site.baseurl }}/docs/Questions_with_help.pdf)
 
-Promotionmaterial
-=============
+Promotion material
+-----------------
 
 We provide promotion material which can be freely used, hence under CC0 licence.
 
