@@ -52,3 +52,4 @@ Promotion material
 We provide promotion material which can be freely used, hence under CC0 licence.
 
 * Postcard in pdf format (in German): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
+* Poster (in English): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg), which can be change, e.g. using the free software Inkscape
