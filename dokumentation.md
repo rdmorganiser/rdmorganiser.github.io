@@ -8,23 +8,23 @@ lang: de
 Dokumentation
 =============
 
-RDMO ist unter [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/latest) dokumentiert. In dem linken Menü befinden sich mehrere Unterpunkte:
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) dokumentiert. In dem linken Menü befinden sich mehrere Unterpunkte:
 
-* [Installation](https://rdmo.readthedocs.io/de/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
-* [Einsatz](https://rdmo.readthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
-* [Konfiguration](https://rdmo.readthedocs.io/de/latest/configuration/index.html) - RDMO kann individuell angepasst werden
-* [Administration](https://rdmo.readthedocs.io/de/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
-* [Management](https://rdmo.readthedocs.io/de/latest/management/index.html) - Verwalten, Anlegen und Verändern des Domainbaumes, der Fragekataloge und Ansichten
-* [Upgrade](https://rdmo.readthedocs.io/de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
+* [Installation](http://rdmo.readthedocs.io/de/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
+* [Einsatz](http://rdmo.readthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
+* [Konfiguration](http://rdmo.readthedocs.io/de/latest/configuration/index.html) - RDMO kann individuell angepasst werden
+* [Administration](http://rdmo.readthedocs.io/de/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
+* [Management](http://rdmo.readthedocs.io/de/latest/management/index.html) - Verwalten, Anlegen und Verändern des Domainbaumes, der Fragekataloge und Ansichten
+* [Upgrade](http://rdmo.readthedocs.io/de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
 
 Tutorials
 ---------
 
-Unsere Tutorials werden hier und auch meist auf unserer Projektseite im Wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO) verlinkt.
+Unsere Tutorials werden hier und auch meist auf unserer Projektseite im Wiki [forschungsdaten.org](http://forschungsdaten.org/index.php/RDMO) verlinkt.
 
 Für Nutzer:
 
-* Schnellstart-Anleitung: [PDF]({{ site.baseurl }}/docs/Schnellstartansicht.pdf)
+* Schnellstart-Anleitung: [PDF]({{ site.baseurl }}/docs/Schnellstartanleitung.pdf)
 
 Für Administratoren:
 

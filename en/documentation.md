@@ -7,19 +7,19 @@ lang: en
 Documentation
 =============
 
-RDMO is documented at [rdmo.readthedocs.io](https://rdmo.readthedocs.io/de/latest) In the left-hand site menu there are following keywords:
+RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) In the left-hand site menu there are following keywords:
 
-* [Installation](https://rdmo.readthedocs.io/en/latest/installation/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
-* [Deployment](https://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
-* [Configuration](https://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO can be adapted individually
-* [Administration](https://rdmo.readthedocs.io/en/latest/administration/index.html) - manage users, groups and access permissions
-* [Management](https://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
-* [Upgrade](https://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
+* [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
+* [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
+* [Configuration](http://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO can be adapted individually
+* [Administration](http://rdmo.readthedocs.io/en/latest/administration/index.html) - manage users, groups and access permissions
+* [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
+* [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
 
 Tutorials
 ---------
 
-We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](https://forschungsdaten.org/index.php/RDMO).
+We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](http://forschungsdaten.org/index.php/RDMO).
 
 For Users:
 
@@ -31,7 +31,7 @@ For Admins:
 (only German)
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
 (only German)
-* ["How do I create codnitiosn in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialBedingung.pdf) (only German)
+* ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialBedingung.pdf) (only German)
 *  further tutorials are in progress
 
 FAQs
