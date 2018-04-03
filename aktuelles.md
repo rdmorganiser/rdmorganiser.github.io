@@ -10,7 +10,12 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://twitter.com/rdmorganiser).
 
+März 2018
+---------
 
+In diesem Monat waren wir sowohl auf der Open Science Conference 2018 als auch auf dem 11. RDA Plenary vertreten und haben einige anregende Diskussionen geführt. Ein großes Thema sind sogenannte Machine-Actionable DMP (*maDMP*), also machinell auswertbare DMP. In RDMO haben wir von Anfang an die Unterstützung des Workflows während des gesamten Projekts und die Einbindung in Infrastrukturen zum Ziel und sind daher quasi Vorreier auf diesem Gebiet.
+Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine *Postkarte*, ein *Poster* und  *Vortragsfolien* für die Nachnutzung für Sie zur Verfügung.
+ 
 Februar 2018
 ------------
 

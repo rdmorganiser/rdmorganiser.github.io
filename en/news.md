@@ -10,6 +10,12 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://twitter.com/rdmorganiser).
 
+March 2018
+----------
+
+This month we attended the Open Science Conference 2018 and the 11th RDa plenary and had many stimulating discussions. One big topic are machine actionable DMPs (*maDMPs*). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
+Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a *postcard*, a *poster* and *presentation slides* for you to use freely.
+
 February 2018
 -------------
 
