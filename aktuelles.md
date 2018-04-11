@@ -8,7 +8,7 @@ lang: de
 Aktuelles
 =========
 
-Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://twitter.com/rdmorganiser).
+Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser).
 
 März 2018
 ---------
@@ -33,8 +33,8 @@ Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf
 Januar 2018
 -----------
 
-Wir begrüßen unsere neuen **Teammitglieder** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in [forschungsdaten.info](https://forschungsdaten.info) kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen.
+Wir begrüßen unsere neuen **Teammitglieder** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in [forschungsdaten.info](http://www.forschungsdaten.info) kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen.
 
-Unsere ersten beiden **Tutorials** zu ["Wie erstelle ich einen Fragenktalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) und ["Wie erstelle ich eine Ansicht in RDMO?"](https://forschungsdaten.org/index.php/Ansicht_erstellen) wurden veröffentlicht. Eine Seite für [häufig gestellte Fragen (FAQ)](http://www.forschungsdaten.org/index.php/FAQs) ist jetzt ebenfalls verfügbar.
+Unsere ersten beiden **Tutorials** zu ["Wie erstelle ich einen Fragenktalog in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) und ["Wie erstelle ich eine Ansicht in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) wurden veröffentlicht. Eine Seite für [häufig gestellte Fragen (FAQ)](http://www.forschungsdaten.org/index.php/FAQs) ist jetzt ebenfalls verfügbar.
 
-Ein neuer **Fragenkatalog für den Schweizer Nationalfonds (SNF)** wurde erstellt und kann auf [GitHub](http://github.com/rdmorganiser/rdmp-catalog) herruntergeladen werden.
+Ein neuer **Fragenkatalog für den Schweizer Nationalfonds (SNF)** wurde erstellt und kann auf [GitHub](http://www.github.com/rdmorganiser/rdmo-catalog) herruntergeladen werden.
