@@ -8,12 +8,12 @@ lang: en
 News
 ====
 
-On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://twitter.com/rdmorganiser).
+On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
 March 2018
 ----------
 
-This month we attended the Open Science Conference 2018 and the 11th RDa plenary and had many stimulating discussions. One big topic are machine actionable DMPs (*maDMPs*). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
+This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (*maDMPs*). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
 Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a *postcard*, a *poster* and *presentation slides* for you to use freely.
 
 February 2018
@@ -35,4 +35,4 @@ We welcome our **new team members** Kerstin Vanessa Wedlich (KIT) and Olaf Micha
 
 We published our first two **tutorials** on ["How do I create a catalogue in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) and ["How do I create a view in RDMO?"](https://forschungsdaten.org/index.php/ansicht_erstellen) (in German). A page for [Frequently Asked Questions](http://www.forschungsdaten.org/index.php/FAQs) was created as well.
 
-A **new questionaire** for the Switzer National Fonds (SNF) was created and can be obtained on [GitHub](http://github.com/rdmorganiser/rdmp-catalog).
+A **new questionaire** for the Switzer National Fonds (SNF) was created and can be obtained on [GitHub](http://www.github.com/rdmorganiser/rdmo-catalog).
