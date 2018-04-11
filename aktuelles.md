@@ -37,4 +37,4 @@ Wir begrüßen unsere neuen **Teammitglieder** Kerstin Vanessa Wedlich (KIT) and
 
 Unsere ersten beiden **Tutorials** zu ["Wie erstelle ich einen Fragenktalog in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) und ["Wie erstelle ich eine Ansicht in RDMO?"](https://forschungsdaten.org/index.php/Ansicht_erstellen) wurden veröffentlicht. Eine Seite für [häufig gestellte Fragen (FAQ)](http://www.forschungsdaten.org/index.php/FAQs) ist jetzt ebenfalls verfügbar.
 
-Ein neuer **Fragenkatalog für den Schweizer Nationalfonds (SNF)** wurde erstellt und kann auf [GitHub](https://github.com/rdmorganiser/rdmp-catalog) herruntergeladen werden.
+Ein neuer **Fragenkatalog für den Schweizer Nationalfonds (SNF)** wurde erstellt und kann auf [GitHub](http://github.com/rdmorganiser/rdmp-catalog) herruntergeladen werden.

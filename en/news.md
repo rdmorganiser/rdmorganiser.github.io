@@ -35,4 +35,4 @@ We welcome our **new team members** Kerstin Vanessa Wedlich (KIT) and Olaf Micha
 
 We published our first two **tutorials** on ["How do I create a catalogue in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) and ["How do I create a view in RDMO?"](https://forschungsdaten.org/index.php/ansicht_erstellen) (in German). A page for [Frequently Asked Questions](http://www.forschungsdaten.org/index.php/FAQs) was created as well.
 
-A **new questionaire** for the Switzer National Fonds (SNF) was created and can be obtained on [GitHub](https://github.com/rdmorganiser/rdmp-catalog).
+A **new questionaire** for the Switzer National Fonds (SNF) was created and can be obtained on [GitHub](http://github.com/rdmorganiser/rdmp-catalog).
