@@ -6,47 +6,49 @@
   color: green
 
 - name: Ruhr Universität Bochum
+  url: http://www.ruhr-uni-bochum.de
   contact: Johannes Frenzel
   lat: 7.261572
   lon: 51.4439
   color: gray
 
 - name: Universität Duisburg-Essen
+  url: https://www.uni-due.de/
   contact: Ania Lopez, Eike Spielberg
   lat: 6.800833
   lon: 51.429167
   color: gray
 
 - name: IZUS / Universitätsbibliothek Stuttgart
-  url: https://fdm.ub.uni-stuttgart.de
+  url: http://fdm.ub.uni-stuttgart.de
   contact: Florian Fritze
   lat : 9.1686
   lon: 48.78231
   color: blue
 
 - name: Fachhochschule Potsdam
-  url: www.fh-potsdam.de
+  url: http://www.fh-potsdam.de
   contact: Janine Vierheller
   lat: 13.0512984
   lon: 52.413501
   color: green
 
 - name: Karlsruher Institut für Technologie
-  url: www.kit.edu
+  url: http://www.kit.edu
   contact: Claudia Kramer
   lat: 8.4121891
   lon: 49.00955
   color: green
 
 - name: Staatsbibliothek zu Berlin
-  url: www.stattsbibliothek-berlin.de
+  url: http://www.stattsbibliothek-berlin.de
   contact: Jens Ludwig
   lat: 13.3708135
   lon: 52.5076003
   color: green
 
 - name: bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
-  url: https://bwfdm.scc.kit.edu
+  url: http://bwfdm.scc.kit.edu
   color: gray
 
 - name: Göttingen eResearch Alliance
@@ -60,14 +62,14 @@
 #   url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
 - name: Universität Bayreuth
-  url: https://rdmo.uni-bayreuth.de/rdmo
+  url: http://rdmo.uni-bayreuth.de/rdmo
   contact: Ursula Higgins, Andreas Weber, Claudia Piesche, Clemens Engelhardt, Birgit Regenfuß
   lat: 11.586435
   lon: 49.929511
   color: blue
 
 - name: Universitäts- und Landesbibliothek Darmstadt
-  url: https://tudmo.ulb.tu-darmstadt.de
+  url: http://tudmo.ulb.tu-darmstadt.de
   contact: Gerald Langhanke
   lat: 8.680805
   lon: 49.861429
