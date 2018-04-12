@@ -3,7 +3,7 @@
   contact: Jochen Klar
   lat: 13.104167
   lon: 52.405
-  color: green
+  color: blue
 
 - name: Ruhr Universität Bochum
   url: http://www.ruhr-uni-bochum.de
@@ -27,11 +27,11 @@
   color: blue
 
 - name: Fachhochschule Potsdam
-  url: http://www.fh-potsdam.de
+  url: http://rdmo.fh-potsdam.de
   contact: Janine Vierheller
   lat: 13.0512984
   lon: 52.413501
-  color: green
+  color: blue
 
 - name: Karlsruher Institut für Technologie
   url: http://www.kit.edu
@@ -96,6 +96,13 @@
   url: http://www.fodako.de
   lat: 8.0273001
   lon: 50.91082
+  color: gray
+
+- name: Universität Hildesheim
+  contact: Annette Strauch
+  url: https://www.uni-hildesheim.de/forschungsdaten
+  lat: 9.9833092
+  lon: 52.1600497
   color: gray
 
 # - name: Universität Trier
