@@ -27,6 +27,7 @@ For Users:
 
 For Admins:
 
+* Quickstart Guide [pdf]({{ start.baseurl }}/docs/SchnellstartanleitungAdmins.pdf) (Only German)
 * ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
 (only German)
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
