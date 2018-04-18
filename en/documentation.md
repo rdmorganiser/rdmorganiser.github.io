@@ -44,7 +44,7 @@ Questionaire
 
 An overview of all questions in the RDMO catalog as pdf can be found here:
 
-[Questions]({{ site.baseurl }}/docs/Questions.pdf)	[Questions with help text]({{ site.baseurl }}/docs/Questions_with_help.pdf)
+[Questions]({{ site.baseurl }}/docs/Questions_numbered.pdf)
 
 Promotion material
 -----------------
