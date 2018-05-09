@@ -55,4 +55,4 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 * Postkarte in PDF-Format: [Vorderseite]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Rückseite]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
 * Poster (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg}}), welches z.B. mit der freien Software Inkscape verändert werden kann 
 * Vortragsfolien: [PDF]({{ site.baseurl }}/slides.pdf)
-* Flyer: [PDF]({{ site.baseurl }}/img/promo/Flyer10.pdf) 
+* Flyer: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) 
