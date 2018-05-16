@@ -18,8 +18,8 @@ In April we were focused on improving the **import and export** and we released 
 March 2018
 ----------
 
-This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (*maDMPs*). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
-Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a *postcard*, a *poster* and *presentation slides* for you to use freely.
+This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (**maDMPs**). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
+Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a [**postcard**, a **poster** and **presentation slides**](https://rdmorganiser.github.io/dokumentation/) for you to use freely.
 
 February 2018
 -------------
