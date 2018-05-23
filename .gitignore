@@ -1,6 +1,10 @@
 _site
+.bundle
 .sass-cache
+vendor
 
 .DS_Store
 *~
+*-
 *.swp
+.DS_Store
