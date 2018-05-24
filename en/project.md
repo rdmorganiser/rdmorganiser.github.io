@@ -37,4 +37,4 @@ initiatives to ensure the usefulness and sustainability of the software and its 
 
 The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
 
-The description of the frst project phase is available [here]({{ site.baseurl }}/en/first-project-phase).
+The description of the first project phase is available [here]({{ site.baseurl }}/en/first-project-phase).
