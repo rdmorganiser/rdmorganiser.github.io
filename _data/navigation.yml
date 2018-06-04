@@ -1,4 +1,4 @@
-- key: news
+﻿- key: news
   label:
     de: Aktuelles
     en: News
@@ -36,7 +36,7 @@
       en: Teaching
 - label:
     de: Informationen
-    en: Informationen
+    en: Information
   submenu:
   - key: documentation
     label:
@@ -50,11 +50,11 @@
     de: Community
     en: Community
   submenu:
-  - key: documentation
+  - key: cooperations
     label:
       de: Kooperationen
       en: Cooperation
-  - key: tutorials
+  - key: material
     label:
       de: Materialien
-      en: '?'
+      en: Promotion

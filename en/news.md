@@ -14,7 +14,7 @@ April 2018
 ----------
 
 In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer](https://rdmorganiser.github.io/dokumentation/)** which you can reuse and adapt for your institute to advertise for your RDMO instance.
-
+The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**. The structure of the RDMO webpage has changed and has now submenus. 
 March 2018
 ----------
 
