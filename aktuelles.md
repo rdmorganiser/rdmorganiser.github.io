@@ -13,14 +13,14 @@ Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer a
 April & Mai 2018
 ---------------------
 
-Im April haben wir intensiv daran gearbeitet die **Import- und Exportfunktionen** zu verbessern, so dass wir Anfang Mai eine neue RDMO-Version herausbringen konnten. Kleinere Bug-Fixes wurden auch vorgenommen, so dass die aktuelle **Release-Nummer 0.10.2** lautet. Außerdem gibt es jetzt einen **[Flyer](https://rdmorganiser.github.io/dokumentation)**, den Sie gerne abwandeln und für ihr Institut anpassen dürfen, um so für ihre RDMO-Instanz Werbung zu machen.
+Im April haben wir intensiv daran gearbeitet die **Import- und Exportfunktionen** zu verbessern, so dass wir Anfang Mai eine neue RDMO-Version herausbringen konnten. Kleinere Bug-Fixes wurden auch vorgenommen, so dass die aktuelle **Release-Nummer 0.10.2** lautet. Außerdem gibt es jetzt einen **[Flyer]({{site.baseurl}}/Materialien)**, den Sie gerne abwandeln und für ihr Institut anpassen dürfen, um so für ihre RDMO-Instanz Werbung zu machen.
 Das Thema Datenschutzes (Stichwort DSGVO) hat uns veranlasst eine Vorschaltseite für die Nutzungsbedingungen einzubauen und ist seit der **Version 0.10.3.** verfügbar. 
 
 März 2018
 -------------
 
 In diesem Monat waren wir sowohl auf der Open Science Conference 2018 als auch auf dem 11. RDA Plenary vertreten und haben einige anregende Diskussionen geführt. Ein großes Thema sind sogenannte Machine-Actionable DMP (**maDMP**), also machinell auswertbare DMP. In RDMO haben wir von Anfang an die Unterstützung des Workflows während des gesamten Projekts und die Einbindung in Infrastrukturen zum Ziel und sind daher quasi Vorreier auf diesem Gebiet.
-Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine [**Postkarte**, ein **Poster** und  **Vortragsfolien**](https://rdmorganiser.github.io/dokumentation) für die Nachnutzung für Sie zur Verfügung.
+Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine [**Postkarte**, ein **Poster** und  **Vortragsfolien**]({{site.baseurl}}/Materialien) für die Nachnutzung für Sie zur Verfügung.
  
 Februar 2018
 -----------------

@@ -13,14 +13,14 @@ On this page, we briefly summarize our activities. For up-to-date information pl
 April & May 2018
 -----------------------
 
-In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer](https://rdmorganiser.github.io/dokumentation/)** which you can reuse and adapt for your institute to advertise for your RDMO instance.
+In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer]({{site.baseurl}}/en/promotion)** which you can reuse and adapt for your institute to advertise for your RDMO instance.
 The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**. 
 
 March 2018
 ---------------
 
 This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (**maDMPs**). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
-Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a [**postcard**, a **poster** and **presentation slides**](https://rdmorganiser.github.io/dokumentation/) for you to use freely.
+Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a [**postcard**, a **poster** and **presentation slides**]({{site.baseurl}}/en/promotion) for you to use freely.
 
 February 2018
 -------------------
