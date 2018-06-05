@@ -1,57 +1,64 @@
-index:
-  path:
-    de:
-    en: en/
-news:
+- key: news
   label:
     de: Aktuelles
     en: News
-  path:
-    de: aktuelles
-    en: en/news
-project:
-  label:
-    de: Projekt
-    en: Project
-  path:
-    de: projekt
-    en: en/project
-phase1:
-  path:
-    de: erste-projektphase/
-    en: en/first-project-phase/
-software:
-  label:
-    de: Software
-    en: Software
-  path:
-    de: software/
-    en: en/software/
-documentation:
-  label:
-    de: Dokumentation
-    en: Documentation
-  path:
-    de: dokumentation/
-    en: en/documentation/
-outreach:
-  label:
+- label:
+    de: Über uns
+    en: About
+  submenu:
+  - key: project
+    label:
+      de: Projekt
+      en: Project
+  - key: software
+    label:
+      de: Software
+      en: Software
+  - key: team
+    label:
+      de: Team
+      en: Team
+- label:
     de: Veranstaltungen
     en: Events
-  path:
-    de: vernetzung/
-    en: en/outreach/
-cooperation:
-  label:
-    de: Kooperationen
-    en: Cooperations
-  path:
-    de: kooperationen/
-    en: en/cooperations/
-team:
-  label:
-    de: Team
-    en: Team
-  path:
-    de: team/
-    en: en/team/
+  submenu:
+  - key: workshops
+    label:
+      de: Workshops
+      en: Workshops
+  - key: talks
+    label:
+      de: Vorträge
+      en: Talks
+  - key: teaching
+    label:
+      de: Lehre
+      en: Teaching
+- label:
+    de: Informationen
+    en: Information
+  submenu:
+  - key: documentation
+    label:
+      de: Dokumentation
+      en: Documentation
+  - key: tutorials
+    label:
+      de: Tutorials
+      en: Tutorials
+  - key: protection
+    label:
+      de: Datenschutz
+      en: Data protection
+- label:
+    de: Community
+    en: Community
+  submenu:
+  - key: cooperations
+    label:
+      de: Kooperationen
+      en: Cooperation
+  - key: material
+    label:
+      de: Materialien
+      en: Promotion

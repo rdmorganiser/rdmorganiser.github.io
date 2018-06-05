@@ -147,18 +147,25 @@ dl dd {
 
 /* navbar */
 
-.navbar-brand {
-    font-family: DroidSans, sans;
-}
-.navbar-inverse {
-    background-color: $darkblue;
-}
-.navbar-inverse a {
-    font-family: DroidSans, sans;
-    text-decoration: none;
-}
-.dropdown-menu {
-    border-radius: 0;
+.navbar {
+    border: none;
+
+    &.navbar-inverse {
+        background-color: $darkblue;
+
+        a {
+            font-family: DroidSans, sans;
+            text-decoration: none;
+        }
+        .dropdown-menu {
+            border-radius: 0;
+        }
+        .navbar-nav > .open>a,
+        .navbar-nav > .open>a:focus,
+        .navbar-nav > .open>a:hover {
+	    background-color: rgba(255, 255, 255, 0.2)
+        }
+    }
 }
 
 /* team and partner */

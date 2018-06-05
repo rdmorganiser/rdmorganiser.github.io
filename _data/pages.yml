@@ -1,0 +1,113 @@
+﻿index:
+  path:
+    de:
+    en: en/
+
+news:
+  label:
+    de: Aktuelles
+    en: News
+  path:
+    de: aktuelles
+    en: en/news
+
+project:
+  label:
+    de: Projekt
+    en: Project
+  path:
+    de: projekt
+    en: en/project
+
+phase1:
+  path:
+    de: erste-projektphase/
+    en: en/first-project-phase/
+
+software:
+  label:
+    de: Software
+    en: Software
+  path:
+    de: software/
+    en: en/software/
+
+documentation:
+  label:
+    de: Dokumentation
+    en: Documentation
+  path:
+    de: dokumentation/
+    en: en/documentation/
+
+outreach:
+  label:
+    de: Veranstaltungen
+    en: Events
+  path:
+    de: vernetzung/
+    en: en/outreach/
+
+cooperations:
+  label:
+    de: Kooperationen
+    en: Cooperations
+  path:
+    de: kooperationen/
+    en: en/cooperations/
+
+material:
+  label:
+    de: Materialien
+    en: Promotion
+  path: 
+    de: Materialien/
+    en: en/promotion/
+
+tutorials:
+  label:
+    de: Tutorials
+    en: Tutorials
+  path: 
+    de: Tutorials/
+    en: en/tutorials/
+
+workshops:
+  label:
+    de: Workshops
+    en: Workshops
+  path: 
+    de: workshops/
+    en: en/workshops/
+
+talks:
+  label:
+    de: Vorträge
+    en: Talks
+  path: 
+    de: Vortraege/
+    en: en/talks/
+
+teaching:
+  label:
+    de: Lehre
+    en: Teaching
+  path: 
+    de: Lehre/
+    en: en/teaching/
+
+team:
+  label:
+    de: Team
+    en: Team
+  path: 
+    de: team/
+    en: en/team/
+
+protection:
+  label:
+    de: Datenschutz
+    en: Data protection
+  path: 
+    de: schutz/
+    en: en/protection/
