@@ -28,6 +28,9 @@ RDMO wurde bereits bei zahlreichen Anlässen vorgestellt und diskutiert:
         {% if talk.recording %}
         <a href="{{ talk.recording }}">Aufzeichnung</a>
         {% endif %}
+        {% if talk.poster %}
+        <a href="{{ talk.poster }}">Poster</a>
+        {% endif %}
     </li>
 {% endfor %}
 </ul>

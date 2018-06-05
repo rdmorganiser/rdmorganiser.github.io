@@ -60,23 +60,23 @@ material:
   label:
     de: Materialien
     en: Promotion
-  path: 
-    de: Materialien/
+  path:
+    de: materialien/
     en: en/promotion/
 
 tutorials:
   label:
     de: Tutorials
     en: Tutorials
-  path: 
-    de: Tutorials/
+  path:
+    de: tutorials/
     en: en/tutorials/
 
 workshops:
   label:
     de: Workshops
     en: Workshops
-  path: 
+  path:
     de: workshops/
     en: en/workshops/
 
@@ -84,23 +84,23 @@ talks:
   label:
     de: Vorträge
     en: Talks
-  path: 
-    de: Vortraege/
+  path:
+    de: vorträge/
     en: en/talks/
 
 teaching:
   label:
     de: Lehre
     en: Teaching
-  path: 
-    de: Lehre/
+  path:
+    de: lehre/
     en: en/teaching/
 
 team:
   label:
     de: Team
     en: Team
-  path: 
+  path:
     de: team/
     en: en/team/
 
@@ -108,6 +108,6 @@ protection:
   label:
     de: Datenschutz
     en: Data protection
-  path: 
+  path:
     de: schutz/
     en: en/protection/
