@@ -46,6 +46,10 @@
     label:
       de: Tutorials
       en: Tutorials
+  - key: protection
+    label:
+      de: Datenschutz
+      en: Data protection
 - label:
     de: Community
     en: Community

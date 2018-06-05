@@ -10,19 +10,20 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
-April 2018
-----------
+April & May 2018
+-----------------------
 
 In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer](https://rdmorganiser.github.io/dokumentation/)** which you can reuse and adapt for your institute to advertise for your RDMO instance.
-The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**. The structure of the RDMO webpage has changed and has now submenus. 
+The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**. 
+
 March 2018
-----------
+---------------
 
 This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (**maDMPs**). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
 Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a [**postcard**, a **poster** and **presentation slides**](https://rdmorganiser.github.io/dokumentation/) for you to use freely.
 
 February 2018
--------------
+-------------------
 
 On 8th and 9th of February, the current and new members of the RDMO project team came together for the **kickoff-meeting of the second phase of the RDMO project** at the Leibniz-Institute for Astrophysics Potsdam (AIP).
 
@@ -34,7 +35,7 @@ After a short introduction, we got down to business and assmbled our **work plan
 * Most institutions who plan to use RDMO will need to create a **documentation regarding data privacy regulations** and **terms of use** (including probably a consent declaration of users for DPR) in the process. We plan to support this by providing corresponding templates on our webpage.
 
 January 2018
-------------
+-----------------
 
 We welcome our **new team members** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). While Kerstin will work on the integration of RDMO into forschungsdaten.info, Olaf will delevelop the RDMO codebase further and help the technical support.
 
