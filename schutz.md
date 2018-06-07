@@ -19,10 +19,7 @@ Vorlage für Ihre **Nutzungsbedingungen**:
 Für den Betrieb von RDMO ist die Einrichtung von Nutzern erforderlich. 
 Es werden zu diesem Zweck folgende Daten eines Nutzers erhoben und in der betreffenden RDMO-Instanz des Betreibers gespeichert:
 
-Name, Vorname
-E-Mailadresse
-Institutszugehörigkeit (Institut / Organisation)
-Account name ( || Shibboleth ID || LDAP ID)
+Name, Vorname, E-Mailadresse, Institutszugehörigkeit (Institut / Organisation), Account name ( || Shibboleth ID || LDAP ID)
 
 Falls der Betreiber eine Authentisierung durch ORCID, Google, Facebook, Twitter, Github zulässt, wird bei Nutzung dieser Authentisierung die Möglichkeit der Registrierung dieser Verbindung zu RDMO bei den verschiedenen genutzten Diensten gegeben. 
 
@@ -50,7 +47,7 @@ Ein Administrator (Superuser) kann alle Projekte sehen, er hat jedoch auch die b
 
 
 3) Projekte die schutzwürdige, personenbezogene Daten zu Forschungszwecken erheben bzw. nutzen 
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 Diese Projekte müssen bezogen auf ihr Vorhaben gesonderte Maßnahmen und Verfahren überlegen. RDMO bietet hier mit der Trennung der Projekte und Separierung der Nutzer eine Grundlage. Gegebenenfalls ist eine weitergehende ToU hier notwendig.  
 
