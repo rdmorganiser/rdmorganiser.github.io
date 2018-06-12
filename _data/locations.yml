@@ -112,6 +112,19 @@
   lon: 52.2735074
   color: gray
 
+- name: PTP Braunschweig
+  contact: Giacomo Lanza
+  lat: 10.46418
+  lon: 52.29653
+  color: gray
+  
+- name: TU Hamburg
+  contact: Beate Rajski 
+  url: https://rdmo.rz.tuhh.de
+  lat: 9.9699716
+  lon: 53.4610079
+  color: gray
+  
 
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/
