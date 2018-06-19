@@ -112,8 +112,9 @@
   lon: 52.2735074
   color: gray
 
-- name: PTP Braunschweig
+- name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
   contact: Giacomo Lanza
+  url: https://rdmo.ptb.de/
   lat: 10.46418
   lon: 52.29653
   color: gray
