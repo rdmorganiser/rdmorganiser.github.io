@@ -8,22 +8,28 @@ lang: de
 Aktuelles
 ========
 
-Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser).
+Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
+
+Juni 2018
+----------
+
+Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema **Datenschutz** hinzugefügt: ({{site.baseurl}}/schutz). Es gibt jetzt eine **Kurzanleitung** zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein *[Vortrag]({{ site.baseurl}}/vorträge)* über RMDO beim 107. Bibliothekartag gehalten.
+
 
 April & Mai 2018
----------------------
+-----------------
 
 Im April haben wir intensiv daran gearbeitet die **Import- und Exportfunktionen** zu verbessern, so dass wir Anfang Mai eine neue RDMO-Version herausbringen konnten. Kleinere Bug-Fixes wurden auch vorgenommen, so dass die aktuelle **Release-Nummer 0.10.2** lautet. Außerdem gibt es jetzt einen **[Flyer]({{site.baseurl}}/Materialien)**, den Sie gerne abwandeln und für ihr Institut anpassen dürfen, um so für ihre RDMO-Instanz Werbung zu machen.
 Das Thema Datenschutzes (Stichwort DSGVO) hat uns veranlasst eine Vorschaltseite für die Nutzungsbedingungen einzubauen und ist seit der **Version 0.10.3.** verfügbar. 
 
 März 2018
--------------
+----------
 
 In diesem Monat waren wir sowohl auf der Open Science Conference 2018 als auch auf dem 11. RDA Plenary vertreten und haben einige anregende Diskussionen geführt. Ein großes Thema sind sogenannte Machine-Actionable DMP (**maDMP**), also machinell auswertbare DMP. In RDMO haben wir von Anfang an die Unterstützung des Workflows während des gesamten Projekts und die Einbindung in Infrastrukturen zum Ziel und sind daher quasi Vorreier auf diesem Gebiet.
 Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine [**Postkarte**, ein **Poster** und  **Vortragsfolien**]({{site.baseurl}}/Materialien) für die Nachnutzung für Sie zur Verfügung.
  
 Februar 2018
------------------
+--------------
 
 Die aktuellen und neuen Mitglieder des RDMO-Projektteams kamen am 8. und 9. Februar 2018  zum **Kickoff-Meeting**
 am Leibniz-Institut für Astrophysik Potsdam (AIP) zusammen.
