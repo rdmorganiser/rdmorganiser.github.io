@@ -13,7 +13,7 @@ Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer a
 Juni 2018
 ----------
 
-Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema **Datenschutz** hinzugefügt: ({{site.baseurl}}/schutz). Es gibt jetzt eine **Kurzanleitung** zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein *[Vortrag]({{ site.baseurl}}/vorträge)* über RMDO beim 107. Bibliothekartag gehalten.
+Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema **[Datenschutz]({{ site.baseurl}}/schutz)** hinzugefügt. Es gibt jetzt eine **Kurzanleitung** zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein *[Vortrag]({{ site.baseurl}}/vorträge)* über RMDO beim 107. Bibliothekartag gehalten.
 
 
 April & Mai 2018
