@@ -13,7 +13,7 @@ On this page, we briefly summarize our activities. For up-to-date information pl
 June 2018
 ----------
 
-In June we added submenues to our website to achieve a clear arrangement, for example we added the topic **Data protection({{site.baseurl}}/en/protection). There is now a **Quick tutorial** for the import and export avaiable: http://www.forschungsdaten.org/index.php/Import_Export . At the 13th of June we gave a *[talk]({{ site.baseurl}}/en/talks)* about RDMO ath the 107th Bibliothekartag.
+In June we added submenues to our website to achieve a clear arrangement, for example we added the topic **Data protection({{site.baseurl}}/en/protection)**. There is now a **Quick tutorial** for the import and export available: http://www.forschungsdaten.org/index.php/Import_Export . At the 13th of June we gave a *[talk]({{ site.baseurl}}/en/talks)* about RDMO at the 107th Bibliothekartag.
 
 April & May 2018
 ------------------
