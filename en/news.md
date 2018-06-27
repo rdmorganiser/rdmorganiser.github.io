@@ -10,20 +10,25 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+June 2018
+----------
+
+In June we added submenues to our website to achieve a clear arrangement, for example we added the topic **Data protection({{site.baseurl}}/en/protection). There is now a **Quick tutorial** for the import and export avaiable: http://www.forschungsdaten.org/index.php/Import_Export . At the 13th of June we gave a *[talk]({{ site.baseurl}}/en/talks)* about RDMO ath the 107th Bibliothekartag.
+
 April & May 2018
------------------------
+------------------
 
 In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer]({{site.baseurl}}/en/promotion)** which you can reuse and adapt for your institute to advertise for your RDMO instance.
 The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**. 
 
 March 2018
----------------
+------------
 
 This month we attended the [Open Science Conference](https://www.open-science-conference.eu/) and the 11th [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) and had many stimulating discussions. One big topic are machine actionable DMPs (**maDMPs**). In RDMO we support the workflow during a whole project and the integration in the infrastructure right from the start and hence, we are pioneers.
 Our main goals are at the moment the *software architecture* for which we need a common standard, templates for *terms of use* and *data protection* and moreover, we provide a [**postcard**, a **poster** and **presentation slides**]({{site.baseurl}}/en/promotion) for you to use freely.
 
 February 2018
--------------------
+----------------
 
 On 8th and 9th of February, the current and new members of the RDMO project team came together for the **kickoff-meeting of the second phase of the RDMO project** at the Leibniz-Institute for Astrophysics Potsdam (AIP).
 
