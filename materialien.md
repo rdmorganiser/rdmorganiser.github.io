@@ -16,3 +16,11 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 * **Vortragsfolien**: [PDF]({{ site.baseurl }}/slides.pdf)
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (Software Scribus)
 * **Video**: [Was ist RDMO?]({{ site.baseurl }}/img/promo/Was_ist_RDMO.mpg4) 
+
+<video width="320" height="240" controls>
+            
+ <source src="({{ site.baseurl }}/img/promo/Was_ist_RDMO.mpg4)" type="video/mp4">
+
+Your browser does not support the video tag.
+
+</video> 
