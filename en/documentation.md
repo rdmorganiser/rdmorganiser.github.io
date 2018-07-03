@@ -20,3 +20,8 @@ FAQs
 ----
 
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
+
+Questionaire
+------------
+
+The generic questionaire of RDMO is available as a XML-file at https://github.com/rdmorganiser/rdmo-catalog . All questionaires are published with a CC0 license.
