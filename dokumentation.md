@@ -29,4 +29,4 @@ Einen Überblick aller Fragen des vollständigen RDMO-Katalog als PDF finden Sie
 
 [Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert.pdf)
 
-
+Die XML-Datei des generischen Fragenkatalgoes finden Sie unter https://github.com/rdmorganiser/rdmo-catalog . Aller Fragenkatloge sind mit einer CC0-Lizenz veröffentlicht.
