@@ -15,3 +15,11 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 * **Poster** (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg}}) (Software Inkscape)
 * **Vortragsfolien**: [PDF]({{ site.baseurl }}/slides.pdf)
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (Software Scribus)
+
+* **Videos**: Was ist RDMO?
+
+<video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v3.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+Was kann man mit RDMO machen?
+
+<video poster="{{ site.baseurl}}/img/promo/RDMOerklaert.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/RDMO_erklaert_v3.mp4" type="video/mp4">Your browser does not support the video tag.</video>
