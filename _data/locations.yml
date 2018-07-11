@@ -41,7 +41,7 @@
   color: green
 
 - name: Staatsbibliothek zu Berlin
-  url: http://www.stattsbibliothek-berlin.de
+  url: http://www.staatsbibliothek-berlin.de
   contact: Jens Ludwig
   lat: 13.3708135
   lon: 52.5076003
@@ -105,13 +105,33 @@
   lon: 52.1600497
   color: gray
  
-- name: TU Braunschweig
+- name: Technische Universität Braunschweig
   contact: Robert Strötgen
   url: https://rdmo.biblio.etc.tu-bs.de
   lat: 10.5296839
   lon: 52.2735074
   color: gray
 
+- name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+  contact: Giacomo Lanza
+  url: https://rdmo.ptb.de/
+  lat: 10.46418
+  lon: 52.29653
+  color: gray
+  
+- name: Technische Universität Hamburg
+  contact: Beate Rajski 
+  url: https://rdmo.rz.tuhh.de
+  lat: 9.9699716
+  lon: 53.4610079
+  color: gray
+
+- name: Universitäts- und Landesbibliothek Münster
+  contact: Marc Schutzeichel
+  url: https://www.ulb.uni-muenster.de/
+  lat: 7.620459
+  lon: 51.9627609
+  color: gray
 
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/

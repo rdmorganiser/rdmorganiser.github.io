@@ -1,3 +1,27 @@
+- event: "107. Bibliothekartag"
+  url: https://bibliothekartag2018.de/
+  date: 2018-06-13
+  place: Berlin
+  title: Aktives Forschungsdatenmanagement - Das DFG-Projekt Research Data Management Organiser (RDMO)
+  authors: Heike Neuroth, Janine Vierheller
+  slides: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/RDMO/docId/3688
+
+- event: "DMP Common Standards WG - RDA 11th Plenary meeting"
+  url: https://www.rd-alliance.org/dmp-common-standards-wg-rda-11th-plenary-meeting
+  date: 2018-03-21
+  place: Berlin
+  title: RDMO Lightning Talk
+  authors: Jochen Klar
+
+- event: "Open Science Conference 2018"
+  url: https://www.open-science-conference.eu/
+  date: 2018-03-13
+  place: Berlin
+  title: RDMO – Research Data Management Organiser
+  authors: Jochen Klar
+  slides: https://www.open-science-conference.eu/wp-content/uploads/2018/03/05_osc2018_Presentation.pdf
+  poster: https://www.open-science-conference.eu/wp-content/uploads/2018/03/05_osc2018_Poster.pdf
+
 - event: "LISA VIII: Astronomy Librarianship in the era of Big Data and Open Science"
   url: http://cds.u-strasbg.fr/meetings/Lisa8
   date: 2017-06-07
@@ -18,7 +42,7 @@
   url: http://meetingorganizer.copernicus.org/EGU2017/orals/23924
   date: 2017-04-28
   place: Wien
-  title: RDMO - RDMO - Research Data Management Organiser
+  title: RDMO - Research Data Management Organiser
   authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, and Jens Ludwig
   abstract: http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf
 

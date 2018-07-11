@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: cooperation
+key: cooperations
 lang: en
 ---
 

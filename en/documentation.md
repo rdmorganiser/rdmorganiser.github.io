@@ -16,25 +16,6 @@ RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest
 * [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
 * [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
 
-Tutorials
----------
-
-We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](http://forschungsdaten.org/index.php/RDMO).
-
-For Users:
-
-* Quickstart Guide [pdf]({{ start.baseurl }}/docs/Schnellstartanleitung.pdf) (Only German)
-
-For Admins:
-
-* Quickstart Guide [pdf]({{ start.baseurl }}/docs/SchnellstartanleitungAdmins.pdf) (Only German)
-* ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialFragenkatalog.pdf)
-(only German)
-* ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialAnsicht.pdf)
-(only German)
-* ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen) [pdf]({{ site.baseurl }}/docs/TutorialBedingung.pdf) (only German)
-*  further tutorials are in progress
-
 FAQs
 ----
 
@@ -43,17 +24,4 @@ FAQs
 Questionaire
 ------------
 
-An overview of all questions in the RDMO catalog as pdf can be found here:
-
-[Questions]({{ site.baseurl }}/docs/Questions_numbered.pdf)
-
-Promotion material
------------------
-
-We provide promotion material which can be freely used, hence under CC0 licence.
-
-* Postcard - pdf format (in German): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
-           - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.svg) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.svg)
-* Poster (in English): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (software Inkscape)
-* Presentation slides (in German): [PDF]({{ site.baseurl }}/slides.pdf)
-* Flyer (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
+The generic questionaire of RDMO is available as a XML-file at https://github.com/rdmorganiser/rdmo-catalog . All questionaires are published with a CC0 license.
