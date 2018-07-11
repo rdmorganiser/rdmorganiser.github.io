@@ -21,7 +21,7 @@ On these pages, we provide information about the [project]({{ site.baseurl }}/en
 More information about the project and our software can be found on the following websites:
 
 The free software:
-: [github.com](https://github.com/rdmorganiser)
+: [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
 Demo instance:
 : [rdmo.aip.de](https://rdmo.aip.de)
@@ -32,7 +32,7 @@ Register for our public mailing list:
 Follow us on Twitter:
 : [twitter.com/rdmorganiser](https://twitter.com/rdmorganiser)
 
-Discuss with us on Slack, a web-based software:
+Discuss with us on Slack:
 : [rdmo.slack.com](https://rdmo.slack.com)
 
 For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
