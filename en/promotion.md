@@ -17,7 +17,7 @@ We provide promotion material which can be freely used, hence under CC0 licence.
 * Flyer (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
 * **Videos**: What is RDMO?
 
-<video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v3.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 Was kann man mit RDMO machen?
 
