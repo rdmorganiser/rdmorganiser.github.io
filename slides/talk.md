@@ -314,7 +314,9 @@ Community und Nutzertests
   * [TwinLife](http://www.twin-life.de/), Partner DIW
 * Input-Workshop am 27.6.2016
 * Abschlussworkshop am 7.4.2017
-* Seminar WS 2015/2016 an der FHP, Masterarbeit
+* Konferenzbeiträge
+* Regionale Workshops
+* Seminar an der FHP, Masterarbeit
 * Tutorials auf [forschungsdaten.org](http://www.forschungsdaten.org/index.php/RDMO)
 
 ---
@@ -404,7 +406,7 @@ Import/Export
   * Domäne, Optionen, Bedingungen, Fragenkatalog, Ansichten, Aufgaben
 * Export für Nutzende:
   * Projekt mit Snapshots und Antworten
-* Import zur Zeit noch über die Kommandozeile
+* Import über Kommandozeile oder File-Upload
 * URI zur Identifikation einzelner Elemente
 * RDMO Fragenkatalog: [github.com/rdmorganiser/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog)
 
