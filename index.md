@@ -12,6 +12,10 @@ Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es we
 
 Auf diesen Seiten informieren wir u.a. über unser [Projekt]({{ site.baseurl }}/projekt) mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete), die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
 
+* **Videos**: Was ist RDMO?
+
+<video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 Die freie Software finden Sie unter:
 : [github.com](https://github.com/rdmorganiser)
 
