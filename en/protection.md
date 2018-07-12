@@ -21,6 +21,7 @@ Terms of use:
 Template for your **terms of use**:
 
 1) RDMO services 
+----------------
 
 
 RDMO requires user accounts. For this purpose, the following user data is collected and stored by the RDMO service:
@@ -37,6 +38,7 @@ The usage of RDMO user data has to be made plain to the user in a "Terms of Use"
 
 
 2) Use of RDMO and personal data of users
+-----------------------------------------
 
 
 Within RDMO a user is either assigned to certain projects or is the 'owner' of projects. A user is member of RDMO projects and her/his contributions are stored in these projects. In a project context, personal information may be disclosed, e.g. 
@@ -53,6 +55,8 @@ An administrator (superuser) can manage and handle all project data, but also ha
 
  
 3) Projects that collect or use special protected personal data for research purposes
+-------------------------------------------------------------------------------------
+
 
 
 These projects must consider separate measures and procedures in relation to their projects. RDMO offers a basis through the separation of the projects and the  different roles and rights of the users. A special ToU for such a project may be necessary.  
