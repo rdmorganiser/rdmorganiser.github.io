@@ -8,7 +8,7 @@ lang: de
 Datenschutz
 ===========
 
-Verfahrendbeschreibung
+Verfahrensbeschreibung
 ----------------------
 
 Wir stellen hier einen Entwurf einer **Verfahrensbeschreibung** für die RDMO Demo Instanz rdmo.aip.de zur Verfügung: 
