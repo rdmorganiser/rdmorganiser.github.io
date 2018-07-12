@@ -6,10 +6,17 @@ lang: de
 ---
 
 Datenschutz
-==========
+===========
 
-Wir stellen hier einen Entwurf einer **Verfahrensbeschreibung** für die RDMO Demo Instanz rdmo.aip.de zur Verfügung: [PDF]({{ site.baseurl }}/docs/DS_AIP_DE.pdf). 
+Verfahrendbeschreibung
+----------------------
 
+Wir stellen hier einen Entwurf einer **Verfahrensbeschreibung** für die RDMO Demo Instanz rdmo.aip.de zur Verfügung: 
+* [PDF]({{ site.baseurl }}/docs/DS_AIP_DE.pdf)
+
+
+Nutzungsbedingungen
+-------------------
 
 Vorlage für Ihre **Nutzungsbedingungen**:
 
