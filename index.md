@@ -28,5 +28,6 @@ Folgen Sie uns auf Twitter:
 
 Diskutieren Sie mit uns auf Slack:
 : [rdmo.slack.com](https://rdmo.slack.com)
+(Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)
 
 Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
