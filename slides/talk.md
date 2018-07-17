@@ -527,6 +527,24 @@ RDMO Instanzen
 
 ---
 
+Arbeitsplan 2018
+----------------
+
+* Verbesserung des Import/Exports
+* Umbau des Datenmodells für flexiblere Fragenkataloge
+* Anbindung an externe APIs (re3data, FIS)
+* Anbindung an Issue-Tracker/Projektmanagement-Tools
+* Mitarbeit in der RDA WG für ein DMP Datenmodell
+* (Eingeschränkte) Mandantenfähigkeit
+
+
+* Nachhaltigkeitskonzept
+* Aufbau einer Community
+* Support bei der Implementierung von RDMO
+* Communityworkshop im September
+
+---
+
 Zusammenarbeit
 --------------
 
