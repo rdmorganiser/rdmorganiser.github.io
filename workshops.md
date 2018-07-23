@@ -14,13 +14,14 @@ Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kle
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 20.09.2018 Community-Treffen in Uni Duisburg-Essen
-* 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
-* 12.07.2018 Lokaler Workshop in Darmstadt
+* 13.09.2018 Lokaler workshop in Dresden
+* 03.09.2018 Community-Treffen in Uni Duisburg-Essen
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
+* 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
+* 12.07.2018 Lokaler Workshop in Darmstadt
 * 11.06.2018 Lokaler Workshop in der UB Braunschweig
 * 20.04.2018 Lokaler Workshop an der RWTH Aachen
 * 18.10.2017 Lokaler Workshop am Alfred-Wegner-Institut (AWI) in Bremerhaven
