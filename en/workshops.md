@@ -13,13 +13,14 @@ RDMO organised some workshops and meetings with users:
 Future workshops and meetings:
 -----------------------------------------------
 
-* 20.09.2018 Community Metting at Uni Duisburg-Essen
-* 17./18.07.2018 Regional workshop in Bochum & Siegen
-* 12.07.2018 Regional workshop in Darmstadt
+* 13.09.2018 Regional workshop in Dresden
+* 03.09.2018 Community Metting at Uni Duisburg-Essen
 
 So far:
 --------------------------------------------
 
+* 17./18.07.2018 Regional workshop in Bochum & Siegen
+* 12.07.2018 Regional workshop in Darmstadt
 * 11.06.2018 Regional workshop in Braunschweig
 * 20.04.2018 Regional workshop at RWTH Aachen University
 * 18.10.2017 Regional workshop at Alfred-Wegner-Institute (AWI) in Bremerhaven
