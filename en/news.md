@@ -10,6 +10,12 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+July 2018
+---------
+
+In July we decided, based on discussions with the community, to evolve a restricted **multi-clientcapability** in RDMO, but expected not before next year. We were working very hard on the refractoring of our **data model** and we will report about it soon.
+Moreover, there are now two **[movies](https://rdmorganiser.github.io/en/promotion/)** about what RDMO, which you can re-use.
+
 June 2018
 ----------
 
