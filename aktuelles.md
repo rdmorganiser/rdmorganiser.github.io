@@ -10,6 +10,12 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+Juli 2018
+---------
+
+Im Juli haben wir dank diverser Diskussionen mit der Community beschlossen eine eingeschränkte **Mandantenfähigkeit** in RDMO umzusetzen, allerdings voraussichtlich erst im nächsten Jahr. Wir arbeiten intensiv an dem Refractoring des **Datenmodels** und werden bald davon berichten. Außerdem gibt es jetzt zwei **[Videos](https://rdmorganiser.github.io/materialien/
+)** zu RDMO, die Sie gerne nachnutzen dürfen.
+
 Juni 2018
 ----------
 
