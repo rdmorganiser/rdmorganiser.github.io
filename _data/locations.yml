@@ -140,6 +140,13 @@
   lon: 50.5653467
   color: gray
   
+- name: PUBLISSO/ZB MED
+  contact: Robin Rothe
+  url: http://rdmo.publisso.de/
+  lat: 6.9164622
+  lon: 50.9246806
+  color: blue
+  
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/
 
