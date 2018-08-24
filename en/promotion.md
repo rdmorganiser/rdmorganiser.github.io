@@ -10,11 +10,12 @@ Promotion material
 
 We provide promotion material which can be freely used, hence under CC0 licence.
 
-* Postcard - pdf format (in German): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
+* **Postcard** - PDF format (in German): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
            - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.svg) [Backpage]({{ site.baseurl }}/img/promo/RückseiteRDMO1.svg)
-* Poster (in English): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (software Inkscape)
-* Presentation slides (in German): [PDF]({{ site.baseurl }}/slides.pdf)
-* Flyer (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
+* **Poster** (in English): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (software Inkscape)
+* **Presentation slides** (in German): [PDF]({{ site.baseurl }}/slides.pdf)
+* **Topical slides** (in German): [PDF]({{ site.baseurl }}/slides/RDMO-Standard1.pdf) or [PowerPoint]({{ site.baseurl }}/slides/RDMO-Standard1.pptx)
+* **Flyer** (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
 * **Videos**: What is RDMO?
 
 <video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
