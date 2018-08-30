@@ -10,6 +10,11 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+August 2018
+-----------
+
+In August weprepaired the first and big **Community Meeting** of RDMO which will take place at the University Duisburg-Essen. We have created a **set of topical slides**(https://rdmorganiser.github.io/en/promotion/) which was asked for and which you are allowed to re-use and adapt. Moreover, the next meeting of the project members will be in September.
+
 July 2018
 ---------
 
