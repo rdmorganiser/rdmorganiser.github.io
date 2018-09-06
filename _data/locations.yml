@@ -162,11 +162,6 @@
 - name: Universität Kassel
   url: https://rdmo.uni-kassel.de
   contact: Arvid Deppe
-<<<<<<< HEAD
   lat: 9.507359
   lon: 51.322817
-=======
-  lat: 51.322817
-  lon: 9.507359
->>>>>>> 491b740700434726ac8a4b49f1b28e2d278ec6b3
   color: gray
