@@ -104,7 +104,7 @@
   lat: 9.9833092
   lon: 52.1600497
   color: gray
- 
+
 - name: Technische Universität Braunschweig
   contact: Robert Strötgen
   url: https://rdmo.biblio.etc.tu-bs.de
@@ -118,9 +118,9 @@
   lat: 10.46418
   lon: 52.29653
   color: gray
-  
+
 - name: Technische Universität Hamburg
-  contact: Beate Rajski 
+  contact: Beate Rajski
   url: https://rdmo.rz.tuhh.de
   lat: 9.9699716
   lon: 53.4610079
@@ -139,14 +139,14 @@
   lat: 9.68746859
   lon: 50.5653467
   color: gray
-  
+
 - name: PUBLISSO/ZB MED
   contact: Robin Rothe
   url: http://rdmo.publisso.de/
   lat: 6.9164622
   lon: 50.9246806
   color: blue
-  
+
 # - name: Universität Trier
 #   url: https://www.ub.stuttgart.de/
 
@@ -158,3 +158,10 @@
 
 # - name: EAWAG
 #   url: http://www.eawag.ch
+
+- name: Universität Kassel
+  url: https://rdmo.uni-kassel.de
+  contact: Arvid Deppe
+  lat: 51.322817
+  lon: 9.507359
+  color: gray
