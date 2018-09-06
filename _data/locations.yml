@@ -13,7 +13,7 @@
   color: gray
 
 - name: Universität Duisburg-Essen
-  url: https://www.uni-due.de/
+  url: https://www.uni-due.de
   contact: Ania Lopez, Eike Spielberg
   lat: 6.800833
   lon: 51.429167
@@ -52,7 +52,7 @@
   color: gray
 
 - name: Göttingen eResearch Alliance
-  url: http://www.eresearch.uni-goettingen.de/
+  url: http://www.eresearch.uni-goettingen.de
   contact: Timo Gnadt, Claudia Engelhardt
   lat: 9.9358179
   lon: 51.5400097
@@ -114,7 +114,7 @@
 
 - name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
   contact: Giacomo Lanza
-  url: https://rdmo.ptb.de/
+  url: https://rdmo.ptb.de
   lat: 10.46418
   lon: 52.29653
   color: gray
@@ -128,27 +128,27 @@
 
 - name: Universitäts- und Landesbibliothek Münster
   contact: Marc Schutzeichel
-  url: https://www.ulb.uni-muenster.de/
+  url: https://www.ulb.uni-muenster.de
   lat: 7.620459
   lon: 51.9627609
   color: gray
 
 - name: Hochschul- und Landesbibliothek Fulda
   contact: Patrick Langner
-  url: https://www.hs-fulda.de/
+  url: https://www.hs-fulda.de
   lat: 9.68746859
   lon: 50.5653467
   color: gray
 
 - name: PUBLISSO/ZB MED
   contact: Robin Rothe
-  url: http://rdmo.publisso.de/
+  url: http://rdmo.publisso.de
   lat: 6.9164622
   lon: 50.9246806
   color: blue
 
 # - name: Universität Trier
-#   url: https://www.ub.stuttgart.de/
+#   url: https://www.ub.stuttgart.de
 
 # - name: Leibnitz-Institut für Pflanzenbiochemie
 #   url: https://www.uni-trier.de
