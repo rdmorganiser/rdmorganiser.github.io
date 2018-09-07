@@ -13,7 +13,7 @@ Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer a
 August 2018
 -----------
 
-Im August haben wir die letzten Vorkehrungen für unser erstes, großes **Community-Treffen** getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen **[Foliensatz](https://rdmorganiser.github.io/materialien/)** entworfen, den sie gerne nachnutzen und für ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
+Im August haben wir die letzten Vorkehrungen für unser erstes, großes **Community-Treffen** getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen **[Foliensatz](https://rdmorganiser.github.io/materialien/)** entworfen, den Sie gerne nachnutzen und für Ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
 
 Juli 2018
 ---------
