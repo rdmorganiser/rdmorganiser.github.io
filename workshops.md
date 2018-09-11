@@ -20,7 +20,7 @@ Zukünftige Workshops und Treffen:
 Bisherige Workshops und Treffen:
 --------------------------------
 
-* 03.09.2018 Erstes Community-Treffen in Uni Duisburg-Essen
+* 03.09.2018 Community-Treffen in Uni Duisburg-Essen
 * 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
 * 12.07.2018 Lokaler Workshop in Darmstadt
 * 11.06.2018 Lokaler Workshop in der UB Braunschweig
