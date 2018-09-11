@@ -8,18 +8,19 @@ lang: de
 Workshops
 =========
 
-Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
+Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
 
 
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 13.09.2018 Lokaler workshop in Dresden
-* 03.09.2018 Community-Treffen in Uni Duisburg-Essen
+* 21.09.2018 Projekttreffen
+* 13.09.2018 Lokaler Workshop in Dresden
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
+* 03.09.2018 Erstes Community-Treffen in Uni Duisburg-Essen
 * 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
 * 12.07.2018 Lokaler Workshop in Darmstadt
 * 11.06.2018 Lokaler Workshop in der UB Braunschweig
