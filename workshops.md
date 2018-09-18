@@ -15,12 +15,12 @@ Zukünftige Workshops und Treffen:
 ---------------------------------
 
 * 21.09.2018 Projekttreffen
-* 13.09.2018 Lokaler Workshop in Dresden
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
-* 03.09.2018 Community-Treffen in Uni Duisburg-Essen
+* 13.09.2018 Lokaler Workshop in Dresden
+* 03.09.2018 Community-Treffen in Uni Duisburg-Essen [Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)
 * 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
 * 12.07.2018 Lokaler Workshop in Darmstadt
 * 11.06.2018 Lokaler Workshop in der UB Braunschweig
