@@ -10,6 +10,22 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+September 2018
+--------------
+
+Anfang September fand unser erstes, großes Community-Treffen an der Universität Duisburg-Essen mit regem Austausch statt. Hier gibt es einen Bericht: http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen Mitte September hatten wir einen lokalen Workshop an der SLUB Dresden veranstaltet, wo RDMO noch recht neu ist. Ende September fand unser zweites Projekttreffen der zweiten Projektphase in Karlsruhe statt. 
+Für die Weiterentwicklung von RDMO haben wir einen Fahrplan für die nächsten großen Features festgelegt:
+2018:
+ * Finalisierung Import/Export
+ * Ausbau der API und RDMO-Anbindung an andere Beispielsoftware
+ * Release mit neuem Datenmodell
+2019:
+ * Implementierung von rollenbezogenen, projektübergreifenden Ansichten
+ * Weiterentwicklung der kollaborativen Funktionen von RDMO durch die Möglichkeit zur Kommentierung und Versionierung von Eingaben.
+ * Diff--Funktion von Snapshots
+ * Echte Mehrsprachigkeit
+ * Mandantenfähigkeit 
+
 August 2018
 -----------
 
