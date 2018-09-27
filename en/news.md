@@ -10,6 +10,25 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+September 2018
+--------------
+
+At the beginning of September the first bigger Community-Meeting took place at the University of Duisburg-Essen with a lot of discussions. Here is a German report of the meeting: http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen 
+Mid-September we were at the Library of Dresden, where RDMO is quite new. At the end of September we had our second meeting of the project members in Karlsruhe and agreed on the following plan of main features:
+
+2018:
+
+* Finalisation of Import/Export
+* Extension of API and RDMO connection to other examplary software 
+* Release of new data model
+
+2019:
+* Implementation of role-based views across projects 
+* Further development of collaborative features of RDMO for comments and versioning of input
+* Diff–function for snapshots
+* Genuine multilingualism 
+* Client capability
+
 August 2018
 -----------
 
