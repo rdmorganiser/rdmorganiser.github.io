@@ -32,9 +32,6 @@ lang: en
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="/img/icons/marker-icon-green.png" /> Project partner
-</p>
-<p>
     <img src="/img/icons/marker-icon-blue.png" /> Production instances
 </p>
 <p>

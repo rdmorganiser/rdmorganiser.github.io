@@ -34,9 +34,6 @@ lang: de
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="/img/icons/marker-icon-green.png" /> Projektpartner
-</p>
-<p>
     <img src="/img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
 </p>
 <p>

@@ -34,18 +34,16 @@
   color: blue
 
 - name: Karlsruher Institut für Technologie
-  url: http://www.kit.edu
+  url: https://rdmo.forschungsdaten.info
   contact: Claudia Kramer
   lat: 8.4121891
   lon: 49.00955
-  color: green
+  color: blue
 
 - name: Staatsbibliothek zu Berlin
   url: http://www.staatsbibliothek-berlin.de
   contact: Jens Ludwig
-  lat: 13.3708135
-  lon: 52.5076003
-  color: green
+  color: gray
 
 - name: bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
   url: http://bwfdm.scc.kit.edu
@@ -164,4 +162,4 @@
   contact: Arvid Deppe
   lat: 9.507359
   lon: 51.322817
-  color: gray
+  color: blue
