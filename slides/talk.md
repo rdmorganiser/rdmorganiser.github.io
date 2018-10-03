@@ -52,23 +52,25 @@ Es ermöglicht zusätzlich die Ausgabe eines **Datenmanagement&shy;plans (DMP)**
 Projekt RDMO
 ------------
 
-### Team
-
 <style>
 .team {
     text-align: center;
-    height: 280px;
-}
-.team p {
-    margin: 0;
+    font-size: 0.8em;
 }
 .team .row {
-    height: 140px;
+    height: 200px;
+}
+.team .item {
+  display: inline-block;
+  width: 200px;
 }
 .team img {
     width: 140px;
     height: 140px;
+
     border-radius: 50%;
+
+    margin-bottom: 10px;
 }
 .partner {
     text-align: center;
@@ -96,24 +98,48 @@ Projekt RDMO
 }
 </style>
 
-.team[
-  .row[
-    ![Harry Enke](img/team/enke.jpg)
-    ![Jochen Klar](img/team/klar.jpg)
-    ![Claudia Kramer](img/team/kramer.jpg)
-    ![Jens Ludwig](img/team/ludwig.jpg)
-    ![Olaf Michaelis](img/team/michaelis.jpg)
-
-  ]
-  .row[
-    ![Heike Neuroth](img/team/neuroth.jpg)
-    ![Frank Tristram](img/team/tristram.png)
-    ![Janine Vierheller](img/team/vierheller.jpg)
-    ![Kerstin Wedlich](img/team/wedlich.jpg)
-  ]
-]
-
-### Partner
+<div class="team">
+  <div class="row">
+    <div class="item">
+      <img src="img/team/enke.jpg" /><br />
+      <div>Harry Enke (AIP)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/klar.jpg" />
+      <div>Jochen Klar (AIP)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/kramer.jpg" />
+      <div>Claudia Kramer (KIT)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/ludwig.jpg" />
+      <div>Jens Ludwig (SPK)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/michaelis.jpg" />
+      <div>Olaf Michaelis (AIP)</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="item">
+      <img src="img/team/neuroth.jpg" /><br />
+      <div>Heike Neuroth (FHP)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/tristram.png" />
+      <div>Frank Tristram (KIT)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/straka.jpg" />
+      <div>Janine Straka (FHP)</div>
+    </div>
+    <div class="item">
+      <img src="img/team/wedlich.jpg" />
+      <div>Kerstin Wedlich (KIT)</div>
+    </div>
+  </div>
+</div>
 
 .partner[
   .item.aip[
