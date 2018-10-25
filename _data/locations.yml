@@ -163,3 +163,9 @@
   lat: 9.507359
   lon: 51.322817
   color: blue
+  
+- name: Deutsche Zentrum für Luft- und Raumfahrt (DLR)
+  contact: Jutta Graf
+  lat: 11.2789751
+  lon: 48.0853178
+  color: gray
