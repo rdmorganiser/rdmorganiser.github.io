@@ -15,6 +15,7 @@ Zukünftige Workshops und Treffen:
 ---------------------------------
 
 * 21.02.2019 3. Projekttreffen
+* 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
 
 Bisherige Workshops und Treffen:
 --------------------------------
