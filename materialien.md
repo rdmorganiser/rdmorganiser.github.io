@@ -8,7 +8,7 @@ lang: de
 Werbematerial
 ============
 
-Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0-Lizenz steht.
+Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0- oder CC-BY-Lizenz steht.
 
 * **Postkarte** - PDF-Format: [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.pdf) [Rückseite]({{ site.baseurl }}/img/promo/vdtv6.pdf)
             - SVG-Format (Software Inkscape): [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.svg) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.svg)
