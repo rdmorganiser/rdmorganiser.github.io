@@ -10,8 +10,8 @@ Werbematerial
 
 Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0-Lizenz steht.
 
-* **Postkarte** - PDF-Format: [Vorderseite]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.pdf) [Rückseite]({{ site.baseurl }}/img/promo/RückseiteRDMO1.pdf)
-            - SVG-Format (Software Inkscape): [Vorderseite]({{ site.baseurl }}/img/promo/VorderseiteRDMO1.svg) [Rückseite]({{ site.baseurl }}/img/promo/RückseiteRDMO1.svg)
+* **Postkarte** - PDF-Format: [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.pdf) [Rückseite]({{ site.baseurl }}/img/promo/vdtv6.pdf)
+            - SVG-Format (Software Inkscape): [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.svg) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.svg)
 * **Poster** (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg}}) (Software Inkscape)
 * **Vortragsfolien**: [PDF]({{ site.baseurl }}/slides.pdf)
 *  **Aktuelle Vortragsfolien**: [PDF]({{ site.baseurl }}/slides/RDMO-Standard2.pdf) oder [PowerPoint]({{ site.baseurl }}/slides/RDMO-Standard2.pptx)
