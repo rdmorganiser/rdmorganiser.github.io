@@ -8,7 +8,7 @@ lang: en
 Promotion material
 ================
 
-We provide promotion material which can be freely used, hence under CC0 licence.
+We provide promotion material which can be freely used, hence under CC0 or CC-BY licence.
 
 * **Postcard** - PDF format: [Frontpage]({{ site.baseurl }}/img/promo/venv1.pdf) [Backpage]({{ site.baseurl }}/img/promo/renv1.pdf)
            - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/venv1.svg) [Backpage]({{ site.baseurl }}/img/promo/renv1.svg)
