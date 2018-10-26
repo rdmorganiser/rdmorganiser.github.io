@@ -14,6 +14,7 @@ Future workshops and meetings:
 -----------------------------------------------
 
 * 21.02.2019 3rd Meeting of the project members
+* 15.11.2018 Workshop about DMPs at the Open Science Forum in Luxembourg
 
 So far:
 --------------------------------------------
