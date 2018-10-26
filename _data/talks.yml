@@ -1,3 +1,11 @@
+- event: "International Open Access Week 2018"
+  url: http://www.open-access-berlin.de/aktivitaeten/oa-week-2018
+  date: 2018-10-24
+  place: Berlin
+  title: RDMO – Research Data Management Organiser
+  authors: Olaf Michaelis, Jochen Klar
+  poster: {{ site.baseurl }}/img/promo/rdmo-poster-final2.pdf
+
 - event: "107. Bibliothekartag"
   url: https://bibliothekartag2018.de/
   date: 2018-06-13
