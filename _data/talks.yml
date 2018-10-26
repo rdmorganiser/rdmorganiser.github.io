@@ -4,7 +4,7 @@
   place: Berlin
   title: RDMO – Research Data Management Organiser
   authors: Olaf Michaelis, Jochen Klar
-  poster: {{ site.baseurl }}/img/promo/rdmo-poster-final2.pdf
+  poster: https://rdmorganiser.github.io/img/promo/rdmo-poster-final2.pdf
 
 - event: "107. Bibliothekartag"
   url: https://bibliothekartag2018.de/
