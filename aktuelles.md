@@ -10,6 +10,13 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+Oktober 2018
+------------
+
+Am 24.10. präsentierten wir ein RDMO-Poster bei der **International Open Access Week 2018** in Berlin (http://www.open-access-berlin.de/aktivitaeten/oa-week-2018).
+Außerdem haben wir unsere Werbepostkarte überarbeitet und es gibt jetzt auch eine **[englische Version] (https://rdmorganiser.github.io/en/promotion/)**.
+
+
 September 2018
 --------------
 
