@@ -15,11 +15,11 @@ Zukünftige Workshops und Treffen:
 ---------------------------------
 
 * 21.02.2019 3. Projekttreffen
-* 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
+* 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
 * 21.09.2018 2. Projekttreffen
 * 13.09.2018 Lokaler Workshop in Dresden
 * 03.09.2018 Community-Treffen in Uni Duisburg-Essen [Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)
