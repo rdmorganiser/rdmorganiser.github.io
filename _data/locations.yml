@@ -145,18 +145,6 @@
   lon: 50.9246806
   color: blue
 
-# - name: Universität Trier
-#   url: https://www.ub.stuttgart.de
-
-# - name: Leibnitz-Institut für Pflanzenbiochemie
-#   url: https://www.uni-trier.de
-
-# - name: Max Planck Digital Library (MPDL)
-#   url: https://www.mpdl.mpg.de
-
-# - name: EAWAG
-#   url: http://www.eawag.ch
-
 - name: Universität Kassel
   url: https://rdmo.uni-kassel.de
   contact: Arvid Deppe
@@ -169,3 +157,22 @@
   lat: 11.2789751
   lon: 48.0853178
   color: gray
+  
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
+  url: http://www.ipk-gatersleben.de/
+  contact: Matthias Lange
+  lat: 11.2771503
+  lon: 51.827277
+  color: gray
+  
+# - name: Universität Trier
+#   url: https://www.ub.stuttgart.de
+
+# - name: Leibnitz-Institut für Pflanzenbiochemie
+#   url: https://www.uni-trier.de
+
+# - name: Max Planck Digital Library (MPDL)
+#   url: https://www.mpdl.mpg.de
+
+# - name: EAWAG
+#   url: http://www.eawag.ch
