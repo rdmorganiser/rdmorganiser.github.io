@@ -10,10 +10,20 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+November 2018
+-------------
+
+Wir veröffentlichen **Version 0.11.0** von RDMO mit dem neuen *Datenmodell*. Mit dem neuen Aufbau wird es möglich sein, unkompliziert eigene Fragenkataloge zu erstellen und gleichzeitig das Domänenmodell der ganzen RDMO Community zu nutzen, um Ansichten, Fragenkataloge, etc. nachzunutzen. Wir haben auch unsere Dokumentation überarbeitet und um die neuen Arbeitsschritte ergänzt.
+
+Außerdem haben wir die **Unterabschnitte des Fragenkatalogs entfernt** und die Fragensets so umgestaltet, dass sie jetzt immer einer Seite im Interview entsprechen, einen eigenen Titel haben und in der kleinen Übersicht auf der Seite auftauchen.
+Wir waren zu Gast beim **Open Science Forum in [Luxemburg](https://openscience2018.uni.lu/)** und haben dort über FDM in den Digital Humanities referiert. Dabei kam auch RDMO in einer Hands-On Session zum Einsatz. Die Materialien hierzu sind auf Zenodo veröffentlicht.
+Wir haben außerdem einen ersten **[Screencast](https://rdmorganiser.github.io/materialien/)** auf unserer Webseite veröffentlicht. Es werden zeitnah weitere folgen.
+
+
 Oktober 2018
 ------------
 
-Am 24.10. präsentierten wir ein RDMO-Poster bei der **International Open Access Week 2018** in Berlin (http://www.open-access-berlin.de/aktivitaeten/oa-week-2018).
+Am 24.10. präsentierten wir ein RDMO-Poster bei der **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten/oa-week-2018)** in Berlin.
 Außerdem haben wir unsere **Werbepostkarte** überarbeitet und es gibt jetzt auch eine englische [Version](https://rdmorganiser.github.io/en/promotion/).
 
 
