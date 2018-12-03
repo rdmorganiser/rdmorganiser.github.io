@@ -10,10 +10,18 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+November 2018
+-------------
+
+We release **version 0.11.0** of RDMO with the *new data model*. With the new structure it will be possible to easily create your own question catalogs and at the same time to use the domain model of the whole RDMO community to reuse views, question catalogs, etc. We have also revised our documentation and added the new work steps.
+
+In addition, we have **removed the subsections** of the question catalog and redesigned the question sets so that they now always correspond to a page in the interview, have their own title and appear in the small overview on the page. We were a guest at the **[Open Science Forum in Luxembourg](https://openscience2018.uni.lu/)** and gave a lecture on data management in the Digital Humanities. RDMO was also used in a hands-on session. The materials are published on Zenodo. We also published a first **[screencast](https://rdmorganiser.github.io/en/promotion/)** on our website. More screencasts will follow soon.
+
+
 October 2018
 ------------
 
-On the 24th October we presented a RDMO poster at the **International Open Access Week 2018** in Berlin (http://www.open-access-berlin.de/aktivitaeten/oa-week-2018). Moreover we improved our **Postcard** and there is now a English [version](https://rdmorganiser.github.io/en/promotion/).
+On the 24th October we presented a RDMO poster at the **International Open Access Week 2018(http://www.open-access-berlin.de/aktivitaeten/oa-week-2018)** in Berlin. Moreover we improved our **Postcard** and there is now a English [version](https://rdmorganiser.github.io/en/promotion/).
 
 September 2018
 --------------
