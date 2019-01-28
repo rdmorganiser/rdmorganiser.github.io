@@ -5,6 +5,11 @@ current:
   image: img/team/enke.jpg
 
 - text:
+    de: "**Jochen Klar** ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+    en: "**Jochen Klar** is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+  image: img/team/klar.jpg
+
+- text:
     de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
     en: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
   image: img/team/kramer.jpg
@@ -40,11 +45,6 @@ current:
   image: img/team/wedlich.jpg
 
 former:
-- text:
-    de: "**Jochen Klar** war wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er arbeitete dort an der Entwicklung und dem Betrieb von astronomischen Datenbanken, sowie an interdisziplinären Projekten zu den Themen Datenmanagement und Datenveröffentlichungen. Er ist Teil des Redaktionsteams von [forschungsdaten.org](http://www.forschungsdaten.org/)."
-    en: "**Jochen Klar** has worked as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). His specialities there were the development and operation of astronomical databases and web services. He works in interdisciplinary projects researching data management and data publication infrastructures. He is a member of the editorial team of [forschungsdaten.org](http://www.forschungsdaten.org/)."
-  image: img/team/klar.jpg
-  
 - text:
     de: "**Claudia Engelhardt** war wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
     en: "**Claudia Engelhardt** has been a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
