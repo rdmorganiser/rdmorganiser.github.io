@@ -31,3 +31,8 @@ Was kann man mit RDMO machen?
 *Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/Erstellen_22-01-2019.mp4">Erstellen_22-01-2019.mp4</a>)
 
    <video poster="{{ site.baseurl}}/img/promo/Erstellen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
+
+
+*Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/Optionen.mp4">Optionen.mp4</a>)
+
+   <video poster="{{ site.baseurl}}/img/promo/Optionen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Optionen.mp4">Your browser does not support the video tag.</video>
