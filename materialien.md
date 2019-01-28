@@ -36,4 +36,4 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
     
      *Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/Optionen.mp4">Optionen.mp4</a>)
 
-    <video poster="{{ site.baseurl}}/img/promo/Optionen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Optionen.mp4">Your browser does not support the video tag.</video>
+    <video poster="{{ site.baseurl}}/img/promo/Optionen_First_Frame.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Optionen.mp4">Your browser does not support the video tag.</video>
