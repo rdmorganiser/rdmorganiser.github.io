@@ -10,6 +10,16 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+Januar 2019
+-----------
+
+Wir veröffentlichen **Version 0.12.0** von RDMO mit verbessertem Fehlermanagament, einer Schaltfläche für den URI Präfix und der Möglichkeit Nutzerprofile zu löschen. Es wurden zwei neue **[Screencasts](https://rdmorganiser.github.io/materialien/)** veröffentlicht. Wir sammeln *Fragenkataloge und Ansichten* ein. *Janine Straka* vom RMDO-Team geht ab Februar in Mutterschutz und anschließend in die Elternzeit. Die Vertretung übernimmt ab März *Ulrike Wuttke*.
+
+Dezember 2018
+-------------
+
+Es steht nun fest, dass *Jochen Klar* das AIP verlassen wird, aber auch zukünftig eng mit dem RDMO-Team zusammenarbeiten wird. Weitere Screencasts sind in Arbeit.
+
 November 2018
 -------------
 
