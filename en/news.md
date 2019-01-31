@@ -10,6 +10,16 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+Januar 2019
+-----------
+
+We release **Version 0.12.0** of RDMO with improved error handling, a button for the URI prefix and the possibility to delete user profiles. Two new **[Screencasts](https://rdmorganiser.github.io/materialien/)** have been released. We collect now *question catalogs and views*. *Janine Straka* from the RMDO team will be on maternity leave from February and then on parental leave. From March on, *Ulrike Wuttke* will take over the substitution.
+
+Dezember 2018
+-------------
+
+It is now clear that *Jochen Klar* will leave the AIP, but will continue to work closely with the RDMO team in the future. More screencasts are in preparation.
+
 November 2018
 -------------
 
