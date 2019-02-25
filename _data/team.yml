@@ -44,10 +44,10 @@ current:
     en: "**Kerstin Wedlich-Zachodin** is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) im bwFDM-Info and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
   image: img/team/wedlich.jpg
   
-- text:
-  de: "**Ulrike Wuttke** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
-  en: "**Ulrike Wuttke** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."  
-  image: img/team/wuttke.jpg
+- text: 
+    de: "**Ulrike Wuttke** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
+    en: "**Ulrike Wuttke** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."  
+ image: img/team/wuttke.jpg
 
 former:
 - text:
