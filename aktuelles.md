@@ -10,9 +10,9 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abbonieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
-März 2019
+Februar 2019
 ---------
-Im Februar fand das reguläre Treffen der RDMO-Projektgruppe in Berlin statt. Es gab intensive Diskussionen zur Nachhaltigkeit. Es wurde beschlossen, am 07.10.2019 ein RDMO-Anwendertreffen an der ULB Darmstadt zu organisieren. Auf der **RDA Deutschland Tagung** war das RDMO-Projekt mit einem [Poster](https://www.rda-deutschland.de/events/rda-deutschland-tagung-2019-poster) vertreten. Seit 1. März ist *Ulrike Wuttke* an der FH Potsdam die Vertretung für *Janine Straka*.
+Im Februar fand das reguläre Treffen der RDMO-Projektgruppe in Berlin statt. Es gab intensive Diskussionen zur Nachhaltigkeit. Es wurde beschlossen, am 07.10.2019 ein RDMO-Anwendertreffen an der ULB Darmstadt zu organisieren. Auf der **RDA Deutschland Tagung** war das RDMO-Projekt mit einem [Poster](https://www.rda-deutschland.de/events/rda-deutschland-tagung-2019-poster) vertreten. 
 
 Januar 2019
 -----------
