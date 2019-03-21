@@ -58,7 +58,7 @@ $(document).ready(function() {
                 var icon = icons['gray'];
             }
 
-            var marker = L.marker([location.lon, location.lat], {icon: icon}).addTo(map);
+            var marker = L.marker([location.lat, location.lon], {icon: icon}).addTo(map);
             marker.bindPopup(popup_template(location));
         }
     });

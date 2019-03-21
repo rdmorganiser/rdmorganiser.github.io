@@ -1,178 +1,216 @@
-- name: Leibniz-Institut für Astrophysik Potsdam
-  url: https://rdmo.aip.de
+- name:    Leibniz-Institut für Astrophysik Potsdam
+  url:     https://rdmo.aip.de
   contact: Jochen Klar
-  lat: 13.104167
-  lon: 52.405
-  color: blue
+  lat:     52.405
+  lon:     13.104167
+  color:   blue
 
-- name: Ruhr Universität Bochum
-  url: http://www.ruhr-uni-bochum.de
+- name:    Ruhr Universität Bochum
+  url:     http://www.ruhr-uni-bochum.de
   contact: Johannes Frenzel
-  lat: 7.261572
-  lon: 51.4439
-  color: gray
+  lat:     51.4439
+  lon:     7.261572
+  color:   gray
 
-- name: Universität Duisburg-Essen
-  url: https://www.uni-due.de
+- name:    Universität Duisburg-Essen
+  url:     https://www.uni-due.de
   contact: Ania Lopez, Eike Spielberg
-  lat: 6.800833
-  lon: 51.429167
-  color: gray
+  lat:     51.429167
+  lon:     6.800833
+  color:   gray
 
-- name: IZUS / Universitätsbibliothek Stuttgart
-  url: http://fdm.ub.uni-stuttgart.de
+- name:    IZUS / Universitätsbibliothek Stuttgart
+  url:     http://fdm.ub.uni-stuttgart.de
   contact: Florian Fritze
-  lat : 9.1686
-  lon: 48.78231
-  color: blue
+  lat:     48.78231
+  lon:     9.1686
+  color:   blue
 
-- name: Fachhochschule Potsdam
-  url: http://rdmo.fh-potsdam.de
+- name:    Fachhochschule Potsdam
+  url:     http://rdmo.fh-potsdam.de
   contact: Janine Straka
-  lat: 13.0512984
-  lon: 52.413501
-  color: blue
+  lat:     52.413501
+  lon:     13.0512984
+  color:   blue
 
-- name: Karlsruher Institut für Technologie
-  url: https://rdmo.forschungsdaten.info
+- name:    Karlsruher Institut für Technologie
+  url:     https://rdmo.forschungsdaten.info
   contact: Claudia Kramer
-  lat: 8.4121891
-  lon: 49.00955
-  color: blue
+  lat:     49.00955
+  lon:     8.4121891
+  color:   blue
 
-- name: Staatsbibliothek zu Berlin
-  url: http://www.staatsbibliothek-berlin.de
+- name:    Staatsbibliothek zu Berlin
+  url:     http://www.staatsbibliothek-berlin.de
   contact: Jens Ludwig
-  color: gray
+  color:   gray
 
-- name: bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
-  url: http://bwfdm.scc.kit.edu
-  color: gray
+- name:    bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-Württemberg
+  url:     http://bwfdm.scc.kit.edu
+  color:   gray
 
-- name: Göttingen eResearch Alliance
-  url: http://www.eresearch.uni-goettingen.de
+- name:    Göttingen eResearch Alliance
+  url:     http://www.eresearch.uni-goettingen.de
   contact: Timo Gnadt, Claudia Engelhardt
-  lat: 9.9358179
-  lon: 51.5400097
-  color: gray
+  lat:     51.5400097
+  lon:     9.9358179
+  color:   gray
 
-# - name: Hessisches Forschungsdateninfrastrukture (HeFDI)
-#   url: https://www.uni-marburg.de/projekte/forschungsdaten/projekt
+# - name:  Hessisches Forschungsdateninfrastrukture (HeFDI)
+#   url:   https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
-- name: Universität Bayreuth
-  url: http://rdmo.uni-bayreuth.de/rdmo
-  contact: Ursula Higgins, Andreas Weber, Claudia Piesche, Clemens Engelhardt, Birgit Regenfuß
-  lat: 11.586435
-  lon: 49.929511
-  color: blue
+- name:    Universität Bayreuth
+  url:     http://rdmo.uni-bayreuth.de/rdmo
+  contact: Andreas Weber
+  lat:     49.929511
+  lon:     11.586435
+  color:   blue
 
-- name: Universitäts- und Landesbibliothek Darmstadt
-  url: http://tudmo.ulb.tu-darmstadt.de
+- name:    Universitäts- und Landesbibliothek Darmstadt
+  url:     http://tudmo.ulb.tu-darmstadt.de
   contact: Gerald Langhanke
-  lat: 8.680805
-  lon: 49.861429
-  color: blue
+  lat:     49.861429
+  lon:     8.680805
+  color:   blue
 
-# - name: Universität Dortmund
-#   url: https://www.tu-dortmund.de/uni/de/Uni
+# - name:  Universität Dortmund
+#   url:   https://www.tu-dortmund.de/uni/de/Uni
 
-- name: Universität Düsseldorf (FoDaKo)
-  url: http://www.fodako.de
-  lat: 6.7899203
-  lon: 51.1952525
-  color: gray
+- name:    Universität Düsseldorf (FoDaKo)
+  url:     http://www.fodako.de
+  lat:     51.1952525
+  lon:     6.7899203
+  color:   gray
 
-- name: Universität Wuppertal (FoDaKo)
+- name:    Universität Wuppertal (FoDaKo)
   contact: Torsten Rathman
-  url: http://www.fodako.de
-  lat: 7.1486939
-  lon: 51.2458565
-  color: gray
+  url:     http://www.fodako.de
+  lat:     51.2458565
+  lon:     7.1486939
+  color:   gray
 
-- name: Universität Siegen (FoDaKo)
+- name:    Universität Siegen (FoDaKo)
   contact: Thomas von Rekowski, Henning Bohn, Volker Hess
-  url: http://www.fodako.de
-  lat: 8.0273001
-  lon: 50.91082
-  color: gray
+  url:     http://www.fodako.de
+  lat:     50.91082
+  lon:     8.0273001
+  color:   gray
 
-- name: Universität Hildesheim
+- name:    Universität Hildesheim
   contact: Annette Strauch
-  url: https://www.uni-hildesheim.de/forschungsdaten
-  lat: 9.9833092
-  lon: 52.1600497
-  color: gray
+  url:     https://www.uni-hildesheim.de/forschungsdaten
+  lat:     52.1600497
+  lon:     9.9833092
+  color:   gray
 
-- name: Technische Universität Braunschweig
+- name:    Technische Universität Braunschweig
   contact: Robert Strötgen
-  url: https://rdmo.biblio.etc.tu-bs.de
-  lat: 10.5296839
-  lon: 52.2735074
-  color: gray
+  url:     https://rdmo.biblio.etc.tu-bs.de
+  lat:     52.2735074
+  lon:     10.5296839
+  color:   gray
 
-- name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+- name:    Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
   contact: Giacomo Lanza
-  url: https://rdmo.ptb.de
-  lat: 10.46418
-  lon: 52.29653
-  color: gray
+  url:     https://rdmo.ptb.de
+  lat:     52.29653
+  lon:     10.46418
+  color:   gray
 
-- name: Technische Universität Hamburg
+- name:    Technische Universität Hamburg
   contact: Beate Rajski
-  url: https://rdmo.rz.tuhh.de
-  lat: 9.9699716
-  lon: 53.4610079
-  color: gray
+  url:     https://rdmo.rz.tuhh.de
+  lat:     53.4610079
+  lon:     9.9699716
+  color:   gray
 
-- name: Universitäts- und Landesbibliothek Münster
+- name:    Universitäts- und Landesbibliothek Münster
   contact: Marc Schutzeichel
-  url: https://www.ulb.uni-muenster.de
-  lat: 7.620459
-  lon: 51.9627609
-  color: gray
+  url:     https://www.ulb.uni-muenster.de
+  lat:     51.9627609
+  lon:     7.620459
+  color:   gray
 
-- name: Hochschul- und Landesbibliothek Fulda
+- name:    Hochschul- und Landesbibliothek Fulda
   contact: Patrick Langner
-  url: https://www.hs-fulda.de
-  lat: 9.68746859
-  lon: 50.5653467
-  color: gray
+  url:     https://www.hs-fulda.de
+  lat:     50.5653467
+  lon:     9.68746859
+  color:   gray
 
-- name: PUBLISSO/ZB MED
+- name:    PUBLISSO/ZB MED
   contact: Robin Rothe
-  url: http://rdmo.publisso.de
-  lat: 6.9164622
-  lon: 50.9246806
-  color: blue
+  url:     http://rdmo.publisso.de
+  lat:     50.9246806
+  lon:     6.9164622
+  color:   blue
 
-- name: Universität Kassel
-  url: https://rdmo.uni-kassel.de
+- name:    Universität Kassel
+  url:     https://rdmo.uni-kassel.de
   contact: Arvid Deppe
-  lat: 9.507359
-  lon: 51.322817
-  color: blue
-  
-- name: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+  lat:     51.322817
+  lon:     9.507359
+  color:   blue
+
+- name:    Deutsches Zentrum für Luft- und Raumfahrt (DLR)
   contact: Jutta Graf
-  lat: 11.2789751
-  lon: 48.0853178
-  color: gray
-  
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
-  url: http://www.ipk-gatersleben.de/
+  lat:     48.0853178
+  lon:     11.2789751
+  color:   gray
+
+- name:    Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
+  url:     http://www.ipk-gatersleben.de/
   contact: Matthias Lange
-  lat: 11.2771503
-  lon: 51.827277
-  color: gray
-  
-# - name: Universität Trier
-#   url: https://www.ub.stuttgart.de
+  lat:     51.827277
+  lon:     11.2771503
+  color:   gray
 
-# - name: Leibnitz-Institut für Pflanzenbiochemie
-#   url: https://www.uni-trier.de
+- name:    Universität Trier
+  contact: Marina Lemaire, Stefan Kellendonk
+  lat:     49.745933
+  lon:     6.688490
+  color:   gray
 
-# - name: Max Planck Digital Library (MPDL)
-#   url: https://www.mpdl.mpg.de
+# - name:  Leibnitz-Institut für Pflanzenbiochemie
+#   url:   https://www.uni-trier.de
 
-# - name: EAWAG
-#   url: http://www.eawag.ch
+- name:    Max Planck Digital Library (MPDL)
+  url:     https://rdmo.mpdl.mpg.de/
+  contact: Thomas Mader, Sarah Hiller, Michael Franke
+  lat:     48.1480167
+  lon:     11.5765864
+  color:   gray
+
+# - name:  EAWAG
+#   url:   http://www.eawag.ch
+
+- name:    Alfred Wegner Institut
+  contact: Angela Schäfer
+  lat:     53.533308
+  lon:     8.5805956
+  color:   gray
+
+# - name:  Deutsches GeoForschungsZentrum GFZ
+#   contact: Roland Bertelmann
+#   lat:   52.385098
+#   lon:   13.066132
+#   color: gray
+
+- name:    RTWH Aachen
+  contact: Daniela Hausen
+  lat:     50.781177
+  lon:     6.065603
+  color:   gray
+
+- name:    Forschungszentrum Jülich
+  url:     https://dmp.fz-juelich.de
+  contact: Eva-Maria Gerstner
+  lat:     50.905626
+  lon:     6.40600
+  color:   blue
+
+- name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
+  contact: Jürgen Rohrwild
+  lat:     49.597901
+  lon:     11.004571
+  color:   gray
