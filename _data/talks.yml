@@ -6,6 +6,14 @@
   authors: Jochen Klar, Olaf Michaelis
   poster: https://rdmorganiser.github.io/img/promo/rdmo-poster_escience_tage_2019.pdf
 
+- event: CampusSource Tagung 2019
+  url: http://www.campussource.de/events/e1903hagen/
+  date: 2019-03-26
+  place: Hagen
+  title: "RDMO - Research Data Management Organiser"
+  authors: Jochen Klar
+  # slides: 
+
 - event: "7. Bibliothekskongress"
   url: https://bibliothekartag2018.de/
   date: 2019-03-20
