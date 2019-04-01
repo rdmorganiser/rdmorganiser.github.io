@@ -1,3 +1,18 @@
+- event: E-Science-Tage 2019
+  url: https://e-science-tage.de/de/tagung
+  date: 2019-03-28
+  place: Heidelberg
+  title: "Lightning Talk, Poster Session, Demotisch"
+  authors: Jochen Klar, Olaf Michaelis
+  poster: https://rdmorganiser.github.io/img/promo/rdmo-poster_escience_tage_2019.pdf
+
+- event: "7. Bibliothekskongress"
+  url: https://bibliothekartag2018.de/
+  date: 2019-03-20
+  place: Leipzig
+  title: Aktives Datenmanagement mit RDMO
+  authors: Kerstin Wedlich-Zachodin, Olaf Michaelis
+
 - event: "International Open Access Week 2018"
   url: http://www.open-access-berlin.de/aktivitaeten/oa-week-2018
   date: 2018-10-24
@@ -5,11 +20,11 @@
   title: RDMO – Research Data Management Organiser
   authors: Olaf Michaelis, Jochen Klar
   poster: https://rdmorganiser.github.io/img/promo/rdmo-poster-final2.pdf
-  
+
 - event: "Beilstein Open Science Symposium"
-  date: 2018-10-10 
+  date: 2018-10-10
+  title: RDMO - Research Data Management Organiser
   authors: Claudia Kramer
-  poster:
 
 - event: "107. Bibliothekartag"
   url: https://bibliothekartag2018.de/
@@ -24,7 +39,7 @@
   date: 2018-06-11
   place: Berlin
   title: Einsatz von Software in den Bereichen Forschungsdatenmanagement und Forschungsdatenhaltung
-  authors: Olaf Michaelis, Jochen Klar 
+  authors: Olaf Michaelis, Jochen Klar
   poster: https://escience.aip.de/ak-forschungsdaten/wp-content/uploads/2018/06/rdmo-poster.pdf
 
 - event: "DMP Common Standards WG - RDA 11th Plenary meeting"
