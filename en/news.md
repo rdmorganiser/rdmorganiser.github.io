@@ -10,6 +10,10 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+March 2019
+----------
+The new RDMO version 0.13 is released. The biggest innovation is the revision of the multilingualism. RDMO can now be used with up to 5 languages. An instance in English only is also possible. RDMO was represented at two events this month: an RDMO Hands-On Lab took place at the 7th Bibliothekskongress 2019 (Leipzig) and during the eScience Days 2019 in Heidelberg RDMO was present with a poster, a demo table, and a lightning talk.
+
 February 2019
 -------------
 In February the regular meeting of the RDMO project group took place in Berlin. There were intensive discussions on sustainability. It was decided to organise an RDMO user meeting at the ULB Darmstadt on 07.10.2019. The RDMO project was represented with a [poster](https://www.rda-deutschland.de/events/rda-deutschland-tagung-2019-poster) at the **RDA Germany conference**.
