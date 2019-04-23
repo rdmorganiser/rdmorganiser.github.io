@@ -220,3 +220,10 @@
   lat: 52.411138
   lon: 13.129854
   color: gray
+
+- name:    Staats- und Universitätsbibliothek Dresden (SLUB)
+#  url:     
+  contact: Johannes Sperling
+  lat:     51.028183 
+  lon:     13.736781
+  color: gray
