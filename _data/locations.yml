@@ -96,6 +96,11 @@
     name: "Ruhr Universit\xE4t Bochum"
     url: http://www.ruhr-uni-bochum.de
 -   color: gray
+    contact: Johannes Sperling
+    lat: 51.028183
+    lon: 13.736781
+    name: "Staats- und Universit\xE4tsbibliothek Dresden (SLUB)"
+-   color: gray
     contact: Jens Ludwig
     name: Staatsbibliothek zu Berlin
     url: http://www.staatsbibliothek-berlin.de

@@ -215,15 +215,14 @@
   lon:     11.004571
   color:   gray
 
-- name: Helmholtz-Zentrum Berlin HZB
+- name:    Helmholtz-Zentrum Berlin HZB
   contact: Heike Görzig
-  lat: 52.411138
-  lon: 13.129854
-  color: gray
+  lat:     52.411138
+  lon:     13.129854
+  color:   gray
 
 - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
-#  url:     
   contact: Johannes Sperling
-  lat:     51.028183 
+  lat:     51.028183
   lon:     13.736781
-  color: gray
+  color:   gray
