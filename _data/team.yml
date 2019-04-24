@@ -34,7 +34,7 @@ current:
     en: "**Janine Straka, née Vierheller** (in maternity/parental leave) is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on sustainability, community building, dissemination and training of RDMO."
   image: img/team/vierheller.jpg
   
-  - text:
+- text:
     de: "**Robert Ulrich** ist wissenschaftlicher Mitarbeiter und Softwareentwickler an der Bibliothek des Karlsruher Instituts für Technologie (KIT). Er koordiniert, managt und entwickelt für re3data, das Serviceteam RDM@KIT und weitere FDM-Projekte. Auf [forschungsdaten.info](http://www.forschungsdaten.info) kümmert er sich um das Hosting der dortigen RDMO-Instanz."
     en: "**Robert Ulrich** is a research assistant and software developer at the library of the Karlsruhe Institute of Technology (KIT). He coordinates, manages and develops for re3data, the Serviceteam RDM@KIT and other RDM projects. He is responsible for hosting the RDMO instance at [forschungsdaten.info](http://www.forschungsdaten.info)."
   image: img/team/ulrich.jpeg
