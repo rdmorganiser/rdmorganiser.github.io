@@ -30,14 +30,14 @@ current:
   image: img/team/neuroth.jpg
 
 - text:
-    de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). Dort leitet er [bwFDM-Info](https://bwfdm.scc.kit.edu) und koordiniert [E-Science Projekte des Landes Baden-Württemberg](https://www.forschungsdaten.info/projekte/). Er ist Teil des Redaktionsteams von [forschungsdaten.info](https://forschungsdaten.info)."
-    en: "**Frank Tristram** is a research associate at [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). He leads [bwFDM-Info](https://bwfdm.scc.kit.edu) and coordinates the [E-Science projects in the state of Baden-Württemberg](https://www.forschungsdaten.info/projekte/). He is a member of the editorial team of [forschungsdaten.info](https://forschungsdaten.info)."
-  image: img/team/tristram.png
-
-- text:
     de: "**Janine Straka** (in Mutterschutz/Elternzeit) ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeitsschwerpunkte sind Nachhaltigkeit, Community-Building, Dissemination und Training von RDMO."
     en: "**Janine Straka, née Vierheller** (in maternity/parental leave) is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on sustainability, community building, dissemination and training of RDMO."
   image: img/team/vierheller.jpg
+  
+  - text:
+    de: "**Robert Ulrich** ist wissenschaftlicher Mitarbeiter und Softwareentwickler an der Bibliothek des Karlsruher Instituts für Technologie (KIT). Er koordiniert, managt und entwickelt für re3data, das Serviceteam RDM@KIT und weitere FDM-Projekte. Auf [forschungsdaten.info](http://www.forschungsdaten.info) kümmert er sich um das Hosting der dortigen RDMO-Instanz."
+    en: "**Robert Ulrich** is a research assistant and software developer at the library of the Karlsruhe Institute of Technology (KIT). He coordinates, manages and develops for re3data, the Serviceteam RDM@KIT and other RDM projects. He is responsible for hosting the RDMO instance at [forschungsdaten.info](http://www.forschungsdaten.info)."
+  image: img/team/ulrich.jpeg
 
 - text:
     de: "**Kerstin Wedlich-Zachodin** ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im bmFM-Info- und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
@@ -59,3 +59,8 @@ former:
     de: "**Martin Heger** ist Master in Informationswissenschaft ([Fachhochschule Potsdam](http://www.fh-potsdam.de/)). Seine Masterarbeit ist \"Datenmodellierung für Forschungsdatenmanagementpläne\"."
     en: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
   image: img/team/heger.jpg
+
+- text:
+    de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). Dort leitet er [bwFDM-Info](https://bwfdm.scc.kit.edu) und koordiniert [E-Science Projekte des Landes Baden-Württemberg](https://www.forschungsdaten.info/projekte/). Er ist Teil des Redaktionsteams von [forschungsdaten.info](https://forschungsdaten.info)."
+    en: "**Frank Tristram** is a research associate at [Steinbuch Centre for Computing (SCC)](https://scc.kit.edu). He leads [bwFDM-Info](https://bwfdm.scc.kit.edu) and coordinates the [E-Science projects in the state of Baden-Württemberg](https://www.forschungsdaten.info/projekte/). He is a member of the editorial team of [forschungsdaten.info](https://forschungsdaten.info)."
+  image: img/team/tristram.png
