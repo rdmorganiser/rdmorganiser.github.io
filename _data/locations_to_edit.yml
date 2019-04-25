@@ -226,3 +226,9 @@
   lat:     51.028183
   lon:     13.736781
   color:   gray
+
+- name:    Universität Potsdam
+  contact: Niklas Hartmann
+  lat:     52.401111
+  lon:     13.011944
+  color:   gray

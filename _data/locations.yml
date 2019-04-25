@@ -146,6 +146,11 @@
     name: "Universit\xE4t Kassel"
     url: https://rdmo.uni-kassel.de
 -   color: gray
+    contact: Niklas Hartmann
+    lat: 52.401111
+    lon: 13.011944
+    name: "Universit\xE4t Potsdam"
+-   color: gray
     contact: Thomas von Rekowski, Henning Bohn, Volker Hess
     lat: 50.91082
     lon: 8.0273001
