@@ -66,12 +66,6 @@
     lon: 11.2771503
     name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
     url: http://www.ipk-gatersleben.de/
--   color: gray
-    contact: Thomas Mader, Sarah Hiller, Michael Franke
-    lat: 48.1480167
-    lon: 11.5765864
-    name: Max Planck Digital Library (MPDL)
-    url: https://rdmo.mpdl.mpg.de/
 -   color: blue
     contact: Robin Rothe
     lat: 50.9246806

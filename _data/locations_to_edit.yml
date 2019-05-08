@@ -174,13 +174,6 @@
 # - name:  Leibnitz-Institut für Pflanzenbiochemie
 #   url:   https://www.uni-trier.de
 
-- name:    Max Planck Digital Library (MPDL)
-  url:     https://rdmo.mpdl.mpg.de/
-  contact: Thomas Mader, Sarah Hiller, Michael Franke
-  lat:     48.1480167
-  lon:     11.5765864
-  color:   gray
-
 # - name:  EAWAG
 #   url:   http://www.eawag.ch
 
