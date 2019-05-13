@@ -12,7 +12,7 @@ On this page, we briefly summarize our activities. For up-to-date information pl
 
 April 2019
 ----------
-The **new version 0.14** is released. The biggest changes are the conversion to Django 2.2 and Python 3 (from this version on RDMO doesn't work with Python 2 anymore!) and the revision of the API and an extension of write access. Starting from Django 2.1 onwards, older versions of MySQL and PostgreSQL are no longer supported. Please check the [Django release notes] (https://docs.djangoproject.com/en/2.2/releases/2.1/) before updating to avoid surprises. In addition, a **platform for the exchange of questionnaires** will be created. You can send us questionnaires that you would like to share. 
+The **new version 0.14** is released. The biggest changes are the conversion to Django 2.2 and Python 3 (from this version on RDMO doesn't work with Python 2 anymore!) and the revision of the API and an extension of write access. Starting from Django 2.1 onwards, older versions of MySQL and PostgreSQL are no longer supported. Please check the [Django release notes](https://docs.djangoproject.com/en/2.2/releases/2.1/) before updating to avoid surprises. In addition, a **platform for the exchange of questionnaires** will be created. You can send us questionnaires that you would like to share. 
 
 March 2019
 ----------
