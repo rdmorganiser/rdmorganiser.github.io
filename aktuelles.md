@@ -12,7 +12,7 @@ Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer a
 
 April 2019
 ----------
-Die neue **Version 0.14** ist veröffentlicht. Die größten Neuerungen sind die Umstellung auf Django 2.2 und Python 3 (ab dieser Version funktioniert RDMO mit Python2 nicht mehr!) und die Überarbeitung der API und Erweiterung auf Schreibzugriffe. Ab Django 2.1 werden ältere Versionen von MySQL und PostgreSQL nicht mehr unterstützt. Bitte schauen Sie vor dem Update in die [Django release notes](https://docs.djangoproject.com/en/2.2/releases/2.1/) um Überraschungen zu vermeiden. Außerdem soll eine **Plattform für den Austausch von Fragenkatalogen** geschaffen werden. Sie können uns Fragenkataloge, die Sie gerne teilen möchten, zukommen lassen. 
+Die neue **Version 0.14** ist veröffentlicht. Die größten Neuerungen sind die Umstellung auf Django 2.2 und Python 3 (ab dieser Version funktioniert RDMO mit Python 2 nicht mehr!) und die Überarbeitung der API und Erweiterung auf Schreibzugriffe. Ab Django 2.1 werden ältere Versionen von MySQL und PostgreSQL nicht mehr unterstützt. Bitte schauen Sie vor dem Update in die [Django release notes](https://docs.djangoproject.com/en/2.2/releases/2.1/) um Überraschungen zu vermeiden. Außerdem soll eine **Plattform für den Austausch von Fragenkatalogen** geschaffen werden. Sie können uns Fragenkataloge, die Sie gerne teilen möchten, zukommen lassen. 
 
 März 2019
 ---------
