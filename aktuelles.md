@@ -10,6 +10,10 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+Mai 2019
+--------
+RDMO **Version 0.14.4** (Bug Fixes) ist verfügbar. Probleme, die durch die Umstellung auf Django2 und Python3 verursacht wurden, sollten nun beseitigt sein. Ein Update wird wärmstens empfohlen, da Python2 nicht mehr lange unterstützt wird. Im Mai hat der Kick-Off des Projekts [**»Management Molekularer Daten im Research Data Life Cycle« (MaMoDaR)**](https://www.fh-potsdam.de/informieren/aktuelles/news-detailansicht/artikel/start-fuer-forschungsprojekt-mamodar/), eine Kooperation der FH Potsdam und des Robert Koch-Instituts, an der FHP stattgefunden und das **IPK Gatersleben** hat RDMO als Forschungsdatenmanagement-Werkzeug aus der Testphase in die Anwendungsphase überführt. Falls Sie **FDM-Schulungen mit dem Einsatz von RDMO** planen, teilen Sie uns die Termine mit, dann können wir sie mitbewerben (z. B. Twitter, Newsletter) und teilen Sie uns auch gerne Ihr Feedback und Erfahrungsberichten aus den Schulungen bzw. Schulungsmaterialien mit.
+
 April 2019
 ----------
 Die neue **Version 0.14** ist veröffentlicht. Die größten Neuerungen sind die Umstellung auf Django 2.2 und Python 3 (ab dieser Version funktioniert RDMO mit Python 2 nicht mehr!) und die Überarbeitung der API und Erweiterung auf Schreibzugriffe. Ab Django 2.1 werden ältere Versionen von MySQL und PostgreSQL nicht mehr unterstützt. Bitte schauen Sie vor dem Update in die [Django release notes](https://docs.djangoproject.com/en/2.2/releases/2.1/) um Überraschungen zu vermeiden. Außerdem soll eine **Plattform für den Austausch von Fragenkatalogen** geschaffen werden. Sie können uns Fragenkataloge, die Sie gerne teilen möchten, zukommen lassen. 
