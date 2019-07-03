@@ -10,6 +10,10 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+June 2019
+---------
+We repaired the **DCC question catalog** whose import did not work correctly. You can find the updated version on GitHub. It contains ten new attributes that have been added to the domain model. Therefore, you should import the domain model first before importing the DCC-catalog. The current XML file can be imported without any preparatory steps. Already imported data is retained and only the missing ten entries are added. Furthermore, there is **another method to install RDMO or to try it out quickly**. You can find on GitHub a version of RDMO that is packaged in Docker Compose. We would be happy to receive suggestions to further improve this RDMO installation method. Olaf Michaelis will take parental leave from the beginning of July until the beginning of October. Of course, we will continue to support and develop RDMO during the three months of his absence, however, with less personnel. 
+
 Mai 2019
 --------
 RDMO **version 0.14.4** (bug fixes) is now available. Problems caused by the switch to Django2 and Python3 should now be fixed. An update is highly recommended, as Python2 will not be supported for long. In May the kick-off of the project [**"Management of Molecular Data in the Research Data Life Cycle" (MaMoDaR)**](https://www.fh-potsdam.de/informieren/aktuelles/news-detailansicht/artikel/start-fuer-forschungsprojekt-mamodar/), a cooperation of FH Potsdam and Robert Koch Institute, took place at FHP and the **IPK Gatersleben** transferred RDMO as a research data management tool from the test phase to the productive phase. If you are planning **RDM training courses using RDMO**, please let us know the dates, then we can promote them (e.g. Twitter, Newsletter). We would also be happy to receive your feedback and experience reports from the training courses or training materials. 
