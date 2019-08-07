@@ -15,7 +15,7 @@ Zukünftige Workshops und Treffen:
 ---------------------------------
 
 * 27.09.2019 4. Projekttreffen
-* 07.10.2019 RDMO Anwender Workshop [Info] (https://rdmorganiser.github.io/workshop2019)
+* 07.10.2019 RDMO Anwender Workshop [Info](https://rdmorganiser.github.io/workshop2019)
 
 Bisherige Workshops und Treffen:
 --------------------------------
