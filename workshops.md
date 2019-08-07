@@ -14,7 +14,6 @@ Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kle
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-
 * 27.09.2019 4. Projekttreffen
 * 07.10.2019 RDMO Anwender Workshop [Info] (https://rdmorganiser.github.io/workshop2019)
 
