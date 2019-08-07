@@ -14,11 +14,14 @@ Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kle
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 21.02.2019 3. Projekttreffen
+
+* 27.09.2019 4. Projekttreffen
+* 07.10.2019 RDMO Anwender Workshop [Info] (https://rdmorganiser.github.io/workshop2019)
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
+* 21.02.2019 3. Projekttreffen
 * 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
 * 21.09.2018 2. Projekttreffen
 * 13.09.2018 Lokaler Workshop in Dresden
