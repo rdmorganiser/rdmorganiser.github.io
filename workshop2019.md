@@ -20,7 +20,7 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist das untenstehende Programm bislang vorgesehen. In begrenztem Umfang können noch kurze Beiträge vorgeschlagen werden. 
 
 Wir bitten um Registrierung unter 
-https://meetings.aip.de/rdmo/meetings/2019/registration/register
+[RDMO Anwenderworkshop 2019](https://meetings.aip.de/rdmo/meetings/2019/registration/register)
 
 
 Programm
