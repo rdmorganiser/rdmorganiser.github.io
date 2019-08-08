@@ -29,6 +29,7 @@ Programm
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
 - 11:15  RDMO Stand der Dinge, derzeitige und geplante Arbeiten (J. Klar)
 - 11:30  Status: 
+
 	- Landesinitiative-NFDI der Digitalen Hochschule NRW
 	
 - 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke & J. Ludwig)
@@ -46,5 +47,6 @@ Thementische
 - RDMO Governance 
 - Organisation der Softwareentwicklung
 - Mögliche weitere Themen:     
+
 	- Metadaten, APIs & Repositorien
 	- RDMO + Landesweite Initiativen
