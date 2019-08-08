@@ -46,5 +46,6 @@ Thementische
     - RDMO Governance 
     - Organisation der Softwareentwicklung
     - Mögliche weitere Themen: 
+    
            - Metadaten, APIs & Repositorien
            - RDMO + Landesweite Initiativen
