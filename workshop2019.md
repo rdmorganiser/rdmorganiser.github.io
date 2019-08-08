@@ -43,9 +43,8 @@ Thementische
 
 - Moderatoren: Harry Enke, Jens Ludwig, Kerstin Wedlich-Zachodin, Ulrike Wuttke, Jochen Klar, Olaf Michaelis
 
-    - RDMO Governance 
-    - Organisation der Softwareentwicklung
-    - Mögliche weitere Themen: 
-    
+- RDMO Governance 
+- Organisation der Softwareentwicklung
+- Mögliche weitere Themen:     
            - Metadaten, APIs & Repositorien
            - RDMO + Landesweite Initiativen
