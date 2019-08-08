@@ -34,7 +34,7 @@ Programm
 - 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke & J. Ludwig)
 - 12:15  Aufteilung in Arbeitsgruppen - unterteilt nach verschiedenen Themen (Vorarbeit zum Worldcafe)
 - 12:20 Mittagessen
-- 13:30  World-Cafe - 1 Thementisch/Arbeitsgruppe (siehe oben)
+- 13:30  World-Cafe - Thementische/Arbeitsgruppen (siehe unten)
 - 15:00  Kaffeepause
 - 15:30  Zusammenfassung der Thementische und Abschlussdiskussion
 
