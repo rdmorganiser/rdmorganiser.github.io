@@ -17,7 +17,7 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 > 64289 Darmstadt
 > Vortragssaal
 
-[Anfahrt:](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
+[Anfahrtskizze](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
 
 
 Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist bislang das untenstehende Programm vorgesehen. In begrenztem Umfang können noch kurze Beiträge vorgeschlagen werden. 
