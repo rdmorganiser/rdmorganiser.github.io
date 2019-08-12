@@ -10,6 +10,10 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+Juli 2019
+---------
+Im letzten Monat haben wir ein paar kleinere Bugs in RDMO gefunden und beseitigt. Insbesondere hat der Installationsvorgang durch ein Update bei einer von uns verwendeten Bibliothek nicht mehr funktioniert. Die Änderungen sind in der [**neuen Version 0.14.5** auf Github](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.5) enthalten, die wie üblich installiert werden kann.
+
 Juni 2019
 ---------
 Wir haben den **DCC-Fragenkatalog**, dessen Import nicht korrekt funktionierte, repariert. Die aktualisierte Version ist auf GitHub. Er enthält zehn neue Attribute, die dem Domänenmodell hinzugefügt wurden. Daher sollte vor dem Einlesen des Katalogs erst das Domänenmodell importiert werden. Der Import der aktuellen XML-Datei kann ohne vorbereitende Schritte erfolgen. Bereits importierte Daten bleiben erhalten und werden lediglich um die fehlenden zehn Einträge ergänzt. Außerdem gibt es nun eine **weitere Methode, RDMO zu installieren oder auch schnell auszuprobieren**. Auf GitHub befindet sich eine Version RDMOs, die in Docker Compose verpackt ist. Wir würden uns über weitere Anregungen freuen, um auch diesen RDMO-Installationsweg weiter zu verbessern. Mit Beginn des Monats Juli wird Olaf Michaelis bis Anfang Oktober in Elternzeit gehen. RDMO wird in den drei Monaten seiner Abwesenheit natürlich trotzdem weiter betreut und entwickelt, wenn auch mit etwas weniger Personal.
