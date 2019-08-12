@@ -10,6 +10,10 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+July 2019
+---------
+Last month we found and fixed some minor bugs in RDMO. Especially the installation process didn't work anymore due to an update of a library we used. The changes are contained in the [**new version 0.14.5** on Github](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.5), which can be installed as usual.
+
 June 2019
 ---------
 We repaired the **DCC question catalog** whose import did not work correctly. You can find the updated version on GitHub. It contains ten new attributes that have been added to the domain model. Therefore, you should import the domain model first before importing the DCC-catalog. The current XML file can be imported without any preparatory steps. Already imported data is retained and only the missing ten entries are added. Furthermore, there is **another method to install RDMO or to try it out quickly**. You can find on GitHub a version of RDMO that is packaged in Docker Compose. We would be happy to receive suggestions to further improve this RDMO installation method. Olaf Michaelis will take parental leave from the beginning of July until the beginning of October. Of course, we will continue to support and develop RDMO during the three months of his absence, however, with less personnel. 
