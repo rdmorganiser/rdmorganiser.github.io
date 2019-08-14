@@ -12,13 +12,10 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 
 > Termin:   07.10.2019
 
-> Ort: ULB Darmstadt
+> Ort: ULB Darmstadt, Vortragssaal
 
-> Magdalenenstr. 8
+> Magdalenenstr. 8,  64289 Darmstadt
 
-> 64289 Darmstadt
-
-> Vortragssaal
 
 [Anfahrtskizze](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
 
