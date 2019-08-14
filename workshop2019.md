@@ -13,8 +13,11 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 > Termin:   07.10.2019
 
 > Ort: ULB Darmstadt
+
 > Magdalenenstr. 8
+
 > 64289 Darmstadt
+
 > Vortragssaal
 
 [Anfahrtskizze](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
@@ -33,6 +36,7 @@ Programm
 - 11:15  RDMO Stand der Dinge, derzeitige und geplante Arbeiten (J. Klar)
 - 11:30  Status: 
 
+	- RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI (G. Jagusch)
 	- Landesinitiative-NFDI der Digitalen Hochschule NRW (J. Frenzel)
 	
 - 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke & J. Ludwig)
