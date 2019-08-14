@@ -35,6 +35,7 @@ Programm
 
 	- RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI (G. Jagusch)
 	- Landesinitiative-NFDI der Digitalen Hochschule NRW (J. Frenzel)
+	- RDMO in der Praxis. DFG-Fragenkataloge in FoDaKo und der Stiftung Universität Hildesheim (A.Strauch, T. Rathmann)
 	
 - 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke & J. Ludwig)
 - 12:15  Aufteilung in Arbeitsgruppen - für die Thementische beim Worldcafe 
