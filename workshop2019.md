@@ -19,6 +19,15 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 
 [Anfahrtskizze](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
 
+Link zur **Hotelsuche** in Darmstadt: [https://www.darmstadt-tourismus.de/besuch/uebernachten.html](https://www.darmstadt-tourismus.de/besuch/uebernachten.html).
+
+Unsere Empfehlungen (Preis/Lage):
+- Ernst-Ludwig
+- Prinz Heinrich
+- Pallas
+- Atlanta
+- Ibis
+- [Friends Hotel Darmstadt](http://darmstadt.hotelfriends.de/)
 
 Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist bislang das untenstehende Programm vorgesehen. In begrenztem Umfang können noch kurze Beiträge vorgeschlagen werden. 
 
