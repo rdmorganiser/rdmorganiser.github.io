@@ -29,7 +29,7 @@ Unsere Empfehlungen (Preis/Lage):
 - Ibis
 - [Friends Hotel Darmstadt](http://darmstadt.hotelfriends.de/)
 
-Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist bislang das untenstehende Programm vorgesehen. In begrenztem Umfang können noch kurze Beiträge vorgeschlagen werden. 
+Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist bislang das untenstehende Programm vorgesehen.
 
 Die Teilnahme ist kostenlos, zur Planung bitten wir jedoch um Registrierung unter 
 [RDMO Anwenderworkshop 2019](https://meetings.aip.de/rdmo/meetings/2019/registration/register)
@@ -41,12 +41,11 @@ Programm
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
 - 11:15  RDMO Stand der Dinge, derzeitige und geplante Arbeiten (J. Klar)
 - 11:30  Status: 
-
 	- RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI (G. Jagusch)
 	- AG DMP in NRW: Anforderungen an RDMO aus Nutzersicht (J. Frenzel)
 	- RDMO in der Praxis. DFG-Fragenkataloge in FoDaKo und der Stiftung Universität Hildesheim (A.Strauch, T. Rathmann)
 	
-- 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke & J. Ludwig)
+- 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - Governance & Future (H. Enke)
 - 12:15  Aufteilung in Arbeitsgruppen - für die Thementische beim Worldcafe 
 - 12:20  Mittagessen
 - 13:30  World-Cafe - Thementische/Arbeitsgruppen (siehe unten)
@@ -58,7 +57,7 @@ Programm
 Thementische
 ------------
 
-- Moderatoren: Harry Enke, Jens Ludwig, Kerstin Wedlich-Zachodin, Ulrike Wuttke, Jochen Klar, Olaf Michaelis, Daniele Hausen
+- Moderatoren: Harry Enke, Kerstin Wedlich-Zachodin, Ulrike Wuttke, Jochen Klar, Olaf Michaelis, Daniela Hausen
 
 - RDMO Governance 
 - Organisation der Softwareentwicklung
