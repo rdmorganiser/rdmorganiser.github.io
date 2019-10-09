@@ -124,6 +124,12 @@
   lon:     9.9699716
   color:   gray
 
+- name:    Universität Hamburg
+  contact: Kai Wörner
+  lat:     53.566298
+  lon:     9.984469
+  color:   gray
+
 - name:    Universitäts- und Landesbibliothek Münster
   contact: Marc Schutzeichel
   url:     https://www.ulb.uni-muenster.de
@@ -225,3 +231,9 @@
   lat:     52.401111
   lon:     13.011944
   color:   gray
+
+- name: Max Rubner-Institut
+  contact: Dr. Lara Frommherz
+  lat: 49.013579
+  lon: 8.426245
+  color: gray
