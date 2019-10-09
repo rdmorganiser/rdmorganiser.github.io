@@ -10,6 +10,18 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
 
+August 2019
+-----------
+Das diesjährige [**RDMO-Anwendertreffen** findet am 07.10.2019 an der ULB Darmstadt](https://rdmorganiser.github.io/workshop2019/) statt. Studenten “Data Stewardship” der TU Wien haben einige Prototypen, Mappings und Beispiele entwickelt mit Hinsicht auf den Export von machine-actionable Data Management Plans aus einer RDMO-Instanz nach dem [**RDA-Standard für maDMPs**](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard). Mehr Informationen finden sich [hier](https://helmuthb.github.io/dmp-tools-actionable/). Diese Entwicklungen stehen im Kontext zu Bestrebungen des RDMO-Projekts, mit RDMO erstellte DMPs mit dem maDMP-Standard interoperabel zu machen. Außerdem ist die neue [**RDMO-Version 0.14.6**](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.6) verfügbar (kleine Änderungen, Bugfix).
+
+Juli 2019
+---------
+Im letzten Monat haben wir ein paar kleinere Bugs in RDMO gefunden und beseitigt. Insbesondere hat der Installationsvorgang durch ein Update bei einer von uns verwendeten Bibliothek nicht mehr funktioniert. Die Änderungen sind in der [**neuen Version 0.14.5** auf Github](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.5) enthalten, die wie üblich installiert werden kann.
+
+Juni 2019
+---------
+Wir haben den **DCC-Fragenkatalog**, dessen Import nicht korrekt funktionierte, repariert. Die aktualisierte Version ist auf GitHub. Er enthält zehn neue Attribute, die dem Domänenmodell hinzugefügt wurden. Daher sollte vor dem Einlesen des Katalogs erst das Domänenmodell importiert werden. Der Import der aktuellen XML-Datei kann ohne vorbereitende Schritte erfolgen. Bereits importierte Daten bleiben erhalten und werden lediglich um die fehlenden zehn Einträge ergänzt. Außerdem gibt es nun eine **weitere Methode, RDMO zu installieren oder auch schnell auszuprobieren**. Auf GitHub befindet sich eine Version RDMOs, die in Docker Compose verpackt ist. Wir würden uns über weitere Anregungen freuen, um auch diesen RDMO-Installationsweg weiter zu verbessern. Mit Beginn des Monats Juli wird Olaf Michaelis bis Anfang Oktober in Elternzeit gehen. RDMO wird in den drei Monaten seiner Abwesenheit natürlich trotzdem weiter betreut und entwickelt, wenn auch mit etwas weniger Personal.
+
 Mai 2019
 --------
 RDMO **Version 0.14.4** (Bug Fixes) ist verfügbar. Probleme, die durch die Umstellung auf Django2 und Python3 verursacht wurden, sollten nun beseitigt sein. Ein Update wird wärmstens empfohlen, da Python2 nicht mehr lange unterstützt wird. Im Mai hat der Kick-Off des Projekts [**»Management Molekularer Daten im Research Data Life Cycle« (MaMoDaR)**](https://www.fh-potsdam.de/informieren/aktuelles/news-detailansicht/artikel/start-fuer-forschungsprojekt-mamodar/), eine Kooperation der FH Potsdam und des Robert Koch-Instituts, an der FHP stattgefunden und das **IPK Gatersleben** hat RDMO als Forschungsdatenmanagement-Werkzeug aus der Testphase in die Anwendungsphase überführt. Falls Sie **FDM-Schulungen mit dem Einsatz von RDMO** planen, teilen Sie uns die Termine mit, dann können wir sie mitbewerben (z. B. Twitter, Newsletter) und teilen Sie uns auch gerne Ihr Feedback und Erfahrungsberichten aus den Schulungen bzw. Schulungsmaterialien mit.

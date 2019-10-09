@@ -5,12 +5,12 @@
   lon:     13.104167
   color:   blue
 
-- name:    Ruhr Universität Bochum
-  url:     http://www.ruhr-uni-bochum.de
-  contact: Johannes Frenzel
+- name:    Universitätsallianz Ruhr (Ruhr-Universität Bochum, Universität Duisburg-Essen, Technische Universität Dortmund)
+  url:     http://rdmo.uaruhr.de
+  contact: Johannes Frenzel (Ruhr Universität Bochum)
   lat:     51.4439
   lon:     7.261572
-  color:   gray
+  color:   blue
 
 - name:    Universität Duisburg-Essen
   url:     https://www.uni-due.de
