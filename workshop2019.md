@@ -14,7 +14,7 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 - Ort: ULB Darmstadt, Vortragssaal
 - Magdalenenstr. 8,  64289 Darmstadt
 
-Der Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hatte, ist mit untenstehendem Programm durchgeführt worden. Es sind 41 Teilnehmer gekommen.
+Der Anwender-Workshop, hatte als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus. Er ist mit untenstehendem Programm durchgeführt worden. Es sind 41 Teilnehmer gekommen.
 
 Programm
 ========
@@ -31,7 +31,8 @@ https://github.com/rdmorganiser/rdmorganiser.github.io/blob/master/docs/RDMO-201
 - 12:20  Mittagessen
 - 13:30  World-Cafe - Thementische/Arbeitsgruppen (siehe unten)
 - 15:00  Kaffeepause
-- 15:30  Zusammenfassung der Thementische und Abschlussdiskussion: [Summary]({{ site.baseurl }}/docs/RDMO_20191007_Enke-Summary.pdf) (H. Enke)
+- 15:30  Zusammenfassung der Thementische und Abschlussdiskussion: 
+	- [Summary]({{ site.baseurl }}/docs/RDMO_20191007_Enke-Summary.pdf) (H. Enke)
 - 16:00  Ende
 
 
