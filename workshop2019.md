@@ -31,7 +31,7 @@ Programm
 - 12:20  Mittagessen
 - 13:30  World-Cafe - Thementische/Arbeitsgruppen (siehe unten)
 - 15:00  Kaffeepause
-- 15:30  Zusammenfassung der Thementische und Abschlussdiskussion: 
+- 15:30  Zusammenfassung der Thementische und Abschlussdiskussion
 	- [Summary]({{ site.baseurl }}/docs/RDMO_20191007_Enke-Summary.pdf) (H. Enke)
 - 16:00  Ende
 
