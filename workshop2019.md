@@ -39,14 +39,14 @@ Thementische
 ------------
 
 - RDMO Governance 
-	Moderatoren H. Enke, G. Jagusch
+	- Moderatoren H. Enke, G. Jagusch
 	
 - Organisation der Softwareentwicklung
-	Moderator  J. Klar
+	- Moderator  J. Klar
 	
 - Nutzerperspektiven
-	Moderator  K. Wedlich-Zachodin
+	- Moderator  K. Wedlich-Zachodin
 	
 - Metadaten, APIs & Repositorien
-	Moderatoren U. Wuttke, O. Michaelis 
+	- Moderatoren U. Wuttke, O. Michaelis 
 	
