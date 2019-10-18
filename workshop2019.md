@@ -18,7 +18,7 @@ Der Anwender-Workshop, hatte als Schwerpunkt die Weiterentwicklung von RDMO übe
 
 Programm
 ========
-https://github.com/rdmorganiser/rdmorganiser.github.io/blob/master/docs/RDMO-20191007_Enke-Future.pdf
+
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
 - 11:15  [RDMO Stand der Dinge, derzeitige und geplante Arbeiten]({{ site.baseurl }}/docs/RDMO_20191007_JKlar-Status.pdf) (J. Klar)
 - 11:30  Nutzer: 
