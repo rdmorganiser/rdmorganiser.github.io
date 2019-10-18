@@ -18,7 +18,7 @@ Der Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über 
 
 Programm
 ========
-
+https://github.com/rdmorganiser/rdmorganiser.github.io/blob/master/docs/RDMO-20191007_Enke-Future.pdf
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
 - 11:15  [RDMO Stand der Dinge, derzeitige und geplante Arbeiten]({{ site.baseurl }}/docs/RDMO_20191007_JKlar-Status.pdf) (J. Klar)
 - 11:30  Nutzer: 
@@ -26,7 +26,7 @@ Programm
 	- [AG DMP in NRW: Anforderungen an RDMO aus Nutzersicht]({{ site.baseurl }}/docs/RDMO_20191007_Frenzel-AG_DMP_NRW-Nutzerperspektive.pdf) (J. Frenzel)
 	- [RDMO in der Praxis. DFG-Fragenkataloge in FoDaKo und der Stiftungs Universität Hildesheim]({{ site.baseurl }}/docs/RDMO_20191007_TRathmann+Strauch-Praxis.pdf) (A.Strauch, T. Rathmann)
 	
-- 11:45  Impulsvortrag zur Nachhaltigkeit von RDMO - [Governance & Future]({{ site.baseurl }}/docs/RDMO_20191007_Enke-Future.pdf) (H. Enke)
+- 11:45  [Nachhaltigkeit von RDMO - Governance & Future]({{ site.baseurl }}/docs/RDMO-20191007_Enke-Future.pdf) (H. Enke)
 - 12:15  Aufteilung in Arbeitsgruppen - für die Thementische beim Worldcafe 
 - 12:20  Mittagessen
 - 13:30  World-Cafe - Thementische/Arbeitsgruppen (siehe unten)
