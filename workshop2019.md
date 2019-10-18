@@ -16,20 +16,7 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 
 > Magdalenenstr. 8,  64289 Darmstadt
 
-
-[Anfahrtskizze](https://www.ulb.tu-darmstadt.de/kontakt/lage/orientierung_1.de.jsp)
-
-Link zur **Hotelsuche** in Darmstadt: [https://www.darmstadt-tourismus.de/besuch/uebernachten.html](https://www.darmstadt-tourismus.de/besuch/uebernachten.html).
-
-Unsere Empfehlungen (Preis/Lage):
-- Ernst-Ludwig
-- Prinz Heinrich
-- Pallas
-- Atlanta
-- Ibis
-- [Friends Hotel Darmstadt](http://darmstadt.hotelfriends.de/)
-
-Für den Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hat, ist bislang das untenstehende Programm vorgesehen.
+Der Anwender-Workshop, der als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus hatte, ist mit untenstehendem Programm durchgeführt worden. Es sind 41 Teilnehmer gekommen.
 
 Die Teilnahme ist kostenlos, zur Planung bitten wir jedoch um Registrierung unter 
 [RDMO Anwenderworkshop 2019](https://meetings.aip.de/rdmo/meetings/2019/registration/register)
@@ -39,7 +26,7 @@ Programm
 ========
 
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
-- 11:15  RDMO Stand der Dinge, derzeitige und geplante Arbeiten (J. Klar)
+- 11:15  [RDMO Stand der Dinge, derzeitige und geplante Arbeiten]({{ site.baseurl }}/docs/RDMO_20191007_JKlar-Status.pdf) (J. Klar)
 - 11:30  Status: 
 	- RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI (G. Jagusch)
 	- AG DMP in NRW: Anforderungen an RDMO aus Nutzersicht (J. Frenzel)
@@ -57,12 +44,15 @@ Programm
 Thementische
 ------------
 
-- Moderatoren: Harry Enke, Kerstin Wedlich-Zachodin, Ulrike Wuttke, Jochen Klar, Olaf Michaelis, Daniela Hausen
-
 - RDMO Governance 
+	Moderatoren H. Enke, G. Jagusch
+	
 - Organisation der Softwareentwicklung
-- Mögliche weitere Themen:     
-
-	- Metadaten, APIs & Repositorien
-	- RDMO + Landesweite Initiativen
-	- Nutzerperspektiven
+	Moderator  J. Klar
+	
+- Nutzerperspektiven
+	Moderator  K. Wedlich-Zachodin
+	
+- Metadaten, APIs & Repositorien
+	Moderatoren U. Wuttke, O. Michaelis 
+	
