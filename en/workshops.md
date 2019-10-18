@@ -18,7 +18,7 @@ Future workshops and meetings:
 So far:
 --------------------------------------------
 
-* 07.10.2019 Workshop: Sustainig RDMO [Program + Slides]({{ base-url }}/workshop2019)
+* 07.10.2019 Workshop: Sustainable RDMO Future (german) [Program + Slides]({{ base-url }}/workshop2019)
 * 27.09.2019 4th Meeting of the project members
 * 21.02.2019 3rd Meeting of the project members
 * 15.11.2018 Workshop about DMPs at the Open Science Forum in Luxembourg
