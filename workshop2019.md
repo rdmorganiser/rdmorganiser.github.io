@@ -14,7 +14,7 @@ Organisiert von der Universitäts- und Landesbibliothek Darmstadt zusammen mit d
 - Ort: ULB Darmstadt, Vortragssaal
 - Magdalenenstr. 8,  64289 Darmstadt
 
-Der Anwender-Workshop, hatte als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus. Er ist mit untenstehendem Programm durchgeführt worden. Es sind 41 Teilnehmer gekommen.
+Der Anwender-Workshop, hatte als Schwerpunkt die Weiterentwicklung von RDMO über das Projekt-Ende hinaus. Er ist mit untenstehendem Programm durchgeführt worden, mit 41 TeilnehmerInnen.
 
 Programm
 ========
