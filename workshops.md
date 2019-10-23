@@ -20,7 +20,7 @@ in der Planung
 Bisherige Workshops und Treffen:
 --------------------------------
 
-* 07.10.2019 RDMO Anwender Workshop [Programm+Slides](https://rdmorganiser.github.io/workshop2019)
+* 07.10.2019 RDMO Anwender Workshop [Programm+Slides](https://rdmorganiser.github.io/workshop2019), [Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)
 * 27.09.2019 4. Projekttreffen
 * 21.02.2019 3. Projekttreffen
 * 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
