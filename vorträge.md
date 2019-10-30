@@ -22,6 +22,9 @@ RDMO wurde bereits bei zahlreichen Anlässen vorgestellt und diskutiert:
         {% if talk.abstract %}
         <a href="{{ talk.abstract }}">Abstract</a>
         {% endif %}
+        {% if talk.proceeding %}
+        <a href="{{ talk.proceeding }}">Proceeding</a>
+        {% endif %}
         {% if talk.slides %}
         <a href="{{ talk.slides }}">Folien</a>
         {% endif %}

@@ -8,7 +8,7 @@ lang: de
 Talks
 =====
 
-RDMO has been presented at several occasions: 
+RDMO has been presented at several occasions:
 
 <ul class="talks">
 {% for talk in site.data.talks %}
@@ -21,6 +21,9 @@ RDMO has been presented at several occasions:
         <br />
         {% if talk.abstract %}
         <a href="{{ talk.abstract }}">Abstract</a>
+        {% endif %}
+        {% if talk.proceeding %}
+        <a href="{{ talk.proceeding }}">Proceeding</a>
         {% endif %}
         {% if talk.slides %}
         <a href="{{ talk.slides }}">Folien</a>
