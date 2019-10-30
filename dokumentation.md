@@ -8,7 +8,7 @@ lang: de
 Dokumentation
 =============
 
-RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) dokumentiert. Iem linken Menü befinden sich mehrere Unterpunkte:
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) dokumentiert. Im linken Menü befinden sich mehrere Unterpunkte:
 
 * [Installation](http://rdmo.readthedocs.io/de/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
 * [Einsatz](http://rdmo.readthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
