@@ -10,6 +10,10 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
 
+September 2019
+--------------
+On 27.09.2019 the semi-annual meeting of the RDMO project took place in Berlin. There were intensive discussions on the topic of sustainability and the further development of RDMO. In addition, the final details for the next RDMO User Meeting in Darmstadt were clarified.
+
 August 2019
 -----------
 This year's [**RDMO User Meeting** takes place on 07.10.2019 at the ULB Darmstadt](https://rdmorganiser.github.io/workshop2019/). Students "Data Stewardship" of the TU Vienna have developed some prototypes, mappings and examples regarding the export of machine-actionable data management plans from an RDMO instance according to the [**RDA-Standard for maDMPs**](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard). More information can be found [here](https://helmuthb.github.io/dmp-tools-actionable/). These developments are part of the RDMO project's efforts to make DMPs created with RDMO interoperable with the maDMP standard. In addition, the new [**RDMO version 0.14.6**](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.6) is available (small changes, bugfix).
