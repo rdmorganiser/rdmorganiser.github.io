@@ -1,3 +1,15 @@
+- event: Open Access Tage Hannover 2019
+  date: 2019-10-01
+  title: Research Data Management Organizer
+  authors: Olaf Michaelis
+
+- event: Wisskom2019
+  date: 2019-06-06
+  place: Jülich
+  title: Research Data Management Organiser
+  authors: Wuttke, U.; Neuroth, H.; Klar, J.; Enke, H.; Straka, J.; Wedlich-Zachodin, K.; Kramer, C.; Michaelis, O.; Ludwig, J.
+  slides: http://hdl.handle.net/2128/22279
+
 - event: E-Science-Tage 2019
   url: https://e-science-tage.de/de/tagung
   date: 2019-03-28
@@ -12,7 +24,7 @@
   place: Hagen
   title: "RDMO - Research Data Management Organiser"
   authors: Jochen Klar
-  # slides: 
+  # slides:
 
 - event: "7. Bibliothekskongress"
   url: https://bibliothekartag2018.de/
@@ -21,7 +33,7 @@
   title: Aktives Datenmanagement mit RDMO
   authors: Kerstin Wedlich-Zachodin, Olaf Michaelis
   slides: https://rdmorganiser.github.io/img/promo/AktivesDatenmanagementRDMO_BibTag2019.pdf
-  
+
 - event: "RDA Deutschland Tagung 2019"
   url: https://www.rda-deutschland.de/events/tagung-2019
   date: 19.-20.02.2019
