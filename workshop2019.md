@@ -22,7 +22,7 @@ Programm
 - 11:00  Begrüßung inkl. “3 hashtags” Vorstellungsrunde
 - 11:15  [RDMO Stand der Dinge, derzeitige und geplante Arbeiten]({{ site.baseurl }}/docs/RDMO_20191007_JKlar-Status.pdf) (J. Klar)
 - 11:30  Nutzer: 
-	- RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI (G. Jagusch)
+	- [RDMO für andere Einrichtungen gehostet durch die ULB Darmstadt, als Beitrag zur NFDI]({{ site.baseurl }}/docs/RDMO_Darmstadt_ULB-GJ.pdf) (G. Jagusch)
 	- [AG DMP in NRW: Anforderungen an RDMO aus Nutzersicht]({{ site.baseurl }}/docs/RDMO_20191007_Frenzel-AG_DMP_NRW-Nutzerperspektive.pdf) (J. Frenzel)
 	- [RDMO in der Praxis. DFG-Fragenkataloge in FoDaKo und der Stiftungs Universität Hildesheim]({{ site.baseurl }}/docs/RDMO_20191007_TRathmann+Strauch-Praxis.pdf) (A.Strauch, T. Rathmann)
 	
