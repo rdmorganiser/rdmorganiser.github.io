@@ -12,7 +12,7 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 
 * **Postkarte** - PDF-Format: [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.pdf) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.pdf)
             - SVG-Format (Software Inkscape): [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.svg) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.svg)
-* **Poster** (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg}}) (Software Inkscape)
+* **Poster** (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (Software Inkscape)
 * **Vortragsfolien**: [PDF]({{ site.baseurl }}/slides.pdf)
 *  **Aktuelle Vortragsfolien**: [PDF]({{ site.baseurl }}/slides/RDMO-Standard2.pdf) oder [PowerPoint]({{ site.baseurl }}/slides/RDMO-Standard2.pptx)
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (Software Scribus)
@@ -25,15 +25,15 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
     *Was kann man mit RDMO machen?* (<a href="{{ site.baseurl }}/img/promo/RDMO_erklaert_v4.mp4">RDMO_erklaert_v4.mp4</a>)
 
     <video poster="{{ site.baseurl}}/img/promo/RDMOerklaert.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/RDMO_erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-    
+
      *Screencast: Wie beantworte ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/Fragenkatalog_v2.mp4">Fragenkatalog_v2.mp4</a>)
 
     <video poster="{{ site.baseurl}}/img/promo/Fragenkatalog_v1.tcsproj_First_Frame.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
-    
+
      *Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/Erstellen_22-01-2019.mp4">Erstellen_22-01-2019.mp4</a>)
 
     <video poster="{{ site.baseurl}}/img/promo/Erstellen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
-    
+
      *Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/Optionen.mp4">Optionen.mp4</a>)
 
     <video poster="{{ site.baseurl}}/img/promo/Optionen_First_Frame.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Optionen.mp4">Your browser does not support the video tag.</video>
