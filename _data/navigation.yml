@@ -42,10 +42,6 @@
     label:
       de: Dokumentation
       en: Documentation
-  - key: tutorials
-    label:
-      de: Tutorials
-      en: Tutorials
   - key: protection
     label:
       de: Datenschutz
