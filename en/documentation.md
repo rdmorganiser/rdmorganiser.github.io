@@ -31,7 +31,7 @@ The generic questionaire of RDMO is available as a XML-file at https://github.co
 
 We link our tutorials here and at our project-describing webpage in the wiki [forschungsdaten.org](http://forschungsdaten.org/index.php/RDMO).
 
-So far these tutorials are available in German only.
+So far these tutorials are available in German language only.
 
 For Users:
 
@@ -39,7 +39,7 @@ For Users:
 
 For Admins:
 
-* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/SchnellstartanleitungAdmins.pdf)
+* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/SchnellstartanleitungAdminsv2.pdf)
 * ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
