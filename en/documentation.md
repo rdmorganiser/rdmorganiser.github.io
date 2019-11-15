@@ -44,3 +44,23 @@ For Admins:
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
 * ["Tutorial for import and export"](http://www.forschungsdaten.org/index.php/Import_Export)
+
+
+## Videos
+
+*Please note that the following videos are available in German language only.*
+
+<br>
+*Screencast: Wie beantworte ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/videos/fragenkatalog_v2.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
+
+<br>
+*Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/videos/erstellen_22-01-2019.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/erstellen_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
+
+<br>
+*Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/optionen_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/optionen.mp4">Your browser does not support the video tag.</video>

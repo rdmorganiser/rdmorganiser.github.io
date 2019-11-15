@@ -16,23 +16,16 @@ We provide promotion material which can be freely used, hence under CC0 or CC-BY
 * **Presentation slides** (in German): [PDF]({{ site.baseurl }}/slides.pdf)
 * **Topical slides** (in German): [PDF]({{ site.baseurl }}/slides/RDMO-Standard2.pdf) or [PowerPoint]({{ site.baseurl }}/slides/RDMO-Standard2.pptx)
 * **Flyer** (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
-* **Videos** (in German): Was ist RDMO?
+* **Videos**:
 
-<video poster="{{ site.baseurl}}/img/promo/WasistRDMO.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Was_ist_RDMO_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+*Please note that the following videos are available in German language only.*
 
-Was kann man mit RDMO machen?
+<br>
+*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-<video poster="{{ site.baseurl}}/img/promo/RDMOerklaert.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/RDMO_erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-
-   *Screencast: Wie beantworte ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/Fragenkatalog_v2.mp4">Fragenkatalog_v2.mp4</a>)
-
-   <video poster="{{ site.baseurl}}/img/promo/Fragenkatalog_v1.tcsproj_First_Frame.png" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
-
-*Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/Erstellen_22-01-2019.mp4">Erstellen_22-01-2019.mp4</a>)
-
-   <video poster="{{ site.baseurl}}/img/promo/Erstellen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
-
-
-*Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/Optionen.mp4">Optionen.mp4</a>)
-
-   <video poster="{{ site.baseurl}}/img/promo/Optionen_First_Frame.PNG" controls="controls" style="width: 100%;"><source src="{{ site.baseurl}}/img/promo/Optionen.mp4">Your browser does not support the video tag.</video>
+<br>
+*Was kann man mit RDMO machen?* (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
