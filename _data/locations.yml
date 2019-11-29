@@ -67,6 +67,11 @@
     name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
     url: http://www.ipk-gatersleben.de/
 -   color: gray
+    contact: Herr Martin Sprenger
+    lat: 48.150833
+    lon: 11.580278
+    name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+-   color: gray
     contact: Dr. Lara Frommherz
     lat: 49.013579
     lon: 8.426245
@@ -186,4 +191,4 @@
     url: http://rdmo.uaruhr.de
 -   color: gray
     name: "bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-W\xFCrttemberg"
-    url: https://rdmo.forschungsdaten.info
+    url: http://bwfdm.scc.kit.edu

@@ -237,3 +237,9 @@
   lat: 49.013579
   lon: 8.426245
   color: gray
+
+- name: Ludwig-Maximilians-Universität München
+  contact: Herr Martin Sprenger
+  lat: 48.150833
+  lon: 11.580278
+  color: gray
