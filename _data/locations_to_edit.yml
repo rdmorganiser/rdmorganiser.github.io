@@ -243,3 +243,10 @@
   lat: 48.150833
   lon: 11.580278
   color: gray
+
+- name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+  url: https://rdmo.elaine.uni-rostock.de
+  contact: Frank Krüger
+  lat: 54.088133
+  lon: 12.133373
+  color: blue
