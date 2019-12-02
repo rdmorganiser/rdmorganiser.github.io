@@ -26,7 +26,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) dokum
 
 Einen Überblick aller Fragen des vollständigen RDMO-Katalogs als PDF finden Sie hier:
 
-[Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert.pdf)
+[Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
 
 Die XML-Datei des generischen Fragenkatalogs finden Sie unter https://github.com/rdmorganiser/rdmo-catalog . Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
 
