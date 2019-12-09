@@ -8,7 +8,15 @@ lang: de
 Aktuelles
 ========
 
-Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [twitter](https://www.twitter.com/rdmorganiser). 
+Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [Twitter](https://www.twitter.com/rdmorganiser). 
+
+November 2019
+-------------
+Diesen Monat haben wir einige Aktualisierungen und Umgestaltungen an den RDMO-Schulungsmaterialien vorgenommen. Sie finden Schulungsmaterialien wie Video-Tutorials oder den RDMO-Fragenkatalog auf der RDMO-Webseite unter [Dokumentation] (https://rdmorganiser.github.io/dokumentation/). Weitere Tutorials, FAQs etc. für verschiedene Zielgruppen (Administrator*innen, Nutzer*innen) finden Sie auf dem Wiki [forschungsdaten.org](https://www.forschungsdaten.org/index.php/RDMO). Das 3. Anwendertreffen wird am 24.02.2020 in Potsdam am AIP stattfinden. Dort ist die Konstituierung der künftigen Organisation von RDMO geplant. 
+
+Oktober 2019
+------------
+RDMO hat den Sprung auf Version 1 gemacht. Die neueste Version enthält zwei wichtige Neuerungen, die die Projektzugehörigkeit von Nutzern betreffen. Zum einen kann diese nun über die API gesteuert werden und zum anderen können Nutzer sich nun selbst jederzeit aus einem Projekt entfernen, wenn sie nicht der letzte Besitzer dieses Projektes sind. Der Bericht vom 2. RDMO-Anwendertreffen am 07.10.2019 in Darmstadt an der ULB ist [online](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen). Außerdem haben wir RDMO bei den Open Access Tagen in Hannover präsentiert sowie die Schulungsmaterialien zu RDMO bei einem Workshop in Hildesheim ([Folien online auf Zenodo](http://doi.org/10.5281/zenodo.3520839)).  
 
 September 2019 
 --------------
