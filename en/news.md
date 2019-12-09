@@ -8,7 +8,15 @@ lang: en
 News
 ====
 
-On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
+On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [Twitter](https://www.twitter.com/rdmorganiser).
+
+November 2019
+-------------
+This month we have made some updates and changes to the RDMO training materials. You can find training materials such as video tutorials or the RDMO questionnaire on the RDMO website at [Documentation](https://rdmorganiser.github.io/dokumentation/). Further tutorials, FAQs etc. for different target groups (administrators*, users*) can be found on the Wiki [forschungsdaten.org](https://www.forschungsdaten.org/index.php/RDMO). The 3rd User Meeting will take place on 24.02.2020 in Potsdam at the AIP. There the constitution of the future organisation of RDMO is planned. 
+
+October 2019
+------------
+RDMO has made the jump to version 1. The latest version contains two important changes concerning the project membership of users. Firstly, this can now be controlled via the API and secondly, users can now remove themselves from a project at any time if they are not the last owner of this project. The report of the 2nd RDMO User Meeting on 07.10.2019 in Darmstadt at the ULB is [online](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen). We also presented RDMO at the Open Access Days in Hannover and the RDMO training materials at a workshop in Hildesheim ([slides online on Zenodo](http://doi.org/10.5281/zenodo.3520839)). 
 
 September 2019
 --------------
