@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: workshop_02_2020
+key: workshop022020
 lang: de
 ---
 
