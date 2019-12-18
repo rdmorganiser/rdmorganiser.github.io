@@ -19,7 +19,7 @@ Zukünftige Workshops und Treffen:
 
 Bisherige Workshops und Treffen:
 --------------------------------
-
+* 03.12.19 Lokaler Workshop in Bonn an der Max Weber Stiftung
 * 07.10.2019 RDMO Anwender Workshop [Programm+Slides](https://rdmorganiser.github.io/workshop2019), [Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)
 * 27.09.2019 4. Projekttreffen
 * 21.02.2019 3. Projekttreffen

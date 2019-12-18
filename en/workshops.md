@@ -17,7 +17,7 @@ Future workshops and meetings:
 
 So far:
 --------------------------------------------
-
+* 03.12.19 Regional workshop in Bonn at Max Weber Foundation
 * 07.10.2019 Workshop: Sustainable RDMO Future (german) [Program + Slides]({{ base-url }}/workshop2019)
 * 27.09.2019 4th Meeting of the project members
 * 21.02.2019 3rd Meeting of the project members
