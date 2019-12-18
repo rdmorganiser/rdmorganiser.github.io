@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: tutorials
+key: workshops
 lang: en
 ---
 
@@ -13,7 +13,7 @@ RDMO organised some workshops and meetings with users:
 Future workshops and meetings:
 -----------------------------------------------
 
-* currently planning 
+* currently planning
 
 So far:
 --------------------------------------------
@@ -33,5 +33,5 @@ So far:
 * 17.04.2017 Regional workshop at ZB Med Information Centre for Life Sciences
 * 08./09.02.2018 1st Metting of the project members
 * 10.08.2017 Regional workshop at Ruhr University Bochum (RUB)
-* 07.04.2017 Final workshop of the first project phase wit presentation of project results 
-* 27.06.2016 Input workshop with selected experts of research data community 
+* 07.04.2017 Final workshop of the first project phase wit presentation of project results
+* 27.06.2016 Input workshop with selected experts of research data community
