@@ -67,7 +67,7 @@
     name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
     url: http://www.ipk-gatersleben.de/
 -   color: gray
-    contact: Herr Martin Sprenger
+    contact: Herr Martin Spenger
     lat: 48.150833
     lon: 11.580278
     name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
@@ -93,6 +93,12 @@
     lat: 50.781177
     lon: 6.065603
     name: RTWH Aachen
+-   color: blue
+    contact: "Frank Kr\xFCger"
+    lat: 54.088133
+    lon: 12.133373
+    name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+    url: https://rdmo.elaine.uni-rostock.de
 -   color: gray
     contact: Johannes Sperling
     lat: 51.028183
