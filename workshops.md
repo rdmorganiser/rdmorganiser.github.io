@@ -14,12 +14,12 @@ Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kle
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 24.02.2019 RDMO Anwender Workshop, [Gründungstreffen der RDMO Community als Open Source Projekt](https://rdmorganiser.github.io/workshop022020)
+* 24.02.2020 RDMO Anwender Workshop, [Gründungstreffen der RDMO Community als Open Source Projekt](https://rdmorganiser.github.io/workshop022020)
 
 
 Bisherige Workshops und Treffen:
 --------------------------------
-* 03.12.19 Lokaler Workshop in Bonn an der Max Weber Stiftung
+* 03.12.2019 Lokaler Workshop in Bonn an der Max Weber Stiftung
 * 07.10.2019 RDMO Anwender Workshop [Programm+Slides](https://rdmorganiser.github.io/workshop2019), [Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)
 * 27.09.2019 4. Projekttreffen
 * 21.02.2019 3. Projekttreffen
