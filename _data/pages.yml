@@ -64,14 +64,6 @@ material:
     de: materialien/
     en: en/promotion/
 
-tutorials:
-  label:
-    de: Tutorials
-    en: Tutorials
-  path:
-    de: tutorials/
-    en: en/tutorials/
-
 workshops:
   label:
     de: Workshops
