@@ -14,7 +14,7 @@ Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kle
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 24.02.2020 RDMO Anwender Workshop, [Gründungstreffen der RDMO Community als Open Source Projekt](https://rdmorganiser.github.io/workshop022020)
+* 24.02.2020 RDMO Anwender Workshop, [Gründungstreffen RDMO Community als Open Source Projekt](https://rdmorganiser.github.io/workshop022020), [Programm](https://rdmorganiser.github.io/workshop022020_programm)
 
 
 Bisherige Workshops und Treffen:
