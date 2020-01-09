@@ -21,7 +21,7 @@ Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-
 
 - 11:00 - 11:15 Begrüßung, Vorstellung der Teilnehmer*innen
 
-- 11:15 - 11:45 Datenmanagement in Europa (N.N.)
+- 11:15 - 11:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
 - 11:45 - 12:00 NFDI: Status  (H. Enke)
 - 12:00 - 12:30 Kurze Reports (ca. 5 Min.):  RDMO-Anwender*innen
 
