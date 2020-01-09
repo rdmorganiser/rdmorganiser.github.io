@@ -28,7 +28,7 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
     - Manifest
     - Konstituierung Steuerungsgruppe (5 Personen) durch Wahlen
     - Konstituierung Software-Gruppe
-<br>
+<br><br>
 - 14:30 - 15:30 Breakout-Sessions
     - Treffen der Steuerungsgruppe, Festlegung Sprecher*innen, Arbeitsmodus, Commitments
     - Treffen der Software-Gruppe, Festlegung Sprecher*innen, Arbeitsmodus
