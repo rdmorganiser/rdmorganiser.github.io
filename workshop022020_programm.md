@@ -28,13 +28,11 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
     - Manifest
     - Konstituierung Steuerungsgruppe (5 Personen) durch Wahlen
     - Konstituierung Software-Gruppe
-
 <br>
 - 14:30 - 15:30 Breakout-Sessions
     - Treffen der Steuerungsgruppe, Festlegung Sprecher*innen, Arbeitsmodus, Commitments
     - Treffen der Software-Gruppe, Festlegung Sprecher*innen, Arbeitsmodus
     - Offene Diskussion: RDMO-Kooperationsszenarien  
-
 <br>
 - 15:30 - 16:00 Berichte aus den Breakout-Sessions
 
