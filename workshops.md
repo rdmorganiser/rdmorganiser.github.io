@@ -8,13 +8,13 @@ lang: de
 Workshops
 =========
 
-Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
+Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
 
 
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 24.02.2020 RDMO Anwender Workshop, [Gründungstreffen RDMO Community als Open Source Projekt](https://rdmorganiser.github.io/workshop022020), [Programm](https://rdmorganiser.github.io/workshop022020_programm)
+* 24.02.2020 RDMO-Community-Treffen, Gründungstreffen als Open Source Projekt, [Programm](https://rdmorganiser.github.io/workshop022020_programm)
 
 
 Bisherige Workshops und Treffen:

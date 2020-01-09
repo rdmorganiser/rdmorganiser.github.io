@@ -13,6 +13,9 @@ Zeit:    11:00-16:00<br>
 Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An der Sternwarte 16, 14482 Potsdam<br>
 
+Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) entstanden, das für die Weiterführung den Rahmen absteckt.
+
+Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-FOS/registration/) ist geöffnet.
 
 ## Agenda
 
@@ -36,4 +39,4 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 <br>
 - 15:30 - 16:00 Berichte aus den Breakout-Sessions
 
-Zwischen 10:00h und 10:45h besteht die Möglichkeit einer Führung durchs AIP (bei Interesse)
+Zwischen 10:00h und 10:45h besteht die Möglichkeit einer Führung durch das AIP (bei Interesse bitte melden bei henke@aip.de)
