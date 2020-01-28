@@ -18,6 +18,7 @@ Die Anfangszeit des Treffens wird von 11:00h auf 13:00h verschoben.
 Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) entstanden, das für die Weiterführung den Rahmen absteckt.
 
 Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-FOS/registration/) ist geöffnet.
+Die Anfangszeit des Treffens wird von 11:00h auf 13:00h verschoben. Alle Zeitangaben der Agenda sind mit +2h zu verstehen.
 
 ## Agenda
 
