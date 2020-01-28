@@ -23,7 +23,10 @@ Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-
 
 - 11:15 - 11:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
 - 11:45 - 12:00 NFDI: Status  (H. Enke)
-- 12:00 - 12:30 Kurze Reports (ca. 5 Min.):  RDMO-Anwender*innen
+- 12:00 - 12:30 Kurze Reports:  RDMO-Anwender*innen
+    - G. Jagusch: RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht
+    - B. Lindstedt: RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften
+    - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
 
 - 12:30 - 13:30 Mittagessen
 
