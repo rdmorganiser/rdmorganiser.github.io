@@ -9,9 +9,11 @@ lang: de
 # RDMO Community-Treffen
 
 Tag:     24.02.2020<br>
-Zeit:    11:00-16:00<br>
+Zeit:    13:00-18:00<br>
 Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An der Sternwarte 16, 14482 Potsdam<br>
+Die Anfangszeit des Treffens wird von 11:00h auf 13:00h verschoben.
+
 
 Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) entstanden, das für die Weiterführung den Rahmen absteckt.
 
