@@ -40,12 +40,12 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
     - Manifest
     - Konstituierung Steuerungsgruppe (5 Personen) durch Wahlen
     - Konstituierung Software-Gruppe
-<br><br>
+
 - 16:30 - 17:30 Breakout-Sessions
     - Treffen der Steuerungsgruppe, Festlegung Sprecher*innen, Arbeitsmodus, Commitments
     - Treffen der Software-Gruppe, Festlegung Sprecher*innen, Arbeitsmodus
     - Offene Diskussion: RDMO-Kooperationsszenarien  
-<br>
+
 - 17:30 - 18:00 Berichte aus den Breakout-Sessions
 
 Zwischen 12:00h und 12:45h besteht die Möglichkeit einer Führung durch das AIP (bei Interesse bitte melden bei henke@aip.de)
