@@ -15,7 +15,7 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 
 
 
-Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) entstanden, das für die Weiterführung den Rahmen absteckt.
+Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf), das für die Weiterführung den Rahmen absteckt.
 
 Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-FOS/registration/) ist geöffnet.
 
