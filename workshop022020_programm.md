@@ -18,32 +18,33 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) entstanden, das für die Weiterführung den Rahmen absteckt.
 
 Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-FOS/registration/) ist geöffnet.
-Die Anfangszeit des Treffens wird voraussichtlich von 11:00h auf 13:00h verschoben. Alle Zeitangaben der Agenda sind mit +2h zu verstehen.
+Die Anfangszeit des Treffens ist von 11:00h auf 13:00h verschoben. 
+Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
 
 ## Agenda
 
-- 11:00 - 11:15 Begrüßung, Vorstellung der Teilnehmer*innen
+- 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
 
-- 11:15 - 11:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
-- 11:45 - 12:00 NFDI: Status  (H. Enke)
-- 12:00 - 12:30 Kurze Reports:  RDMO-Anwender*innen
+- 13:15 - 13:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
+- 13:45 - 14:00 NFDI: Status  (H. Enke)
+- 14:00 - 14:30 Kurze Reports:  RDMO-Anwender*innen
     - G. Jagusch:   RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht
     - B. Lindstedt: RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften
     - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
     - R. Strötgen:  RDMO und Shibboleth
 
-- 12:30 - 13:30 Mittagessen
+- 14:30 - 15:30 Mittagessen
 
-- 13:30 - 14:30 1. RDMO Community Versammlung:  
+- 15:30 - 16:30 1. RDMO Community Versammlung:  
     - Manifest
     - Konstituierung Steuerungsgruppe (5 Personen) durch Wahlen
     - Konstituierung Software-Gruppe
 <br><br>
-- 14:30 - 15:30 Breakout-Sessions
+- 16:30 - 17:30 Breakout-Sessions
     - Treffen der Steuerungsgruppe, Festlegung Sprecher*innen, Arbeitsmodus, Commitments
     - Treffen der Software-Gruppe, Festlegung Sprecher*innen, Arbeitsmodus
     - Offene Diskussion: RDMO-Kooperationsszenarien  
 <br>
-- 15:30 - 16:00 Berichte aus den Breakout-Sessions
+- 17:30 - 18:00 Berichte aus den Breakout-Sessions
 
-Zwischen 10:00h und 10:45h besteht die Möglichkeit einer Führung durch das AIP (bei Interesse bitte melden bei henke@aip.de)
+Zwischen 12:00h und 12:45h besteht die Möglichkeit einer Führung durch das AIP (bei Interesse bitte melden bei henke@aip.de)
