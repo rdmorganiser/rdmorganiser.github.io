@@ -27,9 +27,10 @@ Die Anfangszeit des Treffens wird voraussichtlich von 11:00h auf 13:00h verschob
 - 11:15 - 11:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
 - 11:45 - 12:00 NFDI: Status  (H. Enke)
 - 12:00 - 12:30 Kurze Reports:  RDMO-Anwender*innen
-    - G. Jagusch: RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht
+    - G. Jagusch:   RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht
     - B. Lindstedt: RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften
     - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
+    - R. Strötgen:  RDMO und Shibboleth
 
 - 12:30 - 13:30 Mittagessen
 
