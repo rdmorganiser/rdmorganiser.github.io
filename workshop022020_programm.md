@@ -24,8 +24,9 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
 
 ## Agenda
 
-- 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
+- 12:30 - 13:00 Kaffee +
 
+- 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
 - 13:15 - 13:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
 - 13:45 - 14:00 NFDI: Status  (H. Enke)
 - 14:00 - 14:30 Kurze Reports:  RDMO-Anwender*innen
@@ -34,18 +35,19 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
     - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
     - R. Strötgen:  RDMO und Shibboleth
 
-- 14:30 - 15:30 Mittagessen
+- 14:30 - 15:00 Kaffee ++
 
-- 15:30 - 16:30 1. RDMO Community Versammlung:  
+- 15:00 - 16:00 1. RDMO Community Versammlung:  
     - Manifest
     - Konstituierung Steuerungsgruppe (5 Personen) durch Wahlen
     - Konstituierung Software-Gruppe
 
-- 16:30 - 17:30 Breakout-Sessions
+- 16:00 - 17:00 Breakout-Sessions
     - Treffen der Steuerungsgruppe, Festlegung Sprecher*innen, Arbeitsmodus, Commitments
     - Treffen der Software-Gruppe, Festlegung Sprecher*innen, Arbeitsmodus
     - Offene Diskussion: RDMO-Kooperationsszenarien  
-
-- 17:30 - 18:00 Berichte aus den Breakout-Sessions
+    
+- 17:00 - 17:15 Kaffee ++
+- 17:15 - 18:00 Berichte aus den Breakout-Sessions
 
 Zwischen 12:00h und 12:45h besteht die Möglichkeit einer Führung durch das AIP (bei Interesse bitte melden bei henke@aip.de)
