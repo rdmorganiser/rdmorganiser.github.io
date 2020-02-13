@@ -10,6 +10,12 @@
   title: "Tool-Marktplatz: Research Data Management Organizer"
   authors: Olaf Michaelis
 
+- event: DH-Kolloquiums an der Berlin-Brandenburgischen Akademie der Wissenschaften (BBAW)
+  date: 2019-08-02
+  title: How FAR is FAIR? Der öffentliche Zugang zu geisteswissenschaftlichen Forschungsdaten als gute wissenschaftliche Praxis und die Rolle des Forschungsdatenmanagements
+  authors: Ulrike Wuttke, Jochen Klar
+  proceeding: http://doi.org/10.5281/zenodo.3365979
+
 - event: Wisskom2019
   date: 2019-06-06
   place: Jülich
@@ -31,7 +37,6 @@
   place: Hagen
   title: "RDMO - Research Data Management Organiser"
   authors: Jochen Klar
-  # slides:
 
 - event: "7. Bibliothekskongress"
   url: https://bibliothekartag2018.de/
