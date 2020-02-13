@@ -24,7 +24,7 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
 
 ## Agenda
 
-- 12:30 - 13:00 Kaffee +
+- 12:30 - 13:00 Kaffee + Mittagessen
 
 - 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
 - 13:15 - 13:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
