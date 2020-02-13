@@ -1,3 +1,10 @@
+- event: 'Workshop AG Datenzentren "Interoperabilität"'
+  date: 2020-01-23
+  title: "Semantische und syntaktische Interoperabilität des RDMO-Datenmodells"
+  authors: Ulrike Wuttke, Olaf Michaelis
+  place: Frankfurt am Main
+  slides: https://rdmorganiser.github.io/slides/workshop_ag_datenzentren_2020_01.pdf
+
 - event: Open Access Tage Hannover 2019
   date: 2019-10-01
   title: "Tool-Marktplatz: Research Data Management Organizer"
