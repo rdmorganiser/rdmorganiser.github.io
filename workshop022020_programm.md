@@ -32,7 +32,7 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
     - G. Jagusch:   [RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht]({{ site.baseurl }}/docs/2020-02-24-RDMO_Darmstadt.pdf)
     - B. Lindstedt: [RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften]({{ site.baseurl }}/docs/2020-02-24-RDMO4Life_Community-Treffen.pdf)
     - R. Strötgen:  [RDMO und Shibboleth]({{ site.baseurl }}/docs/2020-02-24-rdmo-shibboleth.pdf)
-    - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
+    - H. Krockauer: [Import von Information aus Drittsystemen in Projekte im RDMO]({{ site.baseurl }}/docs/2020-02-24_RDMO-Mediator.pdf)
 
 - 14:30 - 15:00 Kaffee ++
 
