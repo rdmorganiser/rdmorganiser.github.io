@@ -17,7 +17,6 @@ Ort: Leibniz-Institut für Astrophysik Potsdam<br>
 
 Im Fokus des Anwender-Treffen steht die Gründung der RDMO Community als Open Source Projekt. Resultat des letzten Anwender-Treffens, weiteren Diskussionen und Klärungen ist das [RDMO Manifest](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf), das für die Weiterführung den Rahmen absteckt.
 
-Die [Registrierung für das Treffen](https://meetings.aip.de/rdmo/meetings/RDMO-FOS/registration/) ist geöffnet.
 
 Die Anfangszeit des Treffens ist von 11:00h auf 13:00h verschoben. 
 Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
@@ -27,7 +26,7 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
 - 12:30 - 13:00 Kaffee + Mittagessen
 
 - 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
-- 13:15 - 13:45 [Datamanagement in Europe]({{ site.baseurl }}/docs/2020-02-24-EU-FDM.pdf) (E. Tóth-Czifra, DARIAH-EU)
+- 13:15 - 13:45 [Datamanagement in Europe]({{ site.baseurl }}/docs/2020-02-24-EU-RDM.pdf) (E. Tóth-Czifra, DARIAH-EU)
 - 13:45 - 14:00 [NFDI: Status]({{ site.baseurl }}/docs/2020-02-24-RDMO_NFDI.pdf) (H. Enke)
 - 14:00 - 14:30 Kurze Reports:  RDMO-Anwender*innen
     - G. Jagusch:   [RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht]({{ site.baseurl }}/docs/2020-02-24-RDMO_Darmstadt.pdf)
