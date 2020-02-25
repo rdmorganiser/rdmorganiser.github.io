@@ -27,13 +27,13 @@ Alle Zeitangaben der Agenda sind mit +2h angepasst worden.
 - 12:30 - 13:00 Kaffee + Mittagessen
 
 - 13:00 - 13:15 Begrüßung, Vorstellung der Teilnehmer*innen
-- 13:15 - 13:45 Datamanagement in Europe (E. Tóth-Czifra, DARIAH-EU)
-- 13:45 - 14:00 NFDI: Status  (H. Enke)
+- 13:15 - 13:45 [Datamanagement in Europe]({{ site.baseurl }}/docs/2020-02-24-EU-FDM.pdf) (E. Tóth-Czifra, DARIAH-EU)
+- 13:45 - 14:00 [NFDI: Status]({{ site.baseurl }}/docs/2020-02-24-RDMO_NFDI.pdf) (H. Enke)
 - 14:00 - 14:30 Kurze Reports:  RDMO-Anwender*innen
-    - G. Jagusch:   RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht
-    - B. Lindstedt: RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften
+    - G. Jagusch:   [RDMO mit Mandantenfähigkeit: Erfahrungen aus Provider-Sicht]({{ site.baseurl }}/docs/2020-02-24-RDMO_Darmstadt.pdf)
+    - B. Lindstedt: [RDMO4Life als projektbegleitendes DMP-Tool in den Lebenswissenschaften]({{ site.baseurl }}/docs/2020-02-24-RDMO4Life_Community-Treffen.pdf)
+    - R. Strötgen:  [RDMO und Shibboleth]({{ site.baseurl }}/docs/2020-02-24-rdmo-shibboleth.pdf)
     - H. Krockauer: Import von Information aus Drittsystemen in Projekte im RDMO
-    - R. Strötgen:  RDMO und Shibboleth
 
 - 14:30 - 15:00 Kaffee ++
 
