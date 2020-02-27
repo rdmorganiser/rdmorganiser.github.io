@@ -10,6 +10,10 @@ News
 
 On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [Twitter](https://www.twitter.com/rdmorganiser).
 
+February 2020 
+-------------
+This month we released [RDMO Release 1.0.3.](https://github.com/rdmorganiser/rdmo/releases/tag/1.0.3) It contains improvements and minor bug fixes. New API filter attributes are provided to make interfaces more flexible, e.g. making it easier to export a set of answers and then assign the corresponding questions to it, since questions can now be localized via the API using the "attribute" parameter. Furthermore, RDMO now uses "pytest", which can also be used to [test the RDMO app](https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md). In January Ulrike Wuttke and Olaf Michaelis presented at the [workshop of the DHd-AG data centers on 23/24.01.2020 in Frankfurt an Main](http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020) the efforts made by the RDMO-project to make it Datacite compatible. The paper "From Project to Sustainable Tool for Research Data Management: The Example of Research Data Management Organiser" was accepted for the [109th German Librarians' Day](https://bibliothekartag2020.de) (26-29 May 2020, Hannover).
+
 January 2020 
 ------------
 The focus of the meanwhile 3rd RDMO Community Meeting on 24.02.2020 at the Leibniz Institute for Astrophysics Potsdam (AIP) will be the adoption of the [RDMO Manifesto](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) and the foundation of the RDMO Community, especially the constitution of the *Steering Group* and the *Software Group*. In addition, there will be short spotlights from the community of RDMO users. Link to the [program](https://rdmorganiser.github.io/workshop022020_programm/). During the [RDA De-Meeting](https://www.rda-deutschland.de/events/tagung-2020) following the RDMO-Community Meeting, we will offer an RDMO workshop in the morning of 25.02.2020. Registration is now possible.
