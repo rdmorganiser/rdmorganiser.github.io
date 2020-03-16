@@ -250,3 +250,10 @@
   lat: 54.088133
   lon: 12.133373
   color: blue
+
+- name: Goethe Universität Frankfurt am Main
+  url: https://rdmo.server.uni-frankfurt.de
+  contact: Nina Dworschak
+  lat: 50.127778
+  lon: 8.666667
+  color: blue

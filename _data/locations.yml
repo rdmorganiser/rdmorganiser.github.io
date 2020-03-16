@@ -20,11 +20,17 @@
     lon: 6.406
     name: "Forschungszentrum J\xFClich"
     url: https://dmp.fz-juelich.de
--   color: gray
+-   color: blue
     contact: "J\xFCrgen Rohrwild"
     lat: 49.597901
     lon: 11.004571
     name: "Friedrich-Alexander-Universit\xE4t Erlangen N\xFCrnberg (FAU)"
+-   color: blue
+    contact: Nina Dworschak
+    lat: 50.127778
+    lon: 8.666667
+    name: "Goethe Universit\xE4t Frankfurt am Main"
+    url: https://rdmo.server.uni-frankfurt.de
 -   color: gray
     contact: Timo Gnadt, Claudia Engelhardt
     lat: 51.5400097
