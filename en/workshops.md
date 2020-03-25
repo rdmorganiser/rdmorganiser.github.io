@@ -13,10 +13,11 @@ RDMO organised some workshops and meetings with users:
 Future workshops and meetings:
 -----------------------------------------------
 
-* currently planning
+* End of September Final workshop
 
 So far:
 --------------------------------------------
+* 24.02.2020 RDMO-Community-Meeting, Foundation Meeting as Open Source Projekt [Programm](https://rdmorganiser.github.io/workshop022020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen)
 * 03.12.19 Regional workshop in Bonn at Max Weber Foundation
 * 07.10.2019 Workshop: Sustainable RDMO Future (german) [Program + Slides]({{ base-url }}/workshop2019)
 * 27.09.2019 4th Meeting of the project members
