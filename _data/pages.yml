@@ -96,6 +96,14 @@ team:
     de: team/
     en: en/team/
 
+groups:
+  label:
+    de: Arbeitsgruppen
+    en: Working Groups
+  path:
+    de: groups/
+    en: en/groups/
+
 protection:
   label:
     de: Datenschutz
