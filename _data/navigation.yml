@@ -2,6 +2,7 @@
   label:
     de: Aktuelles
     en: News
+
 - label:
     de: Über uns
     en: About
@@ -18,6 +19,11 @@
     label:
       de: Team
       en: Team
+  - key: groups
+    label:
+      de: RDMO Community
+      en: RDMO Community
+
 - label:
     de: Veranstaltungen
     en: Events
@@ -34,6 +40,7 @@
     label:
       de: Lehre
       en: Teaching
+
 - label:
     de: Informationen
     en: Information
@@ -46,6 +53,7 @@
     label:
       de: Datenschutz
       en: Data protection
+
 - label:
     de: Community
     en: Community

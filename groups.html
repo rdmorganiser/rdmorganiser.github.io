@@ -1,0 +1,35 @@
+---
+layout: page
+
+key: groups
+lang: de
+---
+
+<h1>RDMO Community</h1>
+
+<h2>Steuerunggruppe</h2>
+{% for member in site.data.groups.steering %}
+<div class="">
+    <div class="">
+        · {{ member }}
+    </div>
+</div>
+{% endfor %}
+
+<h2>Software-Gruppe</h2>
+{% for member in site.data.groups.software %}
+<div class="">
+    <div class="">
+        · {{ member }}
+    </div>
+</div>
+{% endfor %}
+
+<h2>Content-Gruppe</h2>
+{% for member in site.data.groups.content %}
+<div class="">
+    <div class="">
+        · {{ member }}
+    </div>
+</div>
+{% endfor %}

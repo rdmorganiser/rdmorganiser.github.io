@@ -9,5 +9,6 @@ vendor
 *.swp
 .DS_Store
 
+.jekyll-metadata
 Gemfile.lock
 .imdone/
