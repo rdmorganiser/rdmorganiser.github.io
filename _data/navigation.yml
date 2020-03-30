@@ -2,7 +2,6 @@
   label:
     de: Aktuelles
     en: News
-
 - label:
     de: Über uns
     en: About
@@ -21,8 +20,8 @@
       en: Team
   - key: groups
     label:
-      de: RDMO Community
-      en: RDMO Community
+      de: Arbeitsgruppen
+      en: Arbeitsgruppen
 
 - label:
     de: Veranstaltungen
