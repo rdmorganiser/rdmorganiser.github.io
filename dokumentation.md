@@ -7,14 +7,14 @@ lang: de
 
 # Dokumentation
 
-RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) dokumentiert. Im linken Menü befinden sich mehrere Unterpunkte:
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. Im linken Menü befinden sich mehrere Unterpunkte:
 
-* [Installation](http://rdmo.readthedocs.io/de/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
-* [Einsatz](http://rdmo.readthedocs.io/de/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
-* [Konfiguration](http://rdmo.readthedocs.io/de/latest/configuration/index.html) - RDMO kann individuell angepasst werden
-* [Administration](http://rdmo.readthedocs.io/de/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
-* [Management](http://rdmo.readthedocs.io/de/latest/management/index.html) - Verwalten, Anlegen und Verändern des Domainbaumes, der Fragenkataloge und Ansichten
-* [Upgrade](http://rdmo.readthedocs.io/de/latest/upgrade/index.html) - Aktualisieren der RDMO-App
+* [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
+* [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
+* [Configuration](http://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO kann individuell angepasst werden
+* [Administration](http://rdmo.readthedocs.io/en/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
+* [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) - Verwalten, Anlegen und Verändern des Domainbaumes, der Fragenkataloge und Ansichten
+* [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - Aktualisieren der RDMO-App
 
 
 ## FAQs
