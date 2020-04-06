@@ -7,7 +7,7 @@ lang: en
 
 # Documentation
 
-RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/de/latest) In the left-hand site menu there are following keywords:
+RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) In the left-hand site menu there are following keywords:
 
 * [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
 * [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
