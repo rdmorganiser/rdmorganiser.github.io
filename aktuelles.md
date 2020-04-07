@@ -10,6 +10,10 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [Twitter](https://www.twitter.com/rdmorganiser).
 
+April 2020
+----------
+RDMO Release 1.0.5 (Bug Fixes, u. a. Login mit ORCID, Fehler beim Download der Vendor Files, Darstellung von Sets in Views). Ein Update ist empfohlen. Siehe die Dokumentation bzgl. der für die ORCID notwendigen neuen Einträge in der local.py. Der Bericht des 3. RDMO-Anwendertreffens ist [online](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen). Ab Mai 2020 gibt es eine “virtuelle RDMO Sprechstunde”, bitte [kontaktieren](https://rdmorganiser.github.io/) Sie uns für Details. Wir haben den [“DFG-Fragenkatalog” vom Projekt FoDaKo, Bergische Universität Wuppertal (Torsten Rathmann) (CC0)](https://github.com/rdmorganiser/rdmo-catalog/tree/master/shared/fodako) in die AIP-Demo-Instanz eingepflegt und nehmen weiterhin Kataloge aus der Community in das GitHub Repository auf: entweder einen Pull-Request auf GitHub erstellen oder die XML-Dateien per Mail an omichaelis@aip.de senden. Besonders hilfreich für die Nachnutzung sind die zusätzliche Bereitstellung einer Read.me-Datei bzw. Dokumentation zum jeweiligen Katalog.
+
 März 2020
 ------------
 
