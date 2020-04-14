@@ -37,11 +37,11 @@ Unsere Tutorials werden hier und auch meist auf unserer Projektseite im Wiki [fo
 
 Für Nutzer:
 
-* [Schnellstart-Anleitung (PDF-Dokument)]({{ site.baseurl }}/docs/Schnellstartanleitung.pdf)
+* [Schnellstart-Anleitung (PDF-Dokument)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
 
 Für Administratoren:
 
-* [Schnellstart-Anleitung: (PDF-Dokument)]({{ site.baseurl }}/docs/SchnellstartanleitungAdminsv2.pdf)
+* [Schnellstart-Anleitung: (PDF-Dokument)]({{ site.baseurl }}/docs/SchnellstartanleitungAdmins_v2020.pdf)
 * [„Wie erstelle ich einen Fragenkatalog in RDMO?”](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
 * [„Wie erstelle ich eine Ansicht in RDMO?”](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * [„Wie erstelle ich eine Bedingung in RDMO?”](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
