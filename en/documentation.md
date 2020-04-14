@@ -35,11 +35,11 @@ So far these tutorials are available in German language only.
 
 For Users:
 
-* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/Schnellstartanleitung.pdf)
+* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
 
 For Admins:
 
-* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/SchnellstartanleitungAdminsv2.pdf)
+* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/SchnellstartanleitungAdmins_v2020.pdf)
 * ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
