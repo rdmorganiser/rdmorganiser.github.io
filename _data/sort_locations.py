@@ -1,18 +1,17 @@
 #!/usr/bin/python3
 
-import json
-import yaml
 import sys
 
+import yaml
 
-infile = 'locations_to_edit.yml'
-outfile = 'locations.yml'
+infile = 'locations.yml'
+outfile = 'gen/locations.yml'
 
 
 def read_yaml(filename):
     with open(filename, 'r') as stream:
         try:
-            return(yaml.load(stream))
+            return(yaml.load(stream, yaml.SafeLoader))
         except yaml.YAMLError as exc:
             print(exc)
             sys.exit(1)
@@ -20,16 +19,12 @@ def read_yaml(filename):
 
 def write_yaml(data, filename):
     with open(filename, 'w') as outfile:
-            yaml.dump(
-                data, outfile,
-                default_flow_style=False,
-                encoding='utf-8',
-                indent=4
-            )
-
-
-def print_data(data):
-    print(json.dumps(data, sort_keys=True, indent=4))
+        yaml.dump(
+            data, outfile,
+            default_flow_style=False,
+            encoding='utf-8',
+            indent=4
+        )
 
 
 if __name__ == '__main__':

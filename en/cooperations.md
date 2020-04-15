@@ -18,12 +18,20 @@ lang: en
 
 <dl>
     {{#if url}}
-    <dt>URL</dt>
-    <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
+        <dt>URL</dt>
+        <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
     {{/if}}
     {{#if contact}}
-    <dt>Contact</dt>
-    <dd>{{contact}}</dd>
+        <dt>Contact</dt>
+        <dd>{{contact}}</dd>
+    {{/if}}
+    {{#if discipline}}
+        <dt>Discipline</dt>
+        <dd>{{discipline}}</dd>
+    {{/if}}
+    {{#if description}}
+        <dt>Description</dt>
+        <dd>{{description}}</dd>
     {{/if}}
 </dl>
 

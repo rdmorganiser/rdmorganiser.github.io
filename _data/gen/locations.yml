@@ -1,0 +1,210 @@
+-   color: gray
+    contact: "Angela Sch\xE4fer"
+    lat: 53.533308
+    lon: 8.5805956
+    name: Alfred Wegner Institut
+-   color: gray
+    contact: Jutta Graf
+    lat: 48.0853178
+    lon: 11.2789751
+    name: "Deutsches Zentrum f\xFCr Luft- und Raumfahrt (DLR)"
+-   color: blue
+    contact: Ulrike Wuttke
+    lat: 52.413501
+    lon: 13.0512984
+    name: Fachhochschule Potsdam
+    url: http://rdmo.fh-potsdam.de
+-   color: blue
+    contact: Eva-Maria Gerstner
+    lat: 50.905626
+    lon: 6.406
+    name: "Forschungszentrum J\xFClich"
+    url: https://dmp.fz-juelich.de
+-   color: blue
+    contact: "J\xFCrgen Rohrwild"
+    lat: 49.597901
+    lon: 11.004571
+    name: "Friedrich-Alexander-Universit\xE4t Erlangen N\xFCrnberg (FAU)"
+-   color: blue
+    contact: Nina Dworschak
+    lat: 50.127778
+    lon: 8.666667
+    name: "Goethe Universit\xE4t Frankfurt am Main"
+    url: https://rdmo.server.uni-frankfurt.de
+-   color: gray
+    contact: Timo Gnadt, Claudia Engelhardt
+    lat: 51.5400097
+    lon: 9.9358179
+    name: "G\xF6ttingen eResearch Alliance"
+    url: http://www.eresearch.uni-goettingen.de
+-   color: gray
+    contact: "Heike G\xF6rzig"
+    lat: 52.411138
+    lon: 13.129854
+    name: Helmholtz-Zentrum Berlin HZB
+-   color: gray
+    contact: Patrick Langner
+    lat: 50.5653467
+    lon: 9.68746859
+    name: Hochschul- und Landesbibliothek Fulda
+    url: https://www.hs-fulda.de
+-   color: blue
+    contact: Florian Fritze
+    lat: 48.78231
+    lon: 9.1686
+    name: "IZUS / Universit\xE4tsbibliothek Stuttgart"
+    url: http://fdm.ub.uni-stuttgart.de
+-   color: blue
+    contact: Claudia Kramer
+    lat: 49.00955
+    lon: 8.4121891
+    name: "Karlsruher Institut f\xFCr Technologie"
+    url: https://rdmo.forschungsdaten.info
+-   color: blue
+    contact: Jochen Klar
+    description: "Das Leibniz-Institut f\xFCr Astrophysik Potsdam (AIP) widmet sich\
+        \ astrophysikalischen Fragen, die von der Untersuchung unserer Sonne bis zur\
+        \ Entwicklung des Kosmos reichen."
+    discipline: Astrophysik
+    lat: 52.405
+    lon: 13.104167
+    name: "Leibniz-Institut f\xFCr Astrophysik Potsdam"
+    url: https://rdmo.aip.de
+-   color: blue
+    contact: Matthias Lange
+    lat: 51.827277
+    lon: 11.2771503
+    name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
+    url: http://www.ipk-gatersleben.de/
+-   color: gray
+    contact: Herr Martin Spenger
+    lat: 48.150833
+    lon: 11.580278
+    name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+-   color: gray
+    contact: Dr. Lara Frommherz
+    lat: 49.013579
+    lon: 8.426245
+    name: Max Rubner-Institut
+-   color: blue
+    contact: Robin Rothe
+    lat: 50.9246806
+    lon: 6.9164622
+    name: PUBLISSO/ZB MED
+    url: http://rdmo.publisso.de
+-   color: gray
+    contact: Giacomo Lanza
+    lat: 52.29653
+    lon: 10.46418
+    name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+    url: https://rdmo.ptb.de
+-   color: gray
+    contact: Daniela Hausen
+    lat: 50.781177
+    lon: 6.065603
+    name: RTWH Aachen
+-   color: blue
+    contact: "Frank Kr\xFCger"
+    lat: 54.088133
+    lon: 12.133373
+    name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+    url: https://rdmo.elaine.uni-rostock.de
+-   color: gray
+    contact: Johannes Sperling
+    lat: 51.028183
+    lon: 13.736781
+    name: "Staats- und Universit\xE4tsbibliothek Dresden (SLUB)"
+-   color: gray
+    contact: Jens Ludwig
+    name: Staatsbibliothek zu Berlin
+    url: http://www.staatsbibliothek-berlin.de
+-   color: gray
+    contact: "Robert Str\xF6tgen"
+    lat: 52.2735074
+    lon: 10.5296839
+    name: "Technische Universit\xE4t Braunschweig"
+    url: https://rdmo.biblio.etc.tu-bs.de
+-   color: gray
+    contact: Beate Rajski
+    lat: 53.4610079
+    lon: 9.9699716
+    name: "Technische Universit\xE4t Hamburg"
+    url: https://rdmo.rz.tuhh.de
+-   color: blue
+    contact: Andreas Weber
+    lat: 49.929511
+    lon: 11.586435
+    name: "Universit\xE4t Bayreuth"
+    url: http://rdmo.uni-bayreuth.de/rdmo
+-   color: gray
+    contact: Ania Lopez, Eike Spielberg
+    lat: 51.429167
+    lon: 6.800833
+    name: "Universit\xE4t Duisburg-Essen"
+    url: https://www.uni-due.de
+-   color: gray
+    lat: 51.1952525
+    lon: 6.7899203
+    name: "Universit\xE4t D\xFCsseldorf (FoDaKo)"
+    url: http://www.fodako.de
+-   color: gray
+    contact: "Kai W\xF6rner"
+    lat: 53.566298
+    lon: 9.984469
+    name: "Universit\xE4t Hamburg"
+-   color: gray
+    contact: Annette Strauch
+    lat: 52.1600497
+    lon: 9.9833092
+    name: "Universit\xE4t Hildesheim"
+    url: https://www.uni-hildesheim.de/forschungsdaten
+-   color: blue
+    contact: Arvid Deppe
+    lat: 51.322817
+    lon: 9.507359
+    name: "Universit\xE4t Kassel"
+    url: https://rdmo.uni-kassel.de
+-   color: gray
+    contact: Niklas Hartmann
+    lat: 52.401111
+    lon: 13.011944
+    name: "Universit\xE4t Potsdam"
+-   color: gray
+    contact: Thomas von Rekowski, Henning Bohn, Volker Hess
+    lat: 50.91082
+    lon: 8.0273001
+    name: "Universit\xE4t Siegen (FoDaKo)"
+    url: http://www.fodako.de
+-   color: gray
+    contact: Marina Lemaire, Stefan Kellendonk
+    lat: 49.745933
+    lon: 6.68849
+    name: "Universit\xE4t Trier"
+-   color: gray
+    contact: Torsten Rathman
+    lat: 51.2458565
+    lon: 7.1486939
+    name: "Universit\xE4t Wuppertal (FoDaKo)"
+    url: http://www.fodako.de
+-   color: blue
+    contact: Gerald Langhanke
+    lat: 49.861429
+    lon: 8.680805
+    name: "Universit\xE4ts- und Landesbibliothek Darmstadt"
+    url: http://tudmo.ulb.tu-darmstadt.de
+-   color: gray
+    contact: Marc Schutzeichel
+    lat: 51.9627609
+    lon: 7.620459
+    name: "Universit\xE4ts- und Landesbibliothek M\xFCnster"
+    url: https://www.ulb.uni-muenster.de
+-   color: blue
+    contact: "Johannes Frenzel (Ruhr Universit\xE4t Bochum)"
+    lat: 51.4439
+    lon: 7.261572
+    name: "Universit\xE4tsallianz Ruhr (Ruhr-Universit\xE4t Bochum, Universit\xE4\
+        t Duisburg-Essen, Technische Universit\xE4t Dortmund)"
+    url: http://rdmo.uaruhr.de
+-   color: gray
+    name: "bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-W\xFCrttemberg"
+    url: http://bwfdm.scc.kit.edu

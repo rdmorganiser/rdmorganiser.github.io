@@ -8,7 +8,7 @@ lang: de
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
 
 <script>
-    var _locations = {{ site.data.locations | jsonify }};
+    var _locations = {{ site.data.tmp.locations | jsonify }};
 </script>
 
 {% raw  %}
@@ -18,12 +18,20 @@ lang: de
 
 <dl>
     {{#if url}}
-    <dt>URL</dt>
-    <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
+        <dt>URL</dt>
+        <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
     {{/if}}
     {{#if contact}}
-    <dt>Kontakt</dt>
-    <dd>{{contact}}</dd>
+        <dt>Kontakt</dt>
+        <dd>{{contact}}</dd>
+    {{/if}}
+    {{#if discipline}}
+        <dt>Disziplin</dt>
+        <dd>{{discipline}}</dd>
+    {{/if}}
+    {{#if description}}
+        <dt>Beschreibung</dt>
+        <dd>{{description}}</dd>
     {{/if}}
 </dl>
 
