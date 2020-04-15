@@ -63,7 +63,7 @@ Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
 <ul>
-{% for location in site.data.locations %}
+{% for location in site.data.gen.locations %}
     <li>
         <a href="{{ location.url }}">{{ location.name }}</a>
     </li>

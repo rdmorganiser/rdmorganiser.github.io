@@ -61,7 +61,7 @@ Cooperations
 The project needs feedback from disciplines and IT infrastructure representatives to ensure the tool meets the needs of the target groups. We gratefully acknowledge the following partners:
 
 <ul>
-{% for location in site.data.locations %}
+{% for location in site.data.gen.locations %}
     <li>
         <a href="{{ location.url }}">{{ location.name }}</a>
     </li>
