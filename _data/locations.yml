@@ -34,6 +34,8 @@
   lat:     52.413501
   lon:     13.0512984
   color:   blue
+  discipline: Informationswissenschaften
+  description: Als Mitglied im Projekt RDMO ist die Fachhochschule Potsdam verantwortlich für Nachhaltigkeit, Community-Building, Dissemination und Training von RDMO.
 
 - name:    Karlsruher Institut für Technologie
   url:     https://rdmo.forschungsdaten.info
@@ -241,7 +243,7 @@
   color: gray
 
 - name: Ludwig-Maximilians-Universität München
-  contact: Herr Martin Spenger
+  contact: Martin Spenger
   lat: 48.150833
   lon: 11.580278
   color: gray
@@ -259,3 +261,12 @@
   lat: 50.127778
   lon: 8.666667
   color: blue
+
+- name:    MaMoDaR
+  url:     https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/MaMoDaR.html
+  contact: Luca Leipold, Kyanoush Yahosseini
+  lat:     52.516181
+  lon:     13.376935
+  color:   gray
+  discipline: Biologie, Medizin
+  description: Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank zu unterstützen.
