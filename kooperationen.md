@@ -8,7 +8,7 @@ lang: de
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
 
 <script>
-    var _locations = {{ site.data.tmp.locations | jsonify }};
+    var _locations = {{ site.data.gen.locations | jsonify }};
 </script>
 
 {% raw  %}
