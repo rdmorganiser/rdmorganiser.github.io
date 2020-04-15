@@ -10,6 +10,10 @@
     name: "Deutsches Zentrum f\xFCr Luft- und Raumfahrt (DLR)"
 -   color: blue
     contact: Ulrike Wuttke
+    description: "Als Mitglied im Projekt RDMO ist die Fachhochschule Potsdam verantwortlich\
+        \ f\xFCr Nachhaltigkeit, Community-Building, Dissemination und Training von\
+        \ RDMO."
+    discipline: Informationswissenschaften
     lat: 52.413501
     lon: 13.0512984
     name: Fachhochschule Potsdam
@@ -73,10 +77,25 @@
     name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
     url: http://www.ipk-gatersleben.de/
 -   color: gray
-    contact: Herr Martin Spenger
+    contact: Martin Spenger
     lat: 48.150833
     lon: 11.580278
     name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+-   color: gray
+    contact: Luca Leipold, Kyanoush Yahosseini
+    description: "Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut\
+        \ in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche Software,\
+        \ den DataLinker. Diese Software verkn\xFCpft Projekt-Metadaten aus RDMO und\
+        \ Metadaten aus angrenzenden Systemen direkt mit molekularen Forschungsdaten.\
+        \ Der DataLinker bietet zudem eine Durchsuchbarkeit und Import-/Export-M\xF6\
+        glichkeiten dieser Metadaten, z.B. um eine strukturierte Ver\xF6ffentlichung\
+        \ von Forschungsdaten nach den FAIR-Prinzipien in \xF6ffentliche Repositorien\
+        \ wie GenBank zu unterst\xFCtzen."
+    discipline: Biologie, Medizin
+    lat: 52.516181
+    lon: 13.376935
+    name: MaMoDaR
+    url: https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/MaMoDaR.html
 -   color: gray
     contact: Dr. Lara Frommherz
     lat: 49.013579
