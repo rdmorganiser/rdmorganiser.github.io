@@ -8,49 +8,51 @@ $(document).ready(function() {
         'maxZoom': 10
     }).addTo(map);
 
-    var popup_source   = document.getElementById('popup-template').innerHTML;
+    var popup_source = document.getElementById('popup-template').innerHTML;
     var popup_template = Handlebars.compile(popup_source);
 
-    var legend_source   = document.getElementById('legend-template').innerHTML;
+    var legend_source = document.getElementById('legend-template').innerHTML;
     var legend_template = Handlebars.compile(legend_source);
 
     var icons = {
         'green': new L.Icon({
-           iconUrl: '/img/icons/marker-icon-green.png',
-           shadowUrl: '/img/icons/marker-shadow.png',
-           iconSize: [25, 41],
-           iconAnchor: [12, 41],
-           popupAnchor: [1, -34],
-           shadowSize: [41, 41]
+            iconUrl: '/img/icons/marker-icon-green.png',
+            shadowUrl: '/img/icons/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
         }),
         'blue': new L.Icon({
-           iconUrl: '/img/icons/marker-icon-blue.png',
-           shadowUrl: '/img/icons/marker-shadow.png',
-           iconSize: [25, 41],
-           iconAnchor: [12, 41],
-           popupAnchor: [1, -34],
-           shadowSize: [41, 41]
+            iconUrl: '/img/icons/marker-icon-blue.png',
+            shadowUrl: '/img/icons/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
         }),
         'gray': new L.Icon({
-           iconUrl: '/img/icons/marker-icon-grey.png',
-           shadowUrl: '/img/icons/marker-shadow.png',
-           iconSize: [25, 41],
-           iconAnchor: [12, 41],
-           popupAnchor: [1, -34],
-           shadowSize: [41, 41]
+            iconUrl: '/img/icons/marker-icon-grey.png',
+            shadowUrl: '/img/icons/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
         })
     }
 
-    var legend = L.control({position: 'bottomright'});
-    legend.onAdd = function (map) {
+    var legend = L.control({
+        position: 'bottomright'
+    });
+    legend.onAdd = function(map) {
         var div = L.DomUtil.create('div', 'info legend leaflet-bar');
         div.innerHTML = legend_template();
 
         return div;
     };
     legend.addTo(map);
-
-    $.each(_locations, function (key, location) {
+    markers = [];
+    $.each(_locations, function(key, location) {
         if (typeof(location.lon) != 'undefined' && typeof(location.lat) != 'undefined') {
             if (location.color !== 'undefined') {
                 var icon = icons[location.color];
@@ -58,8 +60,13 @@ $(document).ready(function() {
                 var icon = icons['gray'];
             }
 
-            var marker = L.marker([location.lat, location.lon], {icon: icon}).addTo(map);
+            var marker = L.marker([location.lat, location.lon], {
+                icon: icon
+            }).addTo(map);
+            // marker._icon.id = slugify(location.name);
+            marker.id = slugify(location.name);
             marker.bindPopup(popup_template(location));
+            markers.push(marker);
         }
     });
 });

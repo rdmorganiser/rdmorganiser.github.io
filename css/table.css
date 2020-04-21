@@ -1,0 +1,107 @@
+table {
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+th {
+    padding: 8px 10px;
+}
+
+td {
+    padding: 2px 10px;
+}
+
+.tabfilter {
+    border: 1px solid;
+    float: right;
+    margin-top: 20px;
+}
+/* header */
+.tablesorter-default th,
+.tablesorter-default thead td {
+    height: 16px;
+	font-weight: bold;
+	color: #000;
+	background-color: #fff;
+	border-collapse: collapse;
+	border-bottom: #ccc 2px solid;
+	padding: 0;
+}
+.tablesorter-default tfoot th,
+.tablesorter-default tfoot td {
+	border: 0;
+}
+.tablesorter-default .header,
+.tablesorter-default .tablesorter-header {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAJAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAkAAAIXjI+AywnaYnhUMoqt3gZXPmVg94yJVQAAOw==);
+	background-position: center right;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	white-space: normal;
+	padding: 4px 20px 4px 4px;
+}
+.tablesorter-default thead .headerSortUp,
+.tablesorter-default thead .tablesorter-headerSortUp,
+.tablesorter-default thead .tablesorter-headerAsc {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjI8Bya2wnINUMopZAQA7);
+	border-bottom: #000 2px solid;
+}
+.tablesorter-default thead .headerSortDown,
+.tablesorter-default thead .tablesorter-headerSortDown,
+.tablesorter-default thead .tablesorter-headerDesc {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjB+gC+jP2ptn0WskLQA7);
+	border-bottom: #000 2px solid;
+}
+.tablesorter-default thead .sorter-false {
+	background-image: none;
+	cursor: default;
+	padding: 4px;
+}
+
+.tablesorter-default input.tablesorter-filter,
+.tablesorter-default select.tablesorter-filter {
+    width: 95%;
+    height: auto;
+    margin: 4px auto;
+    padding: 4px;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    color: #333;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: height 0.1s ease;
+    -moz-transition: height 0.1s ease;
+    -o-transition: height 0.1s ease;
+    transition: height 0.1s ease;
+}
+
+/* rows hidden by filtering (needed for child rows) */
+.tablesorter .filtered {
+    display: none;
+}
+
+/* ajax error row */
+.tablesorter .tablesorter-errorRow td {
+    text-align: center;
+    cursor: pointer;
+    background-color: #ffff99;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+table .name {
+    width: 100%;
+
+}
+
+table .instance {
+    width: 5%;
+}
+
+table .instance img {
+    max-width:14px;
+}

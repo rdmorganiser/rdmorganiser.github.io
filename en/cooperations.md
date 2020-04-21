@@ -8,7 +8,7 @@ lang: en
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
 
 <script>
-    var _locations = {{ site.data.gen.locations | jsonify }};
+    var _locations = {{ site.data.locations | jsonify }};
 </script>
 
 {% raw  %}
@@ -36,7 +36,9 @@ lang: en
 </dl>
 
 </script>
+{% endraw %}
 
+{% raw  %}
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
@@ -49,9 +51,14 @@ lang: en
 </script>
 {% endraw %}
 
+<script src="{{ site.baseurl }}/js/func.js"></script>
 <script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
+
+<script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
+<script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/table.css">
 
 <div id="map" class="map"></div>
 
@@ -60,10 +67,43 @@ Cooperations
 
 The project needs feedback from disciplines and IT infrastructure representatives to ensure the tool meets the needs of the target groups. We gratefully acknowledge the following partners:
 
-<ul>
-{% for location in site.data.gen.locations %}
-    <li>
-        <a href="{{ location.url }}">{{ location.name }}</a>
-    </li>
-{% endfor %}
-</ul>
+<input class="tabfilter" type="search" data-column="all" placeholder="Filter">
+<table id="partners" class="tablesorter">
+    <thead>
+        <th></th><th></th>
+    </thead>
+    <tbody>
+        {% for location in site.data.locations %}
+            <tr>
+                <td class="name">
+                    {% if location.url %}
+                        <a href="{{ location.url }}">{{ location.name }}</a>
+                    {% else %}
+                        {{ location.name }}
+                    {% endif %}
+                </td>
+                <td id="{{ location.name | slugify: latin }}" class="instance">
+                    {% if location.color == "blue" %}
+                        <p style="display: none">live</p>
+                        <img src="/img/icons/marker-icon-blue.png" />
+                    {% else %}
+                        <p style="display: none">test</p>
+                        <img src="/img/icons/marker-icon-grey.png" />
+                    {% endif %}
+                    <script>
+                        $("#{{ location.name | slugify }}")
+                        .on("click", function(){
+                            open_marker("{{ location.name | slugify }}");
+                        });
+                    </script>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function() {
+        init_table();
+    });
+</script>
