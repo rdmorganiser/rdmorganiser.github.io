@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var map = L.map('map');
-    map.setView([51.165, 10.455278], 7);
+    map.setView([51.165, 10.455278], 9);
 
     L.tileLayer('https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
         'attribution': 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> | Contributors <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a> | Tiles © <a href="http://cartodb.com/attributions">CartoDB</a>',
