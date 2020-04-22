@@ -106,3 +106,7 @@ table .instance {
 table .instance img {
     max-width:14px;
 }
+
+.tablesorter-header-inner {
+    width: 10px;
+}
