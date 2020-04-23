@@ -83,19 +83,21 @@ The project needs feedback from disciplines and IT infrastructure representative
                     {% endif %}
                 </td>
                 <td id="{{ location.name | slugify: latin }}" class="instance">
-                    {% if location.color == "blue" %}
-                        <p style="display: none">live</p>
-                        <img src="/img/icons/marker-icon-blue.png" />
-                    {% else %}
-                        <p style="display: none">test</p>
-                        <img src="/img/icons/marker-icon-grey.png" />
+                    {% if location.lat and location.lon %}
+                        {% if location.color == "blue" %}
+                            <p style="display: none">live</p>
+                            <img src="/img/icons/marker-icon-blue.png" />
+                        {% else %}
+                            <p style="display: none">test</p>
+                            <img src="/img/icons/marker-icon-grey.png" />
+                        {% endif %}
+                        <script>
+                            $("#{{ location.name | slugify }}")
+                            .on("click", function(){
+                                open_marker("{{ location.name | slugify }}");
+                            });
+                        </script>
                     {% endif %}
-                    <script>
-                        $("#{{ location.name | slugify }}")
-                        .on("click", function(){
-                            open_marker("{{ location.name | slugify }}");
-                        });
-                    </script>
                 </td>
             </tr>
         {% endfor %}
