@@ -94,7 +94,10 @@ The project needs feedback from disciplines and IT infrastructure representative
                         <script>
                             $("#{{ location.name | slugify }}")
                             .on("click", function(){
-                                open_marker("{{ location.name | slugify }}");
+                                open_marker(
+                                    "{{ location.name | slugify }}",
+                                    [{{ location.lat }}, {{ location.lon }}]
+                                );
                             });
                         </script>
                     {% endif %}

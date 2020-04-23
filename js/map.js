@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var map = L.map('map');
+    map = L.map('map');
     map.setView([51.165, 10.455278], 5);
 
     L.tileLayer('https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
@@ -63,7 +63,6 @@ $(document).ready(function() {
             var marker = L.marker([location.lat, location.lon], {
                 icon: icon
             }).addTo(map);
-            console.log(slugify(location.name));
             marker.id = slugify(location.name);
             marker.bindPopup(popup_template(location));
             markers.push(marker);

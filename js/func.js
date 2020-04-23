@@ -23,7 +23,8 @@ function init_table() {
     });
 }
 
-function open_marker(id) {
+function open_marker(id, coords) {
+    map.setView(coords, 9);
     for (var i in markers) {
         if (markers[i].id == id) {
             window.scrollTo({
