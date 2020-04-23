@@ -63,7 +63,6 @@ $(document).ready(function() {
             var marker = L.marker([location.lat, location.lon], {
                 icon: icon
             }).addTo(map);
-            // marker._icon.id = slugify(location.name);
             marker.id = slugify(location.name);
             marker.bindPopup(popup_template(location));
             markers.push(marker);

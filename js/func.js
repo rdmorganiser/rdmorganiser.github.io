@@ -38,18 +38,20 @@ function open_marker(id) {
 function slugify(text) {
     var rx = /[0-9a-zßäöü\-]/g;
     return text.toString().toLowerCase()
-        .replace(/[\s\/]/g, '-')
+        .replace(/[\s\/'"`]/g, '-')
         .match(rx)
         .join('')
         .replace(/-{2,}/g, '-');
 }
 
+// in js call: #centre-de-calcul-d-in2p3
+
 function test_markers() {
     table_ids = [];
-    var table = document.getElementById("partners");
+    var table = document.getElementById('partners');
     for (var i = 0, row; row = table.rows[i]; i++) {
         for (var j = 0, col; col = row.cells[j]; j++) {
-            if (col.id != "") {
+            if (col.id != '') {
                 table_ids.push(col.id);
             }
         }
