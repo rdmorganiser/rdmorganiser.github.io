@@ -28,8 +28,13 @@ Einen Überblick aller Fragen des vollständigen RDMO-Katalogs als PDF finden Si
 
 [Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
 
-Die XML-Datei des generischen Fragenkatalogs finden Sie unter https://github.com/rdmorganiser/rdmo-catalog . Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
+Die XML-Datei des generischen Fragenkatalogs finden Sie [hier](https://github.com/rdmorganiser/rdmo-catalog). Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
 
+## DMP-Anforderungen von Forschungsförderorganisationen 
+
+Übersichten zu DMP-Vorgaben finden Sie u. a. auf: 
+* forschungsdaten.info unter ["Förderrichtlinien"](https://www.forschungsdaten.info/themen/planen-und-strukturieren/foerderrichtlinien/)
+* forschungsdaten.org unter ["Förderorganisationen"](https://www.forschungsdaten.org/index.php/F%C3%B6rderorganisationen)
 
 ## Tutorials
 
