@@ -1,6 +1,6 @@
 - name:    Leibniz-Institut für Astrophysik Potsdam (AIP)
   url:     https://rdmo.aip.de
-  contact: Jochen Klar
+  contact: Olaf Michaelis, Jochen Klar
   lat:     52.405
   lon:     13.104167
   color:   blue
@@ -263,9 +263,13 @@
   description: Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank zu unterstützen.
 
 - name: Centre de calcul d'IN2P3
-  url: https://cc.in2p3.fr/
+  url: https://cc.in2p3.fr
   contact: Yonny Cardenas
   lat: 45.7825982
   lon: 4.8651914
   color: gray
   discipline: Physik
+
+- name: Stiftung Preußischer Kulturbesitz
+  url: https://www.preussischer-kulturbesitz.de
+  contact: Jens Ludwig
