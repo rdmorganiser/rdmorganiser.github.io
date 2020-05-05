@@ -9,7 +9,7 @@ lang: en
 ---
 
 
-# RDMO Consortium Governance
+# RDMO Consortium 
 
 <h1>Steering Group</h1>
 
