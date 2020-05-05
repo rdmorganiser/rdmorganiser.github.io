@@ -9,7 +9,7 @@ lang: de
 ---
 
 
-# RDMO Arbeitsgemeinschaft Governance
+# RDMO Arbeitsgemeinschaft 
 
 <h1>Steuerungsgruppe</h1>
 
