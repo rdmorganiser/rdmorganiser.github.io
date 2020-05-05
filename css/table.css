@@ -94,8 +94,11 @@ tr:hover {
 }
 
 table .name {
-    width: 100%;
+    width: 70%;
+}
 
+table .contact {
+    width: 30%;
 }
 
 table .instance {

@@ -70,7 +70,7 @@ The project needs feedback from disciplines and IT infrastructure representative
 <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
 <table id="partners" class="tablesorter">
     <thead>
-        <th class="name"></th><th></th>
+        <th class="name"></th><th></th><th></th>
     </thead>
     <tbody>
         {% for location in site.data.locations %}
@@ -80,6 +80,11 @@ The project needs feedback from disciplines and IT infrastructure representative
                         <a href="{{ location.url }}">{{ location.name }}</a>
                     {% else %}
                         {{ location.name }}
+                    {% endif %}
+                </td>
+                <td class="contact">
+                    {% if location.contact %}
+                        {{ location.contact }}
                     {% endif %}
                 </td>
                 <td id="{{ location.name | slugify: latin }}" class="instance">
