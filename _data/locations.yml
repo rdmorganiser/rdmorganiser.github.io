@@ -273,18 +273,18 @@
 - name: Stiftung Preußischer Kulturbesitz
   url: https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
-  
-- name:    Deutsches Klimarechenzentrum (DRKZ)
-  url:     https://rdmo.dkrz.de
+
+- name: Deutsches Klimarechenzentrum (DRKZ)
+  url: https://rdmo.dkrz.de
   contact: Karsten Peters
-  lat:     53.5668648
-  lon:     9.9765854
-  color:   blue
+  lat: 53.5668648
+  lon: 9.9765854
+  color: blue
   discipline: Klima- und Erdsystemforschung
-  
- - name: Universität Tübingen
-   url: https://rdmo.escience.uni-tuebingen.de
-   contact: Fabian Hamm
-   lat: 48.5244121
-   lon: 9.0597217
-   color: gray
+
+- name: Universität Tübingen
+  url: https://rdmo.escience.uni-tuebingen.de
+  contact: Fabian Hamm
+  lat: 48.5244121
+  lon: 9.0597217
+  color: gray
