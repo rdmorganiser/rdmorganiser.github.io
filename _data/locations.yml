@@ -35,7 +35,10 @@
   lon:     13.0512984
   color:   blue
   discipline: Informationswissenschaften
-  description: Als Mitglied im Projekt RDMO ist die Fachhochschule Potsdam verantwortlich für Nachhaltigkeit, Community-Building, Dissemination und Training von RDMO.
+  description: >-
+      Als Mitglied im Projekt RDMO ist die Fachhochschule Potsdam
+      verantwortlich für Nachhaltigkeit, Community-Building, Dissemination
+      und Training von RDMO.
 
 - name:    Karlsruher Institut für Technologie
   url:     https://rdmo.forschungsdaten.info
@@ -260,7 +263,15 @@
   lon:     13.376935
   color:   gray
   discipline: Biologie, Medizin
-  description: Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank zu unterstützen.
+  description: >-
+      Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut
+      in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche
+      Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten
+      aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen
+      Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und
+      Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte
+      Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in
+      öffentliche Repositorien wie GenBank zu unterstützen.
 
 - name: Centre de calcul d'IN2P3
   url: https://cc.in2p3.fr
@@ -281,6 +292,15 @@
   lon: 9.9765854
   color: blue
   discipline: Klima- und Erdsystemforschung
+  description: >-
+      Das Deutsche Klimarechenzentrum ist der zentrale IT-Serviceprovider
+      der simulationsbasierten deutschen Klima- und Erdsystemforschung. Das
+      Portfolio der Abteilung Datenmanagement des DKRZ beinhaltet
+      fachspezifische Beratung und Unterstützung sowie maßgeschneiderte Dienste
+      zu allen, das Forschungsdatenmanagement betreffenden, Angelegenheiten
+      (Stichwort „Datenlebenszyklus“). Am DKRZ wird RDMO seit Anfang 2020 in
+      erster Linie zur Erstellung und Pflege von Datenmanagementplänen großer
+      Konsortialprojekte und intedisziplinärer Exzellenzcluster genutzt.
 
 - name: Universität Tübingen
   url: https://rdmo.escience.uni-tuebingen.de

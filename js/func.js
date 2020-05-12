@@ -23,7 +23,8 @@ function init_table() {
     });
 }
 
-function open_marker(id, coords) {
+function open_marker(id, coords, desc_length) {
+    coords = [coords[0] + (0.0007 * desc_length), coords[1]];
     map.setView(coords, 9);
     for (var i in markers) {
         if (markers[i].id == id) {

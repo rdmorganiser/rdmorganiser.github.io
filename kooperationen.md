@@ -102,7 +102,8 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
                             .on("click", function(){
                                 open_marker(
                                     "{{ location.name | slugify }}",
-                                    [{{ location.lat }}, {{ location.lon }}]
+                                    [{{ location.lat }}, {{ location.lon }}],
+                                    "{{ location.description | size }}"
                                 );
                             });
                         </script>
