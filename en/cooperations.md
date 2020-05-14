@@ -101,7 +101,8 @@ The project needs feedback from disciplines and IT infrastructure representative
                             .on("click", function(){
                                 open_marker(
                                     "{{ location.name | slugify }}",
-                                    [{{ location.lat }}, {{ location.lon }}]
+                                    [{{ location.lat }}, {{ location.lon }}],
+                                    "{{ location.description | size }}"
                                 );
                             });
                         </script>
