@@ -113,3 +113,8 @@ table .instance img {
 .tablesorter-header-inner {
     width: 10px;
 }
+
+thead, tbody {
+    display: table;
+    width: 100%;
+}

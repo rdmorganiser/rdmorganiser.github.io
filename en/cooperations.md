@@ -70,7 +70,9 @@ The project needs feedback from disciplines and IT infrastructure representative
 <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
 <table id="partners" class="tablesorter">
     <thead>
-        <th class="name"></th><th></th><th></th>
+        <th class="name"></th>
+        <th class="contact"></th>
+        <th class="instance"></th>
     </thead>
     <tbody>
         {% for location in site.data.locations %}

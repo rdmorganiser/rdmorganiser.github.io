@@ -71,7 +71,9 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
 <table id="partners" class="tablesorter">
     <thead>
-        <th class="name"></th><th></th><th></th>
+        <th class="name"></th>
+        <th class="contact"></th>
+        <th class="instance"></th>
     </thead>
     <tbody>
         {% for location in site.data.locations %}
