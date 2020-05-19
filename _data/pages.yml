@@ -111,3 +111,11 @@ protection:
   path:
     de: schutz/
     en: en/protection/
+
+publications:
+  label:
+    de: Publikationen
+    en: Publications
+  path:
+    de: publikationen/
+    en: en/publications/
