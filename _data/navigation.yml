@@ -52,6 +52,10 @@
     label:
       de: Datenschutz
       en: Data protection
+  - key: publications
+    label:
+      de: Publikationen
+      en: Publications
 
 - label:
     de: Community
