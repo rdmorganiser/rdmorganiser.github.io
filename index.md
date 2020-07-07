@@ -32,3 +32,5 @@ Diskutieren Sie mit uns auf Slack:
 (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)
 
 Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+
+Wenn Sie auf Probleme oder Bugs mit der RDMO-Software stoßen, oder wenn Sie Funktionen vorschlagen möchten, können Sie auch direkt ein Issue erstellen: https://github.com/rdmorganiser/rdmo/issues. Für Probleme mit Fragebögen, dem RDMO-Domänenmodell oder anderen Inhalten, verwenden Sie bitte die Issues im [rdmo-catalog Repository](https://github.com/rdmorganiser/rdmo-catalog): https://github.com/rdmorganiser/rdmo-catalog/issues. Um Issues anzulegen, benötigen Sie einen GitHub-Account.
