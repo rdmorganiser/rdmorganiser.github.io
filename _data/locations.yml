@@ -181,7 +181,7 @@
 # - name:  EAWAG
 #   url:   http://www.eawag.ch
 
-- name:    Alfred Wegner Institut
+- name:    Alfred Wegner Institut (AWI)
   contact: Angela Schäfer
   lat:     53.533308
   lon:     8.5805956
@@ -242,7 +242,7 @@
   lon: 11.580278
   color: gray
 
-- name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+- name: Universität Rostock (SFB 1270 ELAINE "Elektrisch Aktive Implantate")
   url: https://rdmo.elaine.uni-rostock.de
   contact: Frank Krüger
   lat: 54.088133
@@ -256,7 +256,7 @@
   lon: 8.666667
   color: blue
 
-- name:    MaMoDaR
+- name:    Robert Koch-Institut
   url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
   lat:     52.516181
