@@ -14,7 +14,7 @@ RDMO Arbeitsgemeinschaft
 ------------------------
 
 Die zur Fortsetzung von RDMO sich formierende RDMO Arbeitsgemeinschaft ruft zum Beitritt auf und organisiert eine Veranstaltung 
-am 07.10.2020 auf. Weitere Infos: 
+am 07.10.2020 auf. Weitere Infos [hier]({{ siteurl }}/rdmo_arge.md).
 
 
 
