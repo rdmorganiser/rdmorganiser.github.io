@@ -71,9 +71,9 @@ Wir freuen uns auf eine rege Beteiligung sowohl an der Arbeitsgemeinschaft als a
 
 Steuerungsgruppe der AG RDMO
 
-Harry Enke (Sprecher)
-Jochen Frenzel
-Daniela Hausen
-Gerald Jagusch
-Birte Lindstädt
+Harry Enke (Sprecher) |
+Jochen Frenzel |
+Daniela Hausen |
+Gerald Jagusch (Sprecher) |
+Birte Lindstädt |
 Robert Strötgen
