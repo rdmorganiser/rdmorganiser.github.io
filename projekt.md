@@ -39,3 +39,12 @@ Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen 
 Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
 
 Die Beschreibung der ersten Projektphase kann [hier]({{ site.baseurl }}/erste-projektphase) eingesehen werden.
+
+
+**Das RDMO-Projekt wird in eine community-getragene Arbeitsgemeinschaft überführt
+
+Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagementsoftware Research Data Management Organiser. RDMO wird inzwischen als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen an vielen Forschungsinstitutionen in Deutschland genutzt. 
+
+Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) . 
+Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/groups) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
+
