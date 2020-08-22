@@ -10,6 +10,15 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [Twitter](https://www.twitter.com/rdmorganiser).
 
+RDMO Arbeitsgemeinschaft 
+------------------------
+
+Die zur Fortsetzung von RDMO sich formierende RDMO Arbeitsgemeinschaft ruft zum Beitritt auf und organisiert eine Veranstaltung 
+am 07.10.2020 auf. Weitere Infos: 
+
+
+
+
 August 2020
 -----------
 
