@@ -13,7 +13,7 @@ On this page, we briefly summarize our activities. For up-to-date information pl
 RDMO Arbeitsgemeinschaft
 ------------------------
 
-The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. They call for joining and organises a workshop on 07.10.2020. More info [here]({{ siteurl }}/rdmo_arge) (currently german language). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (also currently german language).
+The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. They call for joining and organise a workshop on 07.10.2020. More info [here]({{ siteurl }}/rdmo_arge) (currently german language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently german language only).
 
 August 2020
 -----------
