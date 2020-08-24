@@ -12,7 +12,7 @@ RDMO Arbeitsgemeinschaft
 
 Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagementsoftware Research Data Management Organiser. RDMO wird inzwischen als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen an vielen Forschungsinstitutionen in Deutschland genutzt. Einen Überblick hierzu gibt die geographische Verteilung und [Liste der Kooperationspartner]({{ siteurl }}/kooperationen).
 
-Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines Memorandum of Understanding MoU (Link zum MoU). 
+Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf). 
 
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige Organisationsstruktur mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt:
 
