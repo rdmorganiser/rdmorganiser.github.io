@@ -96,6 +96,14 @@ team:
     de: team/
     en: en/team/
 
+rdmo-arge:
+  label: 
+    de: RDMO Arbeitsgemeinschaft
+    en: RDMO Consortium
+  path:
+    de: rdmo_arge
+    en: en/rdmo_arge
+
 groups:
   label:
     de: Arbeitsgruppen

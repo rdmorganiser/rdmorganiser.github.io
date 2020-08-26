@@ -18,10 +18,14 @@
     label:
       de: DFG Projekt Team
       en: DFG Project Team
-  - key: groups
+  - key: rdmo-arge
     label:
       de: RDMO Arbeitsgemeinschaft
       en: RDMO Consortium
+  - key: groups
+    label:
+      de: Gruppen der RDMO AG
+      en: Groups of RDMO Consortium
 
 - label:
     de: Veranstaltungen

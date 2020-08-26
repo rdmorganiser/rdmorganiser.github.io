@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: project
+key: rdmo-arge
 lang: de
 ---
 
