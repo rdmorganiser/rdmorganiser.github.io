@@ -14,7 +14,7 @@ Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* Ende September Abschluss-Workshop
+* 07.10.2020 RDMO-Community-Treffen (virtuell)
 
 
 Bisherige Workshops und Treffen:
