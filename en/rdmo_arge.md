@@ -2,7 +2,7 @@
 layout: page
 
 key: rdmo-arge
-lang: de
+lang: en
 ---
 
 RDMO Consortium 
