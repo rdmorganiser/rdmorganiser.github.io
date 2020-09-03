@@ -10,14 +10,19 @@ Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere [Mailingliste](https://www.listserv.dfn.de/sympa/info/rdmo) oder folgen Sie uns auf [Twitter](https://www.twitter.com/rdmorganiser).
 
-RDMO Arbeitsgemeinschaft 
+RDMO Arbeitsgemeinschaft
 ------------------------
 
-Die zur Fortsetzung von RDMO sich formierende RDMO Arbeitsgemeinschaft ruft zum Beitritt auf und organisiert eine Veranstaltung 
+Die zur Fortsetzung von RDMO sich formierende RDMO Arbeitsgemeinschaft ruft zum Beitritt auf und organisiert eine Veranstaltung
 am 07.10.2020 auf. Weitere Infos [hier]({{ siteurl }}/rdmo_arge). Die Grundlage der Weiterarbeit wird in einem [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) formuliert.
 
 
+September 2020
+--------------
 
+Auch in diesem Monat waren wir nicht untätig und haben heute Version 1.2 von RDMO veröffentlicht. In den Management-Oberflächen können nun Elemente wie Optionen, Attribute, aber auch ganze Fragenkataloge direkt kopiert werden. Kataloge, Aufgaben und Ansichten können von den Nutzenden verborgen werde (z.B. so lange noch an ihnen gearbeitet wird). Attribute und Bedingungen zeigen an, in welchen Fragen, Fragensets, etc. sie genutzt werden. Elemente können jetzt auch einzeln exportiert werden, z.B. ein Fragenset oder eine Ansicht. Auch den Import haben wir neu gestaltet. Vor dem eigentlichen Import wird jetzt angezeigt was importiert wird und ob es Probleme dabei gibt. Außerdem können einzelne Elemente abgewählt werden. Nach dem Import wird noch einmal gezeigt was importiert wurde und ob es Fehler gegeben hat.
+
+Auch einige Fehler wurden mit dem neuen Release behoben. Viele von ihnen betrafen Übersetzungen. RDMO ist nun besser auf fehlende Texte vorbereitet, sollten diese in der gewählten Sprache nicht verfügbar sein. In diesen Fällen wird auf die vorhandene Sprache zurückgegriffen. Views wurden um vier verfügbare Variablen erweitert. Die Funktion “render_value” kann nun mit “project/title”, “project/description”, “project/created” und “project/updated” verwendet werden.
 
 
 August 2020

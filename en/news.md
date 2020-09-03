@@ -15,6 +15,14 @@ RDMO Arbeitsgemeinschaft
 
 The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. They call for joining and organise a workshop on 07.10.2020. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
 
+September 2020
+--------------
+
+We have not been idle this month and have released version 1.2 of RDMO. In the management interfaces, elements such as options, attributes, but also entire question catalogues can now be copied directly. Catalogues, tasks and views can be hidden by the users (e.g. as long as they are still being worked on). Attributes and conditions indicate in which questions, question sets, etc. they are used. Elements can now also be exported individually, e.g. a question set or a view. We have also redesigned the import. Before the actual import, it is now shown what is being imported and if there are any problems. In addition, individual elements can be deselected. After the import it is shown again what has been imported and if there have been any errors.
+
+Also some errors have been fixed with the new release. Many of them concerned translations. RDMO is now better prepared for missing texts, should they not be available in the selected language. In these cases the existing language is used. Views have been extended by four available variables. The function "render_value" can now be used with "project/title", "project/description", "project/created" and "project/updated".
+
+
 August 2020
 -----------
 
