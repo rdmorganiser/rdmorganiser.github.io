@@ -17,7 +17,7 @@ During the Community Meeting, the new organisational structure of RDMO, the oppo
 
 The [registration for the meeting](https://meetings.aip.de/event/9/) is open.
 
-The [Programme](/events/workshop102020_programm/) can also be viewed.
+The [Programme](/en/events/workshop102020_programm/) can also be viewed.
 
 We look forward to your participation.
 
