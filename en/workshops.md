@@ -13,7 +13,8 @@ RDMO organised some workshops and meetings with users:
 Future workshops and meetings:
 -----------------------------------------------
 
-* RDMO AG and RDMO project Community Workshop (virtual) [Program](https://rdmorganiser.github.io/events/workshop102020_programm)
+* RDMO AG and RDMO project Community Workshop (virtual) [Program](https://rdmorganiser.github.io/events/workshop102020_programm) and [Registration](https://meetings.aip.de/event/9/)
+
 
 So far:
 --------------------------------------------
