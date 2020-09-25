@@ -5,15 +5,36 @@ key: index
 lang: en
 ---
 
-The Research Data Management Organiser (RDMO) enables institutions as well as researchers
-to plan and carry out their management of research data. RDMO can assemble all relevant planning information 
-and data management tasks across the whole life cycle of the research data. 
+RDMO user meeting
+=========
 
-RDMO is ready for application in smaller or bigger projects. In the next projectphase, which started November 2017, the 
+Organised by the RDMO project
+
+- Date: 07.10.2020
+- Place: Zoom Conference
+
+During the Community Meeting, the new organisational structure of RDMO, the opportunities for participation as well as news about RDMO will be presented. The RDMO-DFG project supports the workshop. The programme will include reports and presentations (NFDI directorate requested) as well as interactive sessions.
+
+The [registration for the meeting](https://meetings.aip.de/event/9/) is open.
+
+The [Programme](/events/workshop102020_programm/) can also be viewed.
+
+We look forward to your participation.
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+<hr>
+
+The Research Data Management Organiser (RDMO) enables institutions as well as researchers
+to plan and carry out their management of research data. RDMO can assemble all relevant planning information
+and data management tasks across the whole life cycle of the research data.
+
+RDMO is ready for application in smaller or bigger projects. In the next projectphase, which started November 2017, the
 RDMO tool will be extended and the project partners AIP, FHP, and KIT Library will collaborate with the RDMO users
-to improve its usage. 
-The tool will be extended by enhancing its implementation of roles and interfaces to institutional infrastructure, 
-e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization. 
+to improve its usage.
+The tool will be extended by enhancing its implementation of roles and interfaces to institutional infrastructure,
+e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization.
 Tutorials, documentation and other material are planned for dissemination, and workshops for users and developers.
 
 On these pages, we provide information about the [project]({{ site.baseurl }}/en/project), our [workpackages]({{ site.baseurl }}/en/workpackages), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations).
