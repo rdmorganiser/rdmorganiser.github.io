@@ -8,7 +8,7 @@ lang: de
 RDMO Anwender-Treffen
 =========
 
-Organisiert vn der RDMO AG gemeinsam mit dem RDMO-Projekt
+Organisiert von der RDMO AG gemeinsam mit dem RDMO-Projekt
 
 - Termin:   07.10.2020
 - Ort: Zoom Conference
