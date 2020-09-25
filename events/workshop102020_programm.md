@@ -5,7 +5,6 @@ key: workshop022020_programm
 lang: de
 ---
 
-
 # RDMO Community-Treffen
 
 Tag:     07.10.2020<br>
