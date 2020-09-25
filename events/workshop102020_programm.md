@@ -12,7 +12,7 @@ Tag:     07.10.2020<br>
 Zeit:    09:00-13:00<br>
 Ort: Zoom Conference<br>
 
-Im Rahmen des Community Meetings wird die neue Organisationsstruktur von RDMO, die Beteiligungsmöglichkeiten sowie inhaltliche Neuigkeiten rund um RDMO vorgestellt. Das RDMO-DFG-Projekt unterstützt den Workshop. Das Programm wird sowohl Berichte und Vorträge (NFDI-Direktorat angefragt) als auch interaktive Sessions beinhalten.
+Im Rahmen des Community Meetings wird die neue Organisationsstruktur von RDMO, die Beteiligungsmöglichkeiten sowie inhaltliche Neuigkeiten rund um RDMO vorgestellt. Das RDMO-DFG-Projekt unterstützt den Workshop. Das Programm wird sowohl Berichte und Vorträge (NFDI-Direktorat angefragt) als auch interaktive Sessions beinhalten. Für das Community-Treffen ist eine [Registrierung](https://meetings.aip.de/event/9) erforderlich.
 
 
 ## Agenda
