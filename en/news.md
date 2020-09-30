@@ -15,6 +15,14 @@ RDMO Arbeitsgemeinschaft
 
 The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. They call for joining and organise a workshop on 07.10.2020. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
 
+October 2020
+------------
+
+First we would like to draw your attention once again to the planned virtual RDMO user meeting on 07.10.2020. A detailed [programme](https://rdmorganiser.github.io/events/workshop022020_programm/) is published on the RDMO website. The keynote will be given by Mr. Sure-Vetter (NFDI Director). The RDMO Memorandum of Understanding (MoU) will also be presented in detail. Please register for the User Meeting on the [registration page](https://meetings.aip.de/event/9/) by 04.10.2020.
+
+Next week the RDMO Release 1.3 will be released before the User Meeting. It will contain some new features, of which only a few will be mentioned here. Besides some bug fixes there will be minor improvements in the user interface, an extended configurability of reference documents and easier customization of the footer. Furthermore, thanks to the work of Dario Pilori and Giacomo Lanza, RDMO will also be available in Italian with the next release. One of the major changes concerns the revision of tasks, whose functionality has been significantly expanded.
+
+
 September 2020
 --------------
 
