@@ -19,7 +19,7 @@ Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierf
 **Steuerungsgruppe**
 
 Die RDMO-Arbeitsgemeinschaft wird von einer Steuerungsgruppe (SG) geleitet. Die
-Vertreter*innen der Steuerungsgruppe werden durch die Mitglieder auf der
+Vertreter\*innen der Steuerungsgruppe werden durch die Mitglieder auf der
 Mitgliederversammlung alle drei Jahre oder nach Bedarf neu gewählt.
 Die SG wird die Richtung der Weiterentwicklung begleiten und die
 Abstimmungsprozesse für die Weiterentwicklung der Software und des Content
@@ -29,8 +29,8 @@ koordinieren. Die SG setzt sich aus mindestens fünf Personen zusammen.
 
 Die technische Koordination und Weiterentwicklung von RDMO erfolgt durch eine
 Entwicklungsgruppe (EG). Neben einem Kern von langfristig engagierten
-Entwickler*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch eine
-niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler*innen
+Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch eine
+niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler\*innen
 wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung
 beitragen.
 
@@ -48,7 +48,7 @@ prüfen und ggf. zu verbessern.
 
 Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller
 Mitglieder dar. Anwender und weitere Interessenten können an der
-Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter*innen in der SG.
+Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
 Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr
 zusammen.
 
