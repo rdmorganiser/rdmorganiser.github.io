@@ -15,11 +15,11 @@
   color:   blue
 
 - name:    Universität Duisburg-Essen
-  url:     https://www.uni-due.de
-  contact: Ania Lopez, Eike Spielberg
+  url:     https://www.uni-due.de/rds
+  contact: Stephanie Rehwald, Sonja Hendriks, Henning Timm
   lat:     51.429167
   lon:     6.800833
-  color:   gray
+  color:   blue
 
 - name:    IZUS / Universitätsbibliothek Stuttgart
   url:     http://fdm.ub.uni-stuttgart.de
