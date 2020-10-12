@@ -14,7 +14,7 @@ Verbindungsdaten werden per EMail vorher zugesandt.
 
 Im Rahmen des Community Meetings wird die neue Organisationsstruktur von RDMO, die Beteiligungsmöglichkeiten sowie inhaltliche Neuigkeiten rund um RDMO vorgestellt. Das RDMO-DFG-Projekt unterstützt den Workshop. Das Programm wird sowohl Berichte und Vorträge als auch interaktive Sessions beinhalten. 
 
-Für das Community-Treffen ist eine [Registrierung](https://meetings.aip.de/event/9) erforderlich. Bitte bis zum 04.10.2020 registrieren.
+Für das Community-Treffen war eine Registrierung erforderlich.
 
 
 ## Agenda
@@ -51,7 +51,7 @@ Für das Community-Treffen ist eine [Registrierung](https://meetings.aip.de/even
 
     - Koordination von RDMO in der NFDI (Moderation durch SG)
 
-    - Nutzererfahrungen mit der UI - Verbesserungen? (Moderation N.N.)
+    - Nutzererfahrungen mit der UI - Verbesserungen? (Moderation O. Michaelis)
 
 - 12:20 → 12:30 Kurze Pause
 
