@@ -15,6 +15,7 @@ Verbindungsdaten werden per EMail vorher zugesandt.
 Im Rahmen des Community Meetings wird die neue Organisationsstruktur von RDMO, die Beteiligungsmöglichkeiten sowie inhaltliche Neuigkeiten rund um RDMO vorgestellt. Das RDMO-DFG-Projekt unterstützt den Workshop. Das Programm wird sowohl Berichte und Vorträge als auch interaktive Sessions beinhalten. 
 
 Für das Community-Treffen war eine Registrierung erforderlich.
+Der [Bericht über das Treffen](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) ist auf forschungsdaten.org veröffentlicht.
 
 
 ## Agenda
