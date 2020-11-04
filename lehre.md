@@ -26,3 +26,4 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
 Im Projektkontext hat Martin Heger seine Masterarbeit mit dem Titel "Datenmodellierung für Forschungsdaten-managementpläne" verfasst. [Link zur Masterarbeit]({{ site.baseurl }}/docs/Heger_MA.pdf)
+(Anmerkung: Durch die Weiterentwicklung von RDMO entsprechen einige der hier beschriebenen Informationen zum [Datenmodells](https://rdmo.readthedocs.io/en/latest/management/domain.html#attributes-entities-and-the-data-model-refactoring) nicht mehr dem aktuellen Stand.)
