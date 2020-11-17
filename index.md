@@ -16,7 +16,9 @@ Mit dem Research Data Management Organiser (RDMO) können Institutionen und Fors
 RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In der zweiten Phase des RDMO-Projekts seit November 2017 erweitern die Projektpartner AIP, FHP und KIT-Bibliothek die bereits veröffentlichte Version des RDMO und arbeiten vertieft mit Anwendern zusammen. Im Fokus der Erweiterung von RDMO stehen u.a. Rollenkonzepte und Anbindungen an die institutionelle Infrastruktur wie Repositorien,
 Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es werden Workshops zur Diskussion der Funktionalitäten durchgeführt, Einführungsmaterialien erstellt und eine Verbreiterung der Entwickler-Community angestrebt.
 
-Auf diesen Seiten informieren wir u.a. über unsere [Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge) und die Entstehung durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete), die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
+Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
+RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden, und wird von der Arbeitsgemeinschaft RDMO weiter 
+entwickelt. 
 
 Die freie Software finden Sie unter:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
