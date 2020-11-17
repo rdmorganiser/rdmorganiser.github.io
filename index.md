@@ -17,8 +17,8 @@ RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In der
 Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es werden Workshops zur Diskussion der Funktionalitäten durchgeführt, Einführungsmaterialien erstellt und eine Verbreiterung der Entwickler-Community angestrebt.
 
 Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
-RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden, und wird von der Arbeitsgemeinschaft RDMO weiter 
-entwickelt. 
+RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden. Die Arbeitsgemeinschaft wird RDMO weiter 
+entwickeln. 
 
 Die freie Software finden Sie unter:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
