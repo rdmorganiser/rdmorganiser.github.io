@@ -60,14 +60,7 @@ jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werd
 
 Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: rdmo-steuerungsgruppe@listserv.dfn.de.
 
-**Save-the-date:**
 
-**RDMO Community-Workshop 07. Oktober 2020 (virtuell)**
-
-Die  RDMO AG lädt zu einem Community-Workshop am 7. Oktober 2020 ein, den wir virtuell durchführen werden. Im Rahmen des Workshops wird die neue Organisationsstruktur von RDMO, die Beteiligungsmöglichkeiten sowie inhaltliche Neuigkeiten rund um RDMO vorgestellt. Das RDMO-Projekt unterstützt den Workshop.
-Das Programm wird sowohl Berichte und Vorträge (NFDI Direktorat angefragt) als auch interaktive Sessions beinhalten. 
-
-Wir freuen uns auf eine rege Beteiligung sowohl an der Arbeitsgemeinschaft als auch am Workshop.
 
 Steuerungsgruppe der AG RDMO
 
