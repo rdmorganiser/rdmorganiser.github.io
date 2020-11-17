@@ -6,18 +6,6 @@
     de: Über uns
     en: About
   submenu:
-  - key: project
-    label:
-      de: Projekt
-      en: Project
-  - key: software
-    label:
-      de: Software
-      en: Software
-  - key: team
-    label:
-      de: DFG Projekt Team
-      en: DFG Project Team
   - key: rdmo-arge
     label:
       de: RDMO Arbeitsgemeinschaft
@@ -26,6 +14,19 @@
     label:
       de: Gruppen der RDMO AG
       en: Groups of RDMO Consortium
+  - key: software
+    label:
+      de: Software
+      en: Software
+  - key: project
+    label:
+      de: Projekt
+      en: Project
+  - key: team
+    label:
+      de: DFG Projekt Team
+      en: DFG Project Team
+
 
 - label:
     de: Veranstaltungen
