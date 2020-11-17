@@ -18,7 +18,7 @@ Zukünftige Workshops und Treffen:
 
 Bisherige Workshops und Treffen:
 --------------------------------
-* 07.10.2020 RDMO-Community-Treffen (virtuell) [Programm](/events/workshop102020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen)
+* 07.10.2020 4. RDMO-Community-Treffen (virtuell) [Programm](/events/workshop102020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen)
 * 24.02.2020 3. RDMO-Community-Treffen, Gründungstreffen als Open Source Projekt, [Programm](/events/workshop022020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen)
 * 03.12.2019 Lokaler Workshop in Bonn an der Max Weber Stiftung
 * 07.10.2019 2. Community-Treffen [Programm+Slides](/events/workshop2019), [Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)
