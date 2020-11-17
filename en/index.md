@@ -5,24 +5,6 @@ key: index
 lang: en
 ---
 
-RDMO user meeting
-=========
-
-Organised by the RDMO project
-
-- Date: 07.10.2020
-- Place: Zoom Conference
-
-During the Community Meeting, the new organisational structure of RDMO, the opportunities for participation as well as news about RDMO will be presented. The RDMO-DFG project supports the workshop. The programme will include reports and presentations (NFDI directorate requested) as well as interactive sessions.
-
-The [registration for the meeting](https://meetings.aip.de/event/9/) is open.
-
-The [Programme](/en/events/workshop102020_programm/) can also be viewed.
-
-We look forward to your participation.
-
-Translated with www.DeepL.com/Translator (free version)
-
 
 <hr>
 
@@ -37,9 +19,9 @@ The tool will be extended by enhancing its implementation of roles and interface
 e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization.
 Tutorials, documentation and other material are planned for dissemination, and workshops for users and developers.
 
-On these pages, we provide information about the [project]({{ site.baseurl }}/en/project), our [workpackages]({{ site.baseurl }}/en/workpackages), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations).
+On these pages, we provide information about the [RDMO-Consortium], the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages)
 
-More information about the project and our software can be found on the following websites:
+More information about RDMO and our software can be found on the following websites:
 
 The free software:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
