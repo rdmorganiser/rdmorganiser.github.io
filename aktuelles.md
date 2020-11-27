@@ -13,8 +13,19 @@ Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. Um immer a
 RDMO Arbeitsgemeinschaft
 ------------------------
 
-Die zur Fortsetzung von RDMO sich formierende RDMO Arbeitsgemeinschaft ruft zum Beitritt auf und organisiert eine Veranstaltung
-am 07.10.2020 auf. Weitere Infos [hier]({{ siteurl }}/rdmo_arge). Die Grundlage der Weiterarbeit wird in einem [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) formuliert.
+
+Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen. 
+
+November 2020
+-------------
+
+Regelmäßige virtuelle Treffen der Content-Gruppe und der Software-Gruppe
+
+Die Content-Gruppe trifft sich ab jetzt jeden 2. Donnerstag im Monat von 11-12h. Das Treffen findet via Zoom statt und wird per E-mail und Slack erneut angekündigt. Immer eine Woche später, also am 3. Donnerstag im Monat, trifft sich in gleicher Form die Software-Gruppe. Beide Treffen sind für alle Interessierten offen.
+
+4. Community-Treffen
+
+Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf Forschungdaten.org   (https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden. 
 
 Oktober 2020
 ------------
