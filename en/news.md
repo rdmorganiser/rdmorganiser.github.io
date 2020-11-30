@@ -13,7 +13,21 @@ On this page, we briefly summarize our activities. For up-to-date information pl
 RDMO Arbeitsgemeinschaft
 ------------------------
 
-The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. They call for joining and organise a workshop on 07.10.2020. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
+The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
+
+November 2020
+-------------
+
+Virtual Meetings of Content group and  Software group
+
+Content group meets regularly  each 2.nd Thursday of the month, from 11:00-12:00h. The Zoom meeting will be announced via E-mail und Slack. A week later, each 3.rd Thursday of the month, from 11:00-12:00h the Software group meets. Both meetings are inviting interested parties.
+
+Community-Meeting 07.10.2020
+
+Our 4.th Community-Meeting took place on 07.10.2020, with about 60 participants as a virtual conference. An extended report has been published (in German language) at [Forschungdaten.org](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen), including most presented discussion material.
+
+
+
 
 October 2020
 ------------
