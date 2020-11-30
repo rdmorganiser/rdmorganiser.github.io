@@ -10,7 +10,7 @@ RDMO Consortium
 
 The RDMO project is transformed into a community-based consortium.
 
-The DFG funding for RDMO, the Research Data Management Organiser project, will ends in 2020. RDMO is currently used as a tool for the dynamic support of research data management in projects, and for the creation of data management plans at many research institutions in Germany. An overview is given by the geographical distribution map and the list of cooperation partners.
+The DFG funding for RDMO, the Research Data Management Organiser project, will ends in 2020. RDMO is currently used as a tool for the dynamic support of research data management in projects, and for the creation of data management plans at many research institutions in Germany. An overview is given by the geographical distribution map and the [list of cooperation partners]({{ siteurl }}/kooperationen).
 
 In order to keep the RDMO Open Source Software usable and to develop it further, the consortium RDMO has been founded by signing a Memorandum of Understanding (MoU)  between a number of supporting institutions  and individuals.
 The organizational structure with various committees has been approved by the [user meeting](). This structure supports the future development and is detailed in the MoU:
