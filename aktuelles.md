@@ -23,7 +23,7 @@ Regelmäßige virtuelle Treffen der Content-Gruppe und der Software-Gruppe
 
 Die Content-Gruppe trifft sich ab jetzt jeden 2. Donnerstag im Monat von 11-12h. Das Treffen findet via Zoom statt und wird per E-mail und Slack erneut angekündigt. Immer eine Woche später, also am 3. Donnerstag im Monat, trifft sich in gleicher Form die Software-Gruppe. Beide Treffen sind für alle Interessierten offen.
 
-4. Community-Treffen
+Community-Treffen 07.10.2020
 
 Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf Forschungdaten.org   (https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden. 
 
