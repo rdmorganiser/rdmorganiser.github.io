@@ -17,6 +17,8 @@ The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft.
 
 Regular RDMO  Zoom Times: 11:00h -12:00h
 -------------------------------------
+(status: December 2020)
+
 General JourFixe: each 1.st Thursday of the month
 
 Content group: each 2.st Thursday of the month
