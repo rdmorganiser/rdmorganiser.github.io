@@ -24,7 +24,7 @@ Content group: each 2.st Thursday of the month
 Software group: each 3.st Thursday of the month
 
 Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
-All interested parties are wwelcome.
+All interested parties are  welcome.
 
 
 November 2020
