@@ -15,6 +15,18 @@ RDMO Arbeitsgemeinschaft
 
 The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
 
+Regular RDMO  Zoom Times: 11:00h -12:00h
+-------------------------------------
+General JourFixe: each 1.st Thursday of the month
+
+Content group: each 2.st Thursday of the month
+
+Software group: each 3.st Thursday of the month
+
+Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
+All interested parties are wwelcome.
+
+
 November 2020
 -------------
 
