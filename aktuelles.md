@@ -29,7 +29,11 @@ Software Gruppe: jeder 3. Donnerstag im Monat
 
 Bitte die RDMO Arbeitsgemeinschaft kontaktieren fuer die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
 
+December 2020
+-------------
+Virtuelle RDMO-Sprechstunde 
 
+Wir wünschen allen ein erholsames Jahresende und einen Gutes Neues Jahr
 
 November 2020
 -------------
