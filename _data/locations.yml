@@ -237,10 +237,11 @@
   color: gray
 
 - name: Ludwig-Maximilians-Universität München
+  url: https://rdmo.ub.uni-muenchen.de
   contact: Martin Spenger
   lat: 48.150833
   lon: 11.580278
-  color: gray
+  color: blue
 
 - name: Universität Rostock (SFB 1270 ELAINE "Elektrisch Aktive Implantate")
   url: https://rdmo.elaine.uni-rostock.de
