@@ -14,7 +14,7 @@ RDMO Arbeitsgemeinschaft
 ------------------------
 
 
-Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen. 
+Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 
 
 Reguläre RDMO  Zoom Termine: 11:00h -12:00h
@@ -31,7 +31,7 @@ Bitte die RDMO Arbeitsgemeinschaft kontaktieren fuer die Zoom-Verbindungsinforma
 
 December 2020
 -------------
-Virtuelle RDMO-Sprechstunde 
+Virtuelle RDMO-Sprechstunde
 
 Wir wünschen allen ein erholsames Jahresende und einen Gutes Neues Jahr
 
@@ -44,7 +44,7 @@ Die Content-Gruppe trifft sich ab jetzt jeden 2. Donnerstag im Monat von 11-12h.
 
 Community-Treffen 07.10.2020
 
-Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf Forschungdaten.org   (https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden. 
+Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf [Forschungdaten.org](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden. 
 
 Oktober 2020
 ------------
