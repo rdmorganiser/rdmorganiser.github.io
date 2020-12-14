@@ -5,22 +5,8 @@ current:
   image: img/team/wedlich.jpg
 
 - text:
-    de: "**Matthias Fingerhuth** ist wissenschaftlicher Mitarbeiter an der [Universität Duisburg-Essen](https://www.uni-due.de/ub). Im Team der [Landesinitiative fdm.nrw](https://www.fdm.nrw/) arbeitet er unter anderem im Bereich Forschungsdatenmanagementpläne. "
-    en: "**Matthias Fingerhuth** is research associate at [Duisburg-Essen University](https://www.uni-due.de/ub). He is member of the [fdm.nrw state initiative](https://www.fdm.nrw/) and works on Reseach Data Management Plans."
-  image: img/team/fingerhuth.jpg
-
-- text:
     de: "**Jens Freund** ist Mitglied des Forschungsdatenmanagement-Teams der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und Mitglied von HeFDI [Hessische Forschungsdaten Infrastruktur](https://www.uni-marburg.de/de/hefdi). Seine Arbeitsgebietes sind RDMO, Elektronische laborbücher und Entwicklung neuer Konzepte der Bibliothek für das Angebot von digitaler wissenschaftlicher Literatur."
     en: "**Jens Freund** is a member of the research data management team of the [University and State Library Darmstadt]([Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
   image: img/team/freund.jpg
 
-- text:
-    de: "**Heike Görzig** HZB"
-    en: "**Heike Görzig** HZB"
-  image: img/team/dummy.jpg
-
-- text:
-    de: "**Ulrike Wuttke** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
-    en: "**Ulrike Wuttke** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
-  image: img/team/wuttke.jpg
 
