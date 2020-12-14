@@ -14,7 +14,7 @@ Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagement
 
 Um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln hat sich die Arbeitsgemeinschaft (AG) RDMO gegründet bei der Nutzerversammlung am 07.102020. Es haben bereits einige Institutionen und Individuen mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) ihre Unterstützung bekundet. 
 
-Die künftige Organisationsstruktur mit verschiedenen Gremien  soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt:
+Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt:
 
 **Steuerungsgruppe**
 
