@@ -24,6 +24,8 @@ lang: de
 
 <h1>Softwaregruppe</h1>
 
+Ansprech-Partner:
+
 {% for member in site.data.sw-group.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
@@ -34,6 +36,8 @@ lang: de
 {% endfor %}
 
 <h1>Content Gruppe</h1>
+
+Ansprech-Partner:
 
 {% for member in site.data.cg-group.current %}
 <div class="team-member">
