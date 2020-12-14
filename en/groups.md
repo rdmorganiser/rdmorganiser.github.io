@@ -24,6 +24,8 @@ lang: en
 
 <h1>Software Group</h1>
 
+Contacts:
+
 {% for member in site.data.sw-group.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
@@ -34,6 +36,8 @@ lang: en
 {% endfor %}
 
 <h1>Content Group</h1>
+
+Contacts: 
 
 {% for member in site.data.cg-group.current %}
 <div class="team-member">
