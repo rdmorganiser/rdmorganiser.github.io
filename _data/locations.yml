@@ -316,3 +316,10 @@
   lat: 50.810833
   lon: 8.773611
   color: blue
+
+- name: Institute of Science and Technology Austria
+  url: https://rdmo.ist.ac.at
+  contact: Doris Ernst
+  lat: 48.310556
+  lon: 16.261111
+  color: gray
