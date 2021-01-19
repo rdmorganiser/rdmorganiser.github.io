@@ -13,7 +13,7 @@ Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere
 
 Zukünftige Workshops und Treffen:
 ---------------------------------
-
+* 02.03.2021 RDMO AG gemeinsam mit NFDI4ING und NFDI-Direktorat laden NFDI-Konsortien ein zu einem Workshop (mit beschränkter Teilnahme)  "Erstellung von Datenmanagementplänen und DMP Tools in der NFDI"
 
 
 Bisherige Workshops und Treffen:
