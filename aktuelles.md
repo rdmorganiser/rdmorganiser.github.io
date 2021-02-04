@@ -19,7 +19,7 @@ Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranst
 
 Reguläre RDMO  Zoom Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: Dezember Februar 2021)
+(Stand: Februar 2021)
 
 Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 
