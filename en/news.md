@@ -17,16 +17,26 @@ The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft.
 
 Regular RDMO  Zoom Times: 11:00h -12:00h
 -------------------------------------
-(status: December 2020)
+(status: February 2020)
+
+11.2. Content group, 18.2. Software group
 
 General JourFixe: each 1.st Thursday of the month
 
-Content group: each 2.st Thursday of the month
-
-Software group: each 3.st Thursday of the month
-
 Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
 All interested parties are  welcome.
+
+
+February 2021
+-------------
+
+Work is underway on a new version of RDMO, which is scheduled for release at the end of February. If all goes well, it will include improvements to the user interface, allow files to be uploaded when answering questions, and introduce a hierarchical structure of projects that can be nested in this way. However, there is still some testing and development to be done before this can happen.
+
+As announced elsewhere, the UAG Data Management Plans of the DINI/nestor-AG Research Data in cooperation with fdm.nrw is organising a virtual workshop series on the topic of data management plans in spring 2021. A description of the workshops and the registration form are now online.
+
+The workshops are aimed both at participants who have had little contact with the topic of DMPs so far and at people who already have a wide range of experience with DMPs.
+
+The RDMO steering group, together with the NFDI Directorate and the NFDI4Ing consortium, has invited all NFDI consortia to actively participate with a short presentation in the virtual workshop "Creating Data Management Plans and DMP Tools in the NFDI" in early March 2021.  This is against the background of the "Leipzig-Berlin Declaration on NFDI Cross-Cutting Issues in Infrastructure Development" and the cross-cutting issue "Creation of Data Management Plans" mentioned therein. It is intended to serve the exchange within the NFDI.  We will report on the results in due course.
 
 
 November 2020
