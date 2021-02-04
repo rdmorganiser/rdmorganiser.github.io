@@ -19,15 +19,24 @@ Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranst
 
 Reguläre RDMO  Zoom Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: Dezember 2020)
+(Stand: Dezember Februar 2021)
 
 Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 
-Content Gruppe: jeder 2. Donnerstag im Monat
+11.2. Content-Gruppe, 18.2. Entwicklergruppe
 
-Software Gruppe: jeder 3. Donnerstag im Monat
+Bitte die RDMO Arbeitsgemeinschaft kontaktieren für die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
 
-Bitte die RDMO Arbeitsgemeinschaft kontaktieren fuer die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
+Februar 2021
+------------
+
+Die Arbeiten an einer neuen RDMO-Version, deren Release Ende Februar angestrebt wird,  laufen. Wenn alles klappt wird sie Verbesserungen der Nutzeroberfläche enthalten, es ermöglichen Dateien beim Beantworten von Fragen hochzuladen und eine hierarchische Struktur von Projekten einführen, die dann auf diese Weise verschachtelt werden können. Bis es so weit ist, muss allerdings noch etwas getestet und entwickelt werden.
+
+Wie bereits an anderer Stelle angekündigt veranstaltet die UAG Datenmanagementpläne der DINI/nestor-AG Forschungsdaten in Kooperation mit fdm.nrw im Frühjahr 2021 eine virtuelle Workshopreihe zum Thema Datenmanagementpläne. Eine Beschreibung der Workshops sowie die Anmeldung sind nun online.
+
+Die Workshops richten sich sowohl an Teilnehmende, die bisher wenig Kontakt mit dem Thema DMP hatten, als auch an Personen, die bereits über vielfältige Erfahrung mit DMPs verfügen.
+
+Die Steuerungsgruppe von  RDMO hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing alle NFDI-Konsortien eingeladen,  aktiv mit einem Kurzvortrag an dem virtuellen Workshop “Erstellung von Datenmanagementplänen und DMP Tools in der NFDI” Anfang März 2021 teilzunehmen.  Dies geschieht vor dem Hintergrund der “Leipzig-Berlin-Erklärung zu NFDI-Querschnittsthemen der Infrastrukturentwicklung” und dem darin genannten Querschnittsthema “Erstellung von Datenmanagementplänen”. Sie soll dem  Austausch innerhalb der NFDI dienen.  Wir werden über die Ergebnisse zeitnah berichten.
 
 December 2020
 -------------
@@ -44,7 +53,7 @@ Die Content-Gruppe trifft sich ab jetzt jeden 2. Donnerstag im Monat von 11-12h.
 
 Community-Treffen 07.10.2020
 
-Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf [Forschungdaten.org](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden. 
+Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf [Forschungdaten.org](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen) zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden.
 
 Oktober 2020
 ------------
