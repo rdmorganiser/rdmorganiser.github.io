@@ -23,7 +23,7 @@ The tool will be extended by enhancing its implementation of roles and interface
 e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization.
 Tutorials, documentation and other material are planned for dissemination, and workshops for users and developers.
 
-On these pages, we provide information about the [RDMO-Consortium], the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages). Development of RDMO is continued by the RDMO-Consortium. 
+On these pages, we provide information about the [RDMO-Consortium]({{site.baseurl}}/en/rdmo_arge), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages). Development of RDMO is continued by the RDMO-Consortium. 
 
 More information about RDMO and our software can be found on the following websites:
 
