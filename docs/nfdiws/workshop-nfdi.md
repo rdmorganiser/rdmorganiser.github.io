@@ -11,7 +11,7 @@ Workshop:
 Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI
 ==========================================================================
 
-Die Steuergruppe der [Arbeitsgemeinschaft RDMO](https://rdmorganiser.github.io/rdmo_arge/) hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einladen, 
+Die Steuerungsgruppe der [Arbeitsgemeinschaft RDMO](https://rdmorganiser.github.io/rdmo_arge/) hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einladen, 
 aktiv mit einem Kurzvortrag an dem virtuellen Workshop “Erstellung von Datenmanagementplänen und
 Einsatz von DMP Tools in der NFDI” teilzunehmen. Das RDMO-Team hat in den letzten Jahren 
 eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten
