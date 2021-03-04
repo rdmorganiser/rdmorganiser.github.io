@@ -40,7 +40,7 @@ Meanwhile, in addition to the UAG Editorial Processes for Attributes, Options an
 
 *Report NFDI - DMP Workshop*
 
-On 02.03. the Steering Group of the RDMO Working Group together with the NFDI Directorate and the NFDI4Ing consortium held a virtual workshop on the topic "Creation of data management plans and use of DMP tools in the NFDI" with 50 representatives of 21 consortia (funded and not yet funded). A detailed report on this event can be found on the [RDMO's website].(https://rdmorganiser.github.io/docs/nfdiws/wsreport).
+On 02.03. the Steering Group of the RDMO Working Group together with the NFDI Directorate and the NFDI4Ing consortium held a virtual workshop on the topic "Creation of data management plans and use of DMP tools in the NFDI" with 50 representatives of 21 consortia (funded and not yet funded). A detailed report on this event can be found on the [RDMO's website](https://rdmorganiser.github.io/docs/nfdiws/wsreport).
 
 
 February 2021
