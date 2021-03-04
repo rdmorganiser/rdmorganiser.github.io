@@ -27,6 +27,22 @@ Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 
 Bitte die RDMO Arbeitsgemeinschaft kontaktieren für die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
 
+März 2021
+------------
+
+*RDMO 1.5*
+
+In der letzten Woche ist die Version 1.5 von RDMO erschienen, die wieder eine Reihe von Neuerungen enthält. Diesesmal stand besonders die praktische Nutzbarkeit für die Forschenden im Vordergrund. Das Interview wird jetzt immer auf der Seite fortgesetzt, die zuletzt aufgerufen wurde. Am User-Interface wurden einige Details verändert, so dass die Nutzerführung deutlich intuitiver wird. In den Fragenkatalogen können File-Uploads konfiguriert werden, um zusätzliches Material wie Grafiken oder Dokumente hochzuladen. Projekte können nun als Unterprojekte von bestehenden Projekten erstellt werden, wobei sich die Zugriffsrechte vererben. Ansichten von Oberprojekten können auf Unterprojekte zugreifen, um Informationen aus mehreren Projekten zusammenzutragen. Das Hinzufügen von neuen Usern zu Projekten funktioniert jetzt über Email-Benachrichtigungen und es können auch Nutzende, die noch nicht in der RDMO Instanz registriert sind, über diesen Weg eingeladen werden. Auch “unter der Haube” habe wir an RDMO gearbeitet: Durch Optimierung der Datenbankzugriffe sollte RDMO jetzt deutlich schneller und flüssiger sein. Die (eher technische) Übersicht über die einzelnen Features gibt es auf der [Release-Seite auf GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5).
+
+*Neues aus der RDMO Content-Gruppe*
+
+Mittlerweile haben sich neben der UAG Redaktionsprozesse für Attribute, Optionen und Ansichten noch 3 weitere UAGs gebildet: Textanleitung für DMPs, Werbung für RDMO und Engagement in einer RDA - UAG für DMP. Wer Interesse hat, sich bei den UAGs einzubringen, ist herzlich willkommen. So arbeitet die UAG Redaktionsprozesse beispielsweise gerade daran, anhand eines konkreten Falles neue Attribute, Optionen und Bedingungen in die entsprechenden Dateien des RDMO-Standardkatalogs einzupflegen. Die CG trifft sich jeden 2. Donnerstag im Monat von 11-12h. Ankündigung erfolgt über den RDMO-Verteiler.
+
+*Bericht NFDI - DMP Workshop*
+
+Am 02.03. führte die Steuerungsgruppe der Arbeitsgemeinschaft RDMO gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einen virtuellen Workshop zum Thema „Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI“ durch mit 50 Vertretern von 21 Konsortien (gefördert und noch nicht gefördert). Ein ausführlicher Bericht zu dieser Veranstaltung befindet sich auf der [Webseite von RDMOs](https://rdmorganiser.github.io/docs/nfdiws/wsreport).
+
+
 Februar 2021
 ------------
 

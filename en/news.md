@@ -27,6 +27,22 @@ Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connectio
 All interested parties are  welcome.
 
 
+March 2021
+-------------
+
+*RDMO 1.5*
+
+Last week, version 1.5 of RDMO was released, which again contains a number of innovations. This time, the focus was particularly on practical usability for researchers. The interview is now always continued on the page that was last accessed. A number of details have been changed in the user interface, making it much more intuitive. In the questionnaires, file uploads can be configured to upload additional material such as graphics or documents. Projects can now be created as sub-projects of existing projects, with inherited access rights. Views of parent projects can access sub-projects to collate information from multiple projects. Adding new users to projects now works via email notifications and users who are not yet registered in the RDMO instance can also be invited via this way. We have also worked on RDMO "under the bonnet": By optimising the database accesses, RDMO should now be much faster and smoother. The (rather technical) overview of the individual features can be found on the [release page on GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5).
+
+*News from the RDMO Content Group*.
+
+Meanwhile, in addition to the UAG Editorial Processes for Attributes, Options and Views, 3 other UAGs have formed: Text Guidance for DMPs, Promotion for RDMO and Engagement in an RDA - UAG for DMPs. Anyone who is interested in getting involved in the UAGs is very welcome. For example, the UAG Editorial Processes is currently working on adding new attributes, options and conditions to the corresponding files of the RDMO standard catalogue on the basis of a concrete case. The CG meets every 2nd Thursday of the month from 11-12h. Announcements are made via the RDMO distribution list.
+
+*Report NFDI - DMP Workshop*
+
+On 02.03. the Steering Group of the RDMO Working Group together with the NFDI Directorate and the NFDI4Ing consortium held a virtual workshop on the topic "Creation of data management plans and use of DMP tools in the NFDI" with 50 representatives of 21 consortia (funded and not yet funded). A detailed report on this event can be found on the [RDMO's website].(https://rdmorganiser.github.io/docs/nfdiws/wsreport).
+
+
 February 2021
 -------------
 
