@@ -16,12 +16,9 @@ The Research Data Management Organiser (RDMO) enables institutions as well as re
 to plan and carry out their management of research data. RDMO can assemble all relevant planning information
 and data management tasks across the whole life cycle of the research data.
 
-RDMO is ready for application in smaller or bigger projects. In the next projectphase, which started November 2017, the
-RDMO tool will be extended and the project partners AIP, FHP, and KIT Library will collaborate with the RDMO users
-to improve its usage.
-The tool will be extended by enhancing its implementation of roles and interfaces to institutional infrastructure,
+RDMO is ready for application in smaller or bigger projects. In two project phases, the tool was continuously developed by the project partners AIP, FHP, and KIT Library in close cooperation with users. The tool was extended by enhancing its implementation of roles and interfaces to institutional infrastructure,
 e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization.
-Tutorials, documentation and other material are planned for dissemination, and workshops for users and developers.
+Tutorials, documentation and other material were creazted for dissemination, and workshops for users and developers were organized.
 
 On these pages, we provide information about the [RDMO Consortium]({{site.baseurl}}/en/rdmo_arge), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages). Development of RDMO is continued by the RDMO-Consortium. 
 
