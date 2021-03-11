@@ -323,3 +323,10 @@
   lat: 48.310556
   lon: 16.261111
   color: gray
+
+- name: Leuphana Universität Lüneburg
+  url: https://rdmo.leuphana.de/
+  # contact:
+  lat: 53.228889
+  lon: 10.401111
+  color: gray
