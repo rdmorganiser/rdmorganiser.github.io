@@ -330,3 +330,13 @@
   lat: 53.228889
   lon: 10.401111
   color: blue
+  
+- name: Universität Bonn
+  url: https://rdmo.forschungsdaten.uni-bonn.de/
+  contact: forschungsdaten@uni-bonn.de
+  lat: 50.734040
+  lon: 7.103840
+  color: blue
+  description: >-
+	     Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
+	     Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
