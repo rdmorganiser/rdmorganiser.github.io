@@ -19,13 +19,24 @@ Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranst
 
 Reguläre RDMO  Zoom Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: Februar 2021)
+(Stand: Mai 2021, an Feiertagen können andere Termine angekündigt werden)
 
 Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 
-11.2. Content-Gruppe, 18.2. Entwicklergruppe
+Content-Gruppe: jeder 2. Donnerstag im Monat
+
+Entwicklergruppe: jeder 3. Donnerstag im Monat
 
 Bitte die RDMO Arbeitsgemeinschaft kontaktieren für die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
+
+Mai 2021
+---------
+Keine Meldungen
+
+April 2021
+-----------
+
+RDMO 1.5.5,  eine neue Version, ist veröffentlicht, die wieder ein paar kleinere Bugs beseitigt. Die Version kann wie üblich installiert werden. Wenn bereits RDMO 1.5 installiert ist, müssen auch keine Datenbank-Migrationen durchgeführt werden. Mehr Infos gibt es auf [Release-Seite  auf GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5.5)
 
 März 2021
 ------------
