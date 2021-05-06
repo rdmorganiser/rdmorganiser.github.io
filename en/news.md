@@ -17,15 +17,26 @@ The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft.
 
 Regular RDMO  Zoom Times: 11:00h -12:00h
 -------------------------------------
-(status: February 2020)
-
-11.2. Content group, 18.2. Software group
+(status:  Mai 2021)
 
 General JourFixe: each 1.st Thursday of the month
+
+Content  group:  each  2.nd Thursday of the month
+
+Development group: each 3.rd Thursday of the month
 
 Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
 All interested parties are  welcome.
 
+May 2021
+---------
+
+No events
+
+April 2021
+-----------
+
+RDMO 1.5.5: a new version has been published, with a cpuple of minor bug fixes. Installation procedures as usual. If RDMO version is 1.5.x no database migrations are required. More info at [Release page on GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5.5)
 
 March 2021
 -------------
