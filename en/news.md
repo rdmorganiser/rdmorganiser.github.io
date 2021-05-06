@@ -21,7 +21,7 @@ Regular RDMO  Zoom Times: 11:00h -12:00h
 
 General JourFixe: each 1.st Thursday of the month
 
-Content  group:  each  2.nd Thursday of the month
+Content  group:  each  2.nd Thursday of the month. (This time: 17.05.2021, 11:00 - 12:00h, Thursday's a holiyday)  
 
 Development group: each 3.rd Thursday of the month
 
