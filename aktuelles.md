@@ -19,11 +19,11 @@ Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranst
 
 Reguläre RDMO  Zoom Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: Mai 2021, an Feiertagen können andere Termine angekündigt werden)
+(Stand: Mai 2021)
 
 Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 
-Content-Gruppe: jeder 2. Donnerstag im Monat
+Content-Gruppe: jeder 2. Donnerstag im Monat  (Dieses Mal: 17.05.2021, 11:00-12:00 wg. Feiertag)
 
 Entwicklergruppe: jeder 3. Donnerstag im Monat
 
