@@ -36,7 +36,7 @@
   color:   blue
   discipline: Informationswissenschaften
   description: >-
-      Als Mitglied im Projekt RDMO ist die Fachhochschule Potsdam
+      Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule Potsdam
       verantwortlich für Nachhaltigkeit, Community-Building, Dissemination
       und Training von RDMO.
 
@@ -225,7 +225,8 @@
   color:   gray
 
 - name:    Universität Potsdam
-  contact: Niklas Hartmann
+  contact: FDM-Team von UB & ZIM forschungsdaten@uni-potsdam.de
+  url:     https://www.uni-potsdam.de/forschungsdaten
   lat:     52.401111
   lon:     13.011944
   color:   gray
