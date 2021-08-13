@@ -15,23 +15,26 @@ RDMO Arbeitsgemeinschaft
 
 The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
 
-Regular RDMO  Zoom Times: 11:00h -12:00h
+Regular RDMO Times: 11:00h -12:00h
 -------------------------------------
-(status:  Mai 2021)
+(status:  August 2021)
 
-General JourFixe: each 1.st Thursday of the month
-
-Content  group:  each  2.nd Thursday of the month. (This time: 17.05.2021, 11:00 - 12:00h, Thursday's a holiyday)  
-
-Development group: each 3.rd Thursday of the month
+- General JourFixe: each 1st Thursday of the month
+- Content  group:  each  2nd Thursday of the month
+- Development group: each 3rd Thursday of the month
 
 Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
 All interested parties are  welcome.
 
-May 2021
+August 2021
+-----------
+
+The work on RDMO will continue diligently in the summer! The new version of RDMO is now ready for a test phase, as announced. The release candidate has to be installed directly from GitHub, how to do that is described on the [(pre-)release page](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1). In addition, the list of numerous changes can be viewed on this page.
+
+July 2021
 ---------
 
-No events
+Work is underway on the new release of RDMO, which is expected to be released in early August. Part of the release will be nested question sets, optional questions, preset default answers, an autocomplete widget, tooltips in help texts, tutorial overlays for new users and numerous other improvements. Unlike before, we will have a test phase before the release, during which the new version can be tried out on test instances (if available). We will inform you by e-mail when the time comes.
 
 April 2021
 -----------

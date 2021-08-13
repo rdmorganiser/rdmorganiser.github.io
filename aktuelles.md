@@ -30,7 +30,7 @@ Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren.
 August 2021
 -----------
 
-Auch im Sommer geht es fleißig mit RDMO weiter! Die neue neuen Version von RDMO ist jetzt soweit, dass wie angekündigt, eine Testphase beginnen kann. Der Release Candidate muss direkt von GitHub installiert werden, wie das geht, steht auf der [(pre-)Release-Page](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1). Außerdem ist eine Liste zahlreicher auf dieser Seite einsehbar.
+Auch im Sommer geht es fleißig mit RDMO weiter! Die neue neuen Version von RDMO ist jetzt soweit, dass wie angekündigt, eine Testphase beginnen kann. Der Release Candidate muss direkt von GitHub installiert werden, wie das geht, steht auf der [(pre-)Release-Page](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1). Außerdem ist die Liste zahlreicher Änderungen auf dieser Seite einsehbar.
 
 Juli 2021
 ---------
