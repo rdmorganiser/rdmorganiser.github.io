@@ -29,9 +29,15 @@ Entwicklergruppe: jeder 3. Donnerstag im Monat
 
 Bitte die RDMO Arbeitsgemeinschaft kontaktieren für die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
 
-Mai 2021
+August 2021
+-----------
+
+Auch im Sommer geht es fleißig mit RDMO weiter! Die neue neuen Version von RDMO ist jetzt soweit, dass wie angekündigt, eine Testphase beginnen kann. Der Release Candidate muss direkt von GitHub installiert werden, wie das geht, steht auf der [(pre-)Release-Page](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1). Außerdem ist eine Liste zahlreicher auf dieser Seite einsehbar.
+
+Juli 2021
 ---------
-Keine Meldungen
+
+Die Arbeiten am neuen Release von RDMO, der voraussichtlich Anfang August erscheinen wird, laufen. Teil des Releases werden geschachtelte Fragensets, optionale Fragen, voreingestellte Standardantworten, ein Autocomplete-Widget, Tooltips in Hilfetexten, Tutorial-Einblendungen für neue Benutzerinnen und Benutzer und zahlreiche weitere Verbesserungen sein. Anders als zuvor werden wir vor dem Release eine Testphase legen, in der die neue Version schon mal auf Testinstanzen (sofern vorhanden) ausprobiert werden kann. Wir werden Sie dazu per Mail informieren, wenn es soweit ist.
 
 April 2021
 -----------
