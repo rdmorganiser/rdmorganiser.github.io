@@ -17,17 +17,15 @@ RDMO Arbeitsgemeinschaft
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 
 
-Reguläre RDMO  Zoom Termine: 11:00h -12:00h
+Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: Mai 2021)
+(Stand: August 2021)
 
-Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
+- Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
+- Content-Gruppe: jeder 2. Donnerstag im Monat
+- Entwicklergruppe: jeder 3. Donnerstag im Monat
 
-Content-Gruppe: jeder 2. Donnerstag im Monat  (Dieses Mal: 17.05.2021, 11:00-12:00 wg. Feiertag)
-
-Entwicklergruppe: jeder 3. Donnerstag im Monat
-
-Bitte die RDMO Arbeitsgemeinschaft kontaktieren für die Zoom-Verbindungsinformation. Interessierte sind herzlich willkommen.
+Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
 
 August 2021
 -----------
