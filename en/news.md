@@ -34,7 +34,7 @@ The work on RDMO will continue diligently in the summer! The new version of RDMO
 July 2021
 ---------
 
-Work is underway on the new release of RDMO, which is expected to be released in early August. Part of the release will be nested question sets, optional questions, preset default answers, an autocomplete widget, tooltips in help texts, tutorial overlays for new users and numerous other improvements. Unlike before, we will have a test phase before the release, during which the new version can be tried out on test instances (if available). We will inform you by e-mail when the time comes.
+Work is underway on the new release of RDMO, which is expected to be arriving in early August. Part of the release will be nested question sets, optional questions, preset default answers, an autocomplete widget, tooltips in help texts, tutorial overlays for new users and numerous other improvements. Unlike before, we will have a test phase before the release, during which the new version can be tried out on test instances (if available). We will inform you by e-mail when the time comes.
 
 April 2021
 -----------
