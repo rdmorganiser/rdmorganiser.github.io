@@ -13,12 +13,12 @@ lang: de
 
 Mit dem Research Data Management Organiser (RDMO) können Institutionen und Forschende das Forschungsdatenmanagement ihre Projekte strukturiert planen und durchführen. Es erlaubt das Erfassen aller relevanten Planungsinformationen in Datenmanagementplänen und die Verwaltung aller Datenmanagementaufgaben über den gesamten Datenlebenszyklus.
 
-RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In zwei Projektphasen wurde die Software von den Projektpartner AIP, FHP und KIT-Bibliothek stets in neger Zusammenarbeit mit Anwendern stets weiterentwickelt. Im Fokus der Erweiterung von RDMO standen u.a. Rollenkonzepte und Anbindungen an die institutionelle Infrastruktur wie Repositorien,
+RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In zwei Projektphasen wurde die Software von den Projektpartnern AIP, FHP und KIT-Bibliothek in enger Zusammenarbeit mit Anwendern stets weiterentwickelt. Im Fokus der Erweiterung von RDMO standen u.a. Rollenkonzepte und Anbindungen an die institutionelle Infrastruktur wie Repositorien,
 Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es wurden Workshops zur Diskussion der Funktionalitäten durchgeführt, Einführungsmaterialien erstellt und eine Verbreiterung der Entwickler-Community angestrebt.
 
 Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
-RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden. Die Arbeitsgemeinschaft wird RDMO weiter 
-entwickeln. 
+RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden. Die Arbeitsgemeinschaft wird RDMO weiter
+entwickeln.
 
 Die freie Software finden Sie unter:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
