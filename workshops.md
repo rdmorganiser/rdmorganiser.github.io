@@ -11,8 +11,9 @@ Workshops
 Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
 
 
-Aktueller Workshop:
+Bevorstehende Workshops und Meetings:
 ------------------
+* 02.09.2021 DMPs in der NFDI - Kick-Off Meeting (virtuell)
 * 04.10.2021 5. RDMO-Community-Treffen (virtuell, 3-4 Stunden) [Programm und Anmeldung](https://meetings.aip.de/event/13/)
 
 Bisherige Workshops und Treffen:

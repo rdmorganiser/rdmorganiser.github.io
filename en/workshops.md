@@ -12,6 +12,7 @@ RDMO organised some workshops and meetings with users:
 
 Future workshops and meetings:
 -----------------------------------------------
+* 02.09.2021 DMPs in the NFDI - Kick-Off Meeting (virtual)
 * 04.10.2021 5th Community-Meeting (virtual) [Program and Registration (German language)](https://meetings.aip.de/event/13/)
 
 
