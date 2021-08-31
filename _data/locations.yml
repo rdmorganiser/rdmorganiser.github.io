@@ -58,7 +58,7 @@
 #   url:   https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
 - name:    Universität Bayreuth
-  url:     http://rdmo.uni-bayreuth.de
+  # url:     http://rdmo.uni-bayreuth.de
   contact: Thomas Martin
   lat:     49.929511
   lon:     11.586435
@@ -96,7 +96,7 @@
 
 - name:    Universität Hildesheim
   contact: Annette Strauch
-  url:     https://www.uni-hildesheim.de/forschungsdaten
+  # url:     https://www.uni-hildesheim.de/forschungsdaten
   lat:     52.1600497
   lon:     9.9833092
   color:   gray
@@ -117,7 +117,7 @@
 
 - name:    Technische Universität Hamburg
   contact: Beate Rajski
-  url:     https://rdmo.rz.tuhh.de
+  # url:     https://rdmo.rz.tuhh.de
   lat:     53.4610079
   lon:     9.9699716
   color:   gray
@@ -319,7 +319,7 @@
   color: blue
 
 - name: Institute of Science and Technology Austria
-  url: https://rdmo.ist.ac.at
+  # url: https://rdmo.ist.ac.at
   contact: Doris Ernst
   lat: 48.310556
   lon: 16.261111
@@ -331,7 +331,7 @@
   lat: 53.228889
   lon: 10.401111
   color: blue
-  
+
 - name: Universität Bonn
   url: https://rdmo.forschungsdaten.uni-bonn.de/
   contact: forschungsdaten@uni-bonn.de
