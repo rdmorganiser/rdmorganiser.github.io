@@ -40,14 +40,6 @@ documentation:
     de: dokumentation/
     en: en/documentation/
 
-outreach:
-  label:
-    de: Veranstaltungen
-    en: Events
-  path:
-    de: vernetzung/
-    en: en/outreach/
-
 cooperations:
   label:
     de: Kooperationen
