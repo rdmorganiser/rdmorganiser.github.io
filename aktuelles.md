@@ -55,7 +55,7 @@ Mittlerweile haben sich neben der UAG Redaktionsprozesse für Attribute, Optione
 
 *Bericht NFDI - DMP Workshop*
 
-Am 02.03. führte die Steuerungsgruppe der Arbeitsgemeinschaft RDMO gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einen virtuellen Workshop zum Thema „Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI“ durch mit 50 Vertretern von 21 Konsortien (gefördert und noch nicht gefördert). Ein ausführlicher Bericht zu dieser Veranstaltung befindet sich auf der [Webseite von RDMOs](https://rdmorganiser.github.io/docs/nfdiws/wsreport).
+Am 02.03. führte die Steuerungsgruppe der Arbeitsgemeinschaft RDMO gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einen virtuellen Workshop zum Thema „Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI“ durch mit 50 Vertretern von 21 Konsortien (gefördert und noch nicht gefördert). Ein ausführlicher Bericht zu dieser Veranstaltung befindet sich auf der [Webseite von RDMOs](/docs/nfdiws/wsreport).
 
 
 Februar 2021
@@ -89,7 +89,7 @@ Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen
 Oktober 2020
 ------------
 
-Zunächst wollen wir vor allem noch einmal auf das geplante virtuelle RDMO Anwender-Treffen am 07.10.2020 hinweisen. Ein detailliertes [Programm](https://rdmorganiser.github.io/events/workshop022020_programm/) ist auf der RDMO-Webseite veröffentlicht. Die Keynote wird von Herrn Sure-Vetter (NFDI-Direktor) gehalten. Außerdem wird das RDMO Memorandum of Understanding (MoU) ausführlich vorgestellt. Bitte melden Sie sich bis zum 04.10.2020 für das Anwender-Treffen auf der [Registrierungsseite](https://meetings.aip.de/event/9/) an.
+Zunächst wollen wir vor allem noch einmal auf das geplante virtuelle RDMO Anwender-Treffen am 07.10.2020 hinweisen. Ein detailliertes [Programm](/events/workshop022020_programm/) ist auf der RDMO-Webseite veröffentlicht. Die Keynote wird von Herrn Sure-Vetter (NFDI-Direktor) gehalten. Außerdem wird das RDMO Memorandum of Understanding (MoU) ausführlich vorgestellt. Bitte melden Sie sich bis zum 04.10.2020 für das Anwender-Treffen auf der [Registrierungsseite](https://meetings.aip.de/event/9/) an.
 
 In der kommenden Woche wird noch vor dem Anwender-Treffen das RDMO-Release 1.3 erscheinen. Es wird einige Neuerungen enthalten, von denen hier nur ausschnittsweise ein paar genannt werden sollen. So wird es neben einigen Bug-Fixes kleinere Verbesserungen an der Nutzeroberfläche, eine erweiterte Konfigurierbarkeit von Referenz-Dokumenten und Erleichterungen beim Anpassen des Footers. Außerdem ist RDMO dank der Arbeit von Dario Pilori und Giacomo Lanza mit dem nächsten Release auch in italienischer Sprache nutzbar. Eine der größeren Veränderungen betrifft die Überarbeitung von Tasks, die in ihrer Funktionalität deutlich erweitert wurden.
 
@@ -118,7 +118,7 @@ Im Mai haben wir die erste virtuelle RDMO-Sprechstunde durchgeführt. Aus dem Ge
 
 Mai 2020
 --------
-RDMO ist nun in Version 1.0.6 verfügbar. Mit der neuen Version ist es möglich, in Ansichten einfache mathematische Berechnungen durchzuführen z. B. für einfache tabellarische Zusammenfassung der anfallenden Personal- und Sachkosten. Nähere Erläuterungen im [Tutorial](https://www.forschungsdaten.org/index.php/Ansicht_erstellen) und in der [technischen Dokumentation](https://rdmo.readthedocs.io/en/latest/management/views.html). Seit Mai gibt es jeden ersten Donnerstag des Monats (außer an Feiertagen) für Mitglieder der RDMO-Community (DatenmanagerInnen, AdministratorInnen etc.) eine “virtuelle RDMO-Sprechstunde”. Details im [RDMO-Newsletter](https://www.listserv.dfn.de/sympa/info/rdmo). Außerdem hat die Steuerungsgruppe beschlossen, dass RDMO als Open Source Projekt ab sofort RDMO Arbeitsgemeinschaft heißt und bereitet ein Memorandum of Understanding vor, auf dessen Grundlage die Beteiligung an der Weiterführung von RDMO von Institutionen und Organisationen erfolgen wird. Die Mitglieder der Gruppen der Arbeitsgemeinschaft sind unter [https://rdmorganiser.github.io/groups/](https://rdmorganiser.github.io/groups/) zu finden.
+RDMO ist nun in Version 1.0.6 verfügbar. Mit der neuen Version ist es möglich, in Ansichten einfache mathematische Berechnungen durchzuführen z. B. für einfache tabellarische Zusammenfassung der anfallenden Personal- und Sachkosten. Nähere Erläuterungen im [Tutorial](https://www.forschungsdaten.org/index.php/Ansicht_erstellen) und in der [technischen Dokumentation](https://rdmo.readthedocs.io/en/latest/management/views.html). Seit Mai gibt es jeden ersten Donnerstag des Monats (außer an Feiertagen) für Mitglieder der RDMO-Community (DatenmanagerInnen, AdministratorInnen etc.) eine “virtuelle RDMO-Sprechstunde”. Details im [RDMO-Newsletter](https://www.listserv.dfn.de/sympa/info/rdmo). Außerdem hat die Steuerungsgruppe beschlossen, dass RDMO als Open Source Projekt ab sofort RDMO Arbeitsgemeinschaft heißt und bereitet ein Memorandum of Understanding vor, auf dessen Grundlage die Beteiligung an der Weiterführung von RDMO von Institutionen und Organisationen erfolgen wird. Die Mitglieder der Gruppen der Arbeitsgemeinschaft sind unter [https://rdmorganiser.github.io/groups/](/groups/) zu finden.
 
 April 2020
 ----------
@@ -127,7 +127,7 @@ RDMO Release 1.0.5 (Bug Fixes, u. a. Login mit ORCID, Fehler beim Download der V
 März 2020
 ------------
 
-Im Februar fand das dritte RDMO-Anwendertreffen statt. Es war fokussiert auf die Etablierung einer Governance-Struktur für die Weiterführung von RDMO, unabhängig von dem in diesem Jahr endenden DFG-Projekt, das die Grundlage für RDMO geschaffen hat. Ein Block von Kurzvorträgen, die den Kontext im europäischen (Horizon Europe) und nationalen Raum (NFDI) skizzierten, wie auch einige Weiterentwicklungsaspekte von RDMO, reflektierte die gegenwärtige Situation. [Vorträge und Programm](https://rdmorganiser.github.io/workshop022020_programm/). Das vom Projekt vorgelegte Manifest und weitere Beiträge haben in der Etablierung einer Steuerungsgruppe mit  6+ Personen, einer  Softwaregruppe mit 3+ Personen sowie einer Content-Gruppe mit 6+ Personen resultiert. Die Steuerungsgruppe wurde damit beauftragt, die Governance-Struktur weiter auszuarbeiten und ein MoU für RDMO auszuarbeiten, um den formalen Rahmen für RDMO zu festigen. Weitere Schritte werden über die Website und Mails bekannt gemacht. Während der [RDA-De-Tagung](https://www.rda-deutschland.de/events/tagung-2020) haben Olaf Michaelis und Ulrike Wuttke am Vormittag des 25.02.2020 im Rahmen des Project-Tracks einen RDMO-Workshop angeboten. Während des gut besuchten Workshops, in dem die wichtigsten Features und weitere Entwicklungsmöglichkeiten des Werkzeugs vorgestellt wurden, und im weiteren Verlauf der Konferenz freuten wir uns über intensiven Austausch zu RDMO. Das starke Interesse an RDMO in der deutschen Community wurde insbesondere aus den Präsentationen der Bundesland-FDM-Initiativen deutlich.
+Im Februar fand das dritte RDMO-Anwendertreffen statt. Es war fokussiert auf die Etablierung einer Governance-Struktur für die Weiterführung von RDMO, unabhängig von dem in diesem Jahr endenden DFG-Projekt, das die Grundlage für RDMO geschaffen hat. Ein Block von Kurzvorträgen, die den Kontext im europäischen (Horizon Europe) und nationalen Raum (NFDI) skizzierten, wie auch einige Weiterentwicklungsaspekte von RDMO, reflektierte die gegenwärtige Situation. [Vorträge und Programm](/events/workshop022020_programm/). Das vom Projekt vorgelegte Manifest und weitere Beiträge haben in der Etablierung einer Steuerungsgruppe mit  6+ Personen, einer  Softwaregruppe mit 3+ Personen sowie einer Content-Gruppe mit 6+ Personen resultiert. Die Steuerungsgruppe wurde damit beauftragt, die Governance-Struktur weiter auszuarbeiten und ein MoU für RDMO auszuarbeiten, um den formalen Rahmen für RDMO zu festigen. Weitere Schritte werden über die Website und Mails bekannt gemacht. Während der [RDA-De-Tagung](https://www.rda-deutschland.de/events/tagung-2020) haben Olaf Michaelis und Ulrike Wuttke am Vormittag des 25.02.2020 im Rahmen des Project-Tracks einen RDMO-Workshop angeboten. Während des gut besuchten Workshops, in dem die wichtigsten Features und weitere Entwicklungsmöglichkeiten des Werkzeugs vorgestellt wurden, und im weiteren Verlauf der Konferenz freuten wir uns über intensiven Austausch zu RDMO. Das starke Interesse an RDMO in der deutschen Community wurde insbesondere aus den Präsentationen der Bundesland-FDM-Initiativen deutlich.
 
 Februar 2020
 ------------
@@ -135,7 +135,7 @@ Diesen Monat gab es [RDMO-Release 1.0.3.](https://github.com/rdmorganiser/rdmo/r
 
 Januar 2020
 -----------
-Im Mittelpunkt des inzwischen 3. RDMO-Community-Treffens am 24.02.2020 am Leibniz-Institut für Astrophysik Potsdam (AIP) werden die Verabschiedung des [RDMO-Manifests](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) und die Gründung der RDMO Community, insbesondere die Konstituierung der *Steuerungsgruppe* und der *Software-Gruppe* stehen. Außerdem sind wieder kurze *Spotlights* aus der Community der RDMO-Anwender\*innen vorgesehen. Link zum [Programm](https://rdmorganiser.github.io/workshop022020_programm/). Während der an das Community-Treffen anschließenden [RDA-De-Tagung](https://www.rda-deutschland.de/events/tagung-2020) werden wir am Vormittag des 25.02.2020 einen RDMO-Workshop anbieten. Die Registrierung ist inzwischen möglich.
+Im Mittelpunkt des inzwischen 3. RDMO-Community-Treffens am 24.02.2020 am Leibniz-Institut für Astrophysik Potsdam (AIP) werden die Verabschiedung des [RDMO-Manifests](/docs/RDMO-Manifest-122019.pdf) und die Gründung der RDMO Community, insbesondere die Konstituierung der *Steuerungsgruppe* und der *Software-Gruppe* stehen. Außerdem sind wieder kurze *Spotlights* aus der Community der RDMO-Anwender\*innen vorgesehen. Link zum [Programm](/events/workshop022020_programm/). Während der an das Community-Treffen anschließenden [RDA-De-Tagung](https://www.rda-deutschland.de/events/tagung-2020) werden wir am Vormittag des 25.02.2020 einen RDMO-Workshop anbieten. Die Registrierung ist inzwischen möglich.
 
 Dezember 2019
 -------------
@@ -143,7 +143,7 @@ Keine Meldungen
 
 November 2019
 -------------
-Diesen Monat haben wir einige Aktualisierungen und Umgestaltungen an den RDMO-Schulungsmaterialien vorgenommen. Sie finden Schulungsmaterialien wie Video-Tutorials oder den RDMO-Fragenkatalog auf der RDMO-Webseite unter [Dokumentation](https://rdmorganiser.github.io/dokumentation/). Weitere Tutorials, FAQs etc. für verschiedene Zielgruppen (Administrator*innen, Nutzer*innen) finden Sie auf dem Wiki [forschungsdaten.org](https://www.forschungsdaten.org/index.php/RDMO). Das 3. Anwendertreffen wird am 24.02.2020 in Potsdam am AIP stattfinden. Dort ist die Konstituierung der künftigen Organisation von RDMO geplant.
+Diesen Monat haben wir einige Aktualisierungen und Umgestaltungen an den RDMO-Schulungsmaterialien vorgenommen. Sie finden Schulungsmaterialien wie Video-Tutorials oder den RDMO-Fragenkatalog auf der RDMO-Webseite unter [Dokumentation](/dokumentation/). Weitere Tutorials, FAQs etc. für verschiedene Zielgruppen (Administrator*innen, Nutzer*innen) finden Sie auf dem Wiki [forschungsdaten.org](https://www.forschungsdaten.org/index.php/RDMO). Das 3. Anwendertreffen wird am 24.02.2020 in Potsdam am AIP stattfinden. Dort ist die Konstituierung der künftigen Organisation von RDMO geplant.
 
 Oktober 2019
 ------------
@@ -155,7 +155,7 @@ Am 27.09.2019 fand in Berlin das halbjährliche Treffen des RDMO-Projekts statt.
 
 August 2019
 -----------
-Das diesjährige [**RDMO-Anwendertreffen** findet am 07.10.2019 an der ULB Darmstadt](https://rdmorganiser.github.io/workshop2019/) statt. Studenten “Data Stewardship” der TU Wien haben einige Prototypen, Mappings und Beispiele entwickelt mit Hinsicht auf den Export von machine-actionable Data Management Plans aus einer RDMO-Instanz nach dem [**RDA-Standard für maDMPs**](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard). Mehr Informationen finden sich [hier](https://helmuthb.github.io/dmp-tools-actionable/). Diese Entwicklungen stehen im Kontext zu Bestrebungen des RDMO-Projekts, mit RDMO erstellte DMPs mit dem maDMP-Standard interoperabel zu machen. Außerdem ist die neue [**RDMO-Version 0.14.6**](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.6) verfügbar (kleine Änderungen, Bugfix).
+Das diesjährige [**RDMO-Anwendertreffen** findet am 07.10.2019 an der ULB Darmstadt](/events/workshop2019/) statt. Studenten “Data Stewardship” der TU Wien haben einige Prototypen, Mappings und Beispiele entwickelt mit Hinsicht auf den Export von machine-actionable Data Management Plans aus einer RDMO-Instanz nach dem [**RDA-Standard für maDMPs**](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard). Mehr Informationen finden sich [hier](https://helmuthb.github.io/dmp-tools-actionable/). Diese Entwicklungen stehen im Kontext zu Bestrebungen des RDMO-Projekts, mit RDMO erstellte DMPs mit dem maDMP-Standard interoperabel zu machen. Außerdem ist die neue [**RDMO-Version 0.14.6**](https://github.com/rdmorganiser/rdmo/releases/tag/0.14.6) verfügbar (kleine Änderungen, Bugfix).
 
 Juli 2019
 ---------
@@ -184,7 +184,7 @@ Im Februar fand das reguläre Treffen der RDMO-Projektgruppe in Berlin statt. Es
 Januar 2019
 -----------
 
-Wir veröffentlichen **Version 0.12.0** von RDMO mit verbessertem Fehlermanagament, einer Schaltfläche für den URI Präfix und der Möglichkeit Nutzerprofile zu löschen. Es wurden zwei neue **[Screencasts](https://rdmorganiser.github.io/materialien/)** veröffentlicht. Wir sammeln *Fragenkataloge und Ansichten* ein. *Janine Straka* vom RMDO-Team geht ab Februar in Mutterschutz und anschließend in die Elternzeit. Die Vertretung übernimmt ab März *Ulrike Wuttke*.
+Wir veröffentlichen **Version 0.12.0** von RDMO mit verbessertem Fehlermanagament, einer Schaltfläche für den URI Präfix und der Möglichkeit Nutzerprofile zu löschen. Es wurden zwei neue **[Screencasts](/materialien/)** veröffentlicht. Wir sammeln *Fragenkataloge und Ansichten* ein. *Janine Straka* vom RMDO-Team geht ab Februar in Mutterschutz und anschließend in die Elternzeit. Die Vertretung übernimmt ab März *Ulrike Wuttke*.
 
 Dezember 2018
 -------------
@@ -198,14 +198,14 @@ Wir veröffentlichen **Version 0.11.0** von RDMO mit dem neuen *Datenmodell*. Mi
 
 Außerdem haben wir die **Unterabschnitte des Fragenkatalogs entfernt** und die Fragensets so umgestaltet, dass sie jetzt immer einer Seite im Interview entsprechen, einen eigenen Titel haben und in der kleinen Übersicht auf der Seite auftauchen.
 Wir waren zu Gast beim **Open Science Forum in [Luxemburg](https://openscience2018.uni.lu/)** und haben dort über FDM in den Digital Humanities referiert. Dabei kam auch RDMO in einer Hands-On Session zum Einsatz. Die Materialien hierzu sind auf Zenodo veröffentlicht.
-Wir haben außerdem einen ersten **[Screencast](https://rdmorganiser.github.io/materialien/)** auf unserer Webseite veröffentlicht. Es werden zeitnah weitere folgen.
+Wir haben außerdem einen ersten **[Screencast](/materialien/)** auf unserer Webseite veröffentlicht. Es werden zeitnah weitere folgen.
 
 
 Oktober 2018
 ------------
 
-Am 24.10. präsentierten wir ein RDMO-Poster bei der **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten/oa-week-2018)** in Berlin.
-Außerdem haben wir unsere **Werbepostkarte** überarbeitet und es gibt jetzt auch eine englische [Version](https://rdmorganiser.github.io/en/promotion/).
+Am 24.10. präsentierten wir ein RDMO-Poster bei der **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten)** in Berlin.
+Außerdem haben wir unsere **Werbepostkarte** überarbeitet und es gibt jetzt auch eine englische [Version](/en/promotion/).
 
 
 September 2018
@@ -231,18 +231,18 @@ Für die Weiterentwicklung von RDMO haben wir einen Fahrplan für die nächsten 
 August 2018
 -----------
 
-Im August haben wir die letzten Vorkehrungen für unser erstes, großes **Community-Treffen** getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen **[Foliensatz](https://rdmorganiser.github.io/materialien/)** entworfen, den Sie gerne nachnutzen und für Ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
+Im August haben wir die letzten Vorkehrungen für unser erstes, großes **Community-Treffen** getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen **[Foliensatz](/materialien/)** entworfen, den Sie gerne nachnutzen und für Ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
 
 Juli 2018
 ---------
 
-Im Juli haben wir dank diverser Diskussionen mit der Community beschlossen eine eingeschränkte **Mandantenfähigkeit** in RDMO umzusetzen, allerdings voraussichtlich erst im nächsten Jahr. Wir arbeiten intensiv an dem Refractoring des **Datenmodels** und werden bald davon berichten. Außerdem gibt es jetzt zwei **[Videos](https://rdmorganiser.github.io/materialien/
+Im Juli haben wir dank diverser Diskussionen mit der Community beschlossen eine eingeschränkte **Mandantenfähigkeit** in RDMO umzusetzen, allerdings voraussichtlich erst im nächsten Jahr. Wir arbeiten intensiv an dem Refractoring des **Datenmodels** und werden bald davon berichten. Außerdem gibt es jetzt zwei **[Videos](/materialien/
 )** zu RDMO, die Sie gerne nachnutzen dürfen.
 
 Juni 2018
 ----------
 
-Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema **[Datenschutz]({{ site.baseurl}}/schutz)** hinzugefügt. Es gibt jetzt eine **Kurzanleitung** zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein *[Vortrag](https://rdmorganiser.github.io/vorträge/)* über RMDO beim 107. Bibliothekartag gehalten.
+Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema **[Datenschutz]({{ site.baseurl}}/schutz)** hinzugefügt. Es gibt jetzt eine **Kurzanleitung** zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein *[Vortrag](/vorträge/)* über RMDO beim 107. Bibliothekartag gehalten.
 
 
 April & Mai 2018
@@ -255,7 +255,7 @@ März 2018
 ----------
 
 In diesem Monat waren wir sowohl auf der Open Science Conference 2018 als auch auf dem 11. RDA Plenary vertreten und haben einige anregende Diskussionen geführt. Ein großes Thema sind sogenannte Machine-Actionable DMP (**maDMP**), also machinell auswertbare DMP. In RDMO haben wir von Anfang an die Unterstützung des Workflows während des gesamten Projekts und die Einbindung in Infrastrukturen zum Ziel und sind daher quasi Vorreier auf diesem Gebiet.
-Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine [**Postkarte**, ein **Poster** und  **Vortragsfolien**]({{site.baseurl}}/Materialien) für die Nachnutzung für Sie zur Verfügung.
+Derzeitige Arbeitsschwerpunkte sind unsere *Softwarearchitektur* bei der wir einen einheitlichen Standard anstreben, weiterhin Vorlagen für *Nutzungsbedingungen* und *Datenschutz* und außerdem stehen jetzt eine [**Postkarte**, ein **Poster** und  **Vortragsfolien**]({{site.baseurl}}/materialien) für die Nachnutzung für Sie zur Verfügung.
 
 Februar 2018
 --------------
