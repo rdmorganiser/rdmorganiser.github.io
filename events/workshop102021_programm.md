@@ -24,13 +24,13 @@ zugesandt werden müssen.
 
 - 09:00 Uhr Begrüßung (Daniela Hausen)
 
-- 09:10 Uhr Bericht StG : ein Jahr Manifest - was ist geschehen?     Harry Enke
+    - 09:10 Uhr Bericht StG : ein Jahr Manifest - was ist geschehen?     (Harry Enke)
 
-    - 09:20 Uhr Bericht Software Gruppe : Software Entwicklungen   Jochen Klar
+    - 09:20 Uhr Bericht Software Gruppe : Software Entwicklungen   (Jochen Klar)
 
     - 09:35 Uhr Bericht Content Gruppe : Horizon Europe, Externe Fragenkatalog-Integration, Templates  (Johannes Frenzel, tbc.)
 
-    - 09:50 Uhr DMPs in der NFDI     Gerald Jagusch
+    - 09:50 Uhr DMPs in der NFDI     (Gerald Jagusch) 
 
 - 10:00 Uhr Kurze Pause
 
@@ -50,3 +50,4 @@ zugesandt werden müssen.
 
 - 12:15 Uhr Ende 
 
+Interessenten können kurze Beiträge zum Breakout bei der Anmeldung mit registrieren.
