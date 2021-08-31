@@ -195,7 +195,7 @@ In addition, we have **removed the subsections** of the question catalog and red
 October 2018
 ------------
 
-On the 24th October we presented a RDMO poster at the **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten/oa-week-2018)** in Berlin. Moreover we improved our **Postcard** and there is now a English [version](/en/promotion/).
+On the 24th October we presented a RDMO poster at the **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten)** in Berlin. Moreover we improved our **Postcard** and there is now a English [version](/en/promotion/).
 
 September 2018
 --------------
