@@ -13,7 +13,7 @@ Ort: Zoom Conference<br>
 Verbindungsdaten werden per EMail vorher zugesandt. 
 
 
-Das Community Meeting zeigt die Arbeit der RDMO Arbeitsgemeinschaft in verschiedenen Facetten. 
+Das Community Meeting zeigt die verschiedenen Facetten der Arbeit der RDMO Arbeitsgemeinschaft. 
 
 Für das Community-Treffen ist eine [Registrierung](https://meetings.aip.de/event/13/) erforderlich, da die Verbindungsdaten 
 zugesandt werden müssen. 
