@@ -119,7 +119,7 @@
   place: Berlin
   title: "RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement"
   authors: Jochen Klar
-  recording: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
+  # recording: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
 
 - event: "EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science"
   url: http://meetingorganizer.copernicus.org/EGU2017/orals/23924
