@@ -61,7 +61,7 @@
   poster: https://www.rda-deutschland.de/events/rda-deutschland-tagung-2019-poster
 
 - event: "International Open Access Week 2018"
-  url: http://www.open-access-berlin.de/aktivitaeten/oa-week-2018
+  # url: http://www.open-access-berlin.de/aktivitaeten/oa-week-2018
   date: 2018-10-24
   place: Berlin
   title: RDMO – Research Data Management Organiser
@@ -114,7 +114,7 @@
   slides: http://cds.u-strasbg.fr/meetings/Lisa8/public/presentations/wednesday/afternoon/08_RDMO-Talk-LISAVIII.pdf
 
 - event: Berliner Bibliothekswissenschaftliches Kolloquium
-  url: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
+  # url: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
   date: 2017-05-30
   place: Berlin
   title: "RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement"
@@ -161,7 +161,7 @@
   slides: https://escience.aip.de/ag2016/klar_AG2016.pdf
 
 - event: "DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything"
-  url: http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/
+  # url: http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/
   date: 2016-05-20
   place: Frankfurt am Main
   title: Datenmodellierung für Forschungsdatenmanagementpläne
@@ -176,7 +176,7 @@
   title: DMPwerkzeug - A tool to support the planning, implementation, and organization of research data management.
   authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, and Harry Enke
   abstract: http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf
-  slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
+  # slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
 
 - event: RDA-Deutschland-Treffen 2015
   url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
