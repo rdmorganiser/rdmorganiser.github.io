@@ -13,13 +13,13 @@ RDMO organised some workshops and meetings with users:
 Future workshops and meetings:
 -----------------------------------------------
 * 02.09.2021 DMPs in the NFDI - Kick-Off Meeting (virtual)
-* 04.10.2021 5th Community-Meeting (virtual) [Program and Registration (German language)](https://meetings.aip.de/event/13/)
+* 04.10.2021 5th Community-Meeting (virtual) [Program](/en/events/workshop102021_programm) and [Registration (German language)](https://meetings.aip.de/event/13/)
 
 
 So far:
 --------------------------------------------
 * 02.03.2021 RDMO AG with NFDI4Ing and NFDI directorate: Workshop “Use of  Data Management Plans and DMP Tools in the NFDI”
-* 07.10.2020 4th Community-Meeting (virtual) [Program](https://rdmorganiser.github.io/events/workshop102020_programm) and [Report (German language)](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen)
+* 07.10.2020 4th Community-Meeting (virtual) [Program](/en/events/workshop102020_programm) and [Report (German language)](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen)
 * 24.02.2020 3rd Community-Meeting: Foundation Meeting as Open Source Projekt [Programm](https://rdmorganiser.github.io/workshop022020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen)
 * 03.12.19 Regional workshop in Bonn at Max Weber Foundation
 * 07.10.2019 2nd Community Meeting: Sustainable RDMO Future (german) [Program + Slides]({{ base-url }}/workshop2019)
