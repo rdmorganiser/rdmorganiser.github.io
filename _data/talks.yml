@@ -187,7 +187,7 @@
   abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
 
 - event: Helmholtz Open Science Webinar
-  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/
+  # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/
   date: 2015-10-26
   title: Tools zur Erstellung von Forschungsdatenmanagementplänen
   authors: Jochen Klar

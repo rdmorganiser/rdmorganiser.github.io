@@ -37,12 +37,12 @@ initiatives to ensure the usefulness and sustainability of the software and its 
 
 The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
 
-The description of the first project phase is available [here]({{ site.baseurl }}/en/first-project-phase).
+The description of the first project phase is available [here](/en/first-project-phase).
 
 
 **The RDMO project will be transferred to the community-based RDMO working group
 
 RDMO's DFG funding will come to an end in autumn 2020. In the meantime RDMO has become an important tool supporting dynamic research data management in multiple projects, creating research data management plans at many German research institutions.
 
-In order to keep the Open Source Software usable and evolving, the RDMO working group (AG) is currently being founded by signing a [Memorandum of Understanding]({{{ site.baseurl}}}/docs/Memorandum-of-Understanding-RDMO.pdf) .
-The last RDMO community meeting in Potsdam in February paved the way for this by creating a future [organisational structure]({{{{ site.baseurl}}}/groups) with various committees. This structure is intended to support future development and elaborated in detail inside the MoU.
+In order to keep the Open Source Software usable and evolving, the RDMO working group (AG) is currently being founded by signing a [Memorandum of Understanding](/docs/Memorandum-of-Understanding-RDMO.pdf) .
+The last RDMO community meeting in Potsdam in February paved the way for this by creating a future [organisational structure](/groups) with various committees. This structure is intended to support future development and elaborated in detail inside the MoU.

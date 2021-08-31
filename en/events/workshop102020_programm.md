@@ -34,7 +34,7 @@ During the Community Meeting, the new organisational structure of RDMO, the oppo
 
 - 10:10 → 11:30 Key points MoU and Keynote NFDI (Sure-Vetter)
 
-    - 10:10 Presentation of the objectives and key points of the [Memorandum of Understanding (MoU)](/docs/Memorandum of Understanding-RDMO.pdf) (Birte Lindstädt)
+    - 10:10 Presentation of the objectives and key points of the [Memorandum of Understanding (MoU)](/docs/Memorandum-of-Understanding-RDMO.pdf) (Birte Lindstädt)
 
     - 10:25 Discussion on the MoU (Daniela Hausen)
 
