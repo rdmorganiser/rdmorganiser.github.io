@@ -25,7 +25,7 @@ The RDMO project aims to fill this gap. Based on preliminary work, in particular
 
 The target group comprises all parties involved in research data management, i.e. researchers, PIs, institutional data managers, IT departments etc. Adaptations to discipline-specific or institutional needs are supported. The installation of the tool into local environments and its integration into existing administrative IT infrastructure and workflows is given special consideration. The tool will be multilingual (at first German and English).
 
-For more information about the project please visit the description of our [workpackages]({{ site.baseurl }}/en/workpackages), [outreach]({{ site.baseurl }}/en/outreach) and [cooperations]({{ site.baseurl }}/en/cooperations/). For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+For more information about the project please visit the description of our [workpackages]({{ site.baseurl }}/en/workpackages), [outreach]({{/en/talks) and [cooperations]({{ site.baseurl }}/en/cooperations/). For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 
 Concept
 -------
