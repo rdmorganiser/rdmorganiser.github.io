@@ -7,8 +7,8 @@ lang: de
 
 # RDMO Community-Treffen
 
-Tag:     04.10.2020<br>
-Zeit:    09:00-13:00<br>
+Tag:     04.10.2021<br>
+Zeit:    09:00-12:30<br>
 Ort: Zoom Conference<br>
 Verbindungsdaten werden per EMail vorher zugesandt. 
 
