@@ -58,7 +58,7 @@
 #   url:   https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
 - name:    Universität Bayreuth
-  # url:     http://rdmo.uni-bayreuth.de
+  url:     https://rdmo.uni-bayreuth.de
   contact: Thomas Martin
   lat:     49.929511
   lon:     11.586435
