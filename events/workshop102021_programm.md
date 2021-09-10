@@ -28,7 +28,7 @@ zugesandt werden müssen.
 
     - 09:20 Uhr Bericht Software Gruppe : Software Entwicklungen   (Jochen Klar)
 
-    - 09:35 Uhr Bericht Content Gruppe : Horizon Europe, Externe Fragenkatalog-Integration, Templates  (Johannes Frenzel, tbc.)
+    - 09:35 Uhr Bericht Content Gruppe : Horizon Europe, Externe Fragenkatalog-Integration, Templates  (Thorsten Rathmann, Giacomo Lanza, Yvonne Anders)
 
     - 09:50 Uhr DMPs in der NFDI     (Gerald Jagusch) 
 
