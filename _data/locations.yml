@@ -341,3 +341,11 @@
   description: >-
      Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
      Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
+     
+- name: Istituto Nazionale di Ricerca Metrologica (INRiM)
+  url: https://rdmo.inrim.it/
+  contact: Dario Pilori
+  lat: 45.014953
+  lon: 7.637828
+  color: gray
+
