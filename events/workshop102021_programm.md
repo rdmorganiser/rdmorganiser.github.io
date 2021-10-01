@@ -24,21 +24,21 @@ zugesandt werden müssen.
 
 - 09:00 Uhr Begrüßung (Daniela Hausen)
 
-    - 09:10 Uhr Bericht StG : ein Jahr Manifest - was ist geschehen?     (Harry Enke)
+    - 09:15 Uhr Bericht StG : ein Jahr Manifest - was ist geschehen?     (Harry Enke)
 
-    - 09:20 Uhr Bericht Software Gruppe : Software Entwicklungen   (Jochen Klar)
+    - 09:25 Uhr Bericht Software Gruppe : Software Entwicklungen   (Jochen Klar)
 
-    - 09:35 Uhr Bericht Content Gruppe : Horizon Europe, Externe Fragenkatalog-Integration, Templates  (Thorsten Rathmann, Giacomo Lanza, Yvonne Anders)
+    - 09:40 Uhr Bericht Content Gruppe : Horizon Europe, Externe Fragenkatalog-Integration, Templates  (Thorsten Rathmann, Giacomo Lanza, Yvonne Anders)
 
-    - 09:50 Uhr DMPs in der NFDI     (Gerald Jagusch) 
+    - 09:55 Uhr DMPs in der NFDI     (Daniela Hausen) 
 
-- 10:00 Uhr Kurze Pause
+- 10:05 Uhr Kurze Pause
 
-- 10:10 Uhr Diskussion: Status und Perspektiven 
+- 10:15 Uhr Diskussion: Status und Perspektiven 
 
-    - 10:30 Uhr Organisation Breakout Session
+    - 10:35 Uhr Organisation Breakout Session
 
-- 10:35 Uhr Breakouts: RDMO Best Practices von RDMO Anwendern
+- 10:40 Uhr Breakouts: RDMO Best Practices von RDMO Anwendern
 
     - BreakOut I: Beratungsarbeit mit RDMO  (Mod.: Daniela Hausen)
 
