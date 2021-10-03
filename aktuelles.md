@@ -32,15 +32,15 @@ September 2021
 
 Community-Workshop am 4. Oktober 2021:
 
-Die das ausführliche Programm (https://rdmorganiser.github.io/events/workshop102021_programm/) ist jetzt veröffentlicht. Wir werden noch die Beiträge für die Breakout-Sessions in der letzten September-Woche hinzufügen. 
+Die das ausführliche [Programm](https://rdmorganiser.github.io/events/workshop102021_programm/) ist jetzt veröffentlicht. Wir werden noch die Beiträge für die Breakout-Sessions in der letzten September-Woche hinzufügen. 
 
-Die Registrierung (https://meetings.aip.de/event/13/) ist offen. 
+Die [Registrierung](https://meetings.aip.de/event/13/) ist offen. 
 
 Software:
 
 der Release Candidate von RDMO befindet sich noch in der Testphase. Wir würden uns freuen, wenn Institutionen, die über Testinstanzen oder ähnliches verfügen, die Version ausprobieren würden, damit etwaige Fehler schon in der Testphase gefunden und ausgemerzt werden können. Der Release Candidate muss direkt von GitHub installiert werden. Wie das geht, steht auf der (pre-)Release-Page:
 
-https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1
+[Pre-Release](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1)
 
 Die Testphase läuft noch mindestens bis zum nächsten Entwicklertreffen, welches am dritten Donnerstag im September stattfindet. Je nach Feedback wird die Testphase dann verlängert oder beendet, um anschließend die Arbeiten an einem neuen RDMO-Release zu beginnen.
 
