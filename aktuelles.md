@@ -19,13 +19,35 @@ Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranst
 
 Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
 -------------------------------------
-(Stand: August 2021)
+(Stand: Oktober 2021)
 
 - Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
 - Content-Gruppe: jeder 2. Donnerstag im Monat
 - Entwicklergruppe: jeder 3. Donnerstag im Monat
 
 Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
+
+Oktober 2021
+-----------
+
+Nach einer 2 monatigen Testphase haben wir am Dienstag RDMO 1.6 veröffentlicht. Wie immer finden Sie die relevanten Informationen auf der Release-Page auf GitHub:
+
+    https://github.com/rdmorganiser/rdmo/releases/tag/1.6
+
+In der neuen Version werden viele Neuerungen enthalten sein:
+
+- Fragensets können jetzt auch geschachtelt sein, um Hierarchien wie z.B. Datensätze -> Erstellende -> Institutionen (wie in DataCite) abzubilden.
+- In den Katalogen können Fragen für die Nutzenden als optional markiert werden und Standardantworten können konfiguriert werden.
+- Eine Autocomplete-Widget, Tooltips in Hilfetexten, die Möglichkeit Fragen nebeneinander anzuordnen dienen der besseren Nutzbarkeit.
+- Ein Overlay-Tutorial für neue Benutzende soll den Einstieg erleichtern.
+- Die Instanz kann so konfiguriert werden, dass die meisten Eingaben beim Beantworten der Fragen automatisch gespeichert werden.
+- Die Implementation der Bedingungen und weitere Datenbankzugriffe wurden optimiert, um die Geschwindigkeit der Seitenaufrufe zu verbessern.
+- Im Management-Interface können Fragen, Fragensets und Optionen ausgeblendet werden.
+- Für Fragensets, die als Sammlung konfiguriert sind, wird das Attribut jetzt explizit gesetzt (also project/dataset/id statt project/dataset). Eine Migration wird bestehende Fragenkataloge automatisch anpassen.
+- Für neue Instanzen wird die Theme-Erstellung vereinfacht, bestehende Instanzen können aber wie gewohnt weiter betrieben werden.
+
+RDMO nutzt ab Version 1.6 Django 3.2 und setzt damit Python 3.6 voraus. Wenn das bei Ihnen Probleme verursachen sollte, wenden Sie sich bitte an uns.
+
 
 September 2021
 -----------
