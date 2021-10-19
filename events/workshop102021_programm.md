@@ -15,8 +15,7 @@ Verbindungsdaten werden per EMail vorher zugesandt.
 
 Das Community Meeting zeigt die verschiedenen Facetten der Arbeit der RDMO Arbeitsgemeinschaft. 
 
-Für das Community-Treffen ist eine [Registrierung](https://meetings.aip.de/event/13/) erforderlich, da die Verbindungsdaten 
-zugesandt werden müssen. 
+Bericht über das 6. Community-Treffen auf [forschungsdaten.org](https://www.forschungsdaten.org/index.php/Sechstes_Community-Treffen). 
 
 
 ## Agenda
