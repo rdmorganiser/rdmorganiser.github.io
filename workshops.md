@@ -13,11 +13,13 @@ Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere
 
 Bevorstehende Workshops und Meetings:
 ------------------
-* 02.09.2021 DMPs in der NFDI - Kick-Off Meeting (virtuell, bei Interesse an RDMO StG schreiben)
-* 04.10.2021 5. RDMO-Community-Treffen (virtuell, 3-4 Stunden) [Programm](/events/workshop102021_programm) und [Anmeldung](https://meetings.aip.de/event/13/)
+
+
 
 Bisherige Workshops und Treffen:
 --------------------------------
+* 04.10.2021 5. RDMO-Community-Treffen (virtuell, 3-4 Stunden) [Programm](/events/workshop102021_programm) und [Anmeldung](https://meetings.aip.de/event/13/)
+* 02.09.2021 DMPs in der NFDI - Kick-Off Meeting (virtuell, bei Interesse an RDMO StG schreiben)
 * 02.03.2021 RDMO AG gemeinsam mit NFDI4ING und NFDI-Direktorat [Programm und Slides](/docs/nfdiws/workshop-nfdi), [Bericht](/docs/nfdiws/wsreport)
 * 07.10.2020 4. RDMO-Community-Treffen (virtuell) [Programm](/events/workshop102020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen)
 * 24.02.2020 3. RDMO-Community-Treffen, Gründungstreffen als Open Source Projekt, [Programm](/events/workshop022020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen)
