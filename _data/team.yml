@@ -37,7 +37,7 @@ current:
 - text:
     de: "**Robert Ulrich** ist wissenschaftlicher Mitarbeiter und Softwareentwickler an der Bibliothek des Karlsruher Instituts für Technologie (KIT). Er koordiniert, managt und entwickelt für re3data, das Serviceteam RDM@KIT und weitere FDM-Projekte. Auf [forschungsdaten.info](http://www.forschungsdaten.info) kümmert er sich um das Hosting der dortigen RDMO-Instanz."
     en: "**Robert Ulrich** is a research assistant and software developer at the library of the Karlsruhe Institute of Technology (KIT). He coordinates, manages and develops for re3data, the Serviceteam RDM@KIT and other RDM projects. He is responsible for hosting the RDMO instance at [forschungsdaten.info](http://www.forschungsdaten.info)."
-  image: img/team/ulrich.jpeg
+  image: img/team/ulrich.jpg
 
 - text:
     de: "**Kerstin Wedlich-Zachodin** ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) in der FDM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
@@ -63,4 +63,4 @@ former:
 - text:
     de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am KIT. Seine Arbeitsschwerpunkte sind die Bedarfe der wissenschaftlichen Communities und der Transfer von neuen digitalen und datengetriebenen Methoden in die wissenschaftliche Arbeitspraxis."
     en: "**Frank Tristram** is a research associate at Karlsruhe Institute of Technology (KIT). His work focuses on the needs of scientific communities and the transfer of new digital and data-driven methods into scientific practice."
-  image: img/team/tristram.png
+  image: img/team/tristram.jpg
