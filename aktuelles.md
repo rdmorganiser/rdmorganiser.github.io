@@ -54,9 +54,9 @@ September 2021
 
 Community-Workshop am 4. Oktober 2021:
 
-Die das ausführliche [Programm](https://rdmorganiser.github.io/events/workshop102021_programm/) ist jetzt veröffentlicht. Wir werden noch die Beiträge für die Breakout-Sessions in der letzten September-Woche hinzufügen. 
+Die das ausführliche [Programm](https://rdmorganiser.github.io/events/workshop102021_programm/) ist jetzt veröffentlicht. Wir werden noch die Beiträge für die Breakout-Sessions in der letzten September-Woche hinzufügen.
 
-Die [Registrierung](https://meetings.aip.de/event/13/) ist offen. 
+Die [Registrierung](https://meetings.aip.de/event/13/) ist offen.
 
 Software:
 
@@ -146,7 +146,7 @@ August 2020
 
 In der neuen RDMO-Version 1.1 haben wir die Projekt Export- und Import-Funktionalitäten überarbeitet. Damit sind die Grundlagen gelegt, Formate wie DataCite, das von DataCite abgeleitete Schema von RADAR und auch das von der RDA vorgeschlagene [maDMP](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) in RDMO zu unterstützen. Da das Mapping von RDMO auf diese Formate aber abhängig von unserem Domänenmodell ist, das aber wiederum kein Teil des RDMO-Codes ist, sondern unabhängig gepflegt wird, war es nötig den Code hierfür in Plugins auszulagern. Diese werden in der Zukunft, analog zu dem [rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog) Repository, in [rdmo-plugins](https://github.com/rdmorganiser/rdmo-plugins) gesammelt. Das “Mapping” der Formate auf das RDMO Domänenmodell passiert im Code dieser Plugins, wurde von uns aber zusätzlich in einem [Google-Doc](https://docs.google.com/spreadsheets/d/16fQ0Rgg-2ewMK9FklEjU8pAcpHODEm7PYy6xDCninew/edit?usp=sharing) dokumentiert. Für die vollständige Unterstützung wird es aber noch nötig sein, zusätzliche Fragen und Attribute einzuführen.
 
-In der Zukunft wollen wir diese Art von Plugins verstärkt nutzen, um Domänenspezifische Features in RDMO zu realisieren und natürlich können Plugins auch von Instanzen genutzt werden, um stärker angepasste Funktionalitäten zu realisieren. Die Details gibt es in der [Plugin Dokumentation](https://rdmo.readthedocs.io/en/latest/configuration/plugins.html).
+In der Zukunft wollen wir diese Art von Plugins verstärkt nutzen, um Domänenspezifische Features in RDMO zu realisieren und natürlich können Plugins auch von Instanzen genutzt werden, um stärker angepasste Funktionalitäten zu realisieren. Die Details gibt es in der [Plugin Dokumentation](https://rdmo.readthedocs.io/en/latest/plugins/index.html).
 
 Juli 2020
 ---------

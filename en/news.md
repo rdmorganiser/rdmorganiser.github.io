@@ -104,7 +104,7 @@ August 2020
 
 In the new RDMO version 1.1 we have revised the project export and import functionalities. This lays the foundation to support formats like DataCite, the schema of RADAR derived from DataCite and also the [maDMP](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) proposed by the RDA in RDMO. Since the mapping of RDMO to these formats is dependent on our domain model, which is not part of the RDMO code but is maintained independently, it was necessary to store the code in plugins. In the future, these will be collected in [rdmo-plugins](https://github.com/rdmorganiser/rdmo-plugins), analogous to the [rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog) repository. The "mapping" of the formats to the RDMO domain model is done these plugins' code. It is additionally documented by us in a [Google document](https://docs.google.com/spreadsheets/d/16fQ0Rgg-2ewMK9FklEjU8pAcpHODEm7PYy6xDCninew/edit?usp=sharing). For full support it will be necessary to introduce additional questions and attributes.
 
-In the future we want to use this kind of plugins more to implement domain specific features in RDMO and of course plugins can be used by instances to implement more customized functionality. The details are available in the [plugin documentation](https://rdmo.readthedocs.io/en/latest/configuration/plugins.html).
+In the future we want to use this kind of plugins more to implement domain specific features in RDMO and of course plugins can be used by instances to implement more customized functionality. The details are available in the [plugin documentation](https://rdmo.readthedocs.io/en/latest/plugins/index.html).
 
 July 2020
 ---------
