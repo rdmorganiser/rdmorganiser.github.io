@@ -244,9 +244,9 @@
   lon: 11.580278
   color: blue
 
-- name: Universität Rostock (SFB 1270 ELAINE "Elektrisch Aktive Implantate")
-  url: https://rdmo.elaine.uni-rostock.de
-  contact: Frank Krüger
+- name: Universität Rostock
+  url: https://www.ub.uni-rostock.de/forschungsdaten
+  contact: Referat Forschungsdaten, Universitätsbibliothek Rostock
   lat: 54.088133
   lon: 12.133373
   color: blue
