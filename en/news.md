@@ -26,6 +26,71 @@ Regular RDMO Times: 11:00h -12:00h
 Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
 All interested parties are  welcome.
 
+
+December 2021
+-------------
+
+as of now the new version RDMO 1.7.0 is available. While these are primarily bug fixes, since additional functionality has been added, the middle number of the version number is increased. In response to feedback, we have slightly revised the interview. For record questions, "Save and Continue" now moves to the next question set rather than the next record, but continues to process the same record. (The old behavior can be kept via the PROJECT_QUESTIONS_CYCLE_SETS setting). Question sets that can be skipped by conditions are marked by a small question mark in the navigation. As always, more information is available on the release page: https://github.com/rdmorganiser/rdmo/releases.
+
+There are also some new features coming to the rdmo-catalog repository. They are released under the version number 1.1.0-rdmo-1.6.0, where rdmo-1.6.0 means that the release can be used with RDMO from 1.6.0. The following changes are included:
+
+- Domain: 22 new attributes (required for Horizon Europe).
+- Conditions: 4 new conditions
+- Options: additional options; language adjustment; localization to French and Italian
+- Catalogs: additional questions and help texts; DFG links update; language adjustment; localization in French and Italian
+- Community contributions: Table overview; new catalog for Science Europe / VW Foundation; update FoDaKo-DFG catalog.
+
+
+November 2021
+-------------
+in the last weeks some minor problems in RDMO have been noticed, so version 1.6.2 is now available, which mainly contains bug fixes. For example, overlays were fixed in case PROJECT_ISSUES were disabled in the settings. Also, an error that occurred when records were removed was fixed. A problem with resolving conditions in question sets was also fixed. Some improvements that might be more interesting for technical interested people or RDMO administrators are also on the list of new features. From now on we use Github actions and not Travis-CI for our automated tests. Furthermore, a command has been added on the command line to track down and remove projects that have no owners, for example. As always, our release notes can be found here: https://github.com/rdmorganiser/rdmo/releases.
+
+The reports of the community meeting on 04.10.2021 can be found - as always - at
+https://www.forschungsdaten.org/index.php/Sechstes_Community-Treffen.
+
+November 16 was the day of research data in NRW. In the afternoon program Torsten Rathmann talked about requirements of third party funders and DMPs and also presented RDMO, especially also a new version of the FoDaKo questionnaires for DFG projects. More information is available on the [event website](https://www.fdm.uni-wuppertal.de/de/schulungen-veranstaltungen.html).
+
+
+October 2021
+-----------
+
+After a 2 month testing period, we released RDMO 1.6 on Tuesday. As always, you can find the relevant information on the release page on GitHub:
+
+    https://github.com/rdmorganiser/rdmo/releases/tag/1.6
+
+There will be many new features in the new version:
+
+- Question sets can now be nested to map hierarchies such as datasets -> creators -> institutions (as in DataCite).
+- In the catalogs, questions can be marked as optional for users and default answers can be configured.
+- An autocomplete widget, tooltips in help texts, the possibility to arrange questions side by side serve for better usability.
+- An overlay tutorial for new users is designed to make it easier to get started.
+- The instance can be configured to automatically save most input when answering questions.
+- The implementation of the conditions and other database accesses have been optimized to improve page load speed.
+- Questions, question sets and options can be hidden in the management interface.
+- For question sets configured as a collection, the attribute is now set explicitly (i.e. project/dataset/id instead of project/dataset). A migration will automatically adjust existing question catalogs.
+- Theme creation is simplified for new instances, but existing instances can continue to operate as usual.
+
+RDMO uses Django 3.2 from version 1.6 and thus requires Python 3.6. If this should cause problems for you, please contact us.
+
+
+September 2021
+-----------
+
+Community Workshop on October 4, 2021:
+
+The detailed [program](https://rdmorganiser.github.io/events/workshop102021_programm/) is now posted. We will still add the contributions for the breakout sessions in the last week of September.
+
+The [registration](https://meetings.aip.de/event/13/) is open.
+
+Software:
+
+the release candidate of RDMO is still in the testing phase. We would appreciate it if institutions that have test instances or similar would try the release so that any bugs can be found and ironed out during the testing phase. The release candidate must be installed directly from GitHub. How to do that is described on the (pre-)release page:
+
+[pre-release](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1)
+
+The test phase will run at least until the next developer meeting, which will take place on the third Thursday in September. Depending on the feedback, the test phase will then be extended or terminated in order to then start work on a new RDMO release.
+
+
 August 2021
 -----------
 

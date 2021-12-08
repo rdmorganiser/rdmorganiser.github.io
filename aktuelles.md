@@ -27,6 +27,31 @@ Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
 
 Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
 
+
+Dezember 2021
+-------------
+
+ab sofort ist die neue Version RDMO 1.7.0 verfügbar. Es handelt sich zwar primär um Fehlerbehebungen, da jedoch zusätzliche Funktionalität hinzugekommen ist, wird die mittlere Zahl der Versionsnummer erhöht. Als Reaktion auf Feedback haben wir das Interview leicht überarbeitet. Bei den Fragen zu Datensätzen wird jetzt mit “Sichern und fortfahren” nicht mehr zum nächsten Datensatz gewechselt, sondern zum nächsten Fragenset, wobei aber der gleiche Datensatz weiterbearbeitet wird. (Über die Einstellung PROJECT_QUESTIONS_CYCLE_SETS kann das alte Verhalten behalten werden.) Fragensets, die durch Bedingungen übersprungen werden können, werden durch ein kleines Fragezeichen in der Navigation gekennzeichnet. Mehr Informationen gibt es wie immer auf der Release-Seite: https://github.com/rdmorganiser/rdmo/releases
+
+Außerdem stehen einige Neuerungen im Repositorium rdmo-catalog an. Sie werden unter der Versionsnummer 1.1.0-rdmo-1.6.0 veröffentlicht, wobei rdmo-1.6.0 bedeutet, dass das Release mit RDMO ab 1.6.0 verwendet werden kann. Es sind folgende Änderungen enthalten:
+
+- Domäne: 22 neue Attribute (benötigt für Horizon Europe)
+- Bedingungen: 4 neue Bedingungen
+- Optionen: zusätzliche Optionen; Sprachjustierung; Lokalisierung auf Französisch und Italienisch
+- Kataloge: zusätzliche Fragen und Hilfetexte; Aktualisierung von DFG-Links; Sprachjustierung; Lokalisierung auf Französisch und Italienisch
+- Community-Beiträge: Tabellenübersicht; neuer Katalog für Science Europe / VW Stiftung; Aktualisierung FoDaKo-DFG-Katalog
+
+
+November 2021
+-------------
+in den letzten Wochen sind einige kleinere Probleme in RDMO aufgefallen, weshalb ab sofort die Version 1.6.2 verfügbar ist, die im wesentlichen Bug Fixes enthält. So wurden Overlays repariert für den Fall, dass in den Einstellungen PROJECT_ISSUES deaktiviert waren. Außerdem wurde ein Fehler behoben, der aufgetreten ist, wenn Datensätze entfernt werden. Ein Problem beim Auflösen von Bedingungen in Fragensets wurde ebenfalls beseitigt. Einige Verbesserungen, die eher für technische Interessierte oder RDMO-Administrierende interessant sein dürften, sind ebenfalls auf der Liste der Neuerungen. Von nun an nutzen wir Github-Actions und nicht mehr Travis-CI für unsere automatischen Tests. Weiterhin wurde auf der Kommandozeile ein Befehl hinzugefügt, mit dem sich Projekte aufspüren und entfernen lassen, die beispielsweise keine Besitzer haben. Unsere Release Notes finden sich wie immer hier: https://github.com/rdmorganiser/rdmo/releases.
+
+Die Berichte zum Community-Treffen vom 04.10.2021 sind - wie immer - auf
+https://www.forschungsdaten.org/index.php/Sechstes_Community-Treffen zu finden.
+
+Am 16. November war der Tag der Forschungsdaten in NRW. Im Nachmittagsprogramm hat Torsten Rathmann über Anforderungen der Drittmittelgeber und DMPs sprechen und dabei auch RDMO vorstellen, insbesondere auch eine neue Version der FoDaKo-Fragenkataloge für DFG-Projekte. Weitere Informationen gibt es auf der [Veranstaltungswebsite](https://www.fdm.uni-wuppertal.de/de/schulungen-veranstaltungen.html).
+
+
 Oktober 2021
 -----------
 
