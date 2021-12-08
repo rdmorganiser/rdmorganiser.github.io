@@ -8,7 +8,7 @@ lang: de
 
 <hr>
 
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" preload="none" style="width: 100%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 Mit dem Research Data Management Organiser (RDMO) können Institutionen und Forschende das Forschungsdatenmanagement ihre Projekte strukturiert planen und durchführen. Es erlaubt das Erfassen aller relevanten Planungsinformationen in Datenmanagementplänen und die Verwaltung aller Datenmanagementaufgaben über den gesamten Datenlebenszyklus.
