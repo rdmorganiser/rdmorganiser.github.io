@@ -349,3 +349,9 @@
   lon: 7.637828
   color: gray
 
+- name: Max Planck Digital Library
+  url: https://rdmo.mpdl.mpg.de/
+  contact: Yves Vincent Grossmann
+  lat: 48.1478564
+  lon: 11.5763998
+  color: blue
