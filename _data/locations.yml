@@ -341,7 +341,7 @@
   description: >-
      Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
      Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
-     
+
 - name: Istituto Nazionale di Ricerca Metrologica (INRiM)
   url: https://rdmo.inrim.it/
   contact: Dario Pilori
@@ -354,4 +354,11 @@
   contact: Yves Vincent Grossmann
   lat: 48.1478564
   lon: 11.5763998
+  color: blue
+
+- name: Zuse-Institut Berlin
+  url: https://rdmo.zib.de
+  contact: Tim Hasler
+  lat: 52.4560878
+  lon: 13.2960695
   color: blue
