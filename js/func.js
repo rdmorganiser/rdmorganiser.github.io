@@ -20,7 +20,22 @@ function init_table() {
         sortList: [
             [0, 0],
         ]
+    }).bind('filterInit', function() {
+        display_no_entries();
+    }).bind('filterEnd', function() {
+        display_no_entries();
     });
+}
+
+function display_no_entries() {
+    $(".no_entries").html("");
+    $(".no_entries").html(
+        len_minus_one($('#partners tr:visible')) + "/" + len_minus_one($('#partners tr'))
+    );
+}
+
+function len_minus_one(arr){
+    return arr.length-1
 }
 
 function open_marker(id, coords, desc_length) {

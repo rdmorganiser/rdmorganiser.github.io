@@ -67,7 +67,11 @@ Cooperations
 
 The project needs feedback from disciplines and IT infrastructure representatives to ensure the tool meets the needs of the target groups. We gratefully acknowledge the following partners:
 
-<input class="tabfilter" type="search" data-column="all" placeholder="Filter">
+<div>
+    <div class="no_entries"></div>
+    <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
+</div>
+
 <table id="partners" class="tablesorter">
     <thead>
         <th class="name"></th>
