@@ -27,6 +27,35 @@ Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
 
 Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
 
+März 2022
+-------------
+
+wir erinnern nochmal an das 7. RDMO-Community-Treffen (virtuell)
+am Mittwoch, den 2. März von 14:00 bis 16:00 Uhr.
+
+Das Hauptthema dieses Treffen wird sein:
+Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung
+
+Die Agenda ist wie folgt geplant:
+1. Nutzenden getriebene Weiterentwicklung für RDMO (10 min) -> Harry Enke
+2. Lightning talks (insg. 15 min):
+   * Content Gruppe: Giacomo Lanza
+   * Software Gruppe: Jochen Klar
+  
+3.)  Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)
+*  Inhaltliche Dimension - Moderation: Robert Strötgen
+*  Technische Dimension - Moderation:  Jochen Klar
+(Wechsel der Themen in den Räumen)
+4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
+  
+
+Februar 2022
+-------------
+
+Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.
+
+In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
+
 
 Dezember 2021
 -------------
