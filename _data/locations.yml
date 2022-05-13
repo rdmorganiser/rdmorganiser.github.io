@@ -362,3 +362,10 @@
   lat: 52.4560878
   lon: 13.2960695
   color: blue
+
+- name: osnaPlan / Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
+  contact: FDM-Team der UB Osnabrück (fdm@uos.de)
+  lat: 52.2731726
+  lon: 8.0457204
+  color: blue
