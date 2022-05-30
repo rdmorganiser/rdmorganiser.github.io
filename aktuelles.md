@@ -41,13 +41,13 @@ Die Agenda ist wie folgt geplant:
 2. Lightning talks (insg. 15 min):
    * Content Gruppe: Giacomo Lanza
    * Software Gruppe: Jochen Klar
-  
+
 3.)  Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)
 *  Inhaltliche Dimension - Moderation: Robert Strötgen
 *  Technische Dimension - Moderation:  Jochen Klar
 (Wechsel der Themen in den Räumen)
 4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
-  
+
 
 Februar 2022
 -------------
@@ -261,7 +261,7 @@ Wir haben den **DCC-Fragenkatalog**, dessen Import nicht korrekt funktionierte, 
 
 Mai 2019
 --------
-RDMO **Version 0.14.4** (Bug Fixes) ist verfügbar. Probleme, die durch die Umstellung auf Django2 und Python3 verursacht wurden, sollten nun beseitigt sein. Ein Update wird wärmstens empfohlen, da Python2 nicht mehr lange unterstützt wird. Im Mai hat der Kick-Off des Projekts [**»Management Molekularer Daten im Research Data Life Cycle« (MaMoDaR)**](https://www.fh-potsdam.de/informieren/aktuelles/news-detailansicht/artikel/start-fuer-forschungsprojekt-mamodar/), eine Kooperation der FH Potsdam und des Robert Koch-Instituts, an der FHP stattgefunden und das **IPK Gatersleben** hat RDMO als Forschungsdatenmanagement-Werkzeug aus der Testphase in die Anwendungsphase überführt. Falls Sie **FDM-Schulungen mit dem Einsatz von RDMO** planen, teilen Sie uns die Termine mit, dann können wir sie mitbewerben (z. B. Twitter, Newsletter) und teilen Sie uns auch gerne Ihr Feedback und Erfahrungsberichten aus den Schulungen bzw. Schulungsmaterialien mit.
+RDMO **Version 0.14.4** (Bug Fixes) ist verfügbar. Probleme, die durch die Umstellung auf Django2 und Python3 verursacht wurden, sollten nun beseitigt sein. Ein Update wird wärmstens empfohlen, da Python2 nicht mehr lange unterstützt wird. Im Mai hat der Kick-Off des Projekts **»Management Molekularer Daten im Research Data Life Cycle« (MaMoDaR)**, eine Kooperation der FH Potsdam und des Robert Koch-Instituts, an der FHP stattgefunden und das **IPK Gatersleben** hat RDMO als Forschungsdatenmanagement-Werkzeug aus der Testphase in die Anwendungsphase überführt. Falls Sie **FDM-Schulungen mit dem Einsatz von RDMO** planen, teilen Sie uns die Termine mit, dann können wir sie mitbewerben (z. B. Twitter, Newsletter) und teilen Sie uns auch gerne Ihr Feedback und Erfahrungsberichten aus den Schulungen bzw. Schulungsmaterialien mit.
 
 April 2019
 ----------
