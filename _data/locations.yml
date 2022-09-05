@@ -260,7 +260,7 @@
   color: blue
 
 - name:    Robert Koch-Institut
-  url:     https://www.rki.de/mamodar
+  # url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
   lat:     52.516181
   lon:     13.376935
