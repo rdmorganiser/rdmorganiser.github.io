@@ -178,12 +178,12 @@
   # slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
 
 - event: RDA-Deutschland-Treffen 2015
-  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
+  # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
   date: 2015-11-26
   place: Potsdam
   title: Breakout-Session zu Datenmanagementplänen
   authors: Jochen Klar, Hermann Stehouwer, Torsten Trippel
-  abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
+  # abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
 
 - event: Helmholtz Open Science Webinar
   # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/
