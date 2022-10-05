@@ -11,7 +11,7 @@ lang: de
 <video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" preload="none" style="width: 100%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-Mit dem Research Data Management Organiser (RDMO) können Institutionen und Forschende das Forschungsdatenmanagement ihre Projekte strukturiert planen und durchführen. Es erlaubt das Erfassen aller relevanten Planungsinformationen in Datenmanagementplänen und die Verwaltung aller Datenmanagementaufgaben über den gesamten Datenlebenszyklus.
+aaaa Mit dem Research Data Management Organiser (RDMO) können Institutionen und Forschende das Forschungsdatenmanagement ihre Projekte strukturiert planen und durchführen. Es erlaubt das Erfassen aller relevanten Planungsinformationen in Datenmanagementplänen und die Verwaltung aller Datenmanagementaufgaben über den gesamten Datenlebenszyklus.
 
 RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In zwei Projektphasen wurde die Software von den Projektpartnern AIP, FHP und KIT-Bibliothek in enger Zusammenarbeit mit Anwendern stets weiterentwickelt. Im Fokus der Erweiterung von RDMO standen u.a. Rollenkonzepte und Anbindungen an die institutionelle Infrastruktur wie Repositorien,
 Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es wurden Workshops zur Diskussion der Funktionalitäten durchgeführt, Einführungsmaterialien erstellt und eine Verbreiterung der Entwickler-Community angestrebt.
