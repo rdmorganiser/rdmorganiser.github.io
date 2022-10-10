@@ -2,7 +2,7 @@
 title: RDMO
 description: "Research Data Management Organiser"
 baseurl: ""
-url: "http://rdmorganiser.github.io"
+url: "http://mypydavid.github.io"
 
 # Build settings
 markdown: kramdown
