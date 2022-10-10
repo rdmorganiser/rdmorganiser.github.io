@@ -1,8 +1,8 @@
 # Site settings
 title: RDMO
 description: "Research Data Management Organiser"
-baseurl: ""
-url: "https://sabine-schoenau.github.io"
+baseurl: "https://sabine-schoenau.github.io/"
+url: ""
 
 # Build settings
 markdown: kramdown
