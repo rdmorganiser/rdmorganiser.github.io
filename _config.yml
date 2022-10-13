@@ -2,7 +2,7 @@
 title: RDMO
 description: "Research Data Management Organiser"
 baseurl: "https://sabine-schoenau.github.io/"
-url: "new_page2"
+url: "rdmorganiser.github.io"
 
 # Build settings
 markdown: kramdown
