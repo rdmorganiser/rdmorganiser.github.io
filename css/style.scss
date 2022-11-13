@@ -9,8 +9,8 @@ $fontcolor: #484c55;
 $Gainsboro: #DCDCDC;
 $RebeccaPurple: #663399;
 
-$header-height: 400px;
-$header-height-md: 300px;
+$header-height: 200px;
+$header-height-md: 150px;
 
 
 /* colors */
@@ -257,21 +257,7 @@ header {
     .header-image a:hover {
         color: $footer-link-color;
     }
-    .header-text {
-        position: relative;
-        padding-top: 160px;
-        width: 768px;
-    }
-    .header-text h1 {
-        font-size: 80px;
-        color: white;
-        text-align: center;
-    }
-    .header-text p {
-        font-size: 24px;
-        color: white;
-        text-align: center;
-    }
+   
     @media (max-width: $screen-md-max) {
         height: $header-height-md;
 
@@ -298,7 +284,7 @@ header {
             font-size: 20px;
             color: $variant-color;
         }
-    }
+    
 }
 
 /* footer */
