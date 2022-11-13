@@ -12,6 +12,16 @@ lang: de
 </script>
 
 
+<script src="{{ site.baseurl }}/js/func.js"></script>
+<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
+<script src="{{ site.baseurl }}/js/leaflet.js"></script>
+<script src="{{ site.baseurl }}/js/map.js"></script>
+
+<script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
+<script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/table.css">
+
+
 <h1>Willkommen auf der Seite von RDMO</h1>
 <hr>
 
@@ -30,12 +40,8 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 
 <h2>Kooperationen</h2>
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
-
 {% raw  %}
 <script id="popup-template" type="text/x-handlebars-template">
-
-<h4>{{name}}</h4>
-
 <dl>
     {{#if url}}
         <dt>URL</dt>
@@ -57,7 +63,6 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 </script>
 {% endraw %}
-
 {% raw  %}
 <script id="legend-template" type="text/x-handlebars-template">
 
@@ -70,15 +75,6 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 </script>
 {% endraw %}
-
-<script src="{{ site.baseurl }}/js/func.js"></script>
-<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
-<script src="{{ site.baseurl }}/js/leaflet.js"></script>
-<script src="{{ site.baseurl }}/js/map.js"></script>
-
-<script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
-<script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/table.css">
 
 <div id="map" class="map"></div>
 
