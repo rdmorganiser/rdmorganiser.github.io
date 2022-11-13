@@ -8,7 +8,7 @@ lang: de
 <h1>Willkommen auf der Seite von RDMO</h1>
 <hr>
 
-Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
+Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{site.baseurl}}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{site.baseurl}}/kooperationen).
 
 <h2>Was ist der Research Data Management Organiser?</h2>
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.
