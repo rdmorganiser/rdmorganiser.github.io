@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: front
 
 key: index
 lang: de
