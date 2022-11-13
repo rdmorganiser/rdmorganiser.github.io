@@ -6,6 +6,8 @@ $lightgray: #f5f5f5;
 $mediumgray: #666;
 $darkgray: #112;
 $fontcolor: #484c55;
+$Gainsboro: #DCDCDC;
+$RebeccaPurple: #663399;
 
 $header-height: 400px;
 $header-height-md: 300px;
@@ -301,8 +303,8 @@ header {
 
 /* footer */
 footer {
-    background-color: $darkgray;
-    color: #999;
+    background-color: $Gainsboro;
+    color: $RebeccaPurple;
     padding-top: 40px;
     padding-bottom: 20px;
 
@@ -319,27 +321,7 @@ footer {
     p {
         text-align: left;
     }
-    img {
-        display: block;
-    }
-    .aip-logo {
-        width: 70%;
-        padding-top: 10px;
-        padding-bottom: 25px;
-    }
-    .fhp-logo {
-        width: 70%;
-        padding-bottom: 20px;
-    }
-    .kit-logo {
-        width: 30%;
-    }
-    .dfg-logo {
-        width: 70%;
-        padding-top: 10px;
-        padding-bottom: 20px;
-    }
-}
+    
 
 /* map */
 
