@@ -257,7 +257,21 @@ header {
     .header-image a:hover {
         color: $footer-link-color;
     }
-   
+    .header-text {
+        position: relative;
+        padding-top: 160px;
+        width: 768px;
+    }
+    .header-text h1 {
+        font-size: 80px;
+        color: white;
+        text-align: center;
+    }
+    .header-text p {
+        font-size: 24px;
+        color: white;
+        text-align: center;
+    }
     @media (max-width: $screen-md-max) {
         height: $header-height-md;
 
@@ -284,13 +298,13 @@ header {
             font-size: 20px;
             color: $variant-color;
         }
-    
+    }
 }
 
 /* footer */
 footer {
     background-color: $Gainsboro;
-    color: $RebeccaPurple;
+    color: #999;
     padding-top: 40px;
     padding-bottom: 20px;
 
@@ -307,7 +321,27 @@ footer {
     p {
         text-align: left;
     }
-    
+    img {
+        display: block;
+    }
+    .aip-logo {
+        width: 70%;
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+    .fhp-logo {
+        width: 70%;
+        padding-bottom: 20px;
+    }
+    .kit-logo {
+        width: 30%;
+    }
+    .dfg-logo {
+        width: 70%;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+}
 
 /* map */
 
