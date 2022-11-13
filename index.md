@@ -1,26 +1,21 @@
 ---
-layout: front
+layout: page
 
 key: index
 lang: de
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
-
 <script>
     var _locations = {{ site.data.locations | jsonify }};
 </script>
-
-
 <script src="{{ site.baseurl }}/js/func.js"></script>
 <script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
-
 <script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
 <script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/table.css">
-
 
 <h1>Willkommen auf der Seite von RDMO</h1>
 <hr>
