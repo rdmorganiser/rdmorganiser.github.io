@@ -9,7 +9,7 @@ $fontcolor: #484c55;
 $Gainsboro: #DCDCDC;
 $RebeccaPurple: #663399;
 
-$header-height: 200px;
+$header-height: 250px;
 $header-height-md: 150px;
 
 
@@ -136,7 +136,6 @@ dl dd {
     background-color: white;
 }
 .page {
-    margin: 40px 0;
     padding: 40px;
 }
 
@@ -224,8 +223,8 @@ header {
 
     .header-image {
         position: absolute;
-        left: 0;
-        right: 0;
+        left: 140px;
+        right: 140px;
 
         opacity: 0;
         -webkit-transition: $image-transition;
@@ -263,12 +262,12 @@ header {
         width: 768px;
     }
     .header-text h1 {
-        font-size: 80px;
+        font-size: 40px;
         color: white;
         text-align: center;
     }
     .header-text p {
-        font-size: 24px;
+        font-size: 18px;
         color: white;
         text-align: center;
     }
