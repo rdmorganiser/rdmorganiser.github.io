@@ -1,7 +1,7 @@
 # Site settings
 title: RDMO
 description: "Research Data Management Organiser"
-baseurl: "https://sabine-schoenau.github.io/"
+baseurl: "https://sabine-schoenau.github.io"
 url: "rdmorganiser.github.io"
 
 # Build settings
