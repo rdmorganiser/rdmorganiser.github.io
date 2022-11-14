@@ -29,7 +29,7 @@
   color:   blue
 
 - name:    Fachhochschule Potsdam
-  url:     https://rdmo.fh-potsdam.de
+  # url:     https://rdmo.fh-potsdam.de
   contact: Ulrike Wuttke
   lat:     52.413501
   lon:     13.0512984
@@ -170,6 +170,7 @@
   color:   blue
 
 - name:    Universität Trier
+  url:     https://rdmo.uni-trier.de/
   contact: Marina Lemaire, Stefan Kellendonk
   lat:     49.745933
   lon:     6.688490
@@ -259,7 +260,7 @@
   color: blue
 
 - name:    Robert Koch-Institut
-  url:     https://www.rki.de/mamodar
+  # url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
   lat:     52.516181
   lon:     13.376935
@@ -276,7 +277,7 @@
       öffentliche Repositorien wie GenBank zu unterstützen.
 
 - name: Centre de calcul d'IN2P3
-  url: https://cc.in2p3.fr
+  url: https://dmp.in2p3.fr/
   contact: Yonny Cardenas
   lat: 45.7825982
   lon: 4.8651914
@@ -286,6 +287,10 @@
 - name: Stiftung Preußischer Kulturbesitz
   url: https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
+  lat: 52.5066695
+  lon: 13.352966
+  color: gray
+  discipline: Geistes- und Sozialwissenschaften
 
 - name: Deutsches Klimarechenzentrum (DKRZ)
   url: https://rdmo.dkrz.de
@@ -343,7 +348,7 @@
      Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
 
 - name: Istituto Nazionale di Ricerca Metrologica (INRiM)
-  url: https://rdmo.inrim.it/
+  # url: https://rdmo.inrim.it/
   contact: Dario Pilori
   lat: 45.014953
   lon: 7.637828
@@ -361,4 +366,11 @@
   contact: Tim Hasler
   lat: 52.4560878
   lon: 13.2960695
+  color: blue
+
+- name: osnaPlan / Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
+  contact: FDM-Team der UB Osnabrück (fdm@uos.de)
+  lat: 52.2731726
+  lon: 8.0457204
   color: blue

@@ -4,6 +4,7 @@ description: "Research Data Management Organiser"
 baseurl: "rdmorganiser.github.io"
 url: "http://sabine-schoenau.github.io"
 
+
 # Build settings
 markdown: kramdown
 permalink: pretty
