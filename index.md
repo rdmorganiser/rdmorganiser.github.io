@@ -7,7 +7,7 @@ lang: de
 
 
 <hr>
-aaa
+
 # Willkommen auf der Seite von RDMO
 
 Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{ site.baseurl }}/software), deren [Dokumentation]({{ site.baseurl }}/dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft]({{ site.baseurl }}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
