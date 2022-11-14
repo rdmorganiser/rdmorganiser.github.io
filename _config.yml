@@ -1,8 +1,8 @@
 # Site settings
 title: RDMO
 description: "Research Data Management Organiser"
-baseurl: "https://mypydavid.github.io/"
-url: "rdmorganiser.github.io"
+baseurl: "rdmorganiser.github.io"
+url: "https://mypydavid.github.io"
 
 # Build settings
 markdown: kramdown
