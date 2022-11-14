@@ -7,35 +7,21 @@ lang: de
 
 
 <hr>
+aaa
+# Willkommen auf der Seite von RDMO
 
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" preload="none" style="width: 100%;">
-<source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{ site.baseurl }}/software), deren [Dokumentation]({{ site.baseurl }}/dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft]({{ site.baseurl }}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
 
-Mit dem Research Data Management Organiser (RDMO) können Institutionen und Forschende das Forschungsdatenmanagement ihre Projekte strukturiert planen und durchführen. Es erlaubt das Erfassen aller relevanten Planungsinformationen in Datenmanagementplänen und die Verwaltung aller Datenmanagementaufgaben über den gesamten Datenlebenszyklus.
+## Was ist der Research Data Management Organiser?
+Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.
+RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{ site.baseurl }}/arbeitspakete) geschaffen worden. 
 
-RDMO ist bereit für die Anwendung in kleineren und größeren Projekten. In zwei Projektphasen wurde die Software von den Projektpartnern AIP, FHP und KIT-Bibliothek in enger Zusammenarbeit mit Anwendern stets weiterentwickelt. Im Fokus der Erweiterung von RDMO standen u.a. Rollenkonzepte und Anbindungen an die institutionelle Infrastruktur wie Repositorien,
-Ticket-Systeme und Infrastruktur für Authentifizierung und Autorisierung. Es wurden Workshops zur Diskussion der Funktionalitäten durchgeführt, Einführungsmaterialien erstellt und eine Verbreiterung der Entwickler-Community angestrebt.
+## RDMO-Community
+RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.
 
-Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{site.baseurl}}/software), deren [Dokumentation]({{site.baseurl}}/dokumentation), [Aktuelles]({{site.baseurl}}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
-RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{site.baseurl}}/arbeitspakete) geschaffen worden. Die Arbeitsgemeinschaft wird RDMO weiter
-entwickeln.
-
-Die freie Software finden Sie unter:
-: [github.com/rdmorganiser](https://github.com/rdmorganiser)
-
-Eine Demo-Instanz finden Sie unter:
-: [rdmo.aip.de](https://rdmo.aip.de)
-
-Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link:
-: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
-
-Folgen Sie uns auf Twitter:
-: [twitter.com/rdmorganiser](https://twitter.com/rdmorganiser)
-
-Diskutieren Sie mit uns auf Slack:
-: [rdmo.slack.com](https://rdmo.slack.com)
-(Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)
-
+Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com).
+(Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
 Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 
-Wenn Sie auf Probleme oder Bugs mit der RDMO-Software stoßen, oder wenn Sie Funktionen vorschlagen möchten, können Sie auch direkt ein Issue erstellen: <https://github.com/rdmorganiser/rdmo/issues>. Für Probleme mit Fragebögen, dem RDMO-Domänenmodell oder anderen Inhalten, verwenden Sie bitte die Issues im [rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog) Repository: <https://github.com/rdmorganiser/rdmo-catalog/issues>. Um Issues anzulegen, benötigen Sie einen GitHub-Account.
+## Kooperationen
+Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
