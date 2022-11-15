@@ -16,24 +16,24 @@ $(document).ready(function() {
 
     var icons = {
         'green': new L.Icon({
-            iconUrl: '/img/icons/marker-icon-green.png',
-            shadowUrl: '/img/icons/marker-shadow.png',
+            iconUrl: '../img/icons/marker-icon-green.png',
+            shadowUrl: '../img/icons/marker-shadow.png',
             iconSize: [25, 41],
             iconAnchor: [12, 41],
             popupAnchor: [1, -34],
             shadowSize: [41, 41]
         }),
         'blue': new L.Icon({
-            iconUrl: '/img/icons/marker-icon-blue.png',
-            shadowUrl: '/img/icons/marker-shadow.png',
+            iconUrl: '../img/icons/marker-icon-blue.png',
+            shadowUrl: '../img/icons/marker-shadow.png',
             iconSize: [25, 41],
             iconAnchor: [12, 41],
             popupAnchor: [1, -34],
             shadowSize: [41, 41]
         }),
         'gray': new L.Icon({
-            iconUrl: '/img/icons/marker-icon-grey.png',
-            shadowUrl: '/img/icons/marker-shadow.png',
+            iconUrl: '../img/icons/marker-icon-grey.png',
+            shadowUrl: '../img/icons/marker-shadow.png',
             iconSize: [25, 41],
             iconAnchor: [12, 41],
             popupAnchor: [1, -34],
