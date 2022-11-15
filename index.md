@@ -37,6 +37,27 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 {% raw  %}
 <script id="popup-template" type="text/x-handlebars-template">
 
+<h4>{{name}}</h4>
+
+<dl>
+    {{#if url}}
+        <dt>URL</dt>
+        <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
+    {{/if}}
+    {{#if contact}}
+        <dt>Kontakt</dt>
+        <dd>{{contact}}</dd>
+    {{/if}}
+    {{#if discipline}}
+        <dt>Disziplin</dt>
+        <dd>{{discipline}}</dd>
+    {{/if}}
+    {{#if description}}
+        <dt>Beschreibung</dt>
+        <dd>{{description}}</dd>
+    {{/if}}
+</dl>
+
 </script>
 {% endraw %}
 
@@ -53,8 +74,10 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 </script>
 {% endraw %}
 
+<script src="{{ site.baseurl }}/js/func.js"></script>
 <script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
 
-<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10px; width: 250px; height: 250px; margin-left: 140px; margin-right: 140px;"></div>
+<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10px; width: 250px; height: 250px; margin-left: 140px; margin-right: 140px;"> hier steht text im div</div>
+hier außerhalb
