@@ -61,7 +61,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 {% endraw %}
 
 {% raw  %}
-<script id="legend-template" type="text/x-handlebars-template">
+<script id="legend-template" type="text/x-handlebars-template" style="background-color: white;">
 
 <p>
     <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
