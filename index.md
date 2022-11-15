@@ -65,10 +65,10 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="/img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
+    <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
 </p>
 <p>
-    <img src="/img/icons/marker-icon-grey.png" /> Test-Instanzen
+    <img src="./img/icons/marker-icon-grey.png" /> Test-Instanzen
 </p>
 
 </script>
@@ -79,5 +79,5 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
 
-<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10px; width: 250px; height: 250px; margin-left: 140px; margin-right: 140px;"> hier steht text im div</div>
+<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10px; width: 350px; height: 250px;"> </div>
 hier außerhalb
