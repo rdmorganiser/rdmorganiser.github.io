@@ -57,4 +57,4 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
 
-<div id="map" class="map" style="z-index: 1000000; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+<div id="map" class="map" style="z-index: 1000000; position: absolute; top: 0px; left: 0px; width: 100%; height: 200px; margin-left: 140px; margin-right: 140px;"></div>
