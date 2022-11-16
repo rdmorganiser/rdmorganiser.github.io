@@ -1,11 +1,39 @@
 ---
-layout: front
+layout: page
 
 key: index
 lang: de
 ---
 
+<script src="{{ site.baseurl }}/js/header.js"></script>
 
+<header>
+        <div class="hidden-xs">
+            <div class="header-image header-image-0 visible">
+                <img src="{{ site.baseurl }}/img/header/library.jpg"></img>
+                <p class="attribution">
+                    <a href="https://www.flickr.com/photos/spam/5086168739">Stockholm Public Library (Samantha Marx)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+                </p>
+            </div>
+            <div class="header-image header-image-1">
+                <img src="{{ site.baseurl }}/img/header/supercomputer.jpg"></img>
+                <p class="attribution">
+                    <a href="https://www.flickr.com/photos/nasa_goddard/6559334541">Discover Supercomputer 3 (NASA Goddard Space Flight Center)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+                </p>
+            </div>
+            <div class="header-image header-image-2">
+                <img src="{{ site.baseurl }}/img/header/collection.jpg"></img>
+                <p class="attribution">
+                    <a href="https://www.flickr.com/photos/bulle_de/9221247815">Nasssammlung (Christopher Bulle)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+                </p>
+            </div>
+        </div>
+	<div class="container header-text">
+            <h1>RDMO</h1>
+            <p>Research Data Management Organiser</p>
+        </div>
+    </header>  
+    
 # Willkommen auf der Seite von RDMO
 <hr>
 
