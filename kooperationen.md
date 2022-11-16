@@ -42,10 +42,10 @@ lang: de
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="/img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
+    <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
 </p>
 <p>
-    <img src="/img/icons/marker-icon-grey.png" /> Test-Instanzen
+    <img src="./img/icons/marker-icon-grey.png" /> Test-Instanzen
 </p>
 
 </script>
