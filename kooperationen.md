@@ -42,10 +42,10 @@ lang: de
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="/img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
+    <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
 </p>
 <p>
-    <img src="/img/icons/marker-icon-grey.png" /> Test-Instanzen
+    <img src="./img/icons/marker-icon-grey.png" /> Test-Instanzen
 </p>
 
 </script>
@@ -58,7 +58,7 @@ lang: de
 
 <script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
 <script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/table.css">
+<link rel="stylesheet" type="text/css" href="./css/table.css">
 
 <div id="map" class="map"></div>
 
@@ -97,10 +97,10 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
                             <p style="display: none">live</p>
-                            <img src="/img/icons/marker-icon-blue.png" />
+                            <img src="./img/icons/marker-icon-blue.png" />
                         {% else %}
                             <p style="display: none">test</p>
-                            <img src="/img/icons/marker-icon-grey.png" />
+                            <img src="./img/icons/marker-icon-grey.png" />
                         {% endif %}
                         <script>
                             $("#{{ location.name | slugify }}")

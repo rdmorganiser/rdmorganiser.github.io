@@ -27,7 +27,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 <script src="{{ site.baseurl }}/js/func.js"></script>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
+<link rel="stylesheet" href="./css/leaflet.css" />
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};
@@ -78,5 +78,5 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
 
-<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10px; width: 350px; height: 250px;"> </div>
+<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 100px; width: 350px; height: 250px;"> </div>
 hier außerhalb
