@@ -25,7 +25,7 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 ## Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
-<script src="./js/func.js"></script>
+<script src="{{ site.baseurl }}/js/func.js"></script>
 
 <link rel="stylesheet" href="./css/leaflet.css" />
 
@@ -73,10 +73,9 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 </script>
 {% endraw %}
 
-<script src="./js/func.js"></script>
-<script src="./js/handlebars.min.js"></script>
-<script src="./js/leaflet.js"></script>
-<script src="./js/map.js"></script>
+<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
+<script src="{{ site.baseurl }}/js/leaflet.js"></script>
+<script src="{{ site.baseurl }}/js/map.js"></script>
 
 <div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10%; width: 80%; height: 250px; background-color: #F5F5DC;"> </div>
 hier außerhalb
