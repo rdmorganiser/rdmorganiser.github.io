@@ -225,6 +225,8 @@ header {
         position: absolute;
         left: 130px;
         right: 130px;
+	top: 10px;
+	bottom: 10px;
 
         opacity: 0;
         -webkit-transition: $image-transition;
