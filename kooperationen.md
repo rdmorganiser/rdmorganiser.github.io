@@ -97,10 +97,10 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
                             <p style="display: none">live</p>
-                            <img src="./img/icons/marker-icon-blue.png" />
+                            <img src="/img/icons/marker-icon-blue.png" />
                         {% else %}
                             <p style="display: none">test</p>
-                            <img src="./img/icons/marker-icon-grey.png" />
+                            <img src="/img/icons/marker-icon-grey.png" />
                         {% endif %}
                         <script>
                             $("#{{ location.name | slugify }}")
