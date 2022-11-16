@@ -1,39 +1,11 @@
 ---
-layout: page
+layout: front
 
 key: index
 lang: de
 ---
 
-<script src="{{ site.baseurl }}/js/header.js"></script>
 
-<header>
-        <div class="hidden-xs">
-            <div class="header-image header-image-0 visible">
-                <img src="{{ site.baseurl }}/img/header/library.jpg"></img>
-                <p class="attribution">
-                    <a href="https://www.flickr.com/photos/spam/5086168739">Stockholm Public Library (Samantha Marx)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
-                </p>
-            </div>
-            <div class="header-image header-image-1">
-                <img src="{{ site.baseurl }}/img/header/supercomputer.jpg"></img>
-                <p class="attribution">
-                    <a href="https://www.flickr.com/photos/nasa_goddard/6559334541">Discover Supercomputer 3 (NASA Goddard Space Flight Center)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
-                </p>
-            </div>
-            <div class="header-image header-image-2">
-                <img src="{{ site.baseurl }}/img/header/collection.jpg"></img>
-                <p class="attribution">
-                    <a href="https://www.flickr.com/photos/bulle_de/9221247815">Nasssammlung (Christopher Bulle)</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
-                </p>
-            </div>
-        </div>
-	<div class="container header-text">
-            <h1>RDMO</h1>
-            <p>Research Data Management Organiser</p>
-        </div>
-    </header>  
-    
 # Willkommen auf der Seite von RDMO
 <hr>
 
@@ -53,58 +25,4 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 ## Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
-<script src="{{ site.baseurl }}/js/func.js"></script>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
-
-<script>
-    var _locations = {{ site.data.locations | jsonify }};
-</script>
-
-{% raw  %}
-<script id="popup-template" type="text/x-handlebars-template">
-
-<h4>{{name}}</h4>
-
-<dl>
-    {{#if url}}
-        <dt>URL</dt>
-        <dd><a href="{{url}}" target="_blank">{{url}}</a></dd>
-    {{/if}}
-    {{#if contact}}
-        <dt>Kontakt</dt>
-        <dd>{{contact}}</dd>
-    {{/if}}
-    {{#if discipline}}
-        <dt>Disziplin</dt>
-        <dd>{{discipline}}</dd>
-    {{/if}}
-    {{#if description}}
-        <dt>Beschreibung</dt>
-        <dd>{{description}}</dd>
-    {{/if}}
-</dl>
-
-</script>
-{% endraw %}
-
-{% raw  %}
-<script id="legend-template" type="text/x-handlebars-template">
-
-<p>
-    <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
-</p>
-<p>
-    <img src="./img/icons/marker-icon-grey.png" /> Test-Instanzen
-</p>
-
-</script>
-{% endraw %}
-
-<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
-<script src="{{ site.baseurl }}/js/leaflet.js"></script>
-<script src="{{ site.baseurl }}/js/map.js"></script>
-
-<div id="map" class="map"></div>
-
-hier außerhalb
