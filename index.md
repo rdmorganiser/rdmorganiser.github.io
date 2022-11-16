@@ -27,7 +27,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 <script src="{{ site.baseurl }}/js/func.js"></script>
 
-<link rel="stylesheet" href="./css/leaflet.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};

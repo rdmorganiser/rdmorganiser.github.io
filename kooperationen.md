@@ -58,7 +58,7 @@ lang: de
 
 <script src="{{ site.baseurl }}/js/tablesorter.min.js"></script>
 <script src="{{ site.baseurl }}/js/tablesorter.widgets.js"></script>
-<link rel="stylesheet" type="text/css" href="./css/table.css">
+<link rel="stylesheet" type="text/css" href="/css/table.css">
 
 <div id="map" class="map"></div>
 
