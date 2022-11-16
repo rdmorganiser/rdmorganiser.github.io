@@ -67,6 +67,7 @@ Kooperationen
 
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
+
 <div>
     <div class="no_entries"></div>
     <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
