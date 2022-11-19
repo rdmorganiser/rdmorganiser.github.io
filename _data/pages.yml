@@ -16,48 +16,48 @@ rdmo-arge:
     de: Community
     en: Community
   path:
-    de: rdmo_arge
-    en: en/rdmo_arge
+    de: Community
+    en: en/Community
     
 history:
   label:
     de: Historie
     en: History
   path:
-    de: history
-    en: en/history
+    de: Historie
+    en: en/History
 
 docu_user:
   label:
     de: Dokumentation für Endnutzer
     en: Documentation for users
   path:
-    de: docu_user
-    en: en/docu_user
+    de: Doku_User
+    en: en/Docu_User
 
 docu_manager:
   label:
     de: Dokumentation für Manager
     en: Documentation for manager
   path:
-    de: docu_manager
-    en: en/docu_manager
+    de: Doku_Manager
+    en: en/Docu_Manager
 
 docu_admin:
   label:
     de: Dokumentation für Admins
     en: Documentation for admins
   path:
-    de: docu_admin
-    en: en/docu_admin
+    de: Doku_Admin
+    en: en/Docu_Admin
 
 more:
   label:
     de: Weiteres
     en: More
   path:
-    de: more
-    en: en/more
+    de: More
+    en: en/More
 
 
 
