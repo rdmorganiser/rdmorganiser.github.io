@@ -11,111 +11,53 @@ news:
     de: aktuelles
     en: en/news
 
-project:
-  label:
-    de: Projekt
-    en: Project
-  path:
-    de: projekt
-    en: en/project
-
-phase1:
-  path:
-    de: erste-projektphase/
-    en: en/first-project-phase/
-
-software:
-  label:
-    de: Software
-    en: Software
-  path:
-    de: software/
-    en: en/software/
-
-documentation:
-  label:
-    de: Dokumentation
-    en: Documentation
-  path:
-    de: dokumentation/
-    en: en/documentation/
-
-cooperations:
-  label:
-    de: Kooperationen
-    en: Cooperations
-  path:
-    de: kooperationen/
-    en: en/cooperations/
-
-material:
-  label:
-    de: Materialien
-    en: Promotion
-  path:
-    de: materialien/
-    en: en/promotion/
-
-workshops:
-  label:
-    de: Workshops
-    en: Workshops
-  path:
-    de: workshops/
-    en: en/workshops/
-
-talks:
-  label:
-    de: Vorträge
-    en: Talks
-  path:
-    de: vorträge/
-    en: en/talks/
-
-teaching:
-  label:
-    de: Lehre
-    en: Teaching
-  path:
-    de: lehre/
-    en: en/teaching/
-
-team:
-  label:
-    de: Team
-    en: Team
-  path:
-    de: team/
-    en: en/team/
-
 rdmo-arge:
   label:
-    de: RDMO Arbeitsgemeinschaft
-    en: RDMO Consortium
+    de: Community
+    en: Community
   path:
     de: rdmo_arge
     en: en/rdmo_arge
 
-groups:
+history
   label:
-    de: Arbeitsgruppen
-    en: Working Groups
+    de: Historie
+    en: History
   path:
-    de: groups/
-    en: en/groups/
+    de: history
+    en: en/history
 
-protection:
+docu_user
   label:
-    de: Datenschutz
-    en: Data protection
+    de: Dokumentation für Endnutzer
+    en: Documentation for users
   path:
-    de: schutz/
-    en: en/protection/
+    de: docu_user
+    en: en/docu_user
 
-publications:
+docu_manager
   label:
-    de: Publikationen
-    en: Publications
+    de: Dokumentation für Manager
+    en: Documentation for manager
   path:
-    de: publikationen/
-    en: en/publications/
+    de: docu_manager
+    en: en/docu_manager
+
+docu_admin
+  label:
+    de: Dokumentation für Admins
+    en: Documentation for admins
+  path:
+    de: docu_admin
+    en: en/docu_admin
+
+more
+  label:
+    de: Weiteres
+    en: More
+  path:
+    de: more
+    en: en/more
+
+
+

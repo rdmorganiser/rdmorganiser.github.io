@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: promotion
+key: more
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: software
+key: docu_admin
 lang: de
 ---
 

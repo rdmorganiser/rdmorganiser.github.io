@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: material
+key: more
 lang: de
 ---
 

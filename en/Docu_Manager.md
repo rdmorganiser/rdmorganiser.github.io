@@ -1,7 +1,7 @@
 ---
 layout: page
 
-key: documentation
+key: docu_manager
 lang: en
 ---
 
