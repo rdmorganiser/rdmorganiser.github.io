@@ -19,16 +19,16 @@
 - label:
      de: Informationen
      en: Informations
-   submenu:
-   - key: docu_user
+  submenu:
+  - key: docu_user
     label:
       de: Dokumentation für Endnutzer
       en: Documentation for users
-   - key: docu_manager
+  - key: docu_manager
     label:
       de: Dokumentation für Manager
       en: Documentation for manager
-   - key: docu_admin
+  - key: docu_admin
     label:
       de: Dokumentation für Admins
       en: Documentation for admins
