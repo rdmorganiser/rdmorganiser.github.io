@@ -18,8 +18,8 @@ rdmo-arge:
   path:
     de: rdmo_arge
     en: en/rdmo_arge
-
-history
+    
+history:
   label:
     de: Historie
     en: History
@@ -27,7 +27,7 @@ history
     de: history
     en: en/history
 
-docu_user
+docu_user:
   label:
     de: Dokumentation für Endnutzer
     en: Documentation for users
@@ -35,7 +35,7 @@ docu_user
     de: docu_user
     en: en/docu_user
 
-docu_manager
+docu_manager:
   label:
     de: Dokumentation für Manager
     en: Documentation for manager
@@ -43,7 +43,7 @@ docu_manager
     de: docu_manager
     en: en/docu_manager
 
-docu_admin
+docu_admin:
   label:
     de: Dokumentation für Admins
     en: Documentation for admins
@@ -51,7 +51,7 @@ docu_admin
     de: docu_admin
     en: en/docu_admin
 
-more
+more:
   label:
     de: Weiteres
     en: More
