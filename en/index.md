@@ -38,8 +38,8 @@ Follow us on Twitter:
 
 Discuss with us on Slack:
 : [rdmo.slack.com](https://rdmo.slack.com)
-(Send us a e-mail: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> and we will send you an invitation.)
+(Send us a e-mail: <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a> and we will send you an invitation.)
 
-For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+For questions and other matter, please contact us by mail <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a>.
 
 If you encounter problems or bugs with the RDMO Software, or if you want to request a feature, please file an issue here: <https://github.com/rdmorganiser/rdmo/issues>. For problems or suggestions with questionaires, the RDMO domain model or other content, please use the issues in the [rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog) repository: <https://github.com/rdmorganiser/rdmo-catalog/issues>. In order to file issues, you will need a GitHub account.
