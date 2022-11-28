@@ -16,12 +16,9 @@ Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte be
 RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{ site.baseurl }}/arbeitspakete) geschaffen worden. 
 
 ## RDMO-Community
-RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.
-
-Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie bitte unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com).
-(Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
-Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
-
+RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
+Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
+Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie hier(LINK).
 ## Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 <script src="{{ site.baseurl }}/js/func.js"></script>
