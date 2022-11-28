@@ -16,11 +16,13 @@ Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte be
 RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{ site.baseurl }}/arbeitspakete) geschaffen worden. 
 
 ## RDMO-Community
-RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
+RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. 
 Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
-Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie hier(LINK).
+Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie [hier]({{ site.baseurl }}/aktuelles).
+
 ## Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
+
 <script src="{{ site.baseurl }}/js/func.js"></script>
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />

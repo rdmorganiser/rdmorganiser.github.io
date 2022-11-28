@@ -5,15 +5,24 @@ key: news
 lang: de
 ---
 
-Aktuelles
-========
+#Aktuelles
 
 Auf dieser Seite fassen wir komprimiert unsere Aktivitäten zusammen. 
 Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). 
 (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
 Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 
+##RDMO Arbeitsgemeinschaft
+Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 
+### Reguläre Termine
+
+| Steuerungsgruppe | Softwaregruppe | Allgemeiner JourFixe |
+| ------ | ------ | ------ |
+|<table><ul><li>Austausch der Steuerungsmitglieder</li><li>4. Dienstag im Monat (13:00-14:30)</li><li>Status: nicht öffentlich, keine Teilnahme möglich</li></ul></table> | |
+| | |
+| | |
+| | |
 Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
 -------------------------------------
 (Stand: Oktober 2021)
