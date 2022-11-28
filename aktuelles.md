@@ -22,10 +22,10 @@ Reguläre Termine
 
 | Steuerungsgruppe | Softwaregruppe | Allgemeiner JourFixe |
 | ------ | ------ | ------ |
-| <li>Austausch der Steuerungsmitglieder</li><li>4. Dienstag im Monat (13:00-14:30)</li><li>Status: nicht öffentlich, keine Teilnahme möglich</li> | | |
-| | |
-| | |
-| | |
+| Austausch der Steuerungsmitglieder | Austausch über vergangene und zukünftige technische Entwicklungen der Software | Sprechstunde zur Klärung allgemeiner Fragen|
+| jeder 4. Dienstag im Monat (13:00-14:30) | jeder 3. Donnerstag im Monat (11-12Uhr) | jeder 1. Donnerstag im Monat (11-12Uhr)|
+| Status: nicht öffentlich, keine Teilnahme möglich | Status: offen, Teilnahme jederzeit möglich | Status: offen, Teilnahme jederzeit möglich |
+| Protokoll | Protokoll |  |
 
 
 Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
