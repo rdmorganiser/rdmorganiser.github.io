@@ -16,16 +16,25 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 RDMO Arbeitsgemeinschaft
 ------------------------
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
+Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
 Reguläre Termine
 ------------------------
 
-| Steuerungsgruppe | Softwaregruppe | Allgemeiner JourFixe |
-| ------ | ------ | ------ |
-| Austausch der Steuerungsmitglieder | Austausch über vergangene und zukünftige technische Entwicklungen der Software | Sprechstunde zur Klärung allgemeiner Fragen|
-| jeder 4. Dienstag im Monat (13:00-14:30) | jeder 3. Donnerstag im Monat (11-12Uhr) | jeder 1. Donnerstag im Monat (11-12Uhr)|
-| Status: nicht öffentlich, keine Teilnahme möglich | Status: offen, Teilnahme jederzeit möglich | Status: offen, Teilnahme jederzeit möglich |
-| Protokoll | Protokoll |  |
+| Steuerungsgruppe |  Allgemeiner JourFixe |
+| ------ | ------ |
+| Austausch der Steuerungsmitglieder | Sprechstunde zur Klärung allgemeiner Fragen|
+| jeder 4. Dienstag im Monat (13:00-14:30) |  jeder 1. Donnerstag im Monat (11-12Uhr)|
+| Status: nicht öffentlich, keine Teilnahme möglich | Status: offen, Teilnahme jederzeit möglich |
+| Protokoll | Protokoll |  
+
+| Softwaregruppe | Contentgruppe |
+| ------ | ------ |
+| Austausch über vergangene und zukünftige technische Entwicklungen der Software | Austausch über vergangene und zukünftige inhaltliche Entwicklungen |
+| jeder 3. Donnerstag im Monat (11-12Uhr) | Termin: z.Zt. unregelmäßig |
+| Status: offen, Teilnahme jederzeit möglich | Status: offen, Teilnahme jederzeit möglich |
+| Verantwortlicher: Jochen Klar | Verantwortliche: Kerstin Wedlich-Zachodin |
+| Protokoll | Protokoll | 
 
 
 Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
