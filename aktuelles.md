@@ -21,12 +21,24 @@ Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bi
 Reguläre Termine
 ------------------------
 
-| Steuerungsgruppe |  Allgemeiner JourFixe |
-| ------ | ------ |
-| Austausch der Steuerungsmitglieder | Sprechstunde zur Klärung allgemeiner Fragen|
-| jeder 4. Dienstag im Monat (13:00-14:30) |  jeder 1. Donnerstag im Monat (11-12Uhr)|
-| Status: nicht öffentlich, keine Teilnahme möglich | Status: offen, Teilnahme jederzeit möglich |
-| Protokoll | Protokoll |  
+<table>
+<tr><th></th><th>Steuerungsgruppe</th><th>Allgemeiner JourFixe</th><th>Softwaregruppe</th></tr>
+<tr>
+<td>
+Fokus
+</td>
+<td>
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+</td></tr> </table>
+
+| Steuerungsgruppe | |  Allgemeiner JourFixe |
+| ------ | | ------ |
+| Austausch der Steuerungsmitglieder | | Sprechstunde zur Klärung allgemeiner Fragen|
+| jeder 4. Dienstag im Monat (13:00-14:30) | |  jeder 1. Donnerstag im Monat (11-12Uhr)|
+| Status: nicht öffentlich, keine Teilnahme möglich | | Status: offen, Teilnahme jederzeit möglich |
+| Protokoll | | Protokoll |  
 
 | Softwaregruppe | Contentgruppe |
 | ------ | ------ |
