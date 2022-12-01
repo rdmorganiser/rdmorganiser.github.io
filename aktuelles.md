@@ -28,10 +28,54 @@ Reguläre Termine
 Fokus
 </td>
 <td>
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-</td></tr> </table>
+Austausch der Steuerungsmitglieder
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr> 
+<tr>
+<td>Termin
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Status
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>Protokoll
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
 
 | Steuerungsgruppe | |  Allgemeiner JourFixe |
 | ------ | | ------ |
