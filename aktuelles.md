@@ -61,16 +61,6 @@ Austausch der Steuerungsmitglieder
 </td>
 </tr>
 <tr>
-<td style="font-weight: bold;">Ansprechperson
-</td>
-<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a>
-</td>
-<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
-</td>
-<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
-</td>
-</tr>
-<tr>
 <td style="font-weight: bold;">Protokoll
 </td>
 <td>
@@ -80,7 +70,18 @@ Austausch der Steuerungsmitglieder
 <td>
 </td>
 </tr>
+<tr>
+<td style="font-weight: bold;">Ansprechperson
+</td>
+<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a>
+</td>
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
+</td>
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
+</td>
+</tr>
 </table>
+
 
 Dauerhafte Contentgruppen
 ----------------------------
@@ -116,14 +117,6 @@ Fokus
 </td>
 </tr>
 <tr>
-<td style="font-weight: bold;">Ansprechperson
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
 <td style="font-weight: bold;">Protokoll
 </td>
 <td>
@@ -131,7 +124,16 @@ Fokus
 <td>
 </td>
 </tr>
+<tr>
+<td style="font-weight: bold;">Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
 </table>
+
 
 Ad hoc-Gruppen der Contentgruppe
 ----------------------------------
@@ -167,7 +169,50 @@ Fokus
 </td>
 </tr>
 <tr>
+<td style="font-weight: bold;">Protokoll
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
 <td style="font-weight: bold;">Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
+ 
+
+<details>
+  <summary>Abgeschlossene Ad hoc-Gruppen</summary>
+  <table style="width: 100%">
+<tr>
+<th style="width: 30%"></th>
+<th style="width: 35%">UAG Textanleitungen</th>
+<th style="width: 35%">UAG Werbung</th>
+<tr>
+<td style="font-weight: bold;">
+Fokus
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr> 
+<tr>
+<td style="font-weight: bold;">Termin
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Status
 </td>
 <td>
 </td>
@@ -182,8 +227,16 @@ Fokus
 <td>
 </td>
 </tr>
+<tr>
+<td style="font-weight: bold;">Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
 </table>
- 
+</details>
 
 
 März 2022
