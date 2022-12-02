@@ -22,7 +22,11 @@ Reguläre Termine
 ------------------------
 
 <table>
-<tr><th></th><th>Steuerungsgruppe</th><th>Allgemeiner JourFixe</th><th>Softwaregruppe</th></tr>
+<tr>
+<th></th>
+<th>Steuerungsgruppe</th>
+<th>Allgemeiner JourFixe</th>
+<th>Softwaregruppe</th></tr>
 <tr>
 <td>
 Fokus
@@ -30,39 +34,39 @@ Fokus
 <td>
 Austausch der Steuerungsmitglieder
 </td>
-<td>
+<td>Sprechstunde zur Klärung allgemeiner Fragen
 </td>
-<td>
+<td>Austausch über vergangene und zukünftige technische Entwicklungen 
 </td>
 </tr> 
 <tr>
 <td>Termin
 </td>
-<td>
+<td>jeder 4. Dienstag im Monat (13:00-14:30)
 </td>
-<td>
+<td>jeder 1. Donnerstag im Monat (11-12Uhr)
 </td>
-<td>
+<td>jeder 3. Donnerstag im Monat (11-12Uhr)
 </td>
 </tr>
 <tr>
 <td>Status
 </td>
-<td>
+<td>nicht öffentlich, keine Teilnahme möglich
 </td>
-<td>
+<td>offen
 </td>
-<td>
+<td>offen, Teilnahme jederzeit möglich
 </td>
 </tr>
 <tr>
 <td>Ansprechperson
 </td>
-<td>
+<td>Gerald Jagusch
 </td>
-<td>
+<td>Jochen Klar
 </td>
-<td>
+<td>Jochen Klar
 </td>
 </tr>
 <tr>
