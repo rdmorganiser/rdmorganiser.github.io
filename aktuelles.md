@@ -18,8 +18,7 @@ RDMO Arbeitsgemeinschaft
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
-Reguläre Termine
-------------------------
+<h2>Reguläre Termine</h2>
 (Stand: Dezember 2022)
 
 <table style="width: 100%">
@@ -27,7 +26,8 @@ Reguläre Termine
 <th style="width: 25%"></th>
 <th style="width: 25%">Steuerungsgruppe</th>
 <th style="width: 25%">Allgemeiner JourFixe</th>
-<th style="width: 25%">Softwaregruppe</th></tr>
+<th style="width: 25%">Softwaregruppe</th>
+</tr>
 <tr>
 <td style="font-weight: bold;">
 Fokus
@@ -83,8 +83,9 @@ Austausch der Steuerungsmitglieder
 </table>
 
 
-Dauerhafte Contentgruppen
-------------------------
+<h2>Dauerhafte Contentgruppen</h2>
+
+Die allgemeine Contentgruppe sowie die UAG Redaktionsprozesse sind beständige Gruppen, die während der gesamten Projektphase bestehen bleiben.
 
 <table style="width: 100%">
 <tr>
@@ -135,8 +136,7 @@ Fokus
 </table>
 
 
-Ad hoc-Gruppen der Contentgruppe
-------------------------
+<h2>Ad hoc-Gruppen der Contentgruppe</h2>
 
 Für spezielle Themen können sich eigene Gruppen bilden, die nur über einen kurzen Zeitraum existieren. Voraussetzung ist, dass die Entstehung mit der Contengruppe abgestimmt worden ist und die Verantwortlichen der jeweiligen Gruppe ein Mal im Monat den Stand der Steuerungsgruppe berichten.
 
@@ -242,6 +242,7 @@ Fokus
 
 
 März 2022
+-------------
 
 wir erinnern nochmal an das 7. RDMO-Community-Treffen (virtuell)
 am Mittwoch, den 2. März von 14:00 bis 16:00 Uhr.
