@@ -20,15 +20,16 @@ Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bi
 
 Reguläre Termine
 ------------------------
+(Stand: Dezember 2022)
 
-<table>
+<table style="width: 100%">
 <tr>
-<th></th>
-<th>Steuerungsgruppe</th>
-<th>Allgemeiner JourFixe</th>
-<th>Softwaregruppe</th></tr>
+<th style="width: 25%"></th>
+<th style="width: 25%">Steuerungsgruppe</th>
+<th style="width: 25%">Allgemeiner JourFixe</th>
+<th style="width: 25%">Softwaregruppe</th></tr>
 <tr>
-<td>
+<td style="font-weight: bold;">
 Fokus
 </td>
 <td>
@@ -40,7 +41,7 @@ Austausch der Steuerungsmitglieder
 </td>
 </tr> 
 <tr>
-<td>Termin
+<td style="font-weight: bold;">Termin
 </td>
 <td>jeder 4. Dienstag im Monat (13:00-14:30)
 </td>
@@ -50,7 +51,7 @@ Austausch der Steuerungsmitglieder
 </td>
 </tr>
 <tr>
-<td>Status
+<td style="font-weight: bold;">Status
 </td>
 <td>nicht öffentlich, keine Teilnahme möglich
 </td>
@@ -60,17 +61,17 @@ Austausch der Steuerungsmitglieder
 </td>
 </tr>
 <tr>
-<td>Ansprechperson
+<td style="font-weight: bold;">Ansprechperson
 </td>
-<td>Gerald Jagusch
+<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a>
 </td>
-<td>Jochen Klar
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
 </td>
-<td>Jochen Klar
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
 </td>
 </tr>
 <tr>
-<td>Protokoll
+<td style="font-weight: bold;">Protokoll
 </td>
 <td>
 </td>
@@ -81,30 +82,109 @@ Austausch der Steuerungsmitglieder
 </tr>
 </table>
 
-| Steuerungsgruppe | |  Allgemeiner JourFixe |
-| ------ | | ------ |
-| Austausch der Steuerungsmitglieder | | Sprechstunde zur Klärung allgemeiner Fragen|
-| jeder 4. Dienstag im Monat (13:00-14:30) | |  jeder 1. Donnerstag im Monat (11-12Uhr)|
-| Status: nicht öffentlich, keine Teilnahme möglich | | Status: offen, Teilnahme jederzeit möglich |
-| Protokoll | | Protokoll |  
+Dauerhafte Contentgruppen
+----------------------------
 
-| Softwaregruppe | Contentgruppe |
-| ------ | ------ |
-| Austausch über vergangene und zukünftige technische Entwicklungen der Software | Austausch über vergangene und zukünftige inhaltliche Entwicklungen |
-| jeder 3. Donnerstag im Monat (11-12Uhr) | Termin: z.Zt. unregelmäßig |
-| Status: offen, Teilnahme jederzeit möglich | Status: offen, Teilnahme jederzeit möglich |
-| Verantwortlicher: Jochen Klar | Verantwortliche: Kerstin Wedlich-Zachodin |
-| Protokoll | Protokoll | 
+<table style="width: 100%">
+<tr>
+<th style="width: 30%"></th>
+<th style="width: 35%">Allgemeine Contentgruppe</th>
+<th style="width: 35%">UAG Redaktionsprozesse</th>
+<tr>
+<td style="font-weight: bold;">
+Fokus
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr> 
+<tr>
+<td style="font-weight: bold;">Termin
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Status
+</td>
+<td>
+</td>
+<td>offen, Teilnahme jederzeit möglich
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Protokoll
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
 
+Ad hoc-Gruppen der Contentgruppe
+----------------------------------
 
-Reguläre RDMO-Videokonferenz-Termine: 11:00h -12:00h
-(Stand: Oktober 2021)
+<table style="width: 100%">
+<tr>
+<th style="width: 30%"></th>
+<th style="width: 35%">UAG Website</th>
+<th style="width: 35%">UAG DFG Checkliste</th>
+<tr>
+<td style="font-weight: bold;">
+Fokus
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr> 
+<tr>
+<td style="font-weight: bold;">Termin
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Status
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Ansprechperson
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">Protokoll
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
+ 
 
-- Allgemeiner JourFixe: jeder 1. Donnerstag im Monat
-- Content-Gruppe: jeder 2. Donnerstag im Monat
-- Entwicklergruppe: jeder 3. Donnerstag im Monat
-
-Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
 
 März 2022
 
