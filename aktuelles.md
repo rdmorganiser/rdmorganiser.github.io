@@ -21,12 +21,12 @@ Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bi
 <h2>Reguläre Termine</h2>
 (Stand: Dezember 2022)
 
-<table style="width: 100%">
+<table style="width: 100%;">
 <tr>
-<th style="width: 25%"></th>
-<th style="width: 25%">Steuerungsgruppe</th>
-<th style="width: 25%">Allgemeiner JourFixe</th>
-<th style="width: 25%">Softwaregruppe</th>
+<th style="width: 25%;"></th>
+<th style="width: 25%;">Steuerungsgruppe</th>
+<th style="width: 25%;">Allgemeiner JourFixe</th>
+<th style="width: 25%;">Softwaregruppe</th>
 </tr>
 <tr>
 <td style="font-weight: bold;">
@@ -87,11 +87,11 @@ Austausch der Steuerungsmitglieder
 
 Die allgemeine Contentgruppe sowie die UAG Redaktionsprozesse sind beständige Gruppen, die während der gesamten Projektphase bestehen bleiben.
 
-<table style="width: 100%">
+<table style="width: 100%;">
 <tr>
-<th style="width: 30%"></th>
-<th style="width: 35%">Allgemeine Contentgruppe</th>
-<th style="width: 35%">UAG Redaktionsprozesse</th>
+<th style="width: 30%;"></th>
+<th style="width: 35%;">Allgemeine Contentgruppe</th>
+<th style="width: 35%;">UAG Redaktionsprozesse</th>
 <tr>
 <td style="font-weight: bold;">
 Fokus
@@ -140,11 +140,11 @@ Fokus
 
 Für spezielle Themen können sich eigene Gruppen bilden, die nur über einen kurzen Zeitraum existieren. Voraussetzung ist, dass die Entstehung mit der Contengruppe abgestimmt worden ist und die Verantwortlichen der jeweiligen Gruppe ein Mal im Monat den Stand der Steuerungsgruppe berichten.
 
-<table style="width: 100%">
+<table style="width: 100%;">
 <tr>
-<th style="width: 30%"></th>
-<th style="width: 35%">UAG Website</th>
-<th style="width: 35%">UAG DFG Checkliste</th>
+<th style="width: 30%;"></th>
+<th style="width: 35%;">UAG Website</th>
+<th style="width: 35%;">UAG DFG Checkliste</th>
 <tr>
 <td style="font-weight: bold;">
 Fokus
@@ -191,11 +191,11 @@ Fokus
 
 <details>
   <summary>Abgeschlossene Ad hoc-Gruppen</summary>
-<table style="width: 100%">
+<table style="width: 100%;">
 <tr>
-<th style="width: 30%"></th>
-<th style="width: 35%">UAG Textanleitungen</th>
-<th style="width: 35%">UAG Werbung</th>
+<th style="width: 30%;"></th>
+<th style="width: 35%;">UAG Textanleitungen</th>
+<th style="width: 35%;">UAG Werbung</th>
 <tr>
 <td style="font-weight: bold;">
 Fokus
