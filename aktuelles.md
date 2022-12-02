@@ -84,7 +84,7 @@ Austausch der Steuerungsmitglieder
 
 
 Dauerhafte Contentgruppen
-----------------------------
+------------------------
 
 <table style="width: 100%">
 <tr>
@@ -136,7 +136,9 @@ Fokus
 
 
 Ad hoc-Gruppen der Contentgruppe
-----------------------------------
+------------------------
+
+Für spezielle Themen können sich eigene Gruppen bilden, die nur über einen kurzen Zeitraum existieren. Voraussetzung ist, dass die Entstehung mit der Contengruppe abgestimmt worden ist und die Verantwortlichen der jeweiligen Gruppe ein Mal im Monat den Stand der Steuerungsgruppe berichten.
 
 <table style="width: 100%">
 <tr>
@@ -189,7 +191,7 @@ Fokus
 
 <details>
   <summary>Abgeschlossene Ad hoc-Gruppen</summary>
-  <table style="width: 100%">
+<table style="width: 100%">
 <tr>
 <th style="width: 30%"></th>
 <th style="width: 35%">UAG Textanleitungen</th>
