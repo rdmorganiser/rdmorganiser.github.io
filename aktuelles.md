@@ -106,13 +106,33 @@ Bevorstehende Workshops und Meetings:
 ------------------
 
 
-### Bisherige Workshops und Treffen:
+Bisherige Workshops und Treffen:
+------------------
 
 Die nachfolgende Auflistung enthält alle Bekanntmachungen, Meetings und Workshops der letzten zwölf Monate. Alle zuvor stattgefundenen Ereignisse finden Sie auf der Seite [Vergangenes]({{ siteurl }}/Vergangenes).
 Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dokumentation für Admins]({{siteurl}}/Doku_Admins).
 
-
-#### 13.09.2022 
+<table style="width: 100%;">
+<tr>
+<th></th>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<td></td>
+</tr>
+<tr>
+<th>Februar 2022</th>
+<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/>
+In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
+</td>
+</tr>
+</table>
+### 13.09.2022 
 
 8. RDMO-Community-Treffen (virtuell, 4 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen)
 
@@ -138,7 +158,3 @@ Die Agenda ist wie folgt geplant:
 4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
   
 
-#### Februar 2022
-
-Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.
-In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
