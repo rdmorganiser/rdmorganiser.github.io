@@ -31,34 +31,34 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <th style="width: 20%;">Ansprechperson</th>
 </tr>
 <tr style="border:1px solid black;">
-<td style="font-weight: bold;" colspan="2">Steuerungsgruppe</td>
+<td style="font-weight: bold; padding-left:5px;" colspan="2">Steuerungsgruppe</td>
 <td><ul><li>Austausch der Steuerungsmitglieder</li><li>nicht öffentlich, keine Teilnahme möglich</li></ul></td>
 <td>jeder 4. Dienstag im Monat (13:00-14:30)</td>
-<td><a href="">Link</a></td>
+<td><a href="">Link ?</a></td>
 <td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a></td>
 </tr> 
-<tr>
-<td style="font-weight: bold;" colspan="2">Allgemeiner JourFixe</td>
+<tr style="border:1px solid black;">
+<td style="font-weight: bold; padding-left:5px;" colspan="2">Allgemeiner JourFixe</td>
 <td><ul><li>Sprechstunde zur Klärung allgemeiner Fragen</li><li>offen, bei Fragen einfach hinzukommen</li></ul></td>
 <td>jeder 1. Donnerstag im Monat (11:00-12:00Uhr)</td>
-<td><a href="">Link</a></td>
+<td></td>
 <td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 </tr> 
-<tr>
-<td style="font-weight: bold;" colspan="2">Softwaregruppe</td>
+<tr style="border:1px solid black;">
+<td style="font-weight: bold; padding-left:5px;" colspan="2">Softwaregruppe</td>
 <td><ul><li>Austausch über vergangene und zukünftige technische Entwicklungen</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td>jeder 3. Donnerstag im Monat (11:00-12:00Uhr)</td>
-<td><a href="">Link</a></td>
+<td><a href="">Link ?</a></td>
 <td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 </tr>
-<tr>
-<td style="font-weight: bold;" colspan="2">Allgemeine Contentgruppe</td>
+<tr style="border:1px solid black;">
+<td style="font-weight: bold; padding-left:5px;" colspan="2">Allgemeine Contentgruppe</td>
 <td><ul><li>Austausch und Anstimmung über inhaltliche Entwicklungsprozesse</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td>z.Zt. unregelmäßig</td>
 <td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50/edit">Link</a></td>
 <td><a href="mailto:kerstin.wedlich@kit.edu">Kerstin Wedlich-Zachodin</a></td>
 </tr>
-<tr>
+<tr style="border:1px solid black; border-radius:5px;">
 <td></td>
 <td style="font-weight: bold;">UAG Redaktionsprozesse</td>
 <td><ul><li>Umsetzung beschlossener Änderungen inhaltlicher Art</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
@@ -66,7 +66,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50/edit">Link</a></td>
 <td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
 </tr>
-<tr>
+<tr style="border:1px solid black; border-radius:5px;">
 <td></td>
 <td style="font-weight: bold;">UAG Website</td>
 <td><ul><li>Aktualisierung der offiziellen Website von RDMO</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
@@ -74,7 +74,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <td><a href="https://drive.google.com/drive/folders/1hHJa6_fzgZ7lPewgRzhS50jhKM0Bi0Y9">Link</a></td>
 <td><a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a></td>
 </tr>
-<tr>
+<tr style="border:1px solid black; border-radius:5px;">
 <td></td>
 <td style="font-weight: bold;">UAG DFG Checkliste</td>
 <td><ul><li>Überführung der DFG Checkliste in einen generischen RDMO Katalog samt view</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
@@ -82,7 +82,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <td><a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC">Link</a></td>
 <td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
 </tr>
-<tr>
+<tr style="border:1px solid grey; border-radius:5px;">
 <td></td>
 <td style="font-weight: bold; color:grey;">UAG Textanleitungen</td>
 <td style="color:grey;"><ul><li>Erstellung förderspezifischer (formeller) und fachspezifischen (alltauglicher) DMP-Vorgaben und repräsentativer Use Cases</li><li>abgeschlossen, keine Teilnahme mehr möglich</li></ul></td>
@@ -90,7 +90,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <td style="color:grey;"><a style="color:grey;" href="https://docs.google.com/document/d/1mjnkANFwB3FbGx8ytzx8xyJI0XNDr_Hh90IKxliVOLg/edit#heading=h.4l4mo99i5yqh">Link</a></td>
 <td style="color:grey;"><a style="color:grey;" href="mailto:christin.henzen@tu-dresden.de">Christin Henzen</a></td>
 </tr>
-<tr>
+<tr style="border:1px solid grey; border-radius:5px;">
 <td></td>
 <td style="font-weight: bold; color:grey;">UAG Werbung und Außenkooperationen</td>
 <td style="color:grey;"><ul><li>Zusammenführung der Inhalte und Aktivitäten aus nationalen und internationalen Gruppen</li><li>abgeschlossen, keine Teilnahme mehr möglich</li></ul></td>
