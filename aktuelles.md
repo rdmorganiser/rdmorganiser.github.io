@@ -16,69 +16,87 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 RDMO Arbeitsgemeinschaft
 ------------------------
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
-Für die Verbindungsinformation zu den Workshops oder den regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
+Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
-<h2>Reguläre Termine</h2>
+<h2>Reguläre RDMO-Videokonferenz-Termine</h2>
 (Stand: Dezember 2022)
 
 <table style="width: 100%;">
 <tr>
-<th style="width: 25%;"></th>
-<th style="width: 25%;">Steuerungsgruppe</th>
-<th style="width: 25%;">Allgemeiner JourFixe</th>
-<th style="width: 25%;">Softwaregruppe</th>
+<th style="width: 5%;"></th>
+<th style="width: 20%;"></th>
+<th style="width: 25%;">Fokus</th>
+<th style="width: 20%;">Termin</th>
+<th style="width: 10%;">Protokoll</th>
+<th style="width: 20%;">Ansprechperson</th>
 </tr>
 <tr>
-<td style="font-weight: bold;">
-Fokus
-</td>
-<td>
-Austausch der Steuerungsmitglieder
-</td>
-<td>Sprechstunde zur Klärung allgemeiner Fragen
-</td>
-<td>Austausch über vergangene und zukünftige technische Entwicklungen 
-</td>
+<td style="font-weight: bold;" colspan="2">Steuerungsgruppe</td>
+<td><ul><li>Austausch der Steuerungsmitglieder</li><li>nicht öffentlich, keine Teilnahme möglich</li></ul></td>
+<td>jeder 4. Dienstag im Monat (13:00-14:30)</td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a></td>
 </tr> 
 <tr>
-<td style="font-weight: bold;">Termin
-</td>
-<td>jeder 4. Dienstag im Monat (13:00-14:30)
-</td>
-<td>jeder 1. Donnerstag im Monat (11-12Uhr)
-</td>
-<td>jeder 3. Donnerstag im Monat (11-12Uhr)
-</td>
+<td style="font-weight: bold;" colspan="2">Allgemeiner JourFixe</td>
+<td><ul><li>Sprechstunde zur Klärung allgemeiner Fragen</li><li>offen, bei Fragen einfach hinzukommen</li></ul></td>
+<td>jeder 1. Donnerstag im Monat (11:00-12:00Uhr)</td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
+</tr> 
+<tr>
+<td style="font-weight: bold;" colspan="2">Softwaregruppe</td>
+<td><ul><li>Austausch über vergangene und zukünftige technische Entwicklungen</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td>jeder 3. Donnerstag im Monat (11:00-12:00Uhr)</td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 </tr>
 <tr>
-<td style="font-weight: bold;">Status
-</td>
-<td>nicht öffentlich, keine Teilnahme möglich
-</td>
-<td>offen
-</td>
-<td>offen, Teilnahme jederzeit möglich
-</td>
+<td style="font-weight: bold;" colspan="2">Allgemeine Contentgruppe</td>
+<td><ul><li>Austausch über vergangene und zukünftige technische Entwicklungen</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td>jeder 3. Donnerstag im Monat (11:00-12:00Uhr)</td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 </tr>
 <tr>
-<td style="font-weight: bold;">Protokoll
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
+<td></td>
+<td style="font-weight: bold;">UAG Redaktionsprozesse</td>
+<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td></td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:"></a></td>
 </tr>
 <tr>
-<td style="font-weight: bold;">Ansprechperson
-</td>
-<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a>
-</td>
-<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
-</td>
-<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a>
-</td>
+<td></td>
+<td style="font-weight: bold;">UAG Website</td>
+<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td></td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:"></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="font-weight: bold;">UAG DFG Checkliste</td>
+<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td></td>
+<td><a href="">Link</a></td>
+<td><a href="mailto:"></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="font-weight: bold; color:grey;">UAG Textanleitungen</td>
+<td style="color:grey;"><ul><li></li><li></li></ul></td>
+<td style="color:grey;"></td>
+<td style="color:grey;"><a href="">Link</a></td>
+<td style="color:grey;"><a href="mailto:"></a></td>
+</tr>
+<tr>
+<td></td>
+<td style="font-weight: bold; color:grey;">UAG Werbung und Außenkooperationen</td>
+<td style="color:grey;"><ul><li></li><li></li></ul></td>
+<td style="color:grey;"></td>
+<td style="color:grey;"><a href="">Link</a></td>
+<td style="color:grey;"><a href="mailto:"></a></td>
 </tr>
 </table>
 
@@ -87,53 +105,6 @@ Austausch der Steuerungsmitglieder
 
 Die allgemeine Contentgruppe sowie die UAG Redaktionsprozesse sind beständige Gruppen, die während der gesamten Projektphase bestehen bleiben.
 
-<table style="width: 100%;">
-<tr>
-<th style="width: 30%;"></th>
-<th style="width: 35%;">Allgemeine Contentgruppe</th>
-<th style="width: 35%;">UAG Redaktionsprozesse</th>
-<tr>
-<td style="font-weight: bold;">
-Fokus
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr> 
-<tr>
-<td style="font-weight: bold;">Termin
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td style="font-weight: bold;">Status
-</td>
-<td>
-</td>
-<td>offen, Teilnahme jederzeit möglich
-</td>
-</tr>
-<tr>
-<td style="font-weight: bold;">Protokoll
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td style="font-weight: bold;">Ansprechperson
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-</table>
 
 
 <h2>Ad hoc-Gruppen der Contentgruppe</h2>
