@@ -18,7 +18,7 @@ Bevorstehende Workshops und Meetings:
 
 Bisherige Workshops und Treffen:
 --------------------------------
-* 02.03.2022 7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen)
+
 * 04.10.2021 6. RDMO-Community-Treffen (virtuell, 3-4 Stunden) [Programm](/events/workshop102021_programm) und [Anmeldung](https://meetings.aip.de/event/13/)
 * 02.09.2021 DMPs in der NFDI - Kick-Off Meeting (virtuell, bei Interesse an RDMO StG schreiben)
 * 02.03.2021 RDMO AG gemeinsam mit NFDI4ING und NFDI-Direktorat [Programm und Slides](/docs/nfdiws/workshop-nfdi), [Bericht](/docs/nfdiws/wsreport)
