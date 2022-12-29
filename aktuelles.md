@@ -22,7 +22,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 (Stand: Dezember 2022)
 
 <table style="width: 100%;">
-<tr>
+<tr style="border:1px solid black;">
 <th style="width: 5%;"></th>
 <th style="width: 20%;"></th>
 <th style="width: 25%;">Fokus</th>
@@ -30,7 +30,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <th style="width: 10%;">Protokoll</th>
 <th style="width: 20%;">Ansprechperson</th>
 </tr>
-<tr>
+<tr style="border:1px solid black;">
 <td style="font-weight: bold;" colspan="2">Steuerungsgruppe</td>
 <td><ul><li>Austausch der Steuerungsmitglieder</li><li>nicht öffentlich, keine Teilnahme möglich</li></ul></td>
 <td>jeder 4. Dienstag im Monat (13:00-14:30)</td>
@@ -53,7 +53,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 </tr>
 <tr>
 <td style="font-weight: bold;" colspan="2">Allgemeine Contentgruppe</td>
-<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td><ul><li>Austausch und Anstimmung über inhaltliche Entwicklungsprozesse</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td>z.Zt. unregelmäßig</td>
 <td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50/edit">Link</a></td>
 <td><a href="mailto:kerstin.wedlich@kit.edu">Kerstin Wedlich-Zachodin</a></td>
@@ -61,7 +61,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <tr>
 <td></td>
 <td style="font-weight: bold;">UAG Redaktionsprozesse</td>
-<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td><ul><li>Umsetzung beschlossener Änderungen inhaltlicher Art</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td></td>
 <td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50/edit">Link</a></td>
 <td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
@@ -72,12 +72,12 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <td><ul><li>Aktualisierung der offiziellen Website von RDMO</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td>2. Montag im Monat (10:00-11:00Uhr)</td>
 <td><a href="https://drive.google.com/drive/folders/1hHJa6_fzgZ7lPewgRzhS50jhKM0Bi0Y9">Link</a></td>
-<td><a href="mailto:schoenau@ub.rwth-aachen.de"></a>Sabine Schönau</td>
+<td><a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a></td>
 </tr>
 <tr>
 <td></td>
 <td style="font-weight: bold;">UAG DFG Checkliste</td>
-<td><ul><li></li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
+<td><ul><li>Überführung der DFG Checkliste in einen generischen RDMO Katalog samt view</li><li>offen, Teilnahme jederzeit möglich</li></ul></td>
 <td></td>
 <td><a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC">Link</a></td>
 <td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
