@@ -24,11 +24,11 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 <table style="width: 100%;">
 <tr style="border:1px solid black;">
 <th style="width: 5%;"></th>
-<th style="width: 20%;"></th>
-<th style="width: 25%;">Fokus</th>
+<th style="width: 15%;"></th>
+<th style="width: 35%;">Fokus</th>
 <th style="width: 20%;">Termin</th>
 <th style="width: 10%;">Protokoll</th>
-<th style="width: 20%;">Ansprechperson</th>
+<th style="width: 15%;">Ansprechperson</th>
 </tr>
 <tr style="border:1px solid black;">
 <td style="font-weight: bold; padding-left:5px;" colspan="2">Steuerungsgruppe</td>
@@ -123,6 +123,10 @@ Die Agenda ist wie folgt geplant:
 (Wechsel der Themen in den Räumen)
 4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
   
+<details>
+    <summary>Zusammenfassung</summary>
+    Hier kommt der Inhalt.
+</details>
 
 Februar 2022
 -------------
