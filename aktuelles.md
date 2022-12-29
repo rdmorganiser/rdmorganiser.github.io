@@ -101,25 +101,27 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 </table>
 
 <br/>
-<br/>
 
 Bevorstehende Workshops und Meetings:
 ------------------
 
 
-Bisherige Workshops und Treffen:
---------------------------------
+### Bisherige Workshops und Treffen:
 
 Die nachfolgende Auflistung enthält alle Bekanntmachungen, Meetings und Workshops der letzten zwölf Monate. Alle zuvor stattgefundenen Ereignisse finden Sie auf der Seite [Vergangenes]({{ siteurl }}/Vergangenes).
 Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dokumentation für Admins]({{siteurl}}/Doku_Admins).
 
 
-### 13.09.2022 8. RDMO-Community-Treffen (virtuell, 4 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen)
+#### 13.09.2022 
+
+8. RDMO-Community-Treffen (virtuell, 4 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen)
 
 Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.<br/>
 Für nähere Informationen können Sie sich die [Notizen der UAG DFG Checkliste](https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC) anschauen, oder die RDMO Arbeitsgemeinschaft anfragen.
 
-### 02.03.2022 7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen)
+#### 02.03.2022 
+
+7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) [Bericht](https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen)
 
 Das Hauptthema dieses Treffen war: Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung
 
@@ -136,7 +138,7 @@ Die Agenda ist wie folgt geplant:
 4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
   
 
-### Februar 2022
+#### Februar 2022
 
 Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.
 In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
