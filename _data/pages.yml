@@ -11,6 +11,14 @@ news:
     de: aktuelles
     en: en/news
 
+old_news:
+  label:
+    de: Vergangenes
+    en: Past Events
+  path:
+    de: Vergangenes
+    en: en/past
+
 rdmo-arge:
   label:
     de: Community

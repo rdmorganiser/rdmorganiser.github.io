@@ -1,8 +1,16 @@
-- key: news
-  label:
+- label:
     de: Aktuelles
     en: News
-
+  submenu:
+  - key: news
+    label:
+      de: Aktuelles
+      en: News
+  - key: old_news
+    label:
+      de: Vergangenes
+      en: Past events
+  
 - label:
     de: RDMO Community
     en: RDMO Community
