@@ -5,8 +5,11 @@ key: more
 lang: de
 ---
 
-Werbematerial
+Werbematerial und Datenschutz
 ============
+
+Werbematerial
+------------
 
 Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0- oder CC-BY-Lizenz steht.
 
@@ -28,7 +31,7 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 Datenschutz
-===========
+---------------
 
 Verfahrensbeschreibung
 ----------------------
