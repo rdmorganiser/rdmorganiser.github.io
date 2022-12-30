@@ -40,6 +40,15 @@ niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler\*innen
 wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung
 beitragen.
 
+{% for member in site.data.sw-group.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
+
 **Contentgruppe**
 
 Die Contentgruppe (CG) setzt sich aus Freiwilligen zusammen, die die inhaltliche Koordination und Weiterentwicklung von RDMO vorantreiben. Eine niedrigschwellige Beteiligung einer größeren Anzahl von Freiwilligen ist wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
@@ -49,6 +58,15 @@ Fragenkatalog-Templates. Es erfolgt eine Moderation und Begleitung der einzelnen
 Prozesse sowie Domänen-Anpassungen. Die CG dient dazu User Feedback
 einzusammeln und die allgemeine Usability vor dem Hintergrund des Feedbacks zu
 prüfen und ggf. zu verbessern.
+
+{% for member in site.data.cg-group.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
 
 **Mitgliederversammlung**
 
@@ -67,12 +85,3 @@ jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werd
 Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: rdmo-steuerungsgruppe@listserv.dfn.de.
 
 
-
-Steuerungsgruppe der AG RDMO
-
-Harry Enke (Sprecher) |
-Johannes Frenzel |
-Daniela Hausen |
-Gerald Jagusch (Sprecher) |
-Birte Lindstädt |
-Robert Strötgen
