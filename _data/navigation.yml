@@ -11,18 +11,10 @@
       de: Vergangene Veranstaltungen
       en: Past events
   
-- label:
-    de: RDMO Community
-    en: RDMO Community
-  submenu:
-  - key: rdmo-arge
-    label:
-      de: Community
-      en: Community
-  - key: history
-    label:
-      de: Historie
-      en: History
+- key: rdmo-arge
+  label:
+    de: Community
+    en: Community
 
 - label:
      de: Informationen

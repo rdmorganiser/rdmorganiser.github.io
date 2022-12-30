@@ -27,14 +27,6 @@ rdmo-arge:
     de: Community
     en: en/Community
     
-history:
-  label:
-    de: Historie
-    en: History
-  path:
-    de: Historie
-    en: en/History
-
 docu_user:
   label:
     de: Dokumentation für Endnutzer
