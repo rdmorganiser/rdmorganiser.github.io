@@ -7,16 +7,8 @@ lang: de
 
 RDMO Arbeitsgemeinschaft 
 ========
-
-
-Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
-
-
-**Das RDMO-Projekt ist in eine community-getragene Arbeitsgemeinschaft überführt worden**
-
-Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagementsoftware Research Data Management Organiser. RDMO wird inzwischen als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen an vielen Forschungsinstitutionen in Deutschland genutzt. Einen Überblick hierzu gibt die geographische Verteilung und [Liste der Kooperationspartner]({{ siteurl }}/kooperationen).
-
-Um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln hat sich die Arbeitsgemeinschaft (AG) RDMO gegründet bei der Nutzerversammlung am 07.102020. Es haben bereits einige Institutionen und Individuen mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) ihre Unterstützung bekundet. 
+Mit dem Ende der DFG-Förderung für RDMO im Herbst 2020 hat sich die Arbeitsgemeinschaft RDMO bei der Nutzerversammlung am 07.10.2020 gegründet. Sie basiert auf der freiwilligen Mitarbeit von Institutionen und Individuen, um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln.
+Mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) haben sie ihre Unterstützung bekundet.
 
 Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt:
 
@@ -26,8 +18,18 @@ Die RDMO-Arbeitsgemeinschaft wird von einer Steuerungsgruppe (SG) geleitet. Die
 Vertreter\*innen der Steuerungsgruppe werden durch die Mitglieder auf der
 Mitgliederversammlung alle drei Jahre oder nach Bedarf neu gewählt.
 Die SG wird die Richtung der Weiterentwicklung begleiten und die
-Abstimmungsprozesse für die Weiterentwicklung der Software und des Content
+Abstimmungsprozesse für die Weiterentwicklung der Software und des Contents
 koordinieren. Die SG setzt sich aus mindestens fünf Personen zusammen. 
+
+{% for member in site.data.sg-group.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
+
 
 **Entwicklungsgruppe**
 

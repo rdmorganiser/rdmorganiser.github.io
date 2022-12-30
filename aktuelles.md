@@ -150,6 +150,10 @@ Agenda:
 In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
 </td>
 </tr>
+<tr>
+<th style="width: 10%;"></th>
+<td style="width: 90%; padding-left:10px;">Vorherige Ereignisse finden Sie auf der Seite <a href="./Vergangenes.md">Vergangene Veranstaltungen</a>.</td>
+</tr>
 </table>
 
 
