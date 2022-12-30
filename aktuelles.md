@@ -119,8 +119,8 @@ Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dok
 </tr>
 <tr>
 <th style="width: 10%;">13.09.2022</th>
-<td style="width: 90%; padding-left:10px;"><b>8. RDMO-Community-Treffen (virtuell, 4 Stunden) [<a href="https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen" target="_blank">Bericht</a></b></td>
-<td>Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.<br/>
+<td style="width: 90%; padding-left:10px;"><b>8. RDMO-Community-Treffen (virtuell, 4 Stunden) [<a href="https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen" target="_blank">Bericht</a></b><br/>
+Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.<br/>
 Für nähere Informationen können Sie sich die <a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC" target="_blank">Notizen der UAG DFG Checkliste</a> anschauen, oder die RDMO Arbeitsgemeinschaft anfragen.</td>
 </tr>
 <tr>
