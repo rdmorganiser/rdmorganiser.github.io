@@ -21,6 +21,12 @@ Zu den Kernfunktionalitäten von RDMO zählen:
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
 * Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.
 
+<br>
+*Was kann man mit RDMO machen?* (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+
 Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisation des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in der zweiten Phase.
 Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
 

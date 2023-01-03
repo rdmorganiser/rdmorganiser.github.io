@@ -48,8 +48,8 @@ docu_admin:
     de: Dokumentation für Admins
     en: Documentation for admins
   path:
-    de: Doku_Admin
-    en: en/Docu_Admin
+    de: Doku_Admins
+    en: en/Docu_Admins
 
 more:
   label:

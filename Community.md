@@ -87,7 +87,7 @@ Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklu
 **DFG Projekt Team**
 
 <details>
-  <summary>Ehemaliges DFG Projekt Team</summary>
+  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
   {% for member in site.data.team.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
@@ -99,7 +99,7 @@ Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklu
 </details>
 
 <details>
-  <summary>Ehemalige Mitarbeiterinnen und Mitarbeiter</summary>
+  <summary><u>Ehemalige Mitarbeiterinnen und Mitarbeiter</u></summary>
   {% for member in site.data.team.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />

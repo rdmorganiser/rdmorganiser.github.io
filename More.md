@@ -25,10 +25,6 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 <video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-<br>
-*Was kann man mit RDMO machen?* (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 100%;">
-<source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 Datenschutz
 ---------------
