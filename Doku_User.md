@@ -22,13 +22,13 @@ Zu den Kernfunktionalitäten von RDMO zählen:
 * Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.
 
 <br>
-*Screencast: Wie beantworte ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/videos/fragenkatalog_v2.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 50%;">
+<p style="margin-left:25%;">Wie beantworte ich einen Fragenkatalog? (<a href="{{ site.baseurl }}/img/promo/videos/fragenkatalog_v2.mp4">Video-Download</a>)</p>
+<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
 
 <br>
-*Was kann man mit RDMO machen?* (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 50%; margin-left:50%;">
+<p style="margin-left:25%;">Was kann man mit RDMO machen? (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)</p>
+<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
