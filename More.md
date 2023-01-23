@@ -5,11 +5,11 @@ key: more
 lang: de
 ---
 
-Werbematerial und Datenschutz
-============
+# Werbematerial und Datenschutz
 
-Werbematerial
-------------
+
+## Werbematerial
+
 
 Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0- oder CC-BY-Lizenz steht.
 
@@ -26,18 +26,17 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
-Datenschutz
----------------
+## Datenschutz
 
-Verfahrensbeschreibung
-----------------------
+
+### Verfahrensbeschreibung
 
 Wir stellen hier einen Entwurf einer **Verfahrensbeschreibung** für die RDMO Demo Instanz rdmo.aip.de zur Verfügung: 
 * [PDF]({{ site.baseurl }}/docs/DS_AIP_DE.pdf)
 
 
-Nutzungsbedingungen
--------------------
+### Nutzungsbedingungen
+
 
 Vorlage für Ihre **Nutzungsbedingungen**:
 
