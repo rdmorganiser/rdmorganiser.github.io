@@ -79,3 +79,22 @@ function test_markers() {
         }
     }
 }
+
+function get_marker_path(marker_filename, baseurl) {
+    if (baseurl != '') {
+        baseurl = baseurl + '/'
+    }
+    else {
+        baseurl = ''
+    }
+
+    icon_path = baseurl + 'img/icons/' + marker_filename
+
+    return icon_path    
+    // if (marker_name == 'green') {
+    //     icon_path = 'img/icons/marker-icon-green.png'
+    // }
+    // if (marker_name == 'blue') {
+    //     icon_path = '/img/icons/marker-icon-blue.png'
+    // }
+}
