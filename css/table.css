@@ -1,8 +1,7 @@
 table {
-    width: 80%;
+    width: 100%;
     display: inline-block;
     margin-top: 20px;
-    margin-left: 10%;
 }
 
 th {
