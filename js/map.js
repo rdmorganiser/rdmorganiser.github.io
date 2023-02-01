@@ -11,8 +11,6 @@ $(document).ready(function() {
     var popup_source = document.getElementById('popup-template').innerHTML;
     var popup_template = Handlebars.compile(popup_source);
 
-    // TODO fix legend icon paths
-    console.log('_baseurl', _baseurl)
     var legend_source = document.getElementById('legend-template').innerHTML;
     var legend_template = Handlebars.compile(legend_source);
 

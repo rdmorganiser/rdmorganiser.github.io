@@ -9,27 +9,26 @@ lang: de
 # Willkommen auf der Seite von RDMO
 <hr>
 
-Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft]({{ site.baseurl }}/rdmo_arge),  die [Software]({{ site.baseurl }}/software), deren [Dokumentation]({{ site.baseurl }}/dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft]({{ site.baseurl }}/aktuelles) und unsere [Kooperationspartner]({{ site.baseurl }}/kooperationen).
+Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft](./rdmo_arge),  die [Software](./software), deren [Dokumentation](./dokumentation), [aktuelle Aktivitäten der Arbeitsgemeinschaft](./aktuelles) und unsere [Kooperationspartner](./kooperationen).
 
 ## Was ist der Research Data Management Organiser?
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.
-RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen]({{ site.baseurl }}/arbeitspakete) geschaffen worden. 
+RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen](./arbeitspakete) geschaffen worden. 
 
 ## RDMO-Community
 RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. 
 Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
-Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie [hier]({{ site.baseurl }}/aktuelles).
+Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie [hier](./aktuelles).
 
 ## Kooperationen
 Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
 
-<script src="{{ site.baseurl }}/js/func.js"></script>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
+
+<link rel="stylesheet" href="./css/leaflet.css" />
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};
-    var _baseurl = {{ site.baseurl | jsonify }};
 </script>
 
 {% raw  %}
@@ -58,7 +57,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 </script>
 {% endraw %}
-<!-- # TODO fix variable here -->
+
 {% raw  %}
 <script id="legend-template" type="text/x-handlebars-template">
 
@@ -72,9 +71,14 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 </script>
 {% endraw %}
 
-<script src="{{ site.baseurl }}/js/handlebars.min.js"></script>
-<script src="{{ site.baseurl }}/js/leaflet.js"></script>
-<script src="{{ site.baseurl }}/js/map.js"></script>
+<script src="./js/func.js"></script>
+<script src="./js/handlebars.min.js"></script>
+<script src="./js/leaflet.js"></script>
+<script src="./js/map.js"></script>
+
+<script src="./js/tablesorter.min.js"></script>
+<script src="./js/tablesorter.widgets.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/table.css">
 
 <div id="map" class="map"></div>
 
@@ -107,9 +111,9 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
                 <td id="{{ location.name | slugify: latin }}" class="instance">
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
-                            <img src="{{ site.baseurl }}/img/icons/marker-icon-blue.png" />
+                            <img src="./img/icons/marker-icon-blue.png" />
                         {% else %}
-                            <img src="{{ site.baseurl }}/img/icons/marker-icon-grey.png" />
+                            <img src="./img/icons/marker-icon-grey.png" />
                         {% endif %}
                         <script>
                             $("#{{ location.name | slugify }}")
