@@ -20,21 +20,26 @@ current:
   image: img/team/lanza.jpg
 
 - text:
-    de: "**Sabine Schönau**" ...
-    en: "**Sabine Schönau**" ...
-  image:
+    de: "**Sabine Schönau** ..."
+    en: "**Sabine Schönau** ..."
+  image: img/team/dummy.jpg
 
 - text:
-    de: "**Ivonne Anders**" ...
-    en: "**Ivonne Anders**" ...
-  image:
+    de: "**Ivonne Anders** ... "
+    en: "**Ivonne Anders** ... "
+  image: img/team/dummy.jpg
 
 - text:
-    de: "**Karsten Peters-von Gehlen**" ...
-    en: "**Karsten Peters-von Gehlen**" ...
-  image:
+    de: "**Karsten Peters-von Gehlen** ... "
+    en: "**Karsten Peters-von Gehlen** ... "
+  image: img/team/dummy.jpg
 
 - text:
-    de: "**Christin Henzen**" ...
-    en: "**Christin Henzen**" ...
+    de: "**Christin Henzen** ... "
+    en: "**Christin Henzen** ... "
+  image: img/team/dummy.jpg
+
+- text:
+    de: 
+    en: 
   image:

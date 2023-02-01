@@ -29,6 +29,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};
+    var _baseurl = {{ site.baseurl | jsonify }};
 </script>
 
 {% raw  %}
@@ -57,7 +58,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 
 </script>
 {% endraw %}
-
+<!-- # TODO fix variable here -->
 {% raw  %}
 <script id="legend-template" type="text/x-handlebars-template">
 
@@ -75,12 +76,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
 <script src="{{ site.baseurl }}/js/leaflet.js"></script>
 <script src="{{ site.baseurl }}/js/map.js"></script>
 
-<div id="map" class="map" style="z-index: 1000000; position: relative; top: 10px; left: 10%; width: 80%; height: 250px; background-color: #F5F5DC;"> </div>
-<script>
-    $(document).ready(function() {
-        init_table();
-    });
-</script>
+<div id="map" class="map"></div>
 
 <div>
     <div class="no_entries"></div>
@@ -111,11 +107,9 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
                 <td id="{{ location.name | slugify: latin }}" class="instance">
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
-                            <p style="display: none">live</p>
-                            <img src="/img/icons/marker-icon-blue.png" />
+                            <img src="{{ site.baseurl }}/img/icons/marker-icon-blue.png" />
                         {% else %}
-                            <p style="display: none">test</p>
-                            <img src="/img/icons/marker-icon-grey.png" />
+                            <img src="{{ site.baseurl }}/img/icons/marker-icon-grey.png" />
                         {% endif %}
                         <script>
                             $("#{{ location.name | slugify }}")
@@ -134,3 +128,8 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen s
     </tbody>
 </table>
 
+<script>
+    $(document).ready(function() {
+        init_table();
+    });
+</script>
