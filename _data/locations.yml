@@ -374,7 +374,7 @@
   lat: 52.2731726
   lon: 8.0457204
   color: blue
-  
+
 - name: ICIPE / International Center of Insect Physiology and Ecology
   url: https://dmmg-dmp.icipe.org/
   contact: Henri Tonnang (https://dmmg.icipe.org/)
@@ -382,3 +382,10 @@
   lon: 36.8966253
   color: blue
   discipline: Lebenswissenschaften
+
+- name: Technische Universität Berlin
+  url: https://dmp.tu-berlin.de
+  #contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: 52.512556072022434
+  lon: 13.32659749475189
+  color: blue
