@@ -9,21 +9,24 @@
 
 - name:    Universitätsallianz Ruhr (Bochum, Duisburg-Essen, Dortmund)
   url:     http://rdmo.uaruhr.de
-  contact: [Johannes Frenzel (Ruhr-Universität Bochum)](mailto:researchdata+rdmo@uaruhr.de)
+  contact: Johannes Frenzel, Ruhr-Universität Bochum
+  mail:    mailto:researchdata+rdmo@uaruhr.de)
   lat:     51.4439
   lon:     7.261572
   color:   blue
 
 - name:    Universität Duisburg-Essen
-  # url:     http://rdmo.uaruhr.de
-  contact: [Stephanie Rehwald, Sonja Hendriks, Henning Timm](mailto:)
+  url:     http://rdmo.uaruhr.de
+  contact: Stephanie Rehwald, Sonja Hendriks, Henning Timm
+  mail:    mailto:researchdata+rdmo@uaruhr.de
   lat:     51.429167
   lon:     6.800833
   color:   blue
 
 - name:    IZUS / Universitätsbibliothek Stuttgart
   url:     https://rdmo.forschungsdaten.info/
-  contact: [Sibylle Herrmann, Michael Steigmüller](mailto:fokus@izus.uni-stuttgart.de)
+  contact: Sibylle Herrmann, Michael Steigmüller
+  mail:    mailto:fokus@izus.uni-stuttgart.de
   lat:     48.78231
   lon:     9.1686
   color:   blue
@@ -49,7 +52,8 @@
 
 - name:    Göttingen eResearch Alliance
   url:     https://plan.goettingen-research-online.de/
-  contact: [Timo Gnadt, Ubbo Veentjer](mailto:info@eresearch.uni-goettingen.de )
+  contact: Timo Gnadt, Ubbo Veentjer
+  mail:    mailto:info@eresearch.uni-goettingen.de 
   lat:     51.5400097
   lon:     9.9358179
   color:   blue
@@ -66,7 +70,8 @@
 
 - name:    Universitäts- und Landesbibliothek Darmstadt
   url:     http://tudmo.ulb.tu-darmstadt.de
-  contact: [Gerald Jagusch](mailto:tudata@tu-darmstadt.de)
+  contact: Gerald Jagusch
+  mail:    mailto:tudata@tu-darmstadt.de
   lat:     49.861429
   lon:     8.680805
   color:   blue
@@ -75,77 +80,87 @@
 #   url:   https://www.tu-dortmund.de/uni/de/Uni
 
 - name:    Universität Düsseldorf (FoDaKo)
-  contact: [](mailto:fdm@hhu.de)
   url:     https://rdmo.hhu.de/
+  contact: 
+  mail:    mailto:fdm@hhu.de)
   lat:     51.1952525
   lon:     6.7899203
   color:   gray
 
 - name:    Universität Wuppertal (FoDaKo)
-  contact: [Torsten Rathmann](mailto:fdm@uni-wuppertal.de)
   url:     https://rdmo.zim.uni-wuppertal.de/
+  contact: Torsten Rathmann
+  mail:    mailto:fdm@uni-wuppertal.de)
   lat:     51.2458565
   lon:     7.1486939
   color:   gray
 
 - name:    Universität Siegen (FoDaKo)
-  contact: [Thomas von Rekowski, Henning Bohn, Volker Hess](mailto:info@fodako.nrw)
   url:     https://rdmo.e-science-service.uni-siegen.de/
+  contact: Thomas von Rekowski, Henning Bohn, Volker Hess
+  mail:    mailto:info@fodako.nrw
   lat:     50.91082
   lon:     8.0273001
   color:   gray
 
 - name:    Universität Hildesheim
-  contact: [Mario Müller](mailto:javascript:linkTo_UnCryptMailto(%27jxfiql7rycrXrkf%3Aefiabpebfj%2Bab%27);)
   url:     https://dmp.uni-hildesheim.de/
+  contact: Mario Müller
+  mail:    
   lat:     52.1600497
   lon:     9.9833092
   color:   gray
 
 - name:    Technische Universität Braunschweig
-  contact: [Robert Strötgen](forschungsdaten@tu-braunschweig.de)
   url:     https://rdmo.biblio.etc.tu-bs.de
+  contact: Robert Strötgen
+  mail:    forschungsdaten@tu-braunschweig.de
   lat:     52.2735074
   lon:     10.5296839
   color:   gray
 
 - name:    Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
-  contact: [Giacomo Lanza](mailto:fdm@ptb.de)
   url:     https://rdmo.ptb.de
+  contact: Giacomo Lanza
+  mail:    mailto:fdm@ptb.de)
   lat:     52.29653
   lon:     10.46418
   color:   blue
 
 - name:    Technische Universität Hamburg
-  contact: [Beate Rajski](mailto:bib-direktion@tuhh.de)
   url:     https://dmp.fdm.uni-hamburg.de/
+  contact: Beate Rajski
+  mail:    mailto:bib-direktion@tuhh.de
   lat:     53.4610079
   lon:     9.9699716
   color:   gray
 
 - name:    Universität Hamburg
-  contact: [Kai Wörner](mailto:kai.woerner@uni-hamburg.de)
+  contact: Kai Wörner
+  mail:    mailto:kai.woerner@uni-hamburg.de)
   lat:     53.566298
   lon:     9.984469
   color:   gray
 
 - name:    Universitäts- und Landesbibliothek Münster
-  contact: [Marc Schutzeichel](mailto:forschungsdaten@uni-muenster.de)
   # url:     https://www.ulb.uni-muenster.de
+  contact: Marc Schutzeichel
+  mail:    mailto:forschungsdaten@uni-muenster.de)
   lat:     51.9627609
   lon:     7.620459
   color:   gray
 
 - name:    Hochschul- und Landesbibliothek Fulda
-  contact: Patrick Langner](javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27);)
   url:     https://rdmo.hlb.hs-fulda.de/
+  contact: Patrick Langner
+  mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27
   lat:     50.5653467
   lon:     9.68746859
   color:   gray
 
 - name:    PUBLISSO/ZB MED
-  contact: Robin Rothe
   url:     http://rdmo.publisso.de
+  contact: Robin Rothe
   lat:     50.9246806
   lon:     6.9164622
   color:   blue
@@ -172,7 +187,8 @@
 
 - name:    Universität Trier
   url:     https://rdmo.uni-trier.de/
-  contact: [Marina Lemaire, Stefan Kellendonk](mailto:esciences@uni-trier.de)
+  contact: Marina Lemaire, Stefan Kellendonk
+  mail:    mailto:esciences@uni-trier.de
   lat:     49.745933
   lon:     6.688490
   color:   gray
@@ -198,7 +214,8 @@
 
 - name:    RTWH Aachen
   url:     https://rdmo.rwth-aachen.de/
-  contact: [Daniela Hausen](mailto:servicedesk@itc.rwth-aachen.de)
+  contact: Daniela Hausen
+  mail:    mailto:servicedesk@itc.rwth-aachen.de)
   lat:     50.781177
   lon:     6.065603
   color:   gray
@@ -212,7 +229,8 @@
 
 - name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
   url:     https://rdmo.ub.fau.de/
-  contact: [Jürgen Rohrwild](mailto:juergen.rohrwild@fau.de)
+  contact: Jürgen Rohrwild
+  mail:    mailto:juergen.rohrwild@fau.de
   lat:     49.597901
   lon:     11.004571
   color:   blue
@@ -225,13 +243,15 @@
 
 - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
   url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
-  contact: [Johannes Sperling](mailto:forschungsdaten@slub-dresden.de)
+  contact: Johannes Sperling
+  mail:    mailto:forschungsdaten@slub-dresden.de
   lat:     51.028183
   lon:     13.736781
   color:   gray
 
 - name:    Universität Potsdam
-  contact: [Janine Straka, Janna Kienbaum](mailto:forschungsdaten@uni-potsdam.de)
+  contact: Janine Straka, Janna Kienbaum
+  mail:    mailto:forschungsdaten@uni-potsdam.de
   url:     https://rdmo.uni-potsdam.de/
   lat:     52.401111
   lon:     13.011944
@@ -251,11 +271,12 @@
   color: blue
 
 - name: Universität Rostock
-  url: https://rdmo.uni-rostock.de/
-  contact: [Max Schröder](mailto:forschungsdaten@uni-rostock.de)
-  lat: 54.088133
-  lon: 12.133373
-  color: blue
+  url:     https://rdmo.uni-rostock.de/
+  contact: Max Schröder
+  mail:    mailto:forschungsdaten@uni-rostock.de)
+  lat:     54.088133
+  lon:     12.133373
+  color:   blue
 
 - name: Goethe Universität Frankfurt am Main
   url: https://rdmo.server.uni-frankfurt.de
@@ -282,11 +303,12 @@
       öffentliche Repositorien wie GenBank zu unterstützen.
 
 - name: Centre de calcul d'IN2P3
-  url: https://dmp.in2p3.fr/
-  contact: [Yonny Cardenas](mailto:cardenas@cc.in2p3.fr)
-  lat: 45.7825982
-  lon: 4.8651914
-  color: gray
+  url:     https://dmp.in2p3.fr/
+  contact: Yonny Cardenas
+  mail:    mailto:cardenas@cc.in2p3.fr)
+  lat:     45.7825982
+  lon:     4.8651914
+  color:   gray
   discipline: Physik
 
 - name: Stiftung Preußischer Kulturbesitz
@@ -333,7 +355,8 @@
 
 - name: Leuphana Universität Lüneburg
   url: https://rdmo.leuphana.de/
-  contact: [Servicestelle Forschungsdatenmanagement](mailto:forschungsdaten@leuphana.de)
+  contact: Servicestelle Forschungsdatenmanagement
+  mail:    mailto:forschungsdaten@leuphana.de
   lat: 53.228889
   lon: 10.401111
   color: blue
@@ -357,14 +380,16 @@
 
 - name: Max Planck Digital Library
   url: https://rdmo.mpdl.mpg.de/
-  contact: [Yves Vincent Grossmann](mailto:rdmo@mpdl.mpg.de)
+  contact: Yves Vincent Grossmann
+  mail:    mailto:rdmo@mpdl.mpg.de)
   lat: 48.1478564
   lon: 11.5763998
   color: blue
 
 - name: Zuse-Institut Berlin
   url: https://rdmo.zib.de
-  contact: [Tim Hasler](mailto:rdm@zib.de)
+  contact: Tim Hasler
+  mail:     mailto:rdm@zib.de)
   lat: 52.4560878
   lon: 13.2960695
   color: blue

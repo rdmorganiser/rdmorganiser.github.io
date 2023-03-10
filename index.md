@@ -105,7 +105,10 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, 
                 </td>
                 <td class="contact">
                     {% if location.contact %}
-                        {{ location.contact }}
+                    {% elseif location.mail %}
+                        <a href="{{ location.mail }}">{{ location.contact }}</a>
+                    {% else %}
+                           {{ location.contact }}
                     {% endif %}
                 </td>
                 <td id="{{ location.name | slugify: latin }}" class="instance">
