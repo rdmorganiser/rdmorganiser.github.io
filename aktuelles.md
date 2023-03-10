@@ -138,27 +138,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 
 Für die Verbindungsinformation bitte die RDMO-Arbeitsgemeinschaft kontaktieren. Interessierte sind herzlich willkommen.
 
-März 2022
--------------
-
-wir erinnern nochmal an das 7. RDMO-Community-Treffen (virtuell)
-am Mittwoch, den 2. März von 14:00 bis 16:00 Uhr.
-
-Das Hauptthema dieses Treffen wird sein:
-Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung
-
-Die Agenda ist wie folgt geplant:
-1. Nutzenden getriebene Weiterentwicklung für RDMO (10 min) -> Harry Enke
-2. Lightning talks (insg. 15 min):
-   * Content Gruppe: Giacomo Lanza
-   * Software Gruppe: Jochen Klar
-
-3.)  Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)
-*  Inhaltliche Dimension - Moderation: Robert Strötgen
-*  Technische Dimension - Moderation:  Jochen Klar
-(Wechsel der Themen in den Räumen)
-4.) gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)
-
 ## Ankündigungen:
 
 <table style="width: 100%;">
