@@ -9,7 +9,7 @@
 
 - name:    Universitätsallianz Ruhr, Ruhr-Universität Bochum
   url:     http://rdmo.uaruhr.de
-  contact: Johannes Frenzel
+  contact: Johannes Frenzel, Kathrin Höhner
   mail:    mailto:researchdata+rdmo@uaruhr.de
   lat:     51.4439
   lon:     7.261572
@@ -73,7 +73,7 @@
 
 - name:    Universitäts- und Landesbibliothek Darmstadt
   url:     http://tudmo.ulb.tu-darmstadt.de
-  contact: Gerald Jagusch
+  contact: Gerald Jagusch, Jürgen Windeck, David Wallace
   mail:    mailto:tudata@tu-darmstadt.de
   lat:     49.861429
   lon:     8.680805
@@ -116,7 +116,7 @@
 
 - name:    Technische Universität Braunschweig
   url:     https://rdmo.biblio.etc.tu-bs.de
-  contact: Robert Strötgen
+  contact: Robert Strötgen, Džulia Terzijska
   mail:    mailto:forschungsdaten@tu-braunschweig.de
   lat:     52.2735074
   lon:     10.5296839
@@ -155,7 +155,7 @@
 
 - name:    Hochschul- und Landesbibliothek Fulda
   url:     https://rdmo.hlb.hs-fulda.de/
-  contact: Patrick Langner
+  contact: Patrick Langner, Thomas Richter
   mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27);
   lat:     50.5653467
   lon:     9.68746859
@@ -439,3 +439,11 @@
   lat: 52.512556072022434
   lon: 13.32659749475189
   color: blue
+
+- name: Julius-Kühn-Institut (JKI)
+  url: https://194.94.63.33/
+  contact: Christoph Sinn, Matthias Senft, Ulrike Stahl, Steffen Kecke
+  # mail: 
+  lat: 51.77318,
+  lon: 11.14195
+  color: gray  
