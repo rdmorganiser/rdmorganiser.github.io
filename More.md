@@ -45,7 +45,7 @@ Vorlage für Ihre **Nutzungsbedingungen**:
 Für den Betrieb von RDMO ist die Einrichtung von Nutzern erforderlich. 
 Es werden zu diesem Zweck folgende Daten eines Nutzers erhoben und in der betreffenden RDMO-Instanz des Betreibers gespeichert:
 
-Name, Vorname, E-Mailadresse, Institutszugehörigkeit (Institut / Organisation), Account name ( || Shibboleth ID || LDAP ID)
+Name, Vorname, E-Mailadresse, Institutszugehörigkeit (Institut / Organisation), Account name (Shibboleth ID, LDAP ID)
 
 Falls der Betreiber eine Authentisierung durch ORCID, Google, Facebook, Twitter, Github zulässt, wird bei Nutzung dieser Authentisierung die Möglichkeit der Registrierung dieser Verbindung zu RDMO bei den verschiedenen genutzten Diensten gegeben. 
 
