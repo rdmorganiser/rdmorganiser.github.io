@@ -108,11 +108,11 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 		<td style="font-weight: bold;">UAG DFG Checkliste</td>
 		<td>
 			<ul>
-				<li>Überführung der DFG Checkliste in einen generischen RDMO Katalog samt view</li>
+				<li>Überführung der DFG Checkliste in einen generischen RDMO Katalog samt View.</li>
 				<li>offen, Teilnahme jederzeit möglich</li>
 			</ul>
 		</td>
-		<td>an jedem 2. Dienstag (15:00-16:00 Uhr)</td>
+		<td>am 2. Dienstag (15:00-16:00 Uhr)</td>
 		<td><a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC">Link</a></td>
 		<td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
 	</tr>
@@ -155,7 +155,9 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
   </tr>
   <tr style="border-bottom: 1pt solid darkgrey;">
     <th style="width: 10%;">29.03.2022</th>
-    <td style="width: 90%; padding-left:10px;"><b>9. RDMO-Community-Treffen (virtuell, 5 Stunden)</td>
+    <td style="width: 90%; padding-left:10px;">
+    An diesem Tag findet <b>9. RDMO-Community-Treffen</b> virtuell von 09:00-14:00Uhr statt. Die einzelnen Gruppen stellen ihre Arbeit vor und es wird Vorträge zu verschiedenen Themen geben. Außerdem sollen neue StG-Mitglieder gewählt werden.
+    </td>
   </tr>
 </table>
 

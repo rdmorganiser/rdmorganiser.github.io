@@ -348,6 +348,8 @@ footer {
 .map {
     height: 400px;
     margin-bottom: 20px;
+    width: 80%;
+    margin-left: 10%;
 
     .leaflet-popup-content-wrapper {
         border-radius: 0;
