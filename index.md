@@ -104,8 +104,7 @@ Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, 
                     {% endif %}
                 </td>
                 <td class="contact">
-                    {% if location.contact %}
-                    {% elseif location.mail %}
+                    {% if location.mail %}
                         <a href="{{ location.mail }}">{{ location.contact }}</a>
                     {% else %}
                            {{ location.contact }}
