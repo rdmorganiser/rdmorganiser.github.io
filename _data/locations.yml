@@ -7,7 +7,7 @@
   # discipline: Astrophysik
   # description: Das Leibniz-Institut für Astrophysik Potsdam (AIP) widmet sich astrophysikalischen Fragen, die von der Untersuchung unserer Sonne bis zur Entwicklung des Kosmos reichen.
 
-- name:    Universitätsallianz Ruhr: Ruhr-Universität Bochum
+- name:    Universitätsallianz Ruhr, Ruhr-Universität Bochum
   url:     http://rdmo.uaruhr.de
   contact: Johannes Frenzel
   mail:    mailto:researchdata+rdmo@uaruhr.de
@@ -15,7 +15,7 @@
   lon:     7.261572
   color:   blue
 
-- name:    Universitätsallianz Ruhr: Universität Duisburg-Essen
+- name:    Universitätsallianz Ruhr, Universität Duisburg-Essen
   url:     http://rdmo.uaruhr.de
   contact: Stephanie Rehwald, Sonja Hendriks, Henning Timm
   mail:    mailto:rds.ub@uni-due.org
@@ -82,7 +82,7 @@
 # - name:  Universitätsallianz Ruhr: Universität Dortmund
 #   url:   https://www.tu-dortmund.de/uni/de/Uni
 
-- name:    FoDaKo: Heinrich-Heine Universität Düsseldorf
+- name:    FoDaKo, Heinrich-Heine Universität Düsseldorf
   url:     https://rdmo.hhu.de/
   contact: Ania López, Nina Knipprath
   mail:    mailto:fdm@hhu.de
@@ -90,7 +90,7 @@
   lon:     6.7899203
   color:   gray
 
-- name:    FoDaKo: Universität Wuppertal
+- name:    FoDaKo, Universität Wuppertal
   url:     https://rdmo.zim.uni-wuppertal.de/
   contact: Torsten Rathmann
   mail:    mailto:fdm@uni-wuppertal.de
@@ -98,7 +98,7 @@
   lon:     7.1486939
   color:   gray
 
-- name:    FoDaKo: Universität Siegen
+- name:    FoDaKo, Universität Siegen
   url:     https://rdmo.e-science-service.uni-siegen.de/
   contact: Thomas von Rekowski, Henning Bohn, Volker Hess
   mail:    mailto:e-science-service@uni-siegen.de
@@ -140,11 +140,7 @@
 
 - name:    Universität Hamburg
   contact: Kai Wörner
-<<<<<<< HEAD
-  mail:    mailto:kai.woerner@uni-hamburg.de
-=======
   mail:    mailto:forschungsdaten@uni-hamburg.de
->>>>>>> 07da73ea660899b55ebb594fe8ac759409383ee2
   lat:     53.566298
   lon:     9.984469
   color:   gray
@@ -160,11 +156,7 @@
 - name:    Hochschul- und Landesbibliothek Fulda
   url:     https://rdmo.hlb.hs-fulda.de/
   contact: Patrick Langner
-<<<<<<< HEAD
-  mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27)
-=======
   mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27);
->>>>>>> 07da73ea660899b55ebb594fe8ac759409383ee2
   lat:     50.5653467
   lon:     9.68746859
   color:   gray
