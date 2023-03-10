@@ -16,8 +16,8 @@
   color:   blue
 
 - name:    Universitätsallianz Ruhr, Universität Duisburg-Essen
-  url:     http://rdmo.uaruhr.de
-  contact: Stephanie Rehwald, Sonja Hendriks, Henning Timm
+  url:     http://rdmo.ub.uni-due.de
+  contact: Stephanie Rehwald, Sonja Hendricks, Henning Timm
   mail:    mailto:rds.ub@uni-due.org
   lat:     51.429167
   lon:     6.800833
@@ -250,7 +250,7 @@
 - name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
   url:     https://rdmo.ub.fau.de/
   contact: Jürgen Rohrwild
-  mail:    mailto:forschungsdaten@fau.de
+  mail:    mailto:ub-fdm@fau.de
   lat:     49.597901
   lon:     11.004571
   color:   blue
