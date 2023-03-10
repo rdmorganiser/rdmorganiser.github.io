@@ -31,7 +31,7 @@
   lon:     9.1686
   color:   blue
 
-- name:    Fachhochschule Potsdam
+- name:    Fachhochschule Potsdam (FHP)
   # url:     https://rdmo.fh-potsdam.de
   contact: Ulrike Wuttke, Miriam Zeunert
   mail:    mailto:forschungsdaten@fh-potsdam.de
@@ -44,7 +44,7 @@
       verantwortlich für Nachhaltigkeit, Community-Building, Dissemination
       und Training von RDMO.
 
-- name:    Karlsruher Institut für Technologie
+- name:    Karlsruher Institut für Technologie (KIT)
   url:     https://rdmo.forschungsdaten.info
   mail:    mailto:contact@rdm.kit.edu
   contact: Robert Ulrich
@@ -82,7 +82,7 @@
 # - name:  Universitätsallianz Ruhr: Universität Dortmund
 #   url:   https://www.tu-dortmund.de/uni/de/Uni
 
-- name:    FoDaKo, Heinrich-Heine Universität Düsseldorf
+- name:    FoDaKo, Heinrich-Heine-Universität Düsseldorf
   url:     https://rdmo.hhu.de/
   contact: Ania López, Nina Knipprath
   mail:    mailto:fdm@hhu.de
@@ -200,7 +200,7 @@
   lon:     6.688490
   color:   gray
 
-- name:  Leibniz-Institut für Pflanzenbiochemie
+- name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
 #   url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
 
 # - name:  EAWAG
@@ -215,7 +215,7 @@
   lon:     8.5805956
   color:   gray
 
-- name:    Deutsches GeoForschungsZentrum GFZ
+- name:    Deutsches GeoForschungsZentrum (GFZ)
   contact: Roland Bertelmann, Kirsten Elger
   mail:    mailto:datapub@gfz-potsdam.de
   lat:     52.385098
@@ -246,7 +246,7 @@
   lon:     11.004571
   color:   blue
 
-- name:    Helmholtz-Zentrum Berlin HZB
+- name:    Helmholtz-Zentrum Berlin (HZB)
   contact: Heike Görzig
   mail:    https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
   lat:     52.411138
@@ -269,13 +269,13 @@
   lon:     13.011944
   color:   gray
 
-- name: Max Rubner-Institut
+- name: Max Rubner-Institut (MRI)
   contact: Bernhard Lucke
   lat: 49.013579
   lon: 8.426245
   color: gray
 
-- name: Ludwig-Maximilians-Universität München
+- name: Ludwig-Maximilians-Universität München (LMU)
   url: https://rdmo.ub.uni-muenchen.de
   contact: Martin Spenger
   mail: mailto:forschungsdaten@ub.uni-muenchen.de
@@ -299,7 +299,7 @@
   lon: 8.666667
   color: blue
 
-- name:    Robert Koch-Institut
+- name:    Robert Koch-Institut (RKI)
   url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
   mail:    mailto:fdz@rki.de
@@ -363,7 +363,7 @@
   lon: 8.773611
   color: blue
 
-- name: Institute of Science and Technology Austria
+- name: Institute of Science and Technology Austria (IST)
   # url: https://rdmo.ist.ac.at
   contact: Doris Ernst
   lat: 48.310556
@@ -396,7 +396,7 @@
   lon: 7.637828
   color: gray
 
-- name: Max Planck Digital Library
+- name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
   contact: Yves Vincent Grossmann
   mail:    mailto:rdmo@mpdl.mpg.de
@@ -404,10 +404,35 @@
   lon: 11.5763998
   color: blue
 
-- name: Zuse-Institut Berlin
+- name: Zuse-Institut Berlin (ZIB)
   url: https://rdmo.zib.de
   contact: Tim Hasler
   mail:     mailto:rdm@zib.de
   lat: 52.4560878
   lon: 13.2960695
+  color: blue
+
+- name: Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
+  contact: Marco Gronwald
+  mail: mailto:fdm@uos.de
+  lat: 52.2731726
+  lon: 8.0457204
+  color: blue
+
+- name: International Center of Insect Physiology and Ecology (ICIPE)
+  url: https://dmmg-dmp.icipe.org/
+  contact: Henri Tonnang
+  mail: https://dmmg.icipe.org/service_request.html
+  lat: -1.2218344
+  lon: 36.8966253
+  color: blue
+  discipline: Lebenswissenschaften
+
+- name: Technische Universität Berlin
+  url: https://dmp.tu-berlin.de
+  contact: Britta Steinke
+  mail: mailto:szf@ub.tu-berlin.de
+  lat: 52.512556072022434
+  lon: 13.32659749475189
   color: blue
