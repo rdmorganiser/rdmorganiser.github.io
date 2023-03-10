@@ -73,8 +73,19 @@ Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder
 
 Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
 
-## DFG Projekt Team
+## Ehemalige Community-Mitglieder ... (ändern)
 
+<details>
+  <summary><u>Ehemalige Community-Mitglieder</u></summary>   # für neu ausgeschiedene Personen
+  {% for member in site.data.team.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
+</details>
 <details>
   <summary><u>Ehemaliges DFG Projekt Team</u></summary>
   {% for member in site.data.team.current %}

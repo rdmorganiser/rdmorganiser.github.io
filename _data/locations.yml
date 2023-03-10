@@ -137,7 +137,7 @@
 
 - name:    Universität Hamburg
   contact: Kai Wörner
-  mail:    mailto:kai.woerner@uni-hamburg.de)
+  mail:    mailto:kai.woerner@uni-hamburg.de
   lat:     53.566298
   lon:     9.984469
   color:   gray
@@ -145,7 +145,7 @@
 - name:    Universitäts- und Landesbibliothek Münster
   # url:     https://www.ulb.uni-muenster.de
   contact: Marc Schutzeichel
-  mail:    mailto:forschungsdaten@uni-muenster.de)
+  mail:    mailto:forschungsdaten@uni-muenster.de
   lat:     51.9627609
   lon:     7.620459
   color:   gray
@@ -153,7 +153,7 @@
 - name:    Hochschul- und Landesbibliothek Fulda
   url:     https://rdmo.hlb.hs-fulda.de/
   contact: Patrick Langner
-  mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27
+  mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27)
   lat:     50.5653467
   lon:     9.68746859
   color:   gray

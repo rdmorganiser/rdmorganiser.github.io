@@ -24,10 +24,9 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	<tr>
 		<th style="width: 5%;"/>
 		<th style="width: 15%;"/>
-		<th style="width: 35%;">Fokus</th>
+		<th style="width: 45%; padding-left: 15px;">Fokus</th>
 		<th style="width: 20%;">Termin</th>
-		<th style="width: 10%;">Protokoll</th>
-		<th style="width: 15%;">Ansprechperson</th>
+		<th style="width: 25%;">Ansprechperson</th>
 	</tr>
 	<tr>
 		<td style="font-weight: bold; padding-left:5px;" colspan="2">Steuerungsgruppe</td>
@@ -38,7 +37,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 4. Dienstag im Monat (13:00-14:30)</td>
-		<td><a href="">Link ?</a></td>
 		<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a></td>
 	</tr>
 	<tr>
@@ -50,7 +48,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 1. Donnerstag im Monat (11:00-12:00 Uhr)</td>
-		<td/>
 		<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 	</tr>
 	<tr>
@@ -62,7 +59,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 3. Donnerstag im Monat (11:00-12:00 Uhr)</td>
-		<td><a href="">Link ?</a></td>
 		<td><a href="mailto:mail@jochenklar.de">Jochen Klar</a></td>
 	</tr>
 	<tr>
@@ -74,7 +70,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>z.Zt. unregelmäßig</td>
-		<td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50">Link</a></td>
 		<td><a href="mailto:kerstin.wedlich@kit.edu">Kerstin Wedlich-Zachodin</a></td>
 	</tr>
 	<tr style="border-bottom-right-radius: 15px;">
@@ -87,7 +82,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 4. Donnerstag im Monat (11:00-12:00 Uhr)</td>
-		<td><a href="https://docs.google.com/document/d/1DV9vRQDDZnL_LIHBVjMsmRTnbZmvYJ_K0ry8_pXWP50">Link</a></td>
 		<td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
 	</tr>
 	<tr style="border-bottom-right-radius: 15px;">
@@ -100,7 +94,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 2. Montag im Monat (10:00-11:00 Uhr)</td>
-		<td><a href="https://drive.google.com/drive/folders/1hHJa6_fzgZ7lPewgRzhS50jhKM0Bi0Y9">Link</a></td>
 		<td><a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a></td>
 	</tr>
 	<tr style="border-bottom-right-radius: 15px;">
@@ -113,7 +106,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 2. Dienstag (15:00-16:00 Uhr)</td>
-		<td><a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC">Link</a></td>
 		<td><a href="mailto:giacomo.lanza@ptb.de">Giacomo Lanza</a></td>
 	</tr>
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
@@ -126,7 +118,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>am 1. Montag im Monat (11:30-12:30)</td>
-		<td><a href="https://docs.google.com/document/d/1mjnkANFwB3FbGx8ytzx8xyJI0XNDr_Hh90IKxliVOLg">Link</a></td>
 		<td><a href="mailto:christin.henzen@tu-dresden.de">Christin Henzen</a></td>
 	</tr>
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
@@ -139,7 +130,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td>nicht festgelegt; alle 2 Monate</td>
-		<td/>
 		<td><a href="mailto:anders@dkrz.de">Ivonne Anders</a></td>
 	</tr>
 </table>
