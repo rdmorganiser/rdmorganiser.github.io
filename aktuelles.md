@@ -30,6 +30,18 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 		<th style="width: 15%;">Ansprechperson</th>
 	</tr>
 	<tr>
+		<td style="font-weight: bold; padding-left:5px;" colspan="2">Steuerungsgruppe</td>
+		<td>
+			<ul>
+				<li>Austausch der Steuerungsmitglieder</li>
+				<li>nicht öffentlich, keine Teilnahme möglich</li>
+			</ul>
+		</td>
+		<td>am 4. Dienstag im Monat (13:00-14:30)</td>
+		<td><a href="">Link ?</a></td>
+		<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a></td>
+	</tr>
+	<tr>
 		<td style="font-weight: bold; padding-left:5px;" colspan="2">Allgemeiner JourFixe</td>
 		<td>
 			<ul>
@@ -120,7 +132,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
 		<td/>
 		<td style="font-weight: bold;">UAG Werbung und Außenkooperationen</td>
-		<td">
+		<td>
 			<ul>
 				<li>Zusammenführung der Inhalte und Aktivitäten aus nationalen und internationalen Gruppen</li>
 				<li>abgeschlossen, keine Teilnahme mehr möglich</li>
@@ -129,18 +141,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 		<td>nicht festgelegt; alle 2 Monate</td>
 		<td/>
 		<td><a href="mailto:anders@dkrz.de">Ivonne Anders</a></td>
-	</tr>
-	<tr>
-		<td style="font-weight: bold; padding-left:5px;" colspan="2">Steuerungsgruppe</td>
-		<td>
-			<ul>
-				<li>Austausch der Steuerungsmitglieder</li>
-				<li>nicht öffentlich, keine Teilnahme möglich</li>
-			</ul>
-		</td>
-		<td>am 4. Dienstag im Monat (13:00-14:30)</td>
-		<td><a href="">Link ?</a></td>
-		<td><a href="mailto:gerald.jagusch@tu-darmstadt.de">Gerald Jagusch</a></td>
 	</tr>
 </table>
 

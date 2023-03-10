@@ -5,7 +5,7 @@ key: docu_user
 lang: de
 ---
 
-Projekt
+Was bietet RDMO den Nutzenden?
 =======
 
 **Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.**
