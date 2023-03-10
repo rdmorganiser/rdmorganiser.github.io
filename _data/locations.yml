@@ -200,13 +200,16 @@
   lon:     6.688490
   color:   gray
 
-- name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
-#   url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
+# - name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
+  # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
+  # contact: Oliver Duchrow
+  # mail:    mailto:Oliver.Duchrow@ipb-halle.de
+  # IPB raus lassen, da nach eigener Aussage keine Partnerschaft
 
 # - name:  EAWAG
-#   url:   https://opendata.eawag.ch/eawagrdm/
-#   contact: 
-#   mail:  mailto:rdm@eawag.ch
+  # url:   https://opendata.eawag.ch/eawagrdm/
+  # contact: Harald von Waldow
+  # mail:  mailto:rdm@eawag.ch
 
 - name:    Alfred Wegner Institut (AWI)
   contact: Angela Schäfer
