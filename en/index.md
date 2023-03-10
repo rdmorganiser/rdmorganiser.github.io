@@ -18,9 +18,9 @@ and data management tasks across the whole life cycle of the research data.
 
 RDMO is ready for application in smaller or bigger projects. In two project phases, the tool was continuously developed by the project partners AIP, FHP, and KIT Library in close cooperation with users. The tool was extended by enhancing its implementation of roles and interfaces to institutional infrastructure,
 e.g. repositories, ticketing systems, and the infrastructure for authentication and autorization.
-Tutorials, documentation and other material were creazted for dissemination, and workshops for users and developers were organized.
+Tutorials, documentation and other material were created for dissemination, and workshops for users and developers were organized.
 
-On these pages, we provide information about the [RDMO Consortium]({{site.baseurl}}/en/rdmo_arge), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages). Development of RDMO is continued by the RDMO-Consortium. 
+On these pages, we provide information about the [RDMO Consortium]({{site.baseurl}}/en/rdmo_arge), the [software]({{site.baseurl}}/en/software) and its [documentation]({{ site.baseurl }}/en/documentation), [news]({{ site.baseurl }}/en/news) and [cooperations]({{ site.baseurl }}/en/cooperations). RDMO has been built by the [RDMO-project]({{ site.baseurl }}/en/project), and its [workpackages]({{ site.baseurl }}/en/workpackages). Development of RDMO is continued by the RDMO-Consortium.
 
 More information about RDMO and our software can be found on the following websites:
 
@@ -38,8 +38,8 @@ Follow us on Twitter:
 
 Discuss with us on Slack:
 : [rdmo.slack.com](https://rdmo.slack.com)
-(Send us a e-mail: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> and we will send you an invitation.)
+(Send us a e-mail: <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a> and we will send you an invitation.)
 
-For questions and other matter, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+For questions and other matters, please contact us by mail <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a>.
 
 If you encounter problems or bugs with the RDMO Software, or if you want to request a feature, please file an issue here: <https://github.com/rdmorganiser/rdmo/issues>. For problems or suggestions with questionaires, the RDMO domain model or other content, please use the issues in the [rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog) repository: <https://github.com/rdmorganiser/rdmo-catalog/issues>. In order to file issues, you will need a GitHub account.
