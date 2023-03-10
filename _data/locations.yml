@@ -9,7 +9,7 @@
 
 - name:    Universitätsallianz Ruhr, Ruhr-Universität Bochum
   url:     http://rdmo.uaruhr.de
-  contact: Johannes Frenzel, Kathrin Höhner
+  contact: Johannes Frenzel
   mail:    mailto:researchdata+rdmo@uaruhr.de
   lat:     51.4439
   lon:     7.261572
@@ -24,8 +24,8 @@
   color:   blue
 
 - name:    IZUS / Universitätsbibliothek Stuttgart
-  url:     https://rdmo.forschungsdaten.info/
-  contact: Sibylle Herrmann, Michael Steigmüller
+  # url:     https://rdmo.forschungsdaten.info/
+  contact: Dorothea Iglezakis, Björn Selent
   mail:    mailto:fokus@izus.uni-stuttgart.de
   lat:     48.78231
   lon:     9.1686
@@ -79,8 +79,13 @@
   lon:     8.680805
   color:   blue
 
-# - name:  Universitätsallianz Ruhr: Universität Dortmund
-#   url:   https://www.tu-dortmund.de/uni/de/Uni
+- name:    Universitätsallianz Ruhr, Universität Dortmund
+  url:     https://rdmo.uaruhr.de/
+  contact: Kathrin Höhner
+  mail:    mailto:fdm@tu-dortmund.de
+  lat:     51.48426
+  lon:     7.41454
+  color:   blue
 
 - name:    FoDaKo, Heinrich-Heine-Universität Düsseldorf
   url:     https://rdmo.hhu.de/
@@ -100,7 +105,7 @@
 
 - name:    FoDaKo, Universität Siegen
   url:     https://rdmo.e-science-service.uni-siegen.de/
-  contact: Thomas von Rekowski, Henning Bohn, Volker Hess
+  contact: Bastian Weiß, Volker Hess
   mail:    mailto:e-science-service@uni-siegen.de
   lat:     50.91082
   lon:     8.0273001
@@ -233,13 +238,14 @@
   lon:     6.065603
   color:   gray
 
-- name:    Forschungszentrum Jülich
-  url:     https://dmp.fz-juelich.de
-  contact: Ines Schmahl, Torsten Bronger
-  mail:    mailto:forschungsdaten@fz-juelich.de
-  lat:     50.905626
-  lon:     6.40600
-  color:   blue
+# - name:    Forschungszentrum Jülich
+  # url:     https://dmp.fz-juelich.de
+  # contact: Ines Schmahl, Torsten Bronger
+  # mail:    mailto:forschungsdaten@fz-juelich.de
+  # lat:     50.905626
+  # lon:     6.40600
+  # color:   blue
+  # gelöscht auf deren Wunsch
 
 - name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
   url:     https://rdmo.ub.fau.de/
