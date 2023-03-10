@@ -40,8 +40,7 @@ Wir stellen hier einen Entwurf einer **Verfahrensbeschreibung** für die RDMO De
 
 Vorlage für Ihre **Nutzungsbedingungen**:
 
-1) Betrieb von RDMO
-----------------------------
+#### 1) Betrieb von RDMO
 
 Für den Betrieb von RDMO ist die Einrichtung von Nutzern erforderlich. 
 Es werden zu diesem Zweck folgende Daten eines Nutzers erhoben und in der betreffenden RDMO-Instanz des Betreibers gespeichert:
@@ -57,8 +56,7 @@ RDMO-Nutzerprofile werden ausschließlich im Rahmen der betreibenden Institution
 Die Verwendung von RDMO-Nutzerdaten sollten in einer “Terms of Use” Erklärung dem Nutzer bei Anlegen des Accounts deutlich gemacht werden. Der Nutzer sollte sein Einverständnis dokumentieren. RDMO stellt hierfür technische Hilfsmittel bereit. 
 
 
-2) Nutzung von RDMO und personenbezogene Daten der Nutzer
--------------------------------------------------------------------------------------
+#### 2) Nutzung von RDMO und personenbezogene Daten der Nutzer
 
 Innerhalb von RDMO wird ein Nutzer zu bestimmten Projekten zugeordnet, bzw. ist ‘Eigentümer’ von Projekten. Die Beiträge des Nutzers werden in diesem RDMO-Projekt gespeichert. In einem Projektkontext kann eine Weitergabe von personenbezogener Information erfolgen, z.B. 
 bei der Abfrage von Speicherbedarf wird Projektname und ggf. Projektverantwortlicher genannt
@@ -73,7 +71,6 @@ Der Import und Export von Projektdaten ist immer nur auf Basis von Zugriffsrecht
 Ein Administrator (Superuser) kann alle Projekte sehen, er hat jedoch auch die besondere Verpflichtung, diese Rechte nur im Rahmen seiner administrativen Tätigkeiten anzuwenden. 
 
 
-3) Projekte die schutzwürdige, personenbezogene Daten zu Forschungszwecken erheben bzw. nutzen 
--------------------------------------------------------------------------------------------------------------------------------
+#### 3) Projekte die schutzwürdige, personenbezogene Daten zu Forschungszwecken erheben bzw. nutzen 
 
 Diese Projekte müssen bezogen auf ihr Vorhaben gesonderte Maßnahmen und Verfahren überlegen. RDMO bietet hier mit der Trennung der Projekte und Separierung der Nutzer eine Grundlage. Gegebenenfalls ist eine weitergehende ToU hier notwendig.  
