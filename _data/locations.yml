@@ -190,7 +190,7 @@
   color:   gray
 
 - name:    Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
-  url:     http://www.ipk-gatersleben.de/
+  url:     https://rdmo.ipk-gatersleben.de
   contact: Matthias Lange
   mail:    mailto:bioinformatics@ipk-gatersleben.de
   lat:     51.827277
@@ -203,7 +203,7 @@
   mail:    mailto:esciences@uni-trier.de
   lat:     49.745933
   lon:     6.688490
-  color:   gray
+  color:   blue
 
 # - name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
   # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
