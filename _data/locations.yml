@@ -87,13 +87,13 @@
   lon:     7.41454
   color:   blue
 
-- name:    FoDaKo, Heinrich-Heine-Universität Düsseldorf
+- name:    Heinrich-Heine-Universität Düsseldorf
   url:     https://rdmo.hhu.de/
   contact: Ania López, Nina Knipprath
   mail:    mailto:fdm@hhu.de
   lat:     51.1952525
   lon:     6.7899203
-  color:   gray
+  color:   blue
 
 - name:    FoDaKo, Universität Wuppertal
   url:     https://rdmo.zim.uni-wuppertal.de/
@@ -121,11 +121,11 @@
 
 - name:    Technische Universität Braunschweig
   url:     https://rdmo.biblio.etc.tu-bs.de
-  contact: Robert Strötgen, Džulia Terzijska
+  contact: Džulia Terzijska
   mail:    mailto:forschungsdaten@tu-braunschweig.de
   lat:     52.2735074
   lon:     10.5296839
-  color:   gray
+  color:   blue
 
 - name:    Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
   url:     https://rdmo.ptb.de
