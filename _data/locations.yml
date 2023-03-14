@@ -135,13 +135,13 @@
   lon:     10.46418
   color:   blue
 
-- name:    Technische Universität Hamburg
-  url:     https://dmp.fdm.uni-hamburg.de/
-  contact: Beate Rajski, Francesca Schulze
-  mail:    mailto:forschungsdaten@tuhh.de
-  lat:     53.4610079
-  lon:     9.9699716
-  color:   gray
+# - name:    Technische Universität Hamburg
+  # url:     https://dmp.fdm.uni-hamburg.de/
+  # contact: Beate Rajski, Francesca Schulze
+  # mail:    mailto:forschungsdaten@tuhh.de
+  # lat:     53.4610079
+  # lon:     9.9699716
+  # color:   gray
 
 - name:    Universität Hamburg
   contact: Kai Wörner
