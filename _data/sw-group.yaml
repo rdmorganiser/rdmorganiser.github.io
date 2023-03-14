@@ -15,11 +15,6 @@ current:
   image: img/team/dummy.jpg
 
 - text:
-    de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCID 0000-0002-1446-2199"
-    en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCID 0000-0002-1446-2199"
-  image: img/team/rodriguezl.jpeg
-
-- text:
     de: 
     en: 
   image:
