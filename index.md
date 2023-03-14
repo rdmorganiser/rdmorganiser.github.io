@@ -11,13 +11,15 @@ lang: de
 
 Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft](./Community),  die [Software](./Doku_Admins) und deren Dokumentation, [aktuelle Aktivitäten der Arbeitsgemeinschaft](./aktuelles) und unsere Kooperationspartner.
 
-<div style="width: 15%;">
-<h2>Was ist RDMO?</h2>
+<div style="width: 35%;">
+<h2 style:"text-align: center;">Was ist RDMO?</h2>
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 </div>
 
-<div style="width: 15%; margin-left:85%;">
-<h2>RDMO-Community</h2>
+<img src="./img/3.1.Möglichkeit.PNG"/>
+
+<div style="width: 35%; margin-left:65%;">
+<h2 style:"text-align: center;">RDMO-Community</h2>
 Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. 
 Die Mitarbeit erfolgt in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
 </div>
