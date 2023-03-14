@@ -26,13 +26,12 @@ Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Softw
 Die Mitarbeit erfolgt in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
 </div>
 
-<table style="width: 100%; border:none;">
+<table style="width: 90%;margin-left:5%;margin-right:5%; border:none;">
 	<tr>
-		<th style="width: 5%;"/>
-		<th style="width: 75%;">Kooperationspartner</th>
+		<td rowspan='2' style="width: 5%;"><img src="./img/1.1.Möglichkeit.PNG" style="width: 150px;"/></td>
+		<td style="width: 85%;">Kooperationspartner</th>
 	</tr>
 	<tr>
-		<td><img src="./img/1.1.Möglichkeit.PNG" style="width: 150px;"/></td>
 		<td>Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern.</td>
 	</tr>
 	</table>
