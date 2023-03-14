@@ -35,8 +35,8 @@ Die Mitarbeit erfolgt in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe
 	<td><img src="./img/1.1.Möglichkeit.PNG" style="width: 150px;"/></td>
 		<td>Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern.</td>
 	</tr>
-	</table>
-
+</table>
+<br/>
 
 
 
