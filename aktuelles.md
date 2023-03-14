@@ -24,7 +24,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	<tr>
 		<th style="width: 5%;"/>
 		<th style="width: 15%;"/>
-		<th style="width: 45%; padding-left: 15px;">Fokus</th>
+		<th style="width: 45%; padding-left: 25px;">Fokus</th>
 		<th style="width: 20%;">Termin</th>
 		<th style="width: 25%;">Ansprechperson</th>
 	</tr>
