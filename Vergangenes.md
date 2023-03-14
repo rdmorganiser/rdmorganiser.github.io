@@ -230,7 +230,7 @@ Die Steuerungsgruppe von  RDMO hat gemeinsam mit dem NFDI Direktorat und dem Kon
 
 </details>
 
-<details><summary><h3>2022</h3></summary>
+<details><summary><h3>2020</h3></summary>
 
 <h4>Dezember 2020</h4>
 Virtuelle RDMO-Sprechstunde
