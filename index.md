@@ -16,7 +16,7 @@ Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft](./Co
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 </div>
 
-<div style=" margin-left:30%;margin-top: -5%;">
+<div style=" margin-left:28%;margin-top: -5%;">
 <img src="./img/3.Möglichkeit.PNG" style="width: 300px;"/>
 </div>
 
@@ -29,10 +29,10 @@ Die Mitarbeit erfolgt in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe
 <table style="width: 100%; border:none;">
 	<tr>
 		<th style="width: 5%;"/>
-		<th style="width: 85%;">Kooperationspartner</th>
+		<th style="width: 75%;">Kooperationspartner</th>
 	</tr>
 	<tr>
-		<td><img src="./img/1.1.Möglichkeit.PNG" style="width: 150px;"/>		</td>
+		<td><img src="./img/1.1.Möglichkeit.PNG" style="width: 150px;"/></td>
 		<td>Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern.</td>
 	</tr>
 	</table>
