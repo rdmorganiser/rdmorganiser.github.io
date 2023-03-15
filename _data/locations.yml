@@ -73,13 +73,13 @@
 
 - name:    Universitäts- und Landesbibliothek Darmstadt
   url:     http://tudmo.ulb.tu-darmstadt.de
-  contact: Gerald Jagusch, Jürgen Windeck, David Wallace
-  mail:    mailto:tudata@tu-darmstadt.de
+  contact: Gerald Jagusch
+  mail:    mailto:rdmo@ulb.tu-darmstadt.de
   lat:     49.861429
   lon:     8.680805
   color:   blue
 
-- name:    Universitätsallianz Ruhr, Universität Dortmund
+- name:    Universitätsallianz Ruhr, Technische Universität Dortmund
   url:     https://rdmo.uaruhr.de/
   contact: Kathrin Höhner
   mail:    mailto:fdm@tu-dortmund.de
@@ -135,13 +135,13 @@
   lon:     10.46418
   color:   blue
 
-- name:    Technische Universität Hamburg
-  url:     https://dmp.fdm.uni-hamburg.de/
-  contact: Beate Rajski, Francesca Schulze
-  mail:    mailto:forschungsdaten@tuhh.de
-  lat:     53.4610079
-  lon:     9.9699716
-  color:   gray
+# - name:    Technische Universität Hamburg
+  # url:     https://dmp.fdm.uni-hamburg.de/
+  # contact: Beate Rajski, Francesca Schulze
+  # mail:    mailto:forschungsdaten@tuhh.de
+  # lat:     53.4610079
+  # lon:     9.9699716
+  # color:   gray
 
 - name:    Universität Hamburg
   contact: Kai Wörner
@@ -150,9 +150,9 @@
   lon:     9.984469
   color:   gray
 
-- name:    Universitäts- und Landesbibliothek Münster
+- name:    Universität Münster
   # url:     https://www.ulb.uni-muenster.de
-  contact: Marc Schutzeichel
+  contact: Frank Berkemeier
   mail:    mailto:forschungsdaten@uni-muenster.de
   lat:     51.9627609
   lon:     7.620459
@@ -161,7 +161,7 @@
 - name:    Hochschul- und Landesbibliothek Fulda
   url:     https://rdmo.hlb.hs-fulda.de/
   contact: Patrick Langner, Thomas Richter
-  mail:    javascript:linkTo_UnCryptMailto(%27nbjmup%2BgpstdivohtebufoAimc%5C%2Fit.gvmeb%5C%2Fef%27);
+  mail:    mailto:forschungsdaten@hlb.hs-fulda.de
   lat:     50.5653467
   lon:     9.68746859
   color:   gray
@@ -393,10 +393,10 @@
   mail: mailto:forschungsdaten@uni-bonn.de
   lat: 50.734040
   lon: 7.103840
-  color: blue
-  description: >-
-     Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
-     Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
+  color: gray
+  # description: >-
+     # Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
+     # Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
 
 - name: Istituto Nazionale di Ricerca Metrologica (INRiM)
   url: https://rdmo.inrim.it/
