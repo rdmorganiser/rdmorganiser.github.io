@@ -15,9 +15,9 @@ current:
   image: img/team/dummy.jpg
 
 - text:
-    de: 
-    en: 
-  image:
+    de: "**Max Schröder** ist Softwareentwickler im Team Forschungsdaten der Universitätsbibliothek Rostock. Neben der Umsetzung von Forschungsdatenservices beschäftigt er sich mit standardisierten Beschreibungen von Forschungsprozessen, Forschungsdatenmanagement und virtuellen Forschungsumgebungen. "
+    en: "**Max Schröder** is a software developer in the research data team at the Rostock University Library. In addition to the implementation of research data services, he deals with standardized descriptions of research processes, research data management and virtual research environments. "
+  image: img/team/dummy.jpg
 
 - text:
     de: 
