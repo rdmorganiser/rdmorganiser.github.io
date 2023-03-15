@@ -15,7 +15,7 @@ current:
   image: img/team/rathmann.jpg
 
 - text:
-    de: "**Giacomo Lanza** ist Koordinator für das Forschungsdatenmanagement bei der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementpläne für europäische Projekte un deren Implementierung in RDMO."
+    de: "**Giacomo Lanza** ist Koordinator für das Forschungsdatenmanagement an der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementplänen für europäische Projekte und deren Implementierung in RDMO."
     en: "**Giacomo Lanza** is coordinator for the research data management at the [Library of the Physikalisch-Technische Bundesanstalt (PTB)](https://www.ptb.de/cms/en/research-development/into-the-future-with-metrology/the-challenges-of-digital-transformation/nutzbarkeitvonforschungsdaten.html#c121491) in Brunswick. His main action fields are the [interaction of metrology and research data management](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); the development of standards, metadata and terminologies; the generation of data management plans for European project and their implementation in RDMO."
   image: img/team/lanza.jpg
 
@@ -42,9 +42,9 @@ current:
 - text:
     de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCID 0000-0002-1446-2199"
     en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCID 0000-0002-1446-2199"
-  image: img/team/rodriguezl.jpeg
+  image: img/team/rodriguezl.png
 
 - text:
-    de: "**Jimena Linares**" arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMOins Spanische bei. Orcid: 0000-0003-3847-2663.
-    en: "**Jimena Linares**" works as data manager officer at the German Federation for biological data (GFBio). Supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish. Orcid:0000-0003-3847-2663
+    de: "**Jimena Linares** arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei. Orcid: 0000-0003-3847-2663."
+    en: "**Jimena Linares** works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish. Orcid:0000-0003-3847-2663."
   image: img/team/linares.jpeg
