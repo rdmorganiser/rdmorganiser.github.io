@@ -17,6 +17,18 @@ Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie b
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
+## Ad-Hoc-Gruppen
+
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werden.
+Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
+
+Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
+
+## Mitgliederversammlung
+
+Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
+Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
+
 ## Reguläre RDMO-Videokonferenz-Termine
 (Stand: April 2023)
 

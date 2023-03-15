@@ -61,17 +61,6 @@ So erreichen Sie die Contentgruppe: [E-Mail](rdmo-contentgruppe@listserv.dfn.de)
 </div>
 {% endfor %}
 
-## Mitgliederversammlung
-
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
-
-## Ad-Hoc-Gruppen
-
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werden.
-Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
 
 ## Ehemalige Community-Mitglieder ... (ändern)
 
