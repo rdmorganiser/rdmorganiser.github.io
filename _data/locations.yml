@@ -233,7 +233,7 @@
 - name:    RTWH Aachen
   url:     https://rdmo.rwth-aachen.de/
   contact: Daniela Hausen, Sabine Schönau
-  mail:    mailto:servicedesk@itc.rwth-aachen.de
+  mail:    mailto:forschungsdaten@ub.rwth-aachen.de
   lat:     50.781177
   lon:     6.065603
   color:   gray
@@ -264,7 +264,7 @@
 
 - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
   url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
-  contact: Johannes Sperling
+  contact: Johannes Sperling, Christin Henze
   mail:    mailto:forschungsdaten@slub-dresden.de
   lat:     51.028183
   lon:     13.736781
@@ -293,7 +293,7 @@
   color: blue
 
 - name: Universität Rostock
-  url:     https://rdmo.uni-rostock.de/
+  # url:     https://rdmo.uni-rostock.de/
   contact: Max Schröder
   mail:    mailto:forschungsdaten@uni-rostock.de
   lat:     54.088133
