@@ -62,34 +62,11 @@ So erreichen Sie die Contentgruppe: [E-Mail](rdmo-contentgruppe@listserv.dfn.de)
 {% endfor %}
 
 
-## Ehemalige Community-Mitglieder ... (ändern)
-
-<details>
-  <summary><u>Ehemalige Community-Mitglieder</u></summary>   # für neu ausgeschiedene Personen
-  {% for member in site.data.team.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
-</details>
-<details>
-  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
-  {% for member in site.data.team.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
-</details>
+## Ehemalige Community-Mitglieder 
 
 <details>
   <summary><u>Ehemalige Mitarbeiterinnen und Mitarbeiter</u></summary>
-  {% for member in site.data.team.former %}
+  {% for member in site.data.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">

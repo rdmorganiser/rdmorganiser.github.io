@@ -5,11 +5,6 @@ current:
   image: img/team/wedlich.jpg
 
 - text:
-    de: "**Jens Freund** ist Mitglied des Forschungsdatenmanagement-Teams der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und Mitglied von HeFDI [Hessische Forschungsdaten Infrastruktur](https://www.uni-marburg.de/de/hefdi). Seine Arbeitsgebietes sind RDMO, Elektronische laborbücher und Entwicklung neuer Konzepte der Bibliothek für das Angebot von digitaler wissenschaftlicher Literatur."
-    en: "**Jens Freund** is a member of the research data management team of the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
-  image: img/team/freund.jpg
-
-- text:
     de: "**Torsten Rathmann** ist wissenschaftlicher Mitarbeiter am Servicezentrum Forschungsdatenmanagement der Bergischen Universität Wuppertal. Er berät dort, gibt Schulungen und baut ein E-Learning-Angebot auf. Für RDMO hat er Fragenkataloge entwickelt und betreut die RDMO-Server in Wuppertal."
     en: "**Torsten Rathmann** is a research assistant at the Research Data Management Service Centre at the University of Wuppertal. He advises there, gives training courses and is building up an e-learning offer. He developed questionnaires for RDMO and manages the RDMO servers in Wuppertal."
   image: img/team/rathmann.jpg

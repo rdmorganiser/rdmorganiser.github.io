@@ -74,3 +74,15 @@ Ein Administrator (Superuser) kann alle Projekte sehen, er hat jedoch auch die b
 #### 3) Projekte die schutzwürdige, personenbezogene Daten zu Forschungszwecken erheben bzw. nutzen 
 
 Diese Projekte müssen bezogen auf ihr Vorhaben gesonderte Maßnahmen und Verfahren überlegen. RDMO bietet hier mit der Trennung der Projekte und Separierung der Nutzer eine Grundlage. Gegebenenfalls ist eine weitergehende ToU hier notwendig.  
+
+<details>
+  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
+  {% for member in site.data.team.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
+</details>

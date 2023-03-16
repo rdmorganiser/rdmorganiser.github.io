@@ -1,13 +1,7 @@
-current:
 - text:
-    de: "**Harry Enke** leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Sein Arbeitsgebiet ist der Aufbau von digitaler Infrastruktur für Forschungsdaten in der Astrophysik. Er ist Sprecher des [Arbeitskreis Forschungsdaten der Leibniz-Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
-    en: "**Harry Enke** leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
-  image: img/team/enke.jpg
-
-- text:
-    de: "**Jochen Klar** ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
-    en: "**Jochen Klar** is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
-  image: img/team/klar.jpg
+    de: "**Jens Freund** ist Mitglied des Forschungsdatenmanagement-Teams der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und Mitglied von HeFDI [Hessische Forschungsdaten Infrastruktur](https://www.uni-marburg.de/de/hefdi). Seine Arbeitsgebietes sind RDMO, Elektronische laborbücher und Entwicklung neuer Konzepte der Bibliothek für das Angebot von digitaler wissenschaftlicher Literatur."
+    en: "**Jens Freund** is a member of the research data management team of the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
+  image: img/team/freund.jpg
 
 - text:
     de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
@@ -18,11 +12,6 @@ current:
     de: "**Jens Ludwig** ist Sprecher der gemeinsamen Arbeitsgruppe \"Forschungsdaten\" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
     en: "**Jens Ludwig** is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
   image: img/team/ludwig.jpg
-
-- text:
-    de: "**Olaf Michaelis** ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er ist Teil der E-Science Gruppe und arbeitet hauptsächlich im Bereich der Softwareentwicklung."
-    en: "**Olaf Michaelis** is a research associate at the [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He is a member of the E-Science group and works primarily as a software developer."
-  image: img/team/michaelis.jpg
 
 - text:
     de: "**Heike Neuroth** ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
@@ -40,17 +29,6 @@ current:
   image: img/team/ulrich.jpg
 
 - text:
-    de: "**Kerstin Wedlich-Zachodin** ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) in der FDM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
-    en: "**Kerstin Wedlich-Zachodin** is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
-  image: img/team/wedlich.jpg
-
-- text:
-    de: "**Ulrike Wuttke** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
-    en: "**Ulrike Wuttke** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
-  image: img/team/wuttke.jpg
-
-former:
-- text:
     de: "**Claudia Engelhardt** war wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
     en: "**Claudia Engelhardt** has been a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
   image: img/team/engelhardt.jpg
@@ -64,3 +42,8 @@ former:
     de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am KIT. Seine Arbeitsschwerpunkte sind die Bedarfe der wissenschaftlichen Communities und der Transfer von neuen digitalen und datengetriebenen Methoden in die wissenschaftliche Arbeitspraxis."
     en: "**Frank Tristram** is a research associate at Karlsruhe Institute of Technology (KIT). His work focuses on the needs of scientific communities and the transfer of new digital and data-driven methods into scientific practice."
   image: img/team/tristram.jpg
+
+- text:
+    de: "**Ulrike Wuttke** ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
+    en: "**Ulrike Wuttke** is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
+  image: img/team/wuttke.jpg
