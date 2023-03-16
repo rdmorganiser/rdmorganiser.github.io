@@ -42,4 +42,9 @@ current:
 - text:
     de: "**Jimena Linares** arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei. Orcid: 0000-0003-3847-2663."
     en: "**Jimena Linares** works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish. Orcid:0000-0003-3847-2663."
-  image: img/team/linares.jpeg
+  image: img/team/linares.jpg
+
+- text:
+    de: "**Frank Rühle** ..."
+    en: "**Frank Rühle** ..."
+  image: img/team/ruehle.jpeg
