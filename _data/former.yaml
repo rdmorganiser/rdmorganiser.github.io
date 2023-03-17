@@ -4,6 +4,11 @@
   image: img/team/freund.jpg
 
 - text:
+    de: "**Robert Strötgen** ist stellvertretender Direktor der [Universitätsbibliothek der TU Braunschweig](https://www.tu-braunschweig.de/ub) und Leiter der Abteilung IT und Forschungsnahe Services. Dort verantwortet er auch das Thema Forschungsdatenmanagement. Im Bereich Open Source engagiert er sich unter anderem seit 2012 für 'Kitodo. Key to digital objects e.V.', dessen Vorstandsvorsitzender er ist."
+    en: "**Robert Strötgen** is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board."
+  image: img/team/stroetgen.jpg
+
+- text:
     de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
     en: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
   image: img/team/kramer.jpg
