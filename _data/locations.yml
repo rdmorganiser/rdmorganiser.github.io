@@ -1,6 +1,7 @@
 - name:    Leibniz-Institut für Astrophysik Potsdam (AIP)
   url:     https://rdmo.aip.de
   contact: Olaf Michaelis
+  mail:    mailto:omichaelis@aip.de
   lat:     52.405
   lon:     13.104167
   color:   blue
@@ -45,7 +46,7 @@
       und Training von RDMO.
 
 - name:    Karlsruher Institut für Technologie (KIT)
-  url:     https://rdmo.forschungsdaten.info
+  # url:     https://rdmo.forschungsdaten.info
   mail:    mailto:contact@rdm.kit.edu
   contact: Kerstin Vanessa Wedlich-Zechodin
   lat:     49.00955
@@ -142,6 +143,7 @@
   # lat:     53.4610079
   # lon:     9.9699716
   # color:   gray
+  # gelöscht auf deren Wunsch
 
 - name:    Universität Hamburg
   url:     https://dmp.fdm.uni-hamburg.de/ 
@@ -210,7 +212,7 @@
   # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
   # contact: Oliver Duchrow
   # mail:    mailto:Oliver.Duchrow@ipb-halle.de
-  # IPB raus lassen, da nach eigener Aussage keine Partnerschaft
+  # gelöscht auf deren Wunsch
 
 # - name:  EAWAG
   # url:   https://opendata.eawag.ch/eawagrdm/
@@ -279,21 +281,21 @@
   lon:     13.011944
   color:   gray
 
-- name: Max Rubner-Institut (MRI)
+- name:    Max Rubner-Institut (MRI)
   contact: Bernhard Lucke
-  lat: 49.013579
-  lon: 8.426245
-  color: gray
+  lat:     49.013579
+  lon:     8.426245
+  color:   gray
 
-- name: Ludwig-Maximilians-Universität München (LMU)
-  url: https://rdmo.ub.uni-muenchen.de
+- name:    Ludwig-Maximilians-Universität München (LMU)
+  url:     https://rdmo.ub.uni-muenchen.de
   contact: Martin Spenger
-  mail: mailto:forschungsdaten@ub.uni-muenchen.de
-  lat: 48.150833
-  lon: 11.580278
-  color: blue
+  mail:    mailto:forschungsdaten@ub.uni-muenchen.de
+  lat:     48.150833
+  lon:     11.580278
+  color:   blue
 
-- name: Universität Rostock
+- name:    Universität Rostock
   # url:     https://rdmo.uni-rostock.de/
   contact: Max Schröder
   mail:    mailto:forschungsdaten@uni-rostock.de
@@ -301,13 +303,13 @@
   lon:     12.133373
   color:   blue
 
-- name: Goethe Universität Frankfurt am Main
-  url: https://rdmo.server.uni-frankfurt.de
+- name:    Goethe Universität Frankfurt am Main
+  url:     https://rdmo.server.uni-frankfurt.de
   contact: Nina Dworschak
-  mail: mailto:forschungsdaten@ub.uni-frankfurt.de
-  lat: 50.127778
-  lon: 8.666667
-  color: blue
+  mail:    mailto:forschungsdaten@ub.uni-frankfurt.de
+  lat:     50.127778
+  lon:     8.666667
+  color:   blue
 
 - name:    Robert Koch-Institut (RKI)
   url:     https://www.rki.de/mamodar
@@ -327,7 +329,7 @@
       Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in
       öffentliche Repositorien wie GenBank zu unterstützen.
 
-- name: Centre de calcul d'IN2P3
+- name:    Centre de calcul d'IN2P3
   url:     https://dmp.in2p3.fr/
   contact: Yonny Cardenas
   mail:    mailto:contact@cc.in2p3.fr
@@ -336,16 +338,16 @@
   color:   gray
   discipline: Physik
 
-- name: Stiftung Preußischer Kulturbesitz
-  url: https://www.preussischer-kulturbesitz.de
+- name:    Stiftung Preußischer Kulturbesitz
+  url:     https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
 
-- name: Deutsches Klimarechenzentrum (DKRZ)
-  url: https://rdmo.dkrz.de
+- name:    Deutsches Klimarechenzentrum (DKRZ)
+  url:     https://rdmo.dkrz.de
   contact: Karsten Peters, Ivonne Anders
-  lat: 53.5668648
-  lon: 9.9765854
-  color: blue
+  lat:     53.5668648
+  lon:     9.9765854
+  color:   blue
   discipline: Klima- und Erdsystemforschung
   description: >-
       Das Deutsche Klimarechenzentrum ist der zentrale IT-Serviceprovider
@@ -357,100 +359,124 @@
       erster Linie zur Erstellung und Pflege von Datenmanagementplänen großer
       Konsortialprojekte und intedisziplinärer Exzellenzcluster genutzt.
 
-- name: Universität Tübingen
-  url: https://rdmo.escience.uni-tuebingen.de
+- name:    Universität Tübingen
+  url:     https://rdmo.escience.uni-tuebingen.de
   contact: Fabian Hamm
-  mail: mailto:fdat@dh-center.uni-tuebingen.de
-  lat: 48.5244121
-  lon: 9.0597217
-  color: gray
+  mail:    mailto:fdat@dh-center.uni-tuebingen.de
+  lat:     48.5244121
+  lon:     9.0597217
+  color:   gray
 
-- name: Philipps-Universität Marburg
-  url: http://rdmo.uni-marburg.de
+- name:    Philipps-Universität Marburg
+  url:     http://rdmo.uni-marburg.de
   contact: Paul Sutter
-  mail: mailto:eresearch@uni-marburg.de
-  lat: 50.810833
-  lon: 8.773611
-  color: blue
+  mail:    mailto:eresearch@uni-marburg.de
+  lat:     50.810833
+  lon:     8.773611
+  color:   blue
 
-- name: Institute of Science and Technology Austria (IST)
-  # url: https://rdmo.ist.ac.at
+- name:    Institute of Science and Technology Austria (IST)
+  # url:     https://rdmo.ist.ac.at
   contact: Doris Ernst
-  lat: 48.310556
-  lon: 16.261111
-  color: gray
+  lat:     48.310556
+  lon:     16.261111
+  color:   gray
 
-- name: Leuphana Universität Lüneburg
-  url: https://rdmo.leuphana.de/
+- name:    Leuphana Universität Lüneburg
+  url:     https://rdmo.leuphana.de/
   contact: Servicestelle Forschungsdatenmanagement
   mail:    mailto:forschungsdaten@leuphana.de
-  lat: 53.228889
-  lon: 10.401111
-  color: blue
+  lat:     53.228889
+  lon:     10.401111
+  color:   blue
 
-- name: Universität Bonn
-  url: https://rdmo.forschungsdaten.uni-bonn.de/
+- name:    Universität Bonn
+  url:     https://rdmo.forschungsdaten.uni-bonn.de/
   contact: Christian Bittner
-  mail: mailto:forschungsdaten@uni-bonn.de
-  lat: 50.734040
-  lon: 7.103840
-  color: gray
+  mail:    mailto:forschungsdaten@uni-bonn.de
+  lat:     50.734040
+  lon:     7.103840
+  color:   gray
   # description: >-
      # Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
      # Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
 
-- name: Istituto Nazionale di Ricerca Metrologica (INRiM)
-  url: https://rdmo.inrim.it/
-  contact: Dario Pilori
-  lat: 45.014953
-  lon: 7.637828
-  color: gray
+- name:    Istituto Nazionale di Ricerca Metrologica (INRiM)
+  url:     https://rdmo.inrim.it/
+  # contact: Michaela Kuepferling
+  lat:     45.014953
+  lon:     7.637828
+  color:   gray
 
-- name: Max Planck Digital Library (MPDL)
-  url: https://rdmo.mpdl.mpg.de/
+- name:    Max Planck Digital Library (MPDL)
+  url:     https://rdmo.mpdl.mpg.de/
   contact: Yves Vincent Grossmann
   mail:    mailto:rdmo@mpdl.mpg.de
-  lat: 48.1478564
-  lon: 11.5763998
-  color: blue
+  lat:     48.1478564
+  lon:     11.5763998
+  color:   blue
 
-- name: Zuse-Institut Berlin (ZIB)
-  url: https://rdmo.zib.de
+- name:    Zuse-Institut Berlin (ZIB)
+  url:     https://rdmo.zib.de
   contact: Tim Hasler
-  mail:     mailto:rdm@zib.de
-  lat: 52.4560878
-  lon: 13.2960695
-  color: blue
+  mail:    mailto:rdm@zib.de
+  lat:     52.4560878
+  lon:     13.2960695
+  color:   blue
 
-- name: Universitätsbibliothek Osnabrück
-  url: https://osnaplan.ub.uni-osnabrueck.de
+- name:    Universitätsbibliothek Osnabrück
+  url:     https://osnaplan.ub.uni-osnabrueck.de
   contact: Marco Gronwald
-  mail: mailto:fdm@uos.de
-  lat: 52.2731726
-  lon: 8.0457204
-  color: blue
+  mail:    mailto:fdm@uos.de
+  lat:     52.2731726
+  lon:     8.0457204
+  color:   blue
 
-- name: International Center of Insect Physiology and Ecology (ICIPE)
-  url: https://dmmg-dmp.icipe.org/
+- name:    International Center of Insect Physiology and Ecology (ICIPE)
+  url:     https://dmmg-dmp.icipe.org/
   contact: Henri Tonnang
-  mail: https://dmmg.icipe.org/service_request.html
-  lat: -1.2218344
-  lon: 36.8966253
-  color: blue
+  mail:    https://dmmg.icipe.org/service_request.html
+  lat:     -1.2218344
+  lon:     36.8966253
+  color:   blue
   discipline: Lebenswissenschaften
 
-- name: Technische Universität Berlin
-  url: https://dmp.tu-berlin.de
+- name:    Technische Universität Berlin
+  url:     https://dmp.tu-berlin.de
   contact: Britta Steinke
-  mail: mailto:szf@ub.tu-berlin.de
-  lat: 52.512556072022434
-  lon: 13.32659749475189
-  color: blue
+  mail:    mailto:szf@ub.tu-berlin.de
+  lat:     52.512556072022434
+  lon:     13.32659749475189
+  color:   blue
 
-- name: Julius-Kühn-Institut (JKI)
-  url: https://194.94.63.33/
+- name:    Julius-Kühn-Institut (JKI)
+  url:     https://194.94.63.33/
   contact: Christoph Sinn, Matthias Senft, Ulrike Stahl, Steffen Kecke
   # mail: 
-  lat: 51.77318,
-  lon: 11.14195
-  color: gray  
+  lat:     51.77318
+  lon:     11.14195
+  color:   gray
+
+- name:    German Federation for Biological Data (GFBio)
+  url:     https://dmp.gfbio.org/
+  contact: Jimena Linares, Ivaylo Kostadinov
+  mail:    mailto:info@gfbio.org
+  lat:     53.10542
+  lon:     8.86242
+  color:   blue
+
+- name:    Hochschule Geisenheim
+  # url:     https://www.hs-geisenheim.de/bibliothek/hefdi/
+  contact: Laura Rodríguez
+  # mail:    
+  lat:     49.98440
+  lon:     7.96135
+  color:   white
+
+- name:    Institut für Molekularbiologie (IMB)
+  # url:     https://www.imb.de/core-facilities/bioinformatics/core-facility-members/
+  contact: Frank Rühle
+  # mail:    
+  lat:     49.98938
+  lon:     8.23284
+  color:   white
