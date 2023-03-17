@@ -250,7 +250,7 @@
   # color:   blue
   # gelöscht auf deren Wunsch
 
-- name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
+- name:    Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
   url:     https://rdmo.ub.fau.de/
   contact: Jürgen Rohrwild
   mail:    mailto:ub-fdm@fau.de
@@ -468,7 +468,7 @@
 - name:    Hochschule Geisenheim
   # url:     https://www.hs-geisenheim.de/bibliothek/hefdi/
   contact: Laura Rodríguez
-  # mail:    
+  mail:    fdm@hs-gm.de
   lat:     49.98440
   lon:     7.96135
   color:   white
