@@ -375,9 +375,10 @@
   lon:     8.773611
   color:   blue
 
-- name:    Institute of Science and Technology Austria (IST)
-  # url:     https://rdmo.ist.ac.at
+- name:    Institute of Science and Technology Austria (ISTA)
+  url:     https://rdmo.ista.ac.at
   contact: Doris Ernst
+  mail:    mailto:library@ista.ac.at
   lat:     48.310556
   lon:     16.261111
   color:   gray
