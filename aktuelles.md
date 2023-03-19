@@ -12,15 +12,13 @@ Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [
 (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
 
 {% for announcement in site.data.announcements %}
-## Ankündigungen:
-
-<table style="width: 100%;">
+<table style="width: 100%; border: 1px dotted red;">
   <tr>
     <th style="width: 10%;"></th>
-    <td style="width: 90%; padding-left:10px;"></td>
+    <td style="width: 90%; padding-left:10px;font-weight: bold;">Ankündigung</td>
   </tr>
-  <tr style="border-bottom: 1pt solid darkgrey;">
-    <th style="width: 10%;">{{ announcement.event.date | markdownify }}</th>
+  <tr>
+    <th style="width: 10%;">{{ announcement.date | markdownify }}</th>
     <td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}
     </td>
   </tr>

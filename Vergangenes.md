@@ -8,7 +8,7 @@ lang: de
 # Veranstaltungen, Vorträge und Bekanntmachungen
 
 ## Bisherige Workshops und Treffen:
-
+## 2022
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
@@ -49,6 +49,7 @@ lang: de
 		</td>
 	</tr>
 </table>
+
 ## Workshops:
 
 <details>
