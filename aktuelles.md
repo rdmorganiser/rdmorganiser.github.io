@@ -144,7 +144,7 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 </table>
 
 <br/>
-{% for member in site.data.cg-group.current %}
+{% for announcement in site.data.announcements %}
 ## Ankündigungen:
 
 <table style="width: 100%;">
@@ -154,7 +154,7 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
   </tr>
   <tr style="border-bottom: 1pt solid darkgrey;">
     <th style="width: 10%;">{{ site.baseurl }}/{{ announcement.date}}</th>
-    <td style="width: 90%; padding-left:10px;">{{ announcement.text.de | markdownify }}
+    <td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}
     </td>
   </tr>
 </table>
