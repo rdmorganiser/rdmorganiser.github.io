@@ -18,10 +18,8 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 
 ## Ad-Hoc-Gruppen
 
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werden.
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der StG abgestimmt werden.
 Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
 
 ## Mitgliederversammlung
 
@@ -146,7 +144,7 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 </table>
 
 <br/>
-
+{% for member in site.data.cg-group.current %}
 ## Ankündigungen:
 
 <table style="width: 100%;">
@@ -155,62 +153,13 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
     <td style="width: 90%; padding-left:10px;"></td>
   </tr>
   <tr style="border-bottom: 1pt solid darkgrey;">
-    <th style="width: 10%;">29.03.2022</th>
-    <td style="width: 90%; padding-left:10px;">
-    An diesem Tag findet <b>9. RDMO-Community-Treffen</b> virtuell von 09:00-14:00Uhr statt. Die einzelnen Gruppen stellen ihre Arbeit vor und es wird Vorträge zu verschiedenen Themen geben. Außerdem sollen neue StG-Mitglieder gewählt werden.
+    <th style="width: 10%;">{{ site.baseurl }}/{{ announcement.date}}</th>
+    <td style="width: 90%; padding-left:10px;">{{ announcement.text.de | markdownify }}
     </td>
   </tr>
 </table>
+{% endfor %}
 
 
-## Bisherige Workshops und Treffen:
-
-Die nachfolgende Auflistung enthält alle Bekanntmachungen, Meetings und Workshops der letzten zwölf Monate. Alle zuvor stattgefundenen Ereignisse finden Sie auf der Seite [Vergangenes]({{ siteurl }}/Vergangenes).
-Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dokumentation für Admins]({{siteurl}}/Doku_Admins).
-
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">13.09.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>8. RDMO-Community-Treffen (virtuell, 4 Stunden) <a href="https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.
-			<br/>
-			Für nähere Informationen können Sie sich die <a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC" target="_blank">Notizen der UAG DFG Checkliste</a> anschauen, oder die RDMO Arbeitsgemeinschaft anfragen.
-		</td>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">02.03.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) <a href="https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Das Hauptthema dieses Treffen war die Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung.
-			<br/>
-			Agenda:
-			<ol>
-				<li>Nutzenden getriebene Weiterentwicklung für RDMO (10 min) -> Harry Enke</li>
-				<li>Lightning talks (insg. 15 min): </li>
-				<ul>
-					<li>Content Gruppe: Giacomo Lanza</li>
-					<li>Software Gruppe: Jochen Klar</li>
-				</ul>
-				<li>Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)(Wechsel der Themen in den Räumen)</li>
-				<ul>
-					<li>Inhaltliche Dimension - Moderation: Robert Strötgen</li>
-					<li>Technische Dimension - Moderation: Jochen Klar</li>
-				</ul>
-				<li>gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)</li>
-			</ol>
-		</td>
-	</tr>
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;">Vorherige Ereignisse finden Sie auf der Seite <a href="./Vergangenes.md">Vergangene Veranstaltungen</a>.</td>
-	</tr>
-</table>
 
 

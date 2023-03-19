@@ -8,8 +8,8 @@
       en: News
   - key: old_news
     label:
-      de: Vergangene Veranstaltungen
-      en: Past events
+      de: Veranstaltungen
+      en: Events
   
 - key: rdmo-arge
   label:

@@ -13,6 +13,7 @@ Wenn Sie sich für RDMO interessieren, dann finden Sie auf diesen Seiten alle wi
 Auch ohne aktive Mitarbeit in den Arbeitsgruppen können Sie RDMO nutzen. Tragen Sie sich hierfür in unser [Kooperationsnetzwerk]({{site.baseurl}}/index) mit Ihrer Instanz ein.
 Der Schlüssel für die Weiterentwicklung der Software nah an den Bedürfnissen der Community ist jedoch eine rege Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 Für den Einstieg finden Sie erste Hilfestellungen zum Umgang mit RDMO in der Rolle [Nutzung]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) und [Administration]({{ site.baseurl }}/Doku_Admins).<br/>
+
 Die freie Software finden Sie unter:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
