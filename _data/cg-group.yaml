@@ -45,6 +45,6 @@ current:
   image: img/team/linares.jpg
 
 - text:
-    de: "**Frank Rühle** ..."
-    en: "**Frank Rühle** ..."
-  image: img/team/ruehle.jpeg
+    de: "**Frank Rühle**  ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten."
+    en: "**Frank Rühle** is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments."
+  image: img/team/ruehle.jpg
