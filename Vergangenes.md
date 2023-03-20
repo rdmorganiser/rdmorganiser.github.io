@@ -50,16 +50,30 @@ lang: de
 	</tr>
 	<tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">Februar 2022</th>
-		<td>
-Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.
-<br/>
-In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de
-</td>
+		<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/> In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de</td>
 </tr>
 </table>
 
 <br/>
+<div class="tab">
+  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
+  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
+  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+</div>
+<div id="2021" class="tabcontent">
+  <h3>2021</h3>
+  <p>London is the capital city of England.</p>
+</div>
 
+<div id="2020" class="tabcontent">
+  <h3>2020</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="2019" class="tabcontent">
+  <h3>2019</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
 <details><summary><h3>2021</h3></summary>
 <table style="width: 100%;">
 	<tr>
@@ -550,6 +564,21 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
+<script>
+function openYear(evt, yearName) {
+  var i, tabcontent, tablinks;
 
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
 
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
 
+  document.getElementById(yearName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>

@@ -14,14 +14,14 @@ Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [
 {% for announcement in site.data.announcements %}
 ## Ankündigung:
 
-<table style="width: 90%; margin-left: 5%; border: 3px dotted red;">
+<table style="width: 100%; border: 3px dotted red;">
   <tr>
-    <th style="width: 15%; padding: 10px;"></th>
-    <td style="width: 75%; padding: 10px;"></td>
+    <th style="width: 20%; padding: 10px;"></th>
+    <td style="width: 80%; padding: 10px;"></td>
   </tr>
   <tr>
-    <th style="width: 10%;">{{ announcement.date | markdownify }}</th>
-    <td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}
+    <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
+    <td style="width: 80%; padding-left:10px;">{{ announcement.event.de | markdownify }}
     </td>
   </tr>
 </table>
