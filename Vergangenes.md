@@ -35,7 +35,7 @@ lang: de
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
-  height: 250px;
+  height: 600px;
   overflow: auto;
 }
 </style>
@@ -43,7 +43,17 @@ lang: de
 # Veranstaltungen, Vorträge und Bekanntmachungen
 
 ## Bisherige Workshops und Treffen:
-## 2022
+
+<div class="tab">
+  <button class="tablinks" onclick="openYear(event, '2022')" id="defaultOpen">2022</button>
+  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
+  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
+  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
+  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
+</div>
+<div id="2022" class="tabcontent">
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -88,17 +98,8 @@ lang: de
 		<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/> In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de</td>
 </tr>
 </table>
-
-<br/>
-
-<div class="tab">
-  <button class="tablinks" onclick="openYear(event, '2021')" id="defaultOpen">2021</button>
-  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
-  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
-  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
-  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
 </div>
+
 <div id="2021" class="tabcontent">
   <table style="width: 100%;">
 	<tr>
