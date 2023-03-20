@@ -13,8 +13,8 @@ news:
 
 old_news:
   label:
-    de: Vergangene Veranstaltungen
-    en: Past Events
+    de: Veranstaltungen
+    en: Events
   path:
     de: Vergangenes
     en: en/past

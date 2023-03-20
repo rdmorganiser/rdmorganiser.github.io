@@ -10,24 +10,28 @@ lang: de
 Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. 
 Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). 
 (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
-Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an unsere interne Mailingliste <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+
+{% for announcement in site.data.announcements %}
+## Ankündigung:
+
+<table style="width: 90%; margin-left: 5%; border: 3px dotted red;">
+  <tr>
+    <th style="width: 15%; padding: 10px;"></th>
+    <td style="width: 75%; padding: 10px;"></td>
+  </tr>
+  <tr>
+    <th style="width: 10%;">{{ announcement.date | markdownify }}</th>
+    <td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}
+    </td>
+  </tr>
+</table>
+{% endfor %}
 
 ## RDMO Arbeitsgemeinschaft
 
 Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/rdmo_arge) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
-## Ad-Hoc-Gruppen
-
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werden.
-Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
-
-## Mitgliederversammlung
-
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 ## Reguläre RDMO-Videokonferenz-Termine
 (Stand: April 2023)
@@ -148,70 +152,16 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 
 <br/>
 
-## Ankündigungen:
 
-<table style="width: 100%;">
-  <tr>
-    <th style="width: 10%;"></th>
-    <td style="width: 90%; padding-left:10px;"></td>
-  </tr>
-  <tr style="border-bottom: 1pt solid darkgrey;">
-    <th style="width: 10%;">29.03.2022</th>
-    <td style="width: 90%; padding-left:10px;">
-    An diesem Tag findet <b>9. RDMO-Community-Treffen</b> virtuell von 09:00-14:00Uhr statt. Die einzelnen Gruppen stellen ihre Arbeit vor und es wird Vorträge zu verschiedenen Themen geben. Außerdem sollen neue StG-Mitglieder gewählt werden.
-    </td>
-  </tr>
-</table>
+## Ad-Hoc-Gruppen
 
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der StG abgestimmt werden.
+Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
 
-## Bisherige Workshops und Treffen:
+## Mitgliederversammlung
 
-Die nachfolgende Auflistung enthält alle Bekanntmachungen, Meetings und Workshops der letzten zwölf Monate. Alle zuvor stattgefundenen Ereignisse finden Sie auf der Seite [Vergangenes]({{ siteurl }}/Vergangenes).
-Informationen rund um die Entwicklung der Software finden Sie auf der Seite [Dokumentation für Admins]({{siteurl}}/Doku_Admins).
+Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
+Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">13.09.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>8. RDMO-Community-Treffen (virtuell, 4 Stunden) <a href="https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.
-			<br/>
-			Für nähere Informationen können Sie sich die <a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC" target="_blank">Notizen der UAG DFG Checkliste</a> anschauen, oder die RDMO Arbeitsgemeinschaft anfragen.
-		</td>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">02.03.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) <a href="https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Das Hauptthema dieses Treffen war die Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung.
-			<br/>
-			Agenda:
-			<ol>
-				<li>Nutzenden getriebene Weiterentwicklung für RDMO (10 min) -> Harry Enke</li>
-				<li>Lightning talks (insg. 15 min): </li>
-				<ul>
-					<li>Content Gruppe: Giacomo Lanza</li>
-					<li>Software Gruppe: Jochen Klar</li>
-				</ul>
-				<li>Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)(Wechsel der Themen in den Räumen)</li>
-				<ul>
-					<li>Inhaltliche Dimension - Moderation: Robert Strötgen</li>
-					<li>Technische Dimension - Moderation: Jochen Klar</li>
-				</ul>
-				<li>gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)</li>
-			</ol>
-		</td>
-	</tr>
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;">Vorherige Ereignisse finden Sie auf der Seite <a href="./Vergangenes.md">Vergangene Veranstaltungen</a>.</td>
-	</tr>
-</table>
 
 
