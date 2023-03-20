@@ -103,7 +103,8 @@ In der neuen Version werden viele Neuerungen enthalten sein:
 RDMO nutzt ab Version 1.6 Django 3.2 und setzt damit Python 3.6 voraus. Wenn das bei Ihnen Probleme verursachen sollte, wenden Sie sich bitte an uns.
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">04.10.2021</th>
-		<td></td>
+		<td>6. RDMO-Community-Treffen (virtuell).
+		<br/>[Programm](/events/workshop102021_programm)</td>
 </tr>
 		
 
@@ -315,7 +316,7 @@ Wir haben außerdem einen ersten <b>[Screencast](/materialien/)</b> auf unserer 
 
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">15.11.2018</th>
-		<td></td>
+		<td>Workshop über DMPs bei dem Open Science Forum in Luxemburg</td>
 </tr>
 
 <h4>Oktober 2018</h4>
@@ -344,15 +345,16 @@ Für die Weiterentwicklung von RDMO haben wir einen Fahrplan für die nächsten 
 
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">21.09.2018</th>
-		<td></td>
+		<td>2. Projekttreffen</td>
 </tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">13.09.2018</th>
-		<td></td>
+		<td>Lokaler Workshop in Dresden</td>
 </tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">03.09.2018</th>
-		<td></td>
+		<td>1. Community-Treffen, Uni Duisburg-Essen
+		<br/>[Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)</td>
 </tr>
 <h4>August 2018</h4>
 Im August haben wir die letzten Vorkehrungen für unser erstes, großes <b>Community-Treffen</b> getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen <b>[Foliensatz](/materialien/)</b> entworfen, den Sie gerne nachnutzen und für Ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
@@ -362,17 +364,17 @@ Im August haben wir die letzten Vorkehrungen für unser erstes, großes <b>Commu
 Im Juli haben wir dank diverser Diskussionen mit der Community beschlossen eine eingeschränkte <b>Mandantenfähigkeit</b> in RDMO umzusetzen, allerdings voraussichtlich erst im nächsten Jahr. Wir arbeiten intensiv an dem Refractoring des <b>Datenmodels</b> und werden bald davon berichten. Außerdem gibt es jetzt zwei <b>[Videos](/materialien/)</b> zu RDMO, die Sie gerne nachnutzen dürfen.
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">17./18.07.2018</th>
-		<td></td>
+		<td>Lokaler Workshop in Bochum und Siegen</td>
 </tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">12.07.2018</th>
-		<td></td>
+		<td>Lokaler Workshop in Darmstadt</td>
 </tr>
 <h4>Juni 2018</h4>
 Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema <b>[Datenschutz]({{ site.baseurl}}/schutz)</b> hinzugefügt. Es gibt jetzt eine <b>Kurzanleitung</b> zu den Import- und Exportfunktionen: http://www.forschungsdaten.org/index.php/Import_Export . Am 13.06. haben wir ein <i>[Vortrag](/vorträge/)</i> über RMDO beim 107. Bibliothekartag gehalten.
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">11.06.2018</th>
-		<td></td>
+		<td>Lokaler Workshop in der UB Braunschweig</td>
 </tr>
 
 <h4>April & Mai 2018</h4>
@@ -380,7 +382,7 @@ Im April haben wir intensiv daran gearbeitet die <b>Import- und Exportfunktionen
 Das Thema Datenschutzes (Stichwort DSGVO) hat uns veranlasst eine Vorschaltseite für die Nutzungsbedingungen einzubauen und ist seit der <b>Version 0.10.3.</b> verfügbar.
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">20.04.2018</th>
-		<td></td>
+		<td>Lokaler Workshop an der RWTH Aachen</td>
 </tr>
 
 <h4>März 2018</h4>
@@ -402,7 +404,7 @@ Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf
 
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 10%;">08./09.02.2018</th>
-		<td></td>
+		<td>1. Projekttreffen</td>
 </tr>
 
 <h4>Januar 2018</h4>
@@ -414,7 +416,7 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 
 </details>
 <details>
-	<summary><h3>2018</h3></summary>
+	<summary><h3>2017</h3></summary>
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
@@ -439,7 +441,7 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 </table>
 </details>
 <details>
-	<summary><h3>2018</h3></summary>
+	<summary><h3>2016</h3></summary>
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
@@ -457,9 +459,6 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 <details>
   <summary style="list-style-image: &#9658;"><u>Siehe Liste der Workshops:</u></summary>
   <ul>
-	<li>04.10.2021 6. RDMO-Community-Treffen (virtuell).
-		<br />[Programm](/events/workshop102021_programm)
-	</li>
 	<li>02.09.2021 DMPs in der NFDI - Kick-Off Meeting</li>
 	<li>02.03.2021 RDMO AG gemeinsam mit NFDI4ING und NFDI-Direktorat
 		<br />[Programm und Slides](/docs/nfdiws/workshop-nfdi)
@@ -476,16 +475,6 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 		<br />[Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)</li>
 	<li>27.09.2019 4. Projekttreffen</li>
 	<li>21.02.2019 3. Projekttreffen</li>
-	<li>15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg</li>
-	<li>21.09.2018 2. Projekttreffen</li>
-	<li>13.09.2018 Lokaler Workshop in Dresden</li>
-	<li>03.09.2018 1. Community-Treffen, Uni Duisburg-Essen
-		<br />[Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)</li>
-	<li>17./18.07.2018 Lokaler Workshop in Bochum und Siegen</li>
-	<li>12.07.2018 Lokaler Workshop in Darmstadt</li>
-	<li>11.06.2018 Lokaler Workshop in der UB Braunschweig</li>
-	<li>20.04.2018 Lokaler Workshop an der RWTH Aachen</li>
-	<li>08./09.02.2018 1. Projekttreffen</li>
   </ul>
 </details>
 
@@ -558,9 +547,6 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 (Anmerkung: Durch die Weiterentwicklung von RDMO entsprechen einige der hier beschriebenen Informationen zum [Datenmodells](https://rdmo.readthedocs.io/en/latest/management/domain.html#attributes-entities-and-the-data-model-refactoring) nicht mehr dem aktuellen Stand.)
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
-
-
-## Bekanntmachungen:
 
 
 
