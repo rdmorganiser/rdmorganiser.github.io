@@ -5,6 +5,41 @@ key: old_news
 lang: de
 ---
 
+<style>
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  height: 250px;
+  overflow: auto;
+}
+</style>
+
 # Veranstaltungen, Vorträge und Bekanntmachungen
 
 ## Bisherige Workshops und Treffen:
@@ -55,8 +90,7 @@ lang: de
 </table>
 
 <br/>
-<link rel="stylesheet" href="./css/tab.css">
-<script src="./js/Years.js"></script>
+
 <div class="tab">
   <button class="tablinks" onclick="openYear(event, '2021')" id="defaultOpen">2021</button>
   <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
@@ -552,3 +586,22 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
 
+<script>
+function openYear(evt, yearName) {
+  var i, tabcontent, tablinks;
+
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  document.getElementById(yearName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+document.getElementById("defaultOpen").click();
+</script>
