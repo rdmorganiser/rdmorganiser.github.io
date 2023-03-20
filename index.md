@@ -9,9 +9,10 @@ lang: de
 # Willkommen bei RDMO
 <hr>
 
-Wenn Sie sich für RDMO interessieren, dann finden Sie auf diesen Seiten alle wichtigen Informationen rund um die Software, aktuelle Veranstaltungen, die RDMO-Community und Möglichkeiten zur Mitarbeit. <br/>
+Auf diesen Seiten finden Sie alle wichtigen Informationen rund um die RDMO-Software, aktuelle Veranstaltungen, die RDMO-Community und Möglichkeiten zur Mitarbeit. <br/>
+Wenn Sie bereits über eine eigene RDMO-Instanz verfügen, tragen Sie sich in unser [Kooperationsnetzwerk]({{site.baseurl}}/index) ein. Damit kann Sie die RDMO-Community besser erreichen und Ihnen Informationen zukommen lassen.  Falls Sie noch keine Instanz besitzen, finden Sie hier Anleitungen für die Einrichtung (LINK). Vorab können Sie sich auch erst einmal auf der Demo-Instanz (LINK) umschauen.<br/>
 Auch ohne aktive Mitarbeit in den Arbeitsgruppen können Sie RDMO nutzen. Tragen Sie sich hierfür in unser [Kooperationsnetzwerk]({{site.baseurl}}/index) mit Ihrer Instanz ein.
-Der Schlüssel für die Weiterentwicklung der Software nah an den Bedürfnissen der Community ist jedoch eine rege Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
+Der Schlüssel für die Weiterentwicklung der Software ist eine aktive Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 Für den Einstieg finden Sie erste Hilfestellungen zum Umgang mit RDMO in der Rolle [Nutzung]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) und [Administration]({{ site.baseurl }}/Doku_Admins).<br/>
 
 Die freie Software finden Sie unter:
@@ -40,7 +41,7 @@ Wir freuen uns auf Sie!
 </div>
 
 <h2>Kooperationsnetzwerk</h2>
-Nicht nur aktive Mitarbeitende können sich Rat und Unterstützung von der RDMO-Community holen, auch RDMO-Nutzende und Institutionen, die über eine eigene Instanz verfügen.<br/>
+Alle RDMO-Nutzende und Institutionen, die über eine eigene Instanz verfügen, können sich Rat und Unterstützung von der RDMO-Community holen.<br/>
 Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Feedback aus den Fachwissenschaften zu berücksichtigen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen.
 
 
