@@ -55,9 +55,10 @@ lang: de
 </table>
 
 <br/>
-
+<link rel="stylesheet" href="./css/tab.css">
+<script src="./js/Years.js"></script>
 <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
+  <button class="tablinks" onclick="openYear(event, '2021')" id="defaultOpen">2021</button>
   <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
   <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
   <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
@@ -550,22 +551,4 @@ An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projek
 
 Es wurde zudem eine umfangreiche Sammlung von [Schriften zum Thema Forschungsdatenmanagement](https://www.zotero.org/groups/forschungsdaten/items) auf Zotero zusammengestellt.
 
-<link rel="stylesheet" href="./css/tab.css">
-<script>
-function openYear(evt, yearName) {
-  var i, tabcontent, tablinks;
 
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-
-  document.getElementById(yearName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
