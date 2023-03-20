@@ -59,21 +59,49 @@ lang: de
   <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
   <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
   <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
+  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
 </div>
 <div id="2021" class="tabcontent">
-  <h3>2021</h3>
-  <p>London is the capital city of England.</p>
+  
+  
 </div>
 
 <div id="2020" class="tabcontent">
-  <h3>2020</h3>
-  <p>Paris is the capital of France.</p>
+  
+  
 </div>
 
 <div id="2019" class="tabcontent">
-  <h3>2019</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  
+  
 </div>
+<div id="2018" class="tabcontent">
+ 
+ 
+</div>
+
+<div id="2017" class="tabcontent">
+  
+  
+</div>
+
+<div id="2016" class="tabcontent">
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 10%;"/>
+		<td style="width: 90%; padding-left:10px;"/>
+	</tr>
+<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 10%;">27.06.2016</th>
+		<td>Input-Workshop mit ausgewählten Expertinnen und Experten aus der Forschungsdaten-Community</td>
+</tr>
+</table>
+</div>
+
+
+
 <details><summary><h3>2021</h3></summary>
 <table style="width: 100%;">
 	<tr>
@@ -480,19 +508,7 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 </table>
 </details>
 
-<details>
-	<summary><h3>2016</h3></summary>
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;"/>
-	</tr>
-<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">27.06.2016</th>
-		<td>Input-Workshop mit ausgewählten Expertinnen und Experten aus der Forschungsdaten-Community</td>
-</tr>
-</table>
-</details>
+
 
 
 ## Vorträge:
