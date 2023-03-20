@@ -25,9 +25,9 @@ current:
   image: img/team/dummy.jpg
 
 - text:
-    de: "**Karsten Peters-von Gehlen** ... "
+    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte."
     en: "**Karsten Peters-von Gehlen** ... "
-  image: img/team/dummy.jpg
+  image: img/team/KPvG.jpg
 
 - text:
     de: "**Christin Henzen** ... "

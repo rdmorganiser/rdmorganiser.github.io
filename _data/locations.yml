@@ -345,6 +345,7 @@
 - name:    Deutsches Klimarechenzentrum (DKRZ)
   url:     https://rdmo.dkrz.de
   contact: Karsten Peters, Ivonne Anders
+  mail:    mailto:data@dkrz.de
   lat:     53.5668648
   lon:     9.9765854
   color:   blue
