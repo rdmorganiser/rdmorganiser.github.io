@@ -7,6 +7,10 @@ lang: de
 
 Was bietet RDMO den Nutzenden?
 =======
+<br>
+*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
+<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
+<source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 **Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.**
 
@@ -59,3 +63,14 @@ Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagement
 Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) . 
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/groups) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
 
+<details>
+  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
+  {% for member in site.data.team.current %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+    </div>
+</div>
+{% endfor %}
+</details>

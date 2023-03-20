@@ -11,7 +11,7 @@ Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen.
 Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). 
 (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
 
-{% for announcement in site.data.announcements %}
+{% for announcement in site.data.announcements.current %}
 ## Ankündigung:
 
 <table style="width: 100%; border: 3px dotted red;">
@@ -20,8 +20,8 @@ Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [
     <td style="width: 80%; padding: 10px;"></td>
   </tr>
   <tr>
-    <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
-    <td style="width: 80%; padding-left:10px;">{{ announcement.event.de | markdownify }}
+    <th style="width: 20%; padding: 10px;">{{ announcement.date | markdownify }}</th>
+    <td style="width: 80%; padding:10px;">{{ announcement.event.de | markdownify }}
     </td>
   </tr>
 </table>
