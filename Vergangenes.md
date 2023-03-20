@@ -55,6 +55,7 @@ lang: de
 </table>
 
 <br/>
+<link rel="stylesheet" type="text/css" href="./css/tab.css">
 <div class="tab">
   <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
   <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
@@ -64,46 +65,7 @@ lang: de
   <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
 </div>
 <div id="2021" class="tabcontent">
-  
-  
-</div>
-
-<div id="2020" class="tabcontent">
-  
-  
-</div>
-
-<div id="2019" class="tabcontent">
-  
-  
-</div>
-<div id="2018" class="tabcontent">
- 
- 
-</div>
-
-<div id="2017" class="tabcontent">
-  
-  
-</div>
-
-<div id="2016" class="tabcontent">
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 10%;"/>
-		<td style="width: 90%; padding-left:10px;"/>
-	</tr>
-<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 10%;">27.06.2016</th>
-		<td>Input-Workshop mit ausgewählten Expertinnen und Experten aus der Forschungsdaten-Community</td>
-</tr>
-</table>
-</div>
-
-
-
-<details><summary><h3>2021</h3></summary>
-<table style="width: 100%;">
+  <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;"/>
@@ -200,10 +162,10 @@ Wie bereits an anderer Stelle angekündigt veranstaltet die UAG Datenmanagementp
 Die Workshops richten sich sowohl an Teilnehmende, die bisher wenig Kontakt mit dem Thema DMP hatten, als auch an Personen, die bereits über vielfältige Erfahrung mit DMPs verfügen.
 Die Steuerungsgruppe von  RDMO hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing alle NFDI-Konsortien eingeladen,  aktiv mit einem Kurzvortrag an dem virtuellen Workshop “Erstellung von Datenmanagementplänen und DMP Tools in der NFDI” Anfang März 2021 teilzunehmen.  Dies geschieht vor dem Hintergrund der “Leipzig-Berlin-Erklärung zu NFDI-Querschnittsthemen der Infrastrukturentwicklung” und dem darin genannten Querschnittsthema “Erstellung von Datenmanagementplänen”. Sie soll dem  Austausch innerhalb der NFDI dienen.  Wir werden über die Ergebnisse zeitnah berichten.
 </td></tr></table>
-</details>
+</div>
 
-<details><summary><h3>2020</h3></summary>
-<table style="width: 100%;">
+<div id="2020" class="tabcontent">
+ <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;"/>
@@ -280,11 +242,10 @@ In der Zukunft wollen wir diese Art von Plugins verstärkt nutzen, um Domänensp
 		<th style="width: 10%;">Januar 2020</th>
 <td>Im Mittelpunkt des inzwischen 3. RDMO-Community-Treffens am 24.02.2020 am Leibniz-Institut für Astrophysik Potsdam (AIP) werden die Verabschiedung des [RDMO-Manifests](/docs/RDMO-Manifest-122019.pdf) und die Gründung der RDMO Community, insbesondere die Konstituierung der <i>Steuerungsgruppe</i> und der <i>Software-Gruppe</i> stehen. Außerdem sind wieder kurze <i>Spotlights</i> aus der Community der RDMO-Anwender\*innen vorgesehen. Link zum [Programm](/events/workshop022020_programm/). Während der an das Community-Treffen anschließenden [RDA-De-Tagung](https://www.rda-deutschland.de/events/tagung-2020) werden wir am Vormittag des 25.02.2020 einen RDMO-Workshop anbieten. Die Registrierung ist inzwischen möglich.
 </td></tr></table>
-</details>
+</div>
 
-<details>
-	<summary><h3>2019</h3></summary>
-<table style="width: 100%;">
+<div id="2019" class="tabcontent">
+ <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;"/>
@@ -351,11 +312,9 @@ In der Zukunft wollen wir diese Art von Plugins verstärkt nutzen, um Domänensp
 		<th style="width: 10%;">Januar 2019</th>
 <td>Wir veröffentlichen <b>Version 0.12.0</b> von RDMO mit verbessertem Fehlermanagament, einer Schaltfläche für den URI Präfix und der Möglichkeit Nutzerprofile zu löschen. Es wurden zwei neue <b>[Screencasts](/materialien/)</b> veröffentlicht. Wir sammeln <i>Fragenkataloge und Ansichten</i> ein. <i>Janine Straka</i> vom RMDO-Team geht ab Februar in Mutterschutz und anschließend in die Elternzeit. Die Vertretung übernimmt ab März <i>Ulrike Wuttke</i>.
 </td></tr></table>
-</details>
-
-<details>
-	<summary><h3>2018</h3></summary>
-<table style="width: 100%;">
+</div>
+<div id="2018" class="tabcontent">
+ <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;"/>
@@ -480,11 +439,10 @@ Unsere ersten beiden <b>Tutorials</b> zu ["Wie erstelle ich einen Fragenktalog i
 
 Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erstellt und kann auf [GitHub](http://www.github.com/rdmorganiser/rdmo-catalog) herruntergeladen werden.
 </td></tr></table>
-</details>
+</div>
 
-<details>
-	<summary><h3>2017</h3></summary>
-<table style="width: 100%;">
+<div id="2017" class="tabcontent">
+ <table style="width: 100%;">
 	<tr>
 		<th style="width: 10%;"/>
 		<td style="width: 90%; padding-left:10px;"/>
@@ -506,6 +464,44 @@ Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erst
 		<td>Abschlussworkshop der ersten Projektphase mit Vorstellung der Projektergebnisse</td>
 </tr>
 </table>
+</div>
+
+<div id="2016" class="tabcontent">
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 10%;"/>
+		<td style="width: 90%; padding-left:10px;"/>
+	</tr>
+<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 10%;">27.06.2016</th>
+		<td>Input-Workshop mit ausgewählten Expertinnen und Experten aus der Forschungsdaten-Community</td>
+</tr>
+</table>
+</div>
+
+
+
+<details><summary><h3>2021</h3></summary>
+
+</details>
+
+<details><summary><h3>2020</h3></summary>
+
+</details>
+
+<details>
+	<summary><h3>2019</h3></summary>
+
+</details>
+
+<details>
+	<summary><h3>2018</h3></summary>
+
+</details>
+
+<details>
+	<summary><h3>2017</h3></summary>
+
 </details>
 
 
