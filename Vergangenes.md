@@ -123,7 +123,7 @@ Außerdem stehen einige Neuerungen im Repositorium rdmo-catalog an. Sie werden u
 <td>In den letzten Wochen sind einige kleinere Probleme in RDMO aufgefallen, weshalb ab sofort die Version 1.6.2 verfügbar ist, die im wesentlichen Bug Fixes enthält. So wurden Overlays repariert für den Fall, dass in den Einstellungen PROJECT_ISSUES deaktiviert waren. Außerdem wurde ein Fehler behoben, der aufgetreten ist, wenn Datensätze entfernt werden. Ein Problem beim Auflösen von Bedingungen in Fragensets wurde ebenfalls beseitigt. Einige Verbesserungen, die eher für technische Interessierte oder RDMO-Administrierende interessant sein dürften, sind ebenfalls auf der Liste der Neuerungen. Von nun an nutzen wir Github-Actions und nicht mehr Travis-CI für unsere automatischen Tests. Weiterhin wurde auf der Kommandozeile ein Befehl hinzugefügt, mit dem sich Projekte aufspüren und entfernen lassen, die beispielsweise keine Besitzer haben. Unsere Release Notes finden sich wie immer hier: https://github.com/rdmorganiser/rdmo/releases.
 Die Berichte zum Community-Treffen vom 04.10.2021 sind - wie immer - auf
 https://www.forschungsdaten.org/index.php/Sechstes_Community-Treffen zu finden.
-Am 16. November war der Tag der Forschungsdaten in NRW. Im Nachmittagsprogramm hat Torsten Rathmann über Anforderungen der Drittmittelgeber und DMPs sprechen und dabei auch RDMO vorstellen, insbesondere auch eine neue Version der FoDaKo-Fragenkataloge für DFG-Projekte. Weitere Informationen gibt es auf der [Veranstaltungswebsite](https://www.fdm.uni-wuppertal.de/de/schulungen-veranstaltungen.html).
+Am 16. November war der Tag der Forschungsdaten in NRW. Im Nachmittagsprogramm hat Torsten Rathmann über Anforderungen der Drittmittelgeber und DMPs sprechen und dabei auch RDMO vorstellen, insbesondere auch eine neue Version der FoDaKo-Fragenkataloge für DFG-Projekte. Weitere Informationen gibt es auf der <a href="https://www.fdm.uni-wuppertal.de/de/schulungen-veranstaltungen.html" target="_blank">Veranstaltungswebsite</a>.
 </td></tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 20%;">Oktober 2021</th>
@@ -148,7 +148,7 @@ RDMO nutzt ab Version 1.6 Django 3.2 und setzt damit Python 3.6 voraus. Wenn das
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 20%;">04.10.2021</th>
 		<td>6. RDMO-Community-Treffen (virtuell).
-		<br/>[Programm](/events/workshop102021_programm)</td>
+		<br/><a href="./events/workshop102021_programm">Programm</a></td>
 </tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 20%;">September 2021</th>

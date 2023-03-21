@@ -20,7 +20,7 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (Software Scribus)
 * **Videos**:
 
-
+<br/>
 
 ## Datenschutz
 
