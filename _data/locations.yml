@@ -106,7 +106,7 @@
 
 - name:    FoDaKo, Universität Siegen
   url:     https://rdmo.e-science-service.uni-siegen.de/
-  contact: Bastian Weiß, Volker Hess
+  contact: Bastian Weiß
   mail:    mailto:e-science-service@uni-siegen.de
   lat:     50.91082
   lon:     8.0273001
@@ -179,7 +179,7 @@
 
 - name:    Universität Kassel
   url:     https://rdmo.uni-kassel.de
-  contact: Arvid Deppe
+  contact: Forschungsdaten-Service
   mail:    mailto:forschungsdaten@uni-kassel.de
   lat:     51.322817
   lon:     9.507359
@@ -265,13 +265,14 @@
   lon:     13.129854
   color:   gray
 
-- name:    Staats- und Universitätsbibliothek Dresden (SLUB)
-  url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
-  contact: Johannes Sperling, Christin Henze
-  mail:    mailto:forschungsdaten@slub-dresden.de
-  lat:     51.028183
-  lon:     13.736781
-  color:   gray
+# - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
+  # url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
+  # contact: Johannes Sperling, Christin Henze
+  # mail:    mailto:forschungsdaten@slub-dresden.de
+  # lat:     51.028183
+  # lon:     13.736781
+  # color:   gray
+  # gelöscht auf deren Wunsch
 
 - name:    Universität Potsdam
   url:     https://rdmo.uni-potsdam.de/
@@ -370,8 +371,8 @@
 
 - name:    Philipps-Universität Marburg
   url:     http://rdmo.uni-marburg.de
-  contact: Paul Sutter
-  mail:    mailto:eresearch@uni-marburg.de
+  contact: Veit Lorenz
+  mail:    mailto:hefdi@uni-marburg.de
   lat:     50.810833
   lon:     8.773611
   color:   blue
@@ -453,10 +454,10 @@
 
 - name:    Julius-Kühn-Institut (JKI)
   url:     https://194.94.63.33/
-  contact: Christoph Sinn, Matthias Senft, Ulrike Stahl, Steffen Kecke
-  # mail: 
-  lat:     51.77318
-  lon:     11.14195
+  contact: Christoph Sinn, Ulrike Stahl
+  mail:    mailto:fdm@julius-kuehn.de
+  lat:     51.77277
+  lon:     11.14100
   color:   gray
 
 - name:    German Federation for Biological Data (GFBio)
@@ -468,17 +469,17 @@
   color:   blue
 
 - name:    Hochschule Geisenheim
-  # url:     https://www.hs-geisenheim.de/bibliothek/hefdi/
+  url:     https://rdmo.hs-gm.de/
   contact: Laura Rodríguez
   mail:    mailto:fdm@hs-gm.de
   lat:     49.98440
   lon:     7.96135
   color:   white
 
-- name:    Institut für Molekularbiologie (IMB)
-  # url:     https://www.imb.de/core-facilities/bioinformatics/core-facility-members/
-  contact: Frank Rühle
-  # mail:    
+- name:    Johannes Gutenberg Universität Mainz (JGU)
+  url:     https://rdmo.zdv.uni-mainz.de
+  contact: Kompetenzteam Forschungsdaten
+  mail:    mailto:forschungsdaten@uni-mainz.de
   lat:     49.98938
   lon:     8.23284
-  color:   white
+  color:   blue
