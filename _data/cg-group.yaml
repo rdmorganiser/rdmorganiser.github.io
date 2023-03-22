@@ -30,6 +30,11 @@ current:
   image: img/team/KPvG.jpg
 
 - text:
+    de: "**Yves Vincent Grossmann** ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de). [ORCID: 0000-0002-2880-8947](https://orcid.org/0000-0002-2880-8947)."
+    en: "**Yves Vincent Grossmann** is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de). [ORCID: 0000-0002-2880-8947](https://orcid.org/0000-0002-2880-8947."
+  image: img/team/Grossmann.jpg
+
+- text:
     de: "**Christin Henzen** ... "
     en: "**Christin Henzen** ... "
   image: img/team/dummy.jpg
