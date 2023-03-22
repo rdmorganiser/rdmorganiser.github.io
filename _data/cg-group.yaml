@@ -20,28 +20,28 @@ current:
   image: img/team/Sabine_Schönau.jpg
 
 - text:
-    de: "**Ivonne Anders** ... "
-    en: "**Ivonne Anders** ... "
+    de: "**Ivonne Anders** ... ORCiD: 0000-0001-7337-3009."
+    en: "**Ivonne Anders** ... ORCiD: 0000-0001-7337-3009."
   image: img/team/dummy.jpg
 
 - text:
-    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte."
-    en: "**Karsten Peters-von Gehlen** ... "
+    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte. ORCiD: 0000-0003-0158-2957."
+    en: "**Karsten Peters-von Gehlen** ... ORCiD: 0000-0003-0158-2957."
   image: img/team/KPvG.jpg
 
 - text:
-    de: "**Christin Henzen** ... "
-    en: "**Christin Henzen** ... "
-  image: img/team/dummy.jpg
+    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. ORCiD: 0000-0002-5181-4368. "
+    en: "**Christin Henzen** is a research associate and project manager at the professorship for geoinformatics at the Technical University of Dresden. Her research interests include software development and architecture of research data infrastructures, as well as the usability of web-based applications. ORCiD: 0000-0002-5181-4368."
+  image: img/team/henzen_christin1.jpg
 
 - text:
-    de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCID 0000-0002-1446-2199."
-    en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCID 0000-0002-1446-2199."
+    de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCiD: 0000-0002-1446-2199."
+    en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCiD: 0000-0002-1446-2199."
   image: img/team/rodriguezl.png
 
 - text:
-    de: "**Jimena Linares** arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei. Orcid: 0000-0003-3847-2663."
-    en: "**Jimena Linares** works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish. Orcid:0000-0003-3847-2663."
+    de: "**Jimena Linares** arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei. ORCiD: 0000-0003-3847-2663."
+    en: "**Jimena Linares** works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish. ORCiD: 0000-0003-3847-2663."
   image: img/team/linares.jpg
 
 - text:

@@ -148,7 +148,7 @@ RDMO nutzt ab Version 1.6 Django 3.2 und setzt damit Python 3.6 voraus. Wenn das
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 20%;">04.10.2021</th>
 		<td>6. RDMO-Community-Treffen (virtuell).
-		<br/><a href="./events/workshop102021_programm">Programm</a></td>
+		<br/><a href="{{ site.baseurl }}/events/workshop102021_programm">Programm</a></td>
 </tr>
 <tr style="border-bottom: 1pt solid darkgrey;">
 		<th style="width: 20%;">September 2021</th>
