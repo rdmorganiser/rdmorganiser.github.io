@@ -12,7 +12,7 @@ current:
 - text:
     de: "**David Wallace** ist Softwareentwickler im Team Forschungsdaten-Services an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständing fur den Betrieb der mandantenfähige RDMO-Instanz, entwickelt mit an neuen Features und behebt hin und wieder einen Bug."
     en: "**David Wallace** is software developer in the Research Data Services team at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the operation of the multi-tenant RDMO instance, contributes in the development of new features and fixes the occasional bug."
-  image: img/team/David_Wallace.png
+  image: img/team/David_Wallace.jpg
 
 - text:
     de: "**Max Schröder** ist Softwareentwickler im Team Forschungsdaten der Universitätsbibliothek Rostock. Neben der Umsetzung von Forschungsdatenservices beschäftigt er sich mit standardisierten Beschreibungen von Forschungsprozessen, Forschungsdatenmanagement und virtuellen Forschungsumgebungen. "
