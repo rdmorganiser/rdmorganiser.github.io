@@ -106,11 +106,11 @@
 
 - name:    FoDaKo, Universität Siegen
   url:     https://rdmo.e-science-service.uni-siegen.de/
-  contact: Bastian Weiß
+  contact: Team E-Science-Service
   mail:    mailto:e-science-service@uni-siegen.de
   lat:     50.91082
   lon:     8.0273001
-  color:   gray
+  color:   blue
 
 - name:    Universität Hildesheim
   url:     https://dmp.uni-hildesheim.de/
