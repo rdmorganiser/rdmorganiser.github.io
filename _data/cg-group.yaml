@@ -60,9 +60,12 @@ current:
   image: img/team/Thomas_Richter.jpg
 
 - text:
-    de:
-    en:
-  image: 
+    de: "**Kathrin Höhner** leitet den Geschäftsbereich „Digitales Publizieren und Informationskompetenz“ der Universitätsbibliothek der Technischen Universität Dortmund. Im Forschungsdatenmanagement ist sie an der Technischen Universität Dortmund für den Bereich Datenmanagementpläne verantwortlich und vertritt die TU Dortmund auch in der UA Ruhr dazu. ORCiD: 0000-0002-3988-7839."
+    en: "**Kathrin Höhner** ... ORCiD: 0000-0002-3988-7839."
+  image: img/team/dummy.jpg
   
-  
+- text:
+    de: "**...** ... "
+    en: "**...** ... "
+  image: img/team/dummy.jpg 
   

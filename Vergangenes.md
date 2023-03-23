@@ -42,18 +42,29 @@ lang: de
 
 # Veranstaltungen, Vorträge und Bekanntmachungen
 
+Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informationen zu neuen Veranstaltungen und Publikationen an <a href="mailto:mail@jochenklar.de">Jochen Klar</a> oder <a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a> oder machen Sie einen Pull Request.
+
 ## Bisherige Workshops und Treffen:
 
-<div class="tab">
-  <button class="tablinks" onclick="openYear(event, '2022')" id="defaultOpen">2022</button>
-  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
-  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
-  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
-  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
-</div>
-<div id="2022" class="tabcontent">
+<button class="tablinks">2023</button>
+
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">29.09.2023</th>
+		<td style="width: 90%; padding-left:10px;">
+			An diesem Tag findet das <b>9. RDMO-Community-Treffen</b> virtuell von 09:00-14:00Uhr statt. Die einzelnen Gruppen stellen ihre Arbeit vor und es wird Vorträge zu verschiedenen Themen geben. Außerdem sollen neue StG-Mitglieder gewählt werden.
+			<br/>
+die Möglichkeit der Zoom-Registrierung finden Sie unter <a href="https://tu-darmstadt.zoom.us/meeting/register/u5MtdO-gqToiHN3RalBz6jPeUtKVIPQh-zSC">https://tu-darmstadt.zoom.us/meeting/register/u5MtdO-gqToiHN3RalBz6jPeUtKVIPQh-zSC.</a>			<br/>Kandidaturen für die Neuwahl der Steuerungsgruppe können gerne noch gemeldet werden an <a href="mailto:rdmo-steuerungsgruppe@listserv.dfn.de">rdmo-steuerungsgruppe@listserv.dfn.de</a> oder auch während der Sitzung noch erklärt werden.
+		</td>
+	</tr>
+</table>
+
+<button class="tablinks">2022</button>
+
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -98,8 +109,15 @@ lang: de
 		<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/> In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de</td>
 </tr>
 </table>
-</div>
 
+<div class="tab">
+  <button class="tablinks" onclick="openYear(event, '2021')" id="defaultOpen">2021</button>
+  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
+  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
+  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
+</div>
 <div id="2021" class="tabcontent">
   <table style="width: 100%;">
 	<tr>
