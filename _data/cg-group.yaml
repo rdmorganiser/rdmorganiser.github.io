@@ -15,10 +15,15 @@ current:
   image: img/team/lanza.jpg
 
 - text:
-    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte."
+    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte. ORCiD: 0000-0003-0158-2957."
     en: "**Karsten Peters-von Gehlen** ... "
   image: img/team/KPvG.jpg
 
+- text:
+    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. ORCiD: 0000-0002-5181-4368."
+    en: "**Christin Henzen** ... ORCiD: 0000-0002-5181-4368."
+  image: img/team/henzen_christin1.jpg
+  
 - text:
     de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCID 0000-0002-1446-2199."
     en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCID 0000-0002-1446-2199."
@@ -42,7 +47,7 @@ current:
 - text:
     de: "**Jürgen Windeck** ist Forschungsdatenreferent an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den föderierten RDMO-Service in Hessen und ist Koordinator der NFDI Arbeitsgruppe infra-dmp."
     en: "**Jürgen Windeck** is research data officer at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the federated RDMO service in Hesse and is coordinator of the NFDI working group infra-dmp."
-  # image: img/team/dummy.jpg
+  image: img/team/dummy.jpg
 
 - text:
     de: "**Thomas Richter** ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
