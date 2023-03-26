@@ -5,51 +5,30 @@ key: docu_admin
 lang: de
 ---
 
-Software
-========
+# Hilfe / Anleitung / Dokumentation für RDMO-Administrierende
 
-RDMO ist als Webanwendung realisiert und steht, auch schon in der Entwicklungsphase, als Open-Source Software auf [github.com](https://github.com/rdmorganiser) zur Verfügung. Die Software soll es sowohl einzelnen Forschenden als auch Kooperationspartner erlauben, alle für das nachhaltige Datenmanagement nötigen Informationen zentral einzugeben und zu verwalten. Auf der obersten Ebene werden diese Informationen anhand von durch die Nutzer im jeweiligen Forschungskontext zu definierenden *Projekten* verwaltet.
+Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
+Als <b>Administrator:in</b>
 
-In der jetzigen Planung wird RDMO folgende Features umfassen:
+Weitere Vorteile:
 
-Eingabe
--------
-
-Die Eingabe der Informationen zu einem Projekt erfolgt in Form eines strukturierten Interviews über ein interaktives Webinterface. Dies beinhaltet folgende Funktionalitäten:
-
-* Kooperatives Arbeiten der verschiedenen Stakeholder
-* Überspringen redundanter Fragen auf Basis bereits gegebener Antworten
-* Fortschrittsanzeige der bereits getätigten Eingaben
-* Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.)
-* Nutzung von kontrollierten Vokabularen als Antwortoptionen
-* Diskussions- und Kommentarfunktionen
-* Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u. ä.)
-* Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
-
-Ausgabe
--------
-
-Die eingegebenen Informationen können auf verschiedene Arten abgerufen werden:
-
-* Aggregation der eingegebenen Informationen zu textuellen Ansichten (z. B. strukturiert für Datenmanagementpläne bei Förderanträgen zu Horizon 2020)
-* Zeitliche Übersicht von anstehenden Aufgaben zum Datenmanagement
-* Benachrichtigungsfunktionen über anstehende Ereignisse während der Laufzeit des Projektes
-* Übersichtsansichten über verschiedene Projekte, beispielsweise zu benötigten IT-Ressourcen
 * Schnittstellen zu externen Services bzw. Datenmodellen (z. B. CERIF)
-
-Installation und Betrieb
-------------------------
-
-Besonderen Wert legen wir auf die reibungslose Installation und Anpassbarkeit von RDMO durch Institutionen wie Forschungsinstitute, Bibliotheken oder universitäre Arbeitsgruppen. Dies umfasst:
-
+* Benachrichtigungsfunktionen über anstehende Ereignisse während der Laufzeit des Projektes
 * Vollständige Anpassbarkeit der Oberfläche
     * Corporate Design
     * Layout
-* Vollständige Anpassbarkeit der Inhalte
-    * Fragen und Antwortmöglichkeiten
-    * Hilfe-/Erläuterungstexte inkl. Verlinkung zu externen Informationsquellen
-    * Vorlagen für textuelle Datenmanagementpläne
-    * Zu erledigende Aufgaben
 * Integration in die lokale Infrastruktur
     * Autorisierung und Authentifizierung
     * Schnittstellen
+
+
+## Erste Hilfestellungen
+
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. 
+
+* [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
+* [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
+* [Configuration](http://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO kann individuell angepasst werden
+* [Administration](http://rdmo.readthedocs.io/en/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
+* [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - Aktualisieren der RDMO-App
+

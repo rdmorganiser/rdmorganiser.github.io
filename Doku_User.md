@@ -5,36 +5,55 @@ key: docu_user
 lang: de
 ---
 
-Was bietet RDMO den Nutzenden?
-=======
+# Hilfe / Anleitung / Dokumentation für RDMO-Nutzende
+
+Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
+Als <b>Nutzende:r</b> haben Sie die Möglichkeit, Projekte zu erstellen und gemeinsam im Team oder alleine Fragenkataloge zu beantworten und die ausgefüllten DMPs zu exportieren. Mithilfe der Views kann die Ausgabe angepasst werden.<br/>
+
+Weitere Vorteile:
+* zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
+* fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
+* Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
+* Übersichtsansichten über verschiedene Projekte
+
+## Erste Hilfestellungen
+
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. 
+
+* [Schnellstart-Anleitung (PDF-Dokument)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
+* [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
+
+<b>Übersichten zu DMP-Vorgaben finden Sie u. a. auf:</b>
+* forschungsdaten.info unter ["Förderrichtlinien"](https://www.forschungsdaten.info/themen/planen-und-strukturieren/foerderrichtlinien/)
+* forschungsdaten.org unter ["Förderorganisationen"](https://www.forschungsdaten.org/index.php/F%C3%B6rderorganisationen)
+
+<b>Überblick aller Fragen des vollständigen RDMO-Katalogs als PDF:</b>
+
+* [Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
+
+<b>Die XML-Datei des generischen Fragenkatalogs finden Sie hier:</b>
+* [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
+
+
+## Videos
+
 <br>
 *Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 30%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-
-**Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.**
-
-Datenmanagementpläne sind eine der wichtigsten Komponenten des Forschungsdatenmanagements, deren Nutzung und Potential jedoch weiterhin nicht ausgeschöpft sind. Oft werden sie nur als Teil des Antragstextes verstanden und im Projektverlauf nicht mehr aktualisiert. RDMO unterstützt durch eine Vielzahl von Funktionen die Begleitung des gesamten Forschungsprozesses, damit das Forschungsdatenmanagement während des gesamten Projekts auch tatsächlich anhand des Plans organisiert und nach Bedarf angepasst werden kann.
-
-Zu den Kernfunktionalitäten von RDMO zählen:
-
-* zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
-* anpassbare Frage- und Antwortvorlagen
-* leicht anpassbares Design
-* fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
-* Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
-* Ausgabeformate für diverse Zwecke, u.a. für unterschiedliche Datenmanagementpläne, je nach Anforderung der Förderer.
 
 <br>
 <p style="margin-left:25%;">Wie beantworte ich einen Fragenkatalog? (<a href="{{ site.baseurl }}/img/promo/videos/fragenkatalog_v2.mp4">Video-Download</a>)</p>
-<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 30%; margin-left:35%;">
 <source src="{{ site.baseurl}}/img/promo/videos/fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
 
 <br>
 <p style="margin-left:25%;">Was kann man mit RDMO machen? (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)</p>
-<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 30%; margin-left:70%;">
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+
+### Historie:
 
 Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisation des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in der zweiten Phase.
 Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
@@ -56,12 +75,14 @@ Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert
 Die Beschreibung der ersten Projektphase kann [hier]({{ site.baseurl }}/erste-projektphase) eingesehen werden.
 
 
+
 **Das RDMO-Projekt wird in die community-getragene RDMO Arbeitsgemeinschaft überführt**
 
 Im Herbst 2020 endet die DFG-Förderung für RDMO, die Forschungsdatenmanagementsoftware Research Data Management Organiser. RDMO wird inzwischen als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen an vielen Forschungsinstitutionen in Deutschland genutzt. 
 
 Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) . 
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/groups) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
+<br/>
 
 <details>
   <summary><u>Ehemaliges DFG Projekt Team</u></summary>

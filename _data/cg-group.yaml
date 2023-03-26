@@ -23,12 +23,12 @@ current:
     de: "**Yves Vincent Grossmann** ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de). [ORCID: 0000-0002-2880-8947](https://orcid.org/0000-0002-2880-8947)."
     en: "**Yves Vincent Grossmann** is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de). [ORCID: 0000-0002-2880-8947](https://orcid.org/0000-0002-2880-8947."
   image: img/team/Grossmann.jpg
-  
--text:
+
+- text:
     de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. ORCiD: 0000-0002-5181-4368."
     en: "**Christin Henzen** ... ORCiD: 0000-0002-5181-4368."
-  image: img/team/henzen_christin1.jpg
-  
+  image: img/team/henzen_christin.jpg
+
 - text:
     de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim. ORCID 0000-0002-1446-2199."
     en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim. ORCID 0000-0002-1446-2199."
