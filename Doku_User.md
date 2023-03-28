@@ -7,7 +7,7 @@ lang: de
 
 # Hilfe / Anleitung / Dokumentation für RDMO-Nutzende
 
-Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
+Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
 Als <b>Nutzende:r</b> haben Sie die Möglichkeit: 
 
 * DMPs zu erstellen und kollaborativ daran zu arbeiten
