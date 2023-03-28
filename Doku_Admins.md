@@ -8,9 +8,7 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Administrierende
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
-Als <b>Administrator:in</b>
-
-Weitere Vorteile:
+Als <b>Administrator:in</b> haben Sie die Möglichkeit:
 
 * Schnittstellen zu externen Services bzw. Datenmodellen (z. B. CERIF)
 * Benachrichtigungsfunktionen über anstehende Ereignisse während der Laufzeit des Projektes

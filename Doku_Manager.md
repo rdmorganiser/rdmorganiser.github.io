@@ -8,9 +8,8 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Manager:innen
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
-Als <b>Manager:in</b> 
+Als <b>Manager:in</b> haben Sie die Möglichkeit:
 
-Weitere Vorteile:
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
 * Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u. ä.)
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.) für verschiedene Katalogdarstellungen

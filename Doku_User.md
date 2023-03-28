@@ -8,9 +8,10 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Nutzende
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
-Als <b>Nutzende:r</b> haben Sie die Möglichkeit, Projekte zu erstellen und gemeinsam im Team oder alleine Fragenkataloge zu beantworten und die ausgefüllten DMPs zu exportieren. Mithilfe der Views kann die Ausgabe angepasst werden.<br/>
+Als <b>Nutzende:r</b> haben Sie die Möglichkeit: 
 
-Weitere Vorteile:
+* DMPs zu erstellen und kollaborativ daran zu arbeiten
+* die Ausgabe mithilfe der Views anzupassen
 * zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
 * Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
