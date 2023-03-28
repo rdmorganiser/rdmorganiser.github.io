@@ -219,7 +219,7 @@
   # contact: Harald von Waldow
   # mail:  mailto:rdm@eawag.ch
 
-- name:    Alfred Wegner Institut (AWI)
+- name:    Alfred-Wegener-Institut (AWI)
   contact: Angela Schäfer
   mail:    mailto:data@awi.de
   lat:     53.533308
@@ -233,7 +233,7 @@
   lon:     13.066132
   color:   gray
 
-- name:    RTWH Aachen
+- name:    RWTH Aachen
   url:     https://rdmo.rwth-aachen.de/
   contact: Daniela Hausen, Sabine Schönau
   mail:    mailto:forschungsdaten@ub.rwth-aachen.de
