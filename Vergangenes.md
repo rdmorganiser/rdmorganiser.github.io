@@ -47,21 +47,20 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 ## Bisherige Workshops und Treffen:
 
 <button class="tablinks">2023</button>
-
+{% for announcement in site.data.announcements.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
 		<td style="width: 80%; padding-left:10px;"/>
 	</tr>
 	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">29.09.2023</th>
-		<td style="width: 90%; padding-left:10px;">
-			An diesem Tag findet das <b>9. RDMO-Community-Treffen</b> virtuell von 09:00-14:00Uhr statt. Die einzelnen Gruppen stellen ihre Arbeit vor und es wird Vorträge zu verschiedenen Themen geben. Außerdem sollen neue StG-Mitglieder gewählt werden.
-			<br/>
-die Möglichkeit der Zoom-Registrierung finden Sie unter <a href="https://tu-darmstadt.zoom.us/meeting/register/u5MtdO-gqToiHN3RalBz6jPeUtKVIPQh-zSC">https://tu-darmstadt.zoom.us/meeting/register/u5MtdO-gqToiHN3RalBz6jPeUtKVIPQh-zSC.</a>			<br/>Kandidaturen für die Neuwahl der Steuerungsgruppe können gerne noch gemeldet werden an <a href="mailto:rdmo-steuerungsgruppe@listserv.dfn.de">rdmo-steuerungsgruppe@listserv.dfn.de</a> oder auch während der Sitzung noch erklärt werden.
-		</td>
+		<th style="width: 20%;">{{ announcement.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}</td>
 	</tr>
 </table>
+{% endfor %}
+
+<br/>
 
 <div class="tab">
   <button class="tablinks" onclick="openYear(event, '2022')" id="defaultOpen">2022</button>
@@ -74,49 +73,19 @@ die Möglichkeit der Zoom-Registrierung finden Sie unter <a href="https://tu-dar
 </div>
 
 <div id="2022" class="tabcontent">
+
+{% for event in site.data.Events.2022 %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
 		<td style="width: 80%; padding-left:10px;"/>
 	</tr>
 	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">13.09.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>8. RDMO-Community-Treffen (virtuell, 4 Stunden) <a href="https://www.forschungsdaten.org/index.php/Achtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Unter anderem ging es hier um die Finalisierung der Roadmap. Aber auch aktuelle Herausforderungen wurden diskutiert. Dabei stellte sich heraus, dass die einheitliche Verwendung der DFG Checkliste ein Problem darstellt. Hierfür wurde im Anschluss eine neue Ad hoc-Gruppe innerhalb der RDMO Contentgruppe gebildet, die sich mit dem Umgang mit der DFG Checkliste befasst und einen generischen RDMO Fragenkatalog entwickelt, der alleine oder samt einer passenden view, welche dafür sorgt, dass die Antworten als Fließtext ausgegeben werden, nachgenutzt werden können.
-			<br/>
-			Für nähere Informationen können Sie sich die <a href="https://drive.google.com/drive/folders/1vq4LxMDmr1e9bZLB-6MWXZh5sR-4_ZeC" target="_blank">Notizen der UAG DFG Checkliste</a> anschauen, oder die RDMO Arbeitsgemeinschaft anfragen.
-		</td>
+		<th style="width: 20%;">{{ 2022.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ 2022.event.de | markdownify }}</td>
 	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">02.03.2022</th>
-		<td style="width: 90%; padding-left:10px;">
-			<b>7. RDMO-Community-Treffen (virtuell, 2.5 Stunden) <a href="https://www.forschungsdaten.org/index.php/Siebtes_Community-Treffen" target="_blank">Bericht</a></b>
-			<br/>
-			Das Hauptthema dieses Treffen war die Entwicklung eines Roadmap-Prozesses für RDMO zur nutzenden-zentrierten Weiterentwicklung.
-			<br/>
-			Agenda:
-			<ol>
-				<li>Nutzenden getriebene Weiterentwicklung für RDMO (10 min) -> Harry Enke</li>
-				<li>Lightning talks (insg. 15 min): </li>
-				<ul>
-					<li>Content Gruppe: Giacomo Lanza</li>
-					<li>Software Gruppe: Jochen Klar</li>
-				</ul>
-				<li>Breakout Sessions:  Dimensionen einer RDMO Roadmap (2 Räume, 2x 20 min.)(Wechsel der Themen in den Räumen)</li>
-				<ul>
-					<li>Inhaltliche Dimension - Moderation: Robert Strötgen</li>
-					<li>Technische Dimension - Moderation: Jochen Klar</li>
-				</ul>
-				<li>gemeinsame Abschlussdiskussion / nächste Schritte (Gerald Jagusch)</li>
-			</ol>
-		</td>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">Februar 2022</th>
-		<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/> In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de</td>
-</tr>
+</table>
+{% endfor %}
 </div>
 
 <div id="2021" class="tabcontent">
