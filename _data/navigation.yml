@@ -17,21 +17,21 @@
     en: Community
 
 - label:
-     de: Informationen
+     de: Anleitungen
      en: Informations
   submenu:
   - key: docu_user
     label:
-      de: Dokumentation für Endnutzer
-      en: Documentation for users
+      de: für Nutzer:innen
+      en: for users
   - key: docu_manager
     label:
-      de: Dokumentation für Manager
-      en: Documentation for manager
+      de: für Manager:innen
+      en: for manager
   - key: docu_admin
     label:
-      de: Dokumentation für Admins
-      en: Documentation for admins
+      de: für Admins
+      en: for admins
 
 - key: more
   label:

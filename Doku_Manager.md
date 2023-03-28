@@ -7,7 +7,7 @@ lang: de
 
 # Hilfe / Anleitung / Dokumentation für RDMO-Manager:innen
 
-Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
+Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
 Als <b>Manager:in</b> haben Sie die Möglichkeit:
 
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
