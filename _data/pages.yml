@@ -29,24 +29,24 @@ rdmo-arge:
     
 docu_user:
   label:
-    de: Dokumentation für Endnutzer
-    en: Documentation for users
+    de: für Nutzer:innen
+    en: for users
   path:
     de: Doku_User
     en: en/Docu_User
 
 docu_manager:
   label:
-    de: Dokumentation für Manager
-    en: Documentation for manager
+    de: für Manager:innen
+    en: for manager
   path:
     de: Doku_Manager
     en: en/Docu_Manager
 
 docu_admin:
   label:
-    de: Dokumentation für Admins
-    en: Documentation for admins
+    de: für Admins
+    en: for admins
   path:
     de: Doku_Admins
     en: en/Docu_Admins

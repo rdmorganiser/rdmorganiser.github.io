@@ -72,6 +72,7 @@ die Möglichkeit der Zoom-Registrierung finden Sie unter <a href="https://tu-dar
   <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
   <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
 </div>
+
 <div id="2022" class="tabcontent">
 <table style="width: 100%;">
 	<tr>
@@ -117,6 +118,7 @@ die Möglichkeit der Zoom-Registrierung finden Sie unter <a href="https://tu-dar
 		<td>Auf Vorschlag der Software-Gruppe hat das Steuerungsgremium eine Restrukturierung der RDMO Git-Repositorien und der Personen bzw. Gruppen vorgenommen, die die Bearbeitung der Repositorien regeln. Dabei wurden vor allem die neuen Strukturen der RDMO-Arbeitsgemeinschaft reflektiert.<br/> In der NFDI hat sich eine Task Force „DMPs in der NFDI“ innerhalb der NFDI Tools Gruppe formiert. Mitglieder der NFDI-beteiligten Konsortien (/Institute)  können sich über die folgende URL für die Mailing-Liste anmelden: https://lists.nfdi.de/postorius/lists/dmpsindernfdi.lists.nfdi.de</td>
 </tr>
 </div>
+
 <div id="2021" class="tabcontent">
   <table style="width: 100%;">
 	<tr>
