@@ -1,7 +1,7 @@
 current:
 
 - text:
-    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. <a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='{{ site.baseurl }}/img/logos/ORCiD.PNG' style='width:35px; height:35px;' alt='ORCiD Logo'/></a>"
+    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. <a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:35px; height:35px;' alt='ORCiD Logo'/></a>"
     en: "**Christin Henzen** "
   image: img/team/henzen_christin.jpg
 
