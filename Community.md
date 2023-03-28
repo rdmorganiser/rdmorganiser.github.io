@@ -4,11 +4,6 @@ layout: page
 key: rdmo-arge
 lang: de
 ---
-<style>
-    .size { 
-        width:15px; 
-        height:15px;}
-</style>
 
 # RDMO Arbeitsgemeinschaft 
 

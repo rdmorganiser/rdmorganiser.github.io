@@ -1,8 +1,58 @@
 current:
 
 - text:
-    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. <a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:35px; height:35px;' alt='ORCiD Logo'/></a>"
-    en: "**Christin Henzen** "
+    de: "**Kerstin Wedlich-Zachodin** (Sprecherin) ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im DM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info).<br/><a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Kerstin Wedlich-Zachodin** (Speaker) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info).<br/><a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/wedlich.jpg
+
+- text:
+    de: "**Yves Vincent Grossmann** ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de). <br/><a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Yves Vincent Grossmann** is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de). <br/><a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/Grossmann.jpg
+
+- text:
+    de: "**Christin Henzen** ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen. <br/><a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Christin Henzen** <br/><a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
   image: img/team/henzen_christin.jpg
+
+- text:
+    de: "**Kathrin Höhner** leitet den Geschäftsbereich „Digitales Publizieren und Informationskompetenz“ der Universitätsbibliothek der Technischen Universität Dortmund. Im Forschungsdatenmanagement ist sie an der Technischen Universität Dortmund für den Bereich Datenmanagementpläne verantwortlich und vertritt die TU Dortmund auch in der UA Ruhr dazu. ORCiD: 0000-0002-3988-7839.<br/><a href='https://orcid.org/0000-0002-3988-7839' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Kathrin Höhner** ...<br/><a href='https://orcid.org/0000-0002-3988-7839' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/dummy.jpg
+
+- text:
+    de: "**Jimena Linares** arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei.<br/><a href='https://orcid.org/0000-0003-3847-2663' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Jimena Linares** works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish.<br/><a href='https://orcid.org/0000-0003-3847-2663' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/linares.jpg
+
+- text:
+    de: "**Giacomo Lanza** ist Koordinator für das Forschungsdatenmanagement an der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementplänen für europäische Projekte und deren Implementierung in RDMO.<br/><a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Giacomo Lanza** is coordinator for the research data management at the [Library of the Physikalisch-Technische Bundesanstalt (PTB)](https://www.ptb.de/cms/en/research-development/into-the-future-with-metrology/the-challenges-of-digital-transformation/nutzbarkeitvonforschungsdaten.html#c121491) in Brunswick. His main action fields are the [interaction of metrology and research data management](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); the development of standards, metadata and terminologies; the generation of data management plans for European project and their implementation in RDMO.<br/><a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/lanza.jpg
+
+- text:
+    de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte.<br/><a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Karsten Peters-von Gehlen** ... <br/><a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/KPvG.jpg
+
+- text:
+    de: "**Thomas Richter** ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
+    en: "**Thomas Richter** is Research Data Officer and Technical Data Consultant at [Fulda University](https://www.hs-fulda.de/)."
+  image: img/team/Thomas_Richter.jpg
+
+- text:
+    de: "**Laura Rodríguez** ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim.<br/><a href='https://orcid.org/0000-0002-1446-2199' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Laura Rodríguez** is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim.<br/><a href='https://orcid.org/0000-0002-1446-2199' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/rodriguezl.png
+
+- text:
+    de: "**Frank Rühle** ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten.<br/><a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Frank Rühle** is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments.<br/><a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/ruehle.jpg
+
+- text:
+    de: "**Jürgen Windeck** ist Forschungsdatenreferent an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den föderierten RDMO-Service in Hessen und ist Koordinator der NFDI Arbeitsgruppe infra-dmp.<br/><a href='https://orcid.org/0000-0003-1909-4353   ' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Jürgen Windeck** is research data officer at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the federated RDMO service in Hesse and is coordinator of the NFDI working group infra-dmp.<br/><a href='https://orcid.org/0000-0003-1909-4353' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/dummy.jpg
 
 
