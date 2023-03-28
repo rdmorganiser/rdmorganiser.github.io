@@ -74,7 +74,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2022" class="tabcontent">
 
-{% for event in site.data.Events.2022.current %}
+{% for event in site.data.2022.current %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
