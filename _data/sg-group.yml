@@ -1,11 +1,6 @@
-
-<style>
-    .width { width: 15px; height: 15px; }
-</style>
-
 current:
 - text:
-    de: "**Harry Enke** [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2366-8316){.width} (Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
+    de: "**Harry Enke** [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2366-8316){.size} (Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
     en: "**Harry Enke** [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2366-8316) (Speaker) leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
   image: img/team/enke.jpg
 
@@ -33,3 +28,4 @@ current:
     de: "**Robert Strötgen** [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3320-5187) ist stellvertretender Direktor der [Universitätsbibliothek der TU Braunschweig](https://www.tu-braunschweig.de/ub) und Leiter der Abteilung IT und Forschungsnahe Services. Dort verantwortet er auch das Thema Forschungsdatenmanagement. Im Bereich Open Source engagiert er sich unter anderem seit 2012 für 'Kitodo. Key to digital objects e.V.', dessen Vorstandsvorsitzender er ist."
     en: "**Robert Strötgen** [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3320-5187) is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board."
   image: img/team/stroetgen.jpg
+
