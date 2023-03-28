@@ -47,7 +47,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 ## Bisherige Workshops und Treffen:
 
 <button class="tablinks">2023</button>
-{% for announcement in site.data.announcements.former %}
+{% for announcement in site.data.2023.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -81,8 +81,8 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 		<td style="width: 80%; padding-left:10px;"/>
 	</tr>
 	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ 2022.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ 2022.event.de | markdownify }}</td>
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
 	</tr>
 </table>
 {% endfor %}
