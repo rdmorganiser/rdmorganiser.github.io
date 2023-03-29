@@ -36,6 +36,11 @@ current:
   image: img/team/KPvG.jpg
 
 - text:
+    de: "**Torsten Rathmann** ist wissenschaftlicher Mitarbeiter am Servicezentrum Forschungsdatenmanagement der Bergischen Universität Wuppertal. Er berät dort, gibt Schulungen und baut ein E-Learning-Angebot auf. Für RDMO hat er Fragenkataloge entwickelt und betreut die RDMO-Server in Wuppertal.<br/><a href='https://orcid.org/0000-0001-5880-1546' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Torsten Rathmann** is a research assistant at the Research Data Management Service Centre at the University of Wuppertal. He advises there, gives training courses and is building up an e-learning offer. He developed questionnaires for RDMO and manages the RDMO servers in Wuppertal.<br/><a href='https://orcid.org/0000-0001-5880-1546' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/rathmann.jpg
+
+- text:
     de: "**Thomas Richter** ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
     en: "**Thomas Richter** is Research Data Officer and Technical Data Consultant at [Fulda University](https://www.hs-fulda.de/)."
   image: img/team/Thomas_Richter.jpg
