@@ -63,10 +63,10 @@ For the further development of RDMO, we use a roadmap process in which the exist
 
 To transparently communicate the status of the work in progress, we use the "Projects" functionality of GitHub, where the individual issues are displayed on a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board):
 
-https://github.com/orgs/rdmorganiser/projects/1
+<https://github.com/orgs/rdmorganiser/projects/1>
 
 New feature requests, bug reports or security issues are best suggested or reported via GitHub Issue:
 
-https://github.com/rdmorganiser/rdmo/issues/new/choose
+<https://github.com/rdmorganiser/rdmo/issues/new/choose>
 
 Of course, we also accept requests via all other communication channels.
