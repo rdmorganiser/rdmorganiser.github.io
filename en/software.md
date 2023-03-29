@@ -54,7 +54,7 @@ We pay special attention to making RDMO easily installable and customisable, so 
 Development
 -----------
 
-For the further development of RDMO, we use a roadmap process in which the existing issues on GitHub are prioritised by the community. In 2022, a large number of issues were prioritised into critical, high, medium and low in two community meetings. The best way to view the individual lists is on GitHub, under these links:
+For the further development of RDMO, we use a roadmap process in which the existing issues on GitHub are prioritised by the community. In 2022, a large number of issues were prioritised into `critical`, `high`, `medium` and `low` in two community meetings. The best way to view the individual lists is on GitHub, under these links:
 
 * [Critical](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+critical%22)
 * [High](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+high%22)
