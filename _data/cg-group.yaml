@@ -1,9 +1,13 @@
 current:
-
 - text:
     de: "**Kerstin Wedlich-Zachodin** (Sprecherin) ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im DM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info).<br/><a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
     en: "**Kerstin Wedlich-Zachodin** (Speaker) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info).<br/><a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
   image: img/team/wedlich.jpg
+
+- text:
+    de: "**Yvonne Anders** ist Mitarbeiterin in der Abteilung Datenmanagement des Deutschen Klimarechenzentrum (DKRZ) in Hamburg. Dort ist sie in den Bereichen Portalentwicklung, Trainings für StudentInnen, sowie Prozessoptimierung und Workflows in simualtionsbasierter Klimaforschung tätig. In der RDA leitet sie mit anderen die Arbeitsgruppe „Diszipline-specific Guidance for DMPs“ und arbeitet in weiteren WGs und IGs aktiv mit. Desweiteren ist sie im FDO-Forum (FAIR Digital Objects) als Co-Chair und Mitglied in verschiedenen Gremien tätig.. <br/><a href='https://orcid.org/0000-0001-7337-3009' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Yvonne Anders** ... . <br/><a href='https://orcid.org/0000-0001-7337-3009' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+  image: img/team/Grossmann.jpg
 
 - text:
     de: "**Yves Vincent Grossmann** ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de). <br/><a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
@@ -26,19 +30,9 @@ current:
   image: img/team/linares.jpg
 
 - text:
-    de: "**Giacomo Lanza** ist Koordinator für das Forschungsdatenmanagement an der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementplänen für europäische Projekte und deren Implementierung in RDMO.<br/><a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-    en: "**Giacomo Lanza** is coordinator for the research data management at the [Library of the Physikalisch-Technische Bundesanstalt (PTB)](https://www.ptb.de/cms/en/research-development/into-the-future-with-metrology/the-challenges-of-digital-transformation/nutzbarkeitvonforschungsdaten.html#c121491) in Brunswick. His main action fields are the [interaction of metrology and research data management](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); the development of standards, metadata and terminologies; the generation of data management plans for European project and their implementation in RDMO.<br/><a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-  image: img/team/lanza.jpg
-
-- text:
     de: "**Karsten Peters-von Gehlen** arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte.<br/><a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
     en: "**Karsten Peters-von Gehlen** ... <br/><a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
   image: img/team/KPvG.jpg
-
-- text:
-    de: "**Torsten Rathmann** ist wissenschaftlicher Mitarbeiter am Servicezentrum Forschungsdatenmanagement der Bergischen Universität Wuppertal. Er berät dort, gibt Schulungen und baut ein E-Learning-Angebot auf. Für RDMO hat er Fragenkataloge entwickelt und betreut die RDMO-Server in Wuppertal.<br/><a href='https://orcid.org/0000-0001-5880-1546' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-    en: "**Torsten Rathmann** is a research assistant at the Research Data Management Service Centre at the University of Wuppertal. He advises there, gives training courses and is building up an e-learning offer. He developed questionnaires for RDMO and manages the RDMO servers in Wuppertal.<br/><a href='https://orcid.org/0000-0001-5880-1546' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-  image: img/team/rathmann.jpg
 
 - text:
     de: "**Thomas Richter** ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
