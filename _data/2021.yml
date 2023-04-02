@@ -16,7 +16,7 @@ former:
   
 - event:
     de: <b>6. RDMO-Community-Treffen (virtuell)</b><br/><a href="{{ site.baseurl }}/events/workshop102021_programm">Programm</a>
-    en: 
+    en: 6th Community-Meeting (virtual) [Program](/en/events/workshop102021_programm) and [Registration (German language)](https://meetings.aip.de/event/13/)
   date: 04.10.2021
 
 - event:
@@ -26,7 +26,7 @@ former:
   
 - event:
     de: DMPs in der NFDI - Kick-Off Meeting
-    en: 
+    en: DMPs in the NFDI - Kick-Off Meeting (virtual)
   date: 02.09.2021
 
 - event:
@@ -51,7 +51,7 @@ former:
 
 - event:
     de: RDMO AG gemeinsam mit NFDI4ING und NFDI-Direktorat<br/><a href="{{site.baseurl}}/docs/nfdiws/workshop-nfdi">Programm und Slides</a><br/><a href="{{site.baseurl}}/docs/nfdiws/wsreport">Bericht</a>
-    en: 
+    en: RDMO AG with NFDI4Ing and NFDI directorate - Workshop “Use of  Data Management Plans and DMP Tools in the NFDI”
   date: 02.03.2021
   
 - event:
