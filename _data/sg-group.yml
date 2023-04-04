@@ -25,6 +25,6 @@ current:
   image: img/team/michaelis.jpg
 
 - text:
-    de: "** ... ** ... .<br/><a href='' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-    en: "**...** ... .<br/><a href='' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    de: "**Daniel Arend** ... .<br/><a href='' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
+    en: "**Daniel Arend** ... .<br/><a href='' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
   image: img/team/dummy.jpg

@@ -1,12 +1,12 @@
 former:
 - event:
     de: Es steht nun fest, dass <i>Jochen Klar</i> das AIP verlassen wird, aber auch zukünftig eng mit dem RDMO-Team zusammenarbeiten wird. Weitere Screencasts sind in Arbeit.
-    en: 
+    en: It is now clear that *Jochen Klar* will leave the AIP, but will continue to work closely with the RDMO team in the future. More screencasts are in preparation.
   date: Dez 2018
 
 - event:
     de: Wir veröffentlichen <b>Version 0.11.0</b> von RDMO mit dem neuen <i>Datenmodell</i>. Mit dem neuen Aufbau wird es möglich sein, unkompliziert eigene Fragenkataloge zu erstellen und gleichzeitig das Domänenmodell der ganzen RDMO Community zu nutzen, um Ansichten, Fragenkataloge, etc. nachzunutzen. Wir haben auch unsere Dokumentation überarbeitet und um die neuen Arbeitsschritte ergänzt. Außerdem haben wir die <b>Unterabschnitte des Fragenkatalogs entfernt</b> und die Fragensets so umgestaltet, dass sie jetzt immer einer Seite im Interview entsprechen, einen eigenen Titel haben und in der kleinen Übersicht auf der Seite auftauchen. Wir waren zu Gast beim <b>Open Science Forum in <a href="https://openscience2018.uni.lu/">Luxemburg</a></b> und haben dort über FDM in den Digital Humanities referiert. Dabei kam auch RDMO in einer Hands-On Session zum Einsatz. Die Materialien hierzu sind auf Zenodo veröffentlicht. Wir haben außerdem einen ersten <a href="{{site.baseurl}}/materialien/"><b>Screencast</b></a> auf unserer Webseite veröffentlicht. Es werden zeitnah weitere folgen.
-    en: 
+    en: We release **version 0.11.0** of RDMO with the *new data model*. With the new structure it will be possible to easily create your own question catalogs and at the same time to use the domain model of the whole RDMO community to reuse views, question catalogs, etc. We have also revised our documentation and added the new work steps. In addition, we have **removed the subsections** of the question catalog and redesigned the question sets so that they now always correspond to a page in the interview, have their own title and appear in the small overview on the page. We were a guest at the **[Open Science Forum in Luxembourg](https://openscience2018.uni.lu/)** and gave a lecture on data management in the Digital Humanities. RDMO was also used in a hands-on session. The materials are published on Zenodo. We also published a first **[screencast](/en/promotion/)** on our website. More screencasts will follow soon.
   date: Nov 2018
 
 - event:
@@ -16,12 +16,12 @@ former:
   
 - event:
     de: Am 24.10. präsentierten wir ein RDMO-Poster bei der <a href="http://www.open-access-berlin.de/aktivitaeten"><b>International Open Access Week 2018</b></a> in Berlin. Außerdem haben wir unsere <b>Werbepostkarte</b> überarbeitet und es gibt jetzt auch eine <a href="{{site.baseurl}}/en/promotion/">englische Version</a>.
-    en: 
+    en: On the 24th October we presented a RDMO poster at the **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten)** in Berlin. Moreover we improved our **Postcard** and there is now a English [version](/en/promotion/).
   date: Okt 2018
 
 - event:
     de: Anfang September fand unser erstes, großes Community-Treffen an der Universität Duisburg-Essen mit regem Austausch statt. Hier gibt es einen <a href="http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen">Bericht</a>.<br/>Mitte September hatten wir einen lokalen Workshop an der SLUB Dresden veranstaltet, wo RDMO noch recht neu ist. Ende September fand unser zweites Projekttreffen der zweiten Projektphase in Karlsruhe statt. Für die Weiterentwicklung von RDMO haben wir einen Fahrplan für die nächsten großen Features festgelegt.<br/><b>2018</b><br/>* Finalisierung Import/Export <br/>* Ausbau der API und RDMO-Anbindung an andere Beispielsoftware <br/>* Release mit neuem Datenmodell<br/><b>2019</b><br/>* Implementierung von rollenbezogenen, projektübergreifenden Ansichten <br/>* Weiterentwicklung der kollaborativen Funktionen von RDMO durch die Möglichkeit zur Kommentierung und Versionierung von Eingaben. <br/>* Diff--Funktion von Snapshots <br/>* Echte Mehrsprachigkeit <br/>* Mandantenfähigkeit
-    en: 
+    en: At the beginning of September the first bigger Community-Meeting took place at the University of Duisburg-Essen with a lot of discussions. Here is a German report of the meeting <a href="http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen">http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen</a><br/>Mid-September we were at the Library of Dresden, where RDMO is quite new. At the end of September we had our second meeting of the project members in Karlsruhe and agreed on the following plan of main features<br/><br/><b>2018</b><br/>* Finalisation of Import/Export<br/>* Extension of API and RDMO connection to other examplary software<br/>* Release of new data model<br/><b>2019</b><br/>* Implementation of role-based views across projects<br/>* Further development of collaborative features of RDMO for comments and versioning of input<br/>* Diff–function for snapshots<br/>* Genuine multilingualism<br/>* Client capability
   date: Sep 2018
   
 - event:

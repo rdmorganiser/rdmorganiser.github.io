@@ -34,7 +34,7 @@ So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 Die technische Koordination und Weiterentwicklung von RDMO erfolgt durch eine Entwicklungsgruppe (EG). Neben einem Kern von langfristig engagierten
 Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch eine niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler\*innen wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
 
-So erreichen Sie die Entwicklungsgruppe: [E-Mail](), [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
+So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
 <div class="team-member">
