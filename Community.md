@@ -10,7 +10,7 @@ lang: de
 Mit dem Ende der DFG-Förderung für RDMO im Herbst 2020 hat sich die Arbeitsgemeinschaft RDMO bei der Nutzerversammlung am 07.10.2020 gegründet. Sie basiert auf der freiwilligen Mitarbeit von Institutionen und Individuen, um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln.
 Mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) haben sie ihre Unterstützung bekundet.
 
-Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt:
+Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt.
 
 ## Steuerungsgruppe
 

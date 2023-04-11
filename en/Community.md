@@ -7,7 +7,10 @@ lang: en
 
 # RDMO Consortium 
 
-...
+With the end of the DFG funding for RDMO in autumn 2020, the RDMO working group was founded at the user meeting on October 7th, 2020. It is based on the voluntary cooperation of institutions and individuals to keep the open source software RDMO usable and to further develop it.
+They have expressed their support by signing the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
+
+The organizational structure with various bodies is intended to support this development and is detailed in the MoU.
 
 ## Steering Group
 
