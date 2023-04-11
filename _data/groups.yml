@@ -1,21 +1,136 @@
-content:
-    - Kerstin Wedlich-Zachodin (KIT) (Sprecherin)
-    - Matthias Fingerhuth
-    - Jens Freund (HeFDI)
-    - Heike Görzig (HZB)
-    - Ulrike Wuttke (FHP)
+current:
+- wg:
+  name_de: Steuerungsgruppe
+  name_en:
+  content_de1: Austausch der Steuerungsmitglieder
+  content_de2: nicht öffentlich, keine Teilnahme möglich
+  content_en1:
+  content_en2:
+  date_de:
+  date_en:
+  leader:
+  leader_mail: 
 
-software:
-    - Jochen Klar (freier Softwareentwickler) (Sprecher)
-    - Olaf Michaelis (AIP)
-    - Robert Ulrich (KIT)
-    - Janine Straka (FHP)
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
 
-steering:
-    - Robert Strötgen (UB TU Braunschweig)
-    - Johannes Frenzel (RUB)
-    - Gerald Jagusch (ULB Darmstadt) (Sprecher)
-    - Harry Enke (AIP) (Sprecher)
-    - Birte Lindstädt (ZBMed)
-    - Daniela Hausen (UB RWTH Aachen)
-    - (Heike Görzig, HZB)
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+
+
+
+
+former:
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 
+
+- wg:
+  name_de: 
+  name_en: 
+  content_de1: 
+  content_de2: 
+  content_en1: 
+  content_en2: 
+  date_de: 
+  date_en: 
+  leader: 
+  leader_mail: 

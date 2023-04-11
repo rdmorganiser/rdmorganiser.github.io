@@ -136,15 +136,6 @@
   lon:     10.46418
   color:   blue
 
-# - name:    Technische Universität Hamburg
-  # url:     https://dmp.fdm.uni-hamburg.de/
-  # contact: Beate Rajski, Francesca Schulze
-  # mail:    mailto:forschungsdaten@tuhh.de
-  # lat:     53.4610079
-  # lon:     9.9699716
-  # color:   gray
-  # gelöscht auf deren Wunsch
-
 - name:    Universität Hamburg
   url:     https://dmp.fdm.uni-hamburg.de/ 
   contact: Hagen Peukert
@@ -208,17 +199,6 @@
   lon:     6.688490
   color:   blue
 
-# - name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
-  # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
-  # contact: Oliver Duchrow
-  # mail:    mailto:Oliver.Duchrow@ipb-halle.de
-  # gelöscht auf deren Wunsch
-
-# - name:  EAWAG
-  # url:   https://opendata.eawag.ch/eawagrdm/
-  # contact: Harald von Waldow
-  # mail:  mailto:rdm@eawag.ch
-
 - name:    Alfred-Wegener-Institut (AWI)
   contact: Angela Schäfer
   mail:    mailto:data@awi.de
@@ -232,23 +212,6 @@
   lat:     52.385098
   lon:     13.066132
   color:   gray
-
-- name:    RWTH Aachen
-  url:     https://rdmo.rwth-aachen.de/
-  contact: Daniela Hausen, Sabine Schönau
-  mail:    mailto:forschungsdaten@ub.rwth-aachen.de
-  lat:     50.781177
-  lon:     6.065603
-  color:   gray
-
-# - name:    Forschungszentrum Jülich
-  # url:     https://dmp.fz-juelich.de
-  # contact: Ines Schmahl, Torsten Bronger
-  # mail:    mailto:forschungsdaten@fz-juelich.de
-  # lat:     50.905626
-  # lon:     6.40600
-  # color:   blue
-  # gelöscht auf deren Wunsch
 
 - name:    Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
   url:     https://rdmo.ub.fau.de/
@@ -265,14 +228,93 @@
   lon:     13.129854
   color:   gray
 
-# - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
-  # url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
-  # contact: Johannes Sperling, Christin Henze
-  # mail:    mailto:forschungsdaten@slub-dresden.de
-  # lat:     51.028183
-  # lon:     13.736781
-  # color:   gray
-  # gelöscht auf deren Wunsch
+- name:    RWTH Aachen
+  url:     https://rdmo.rwth-aachen.de/
+  contact: Daniela Hausen, Sabine Schönau
+  mail:    mailto:forschungsdaten@ub.rwth-aachen.de
+  lat:     50.781177
+  lon:     6.065603
+  color:   gray
+
+- name:    Istituto Nazionale di Ricerca Metrologica (INRiM)
+  url:     https://rdmo.inrim.it/
+  # contact: Michaela Kuepferling
+  lat:     45.014953
+  lon:     7.637828
+  color:   gray
+
+- name:    Max Planck Digital Library (MPDL)
+  url:     https://rdmo.mpdl.mpg.de/
+  contact: Yves Vincent Grossmann
+  mail:    mailto:rdmo@mpdl.mpg.de
+  lat:     48.1478564
+  lon:     11.5763998
+  color:   blue
+
+- name:    Zuse-Institut Berlin (ZIB)
+  url:     https://rdmo.zib.de
+  contact: Tim Hasler
+  mail:    mailto:rdm@zib.de
+  lat:     52.4560878
+  lon:     13.2960695
+  color:   blue
+
+- name:    Universitätsbibliothek Osnabrück
+  url:     https://osnaplan.ub.uni-osnabrueck.de
+  contact: Marco Gronwald
+  mail:    mailto:fdm@uos.de
+  lat:     52.2731726
+  lon:     8.0457204
+  color:   blue
+
+- name:    International Center of Insect Physiology and Ecology (ICIPE)
+  url:     https://dmmg-dmp.icipe.org/
+  contact: Henri Tonnang
+  mail:    https://dmmg.icipe.org/service_request.html
+  lat:     -1.2218344
+  lon:     36.8966253
+  color:   blue
+  discipline: Lebenswissenschaften
+
+- name:    Technische Universität Berlin
+  url:     https://dmp.tu-berlin.de
+  contact: Britta Steinke
+  mail:    mailto:szf@ub.tu-berlin.de
+  lat:     52.512556072022434
+  lon:     13.32659749475189
+  color:   blue
+
+- name:    Julius-Kühn-Institut (JKI)
+  url:     https://194.94.63.33/
+  contact: Christoph Sinn, Ulrike Stahl
+  mail:    mailto:fdm@julius-kuehn.de
+  lat:     51.77277
+  lon:     11.14100
+  color:   gray
+
+- name:    German Federation for Biological Data (GFBio)
+  url:     https://dmp.gfbio.org/
+  contact: Jimena Linares, Ivaylo Kostadinov
+  mail:    mailto:info@gfbio.org
+  lat:     53.10542
+  lon:     8.86242
+  color:   blue
+
+- name:    Hochschule Geisenheim
+  url:     https://rdmo.hs-gm.de/
+  contact: Laura Rodríguez
+  mail:    mailto:fdm@hs-gm.de
+  lat:     49.98440
+  lon:     7.96135
+  color:   white
+
+- name:    Johannes Gutenberg Universität Mainz (JGU)
+  url:     https://rdmo.zdv.uni-mainz.de
+  contact: Kompetenzteam Forschungsdaten
+  mail:    mailto:forschungsdaten@uni-mainz.de
+  lat:     49.98938
+  lon:     8.23284
+  color:   blue
 
 - name:    Universität Potsdam
   url:     https://rdmo.uni-potsdam.de/
@@ -404,82 +446,41 @@
      # Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
      # Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
 
-- name:    Istituto Nazionale di Ricerca Metrologica (INRiM)
-  url:     https://rdmo.inrim.it/
-  # contact: Michaela Kuepferling
-  lat:     45.014953
-  lon:     7.637828
-  color:   gray
+# - name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
+  # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
+  # contact: Oliver Duchrow
+  # mail:    mailto:Oliver.Duchrow@ipb-halle.de
+  # gelöscht auf deren Wunsch
 
-- name:    Max Planck Digital Library (MPDL)
-  url:     https://rdmo.mpdl.mpg.de/
-  contact: Yves Vincent Grossmann
-  mail:    mailto:rdmo@mpdl.mpg.de
-  lat:     48.1478564
-  lon:     11.5763998
-  color:   blue
+# - name:  EAWAG
+  # url:   https://opendata.eawag.ch/eawagrdm/
+  # contact: Harald von Waldow
+  # mail:  mailto:rdm@eawag.ch
 
-- name:    Zuse-Institut Berlin (ZIB)
-  url:     https://rdmo.zib.de
-  contact: Tim Hasler
-  mail:    mailto:rdm@zib.de
-  lat:     52.4560878
-  lon:     13.2960695
-  color:   blue
+# - name:    Technische Universität Hamburg
+  # url:     https://dmp.fdm.uni-hamburg.de/
+  # contact: Beate Rajski, Francesca Schulze
+  # mail:    mailto:forschungsdaten@tuhh.de
+  # lat:     53.4610079
+  # lon:     9.9699716
+  # color:   gray
+  # gelöscht auf deren Wunsch
 
-- name:    Universitätsbibliothek Osnabrück
-  url:     https://osnaplan.ub.uni-osnabrueck.de
-  contact: Marco Gronwald
-  mail:    mailto:fdm@uos.de
-  lat:     52.2731726
-  lon:     8.0457204
-  color:   blue
+# - name:    Forschungszentrum Jülich
+  # url:     https://dmp.fz-juelich.de
+  # contact: Ines Schmahl, Torsten Bronger
+  # mail:    mailto:forschungsdaten@fz-juelich.de
+  # lat:     50.905626
+  # lon:     6.40600
+  # color:   blue
+  # gelöscht auf deren Wunsch
 
-- name:    International Center of Insect Physiology and Ecology (ICIPE)
-  url:     https://dmmg-dmp.icipe.org/
-  contact: Henri Tonnang
-  mail:    https://dmmg.icipe.org/service_request.html
-  lat:     -1.2218344
-  lon:     36.8966253
-  color:   blue
-  discipline: Lebenswissenschaften
 
-- name:    Technische Universität Berlin
-  url:     https://dmp.tu-berlin.de
-  contact: Britta Steinke
-  mail:    mailto:szf@ub.tu-berlin.de
-  lat:     52.512556072022434
-  lon:     13.32659749475189
-  color:   blue
-
-- name:    Julius-Kühn-Institut (JKI)
-  url:     https://194.94.63.33/
-  contact: Christoph Sinn, Ulrike Stahl
-  mail:    mailto:fdm@julius-kuehn.de
-  lat:     51.77277
-  lon:     11.14100
-  color:   gray
-
-- name:    German Federation for Biological Data (GFBio)
-  url:     https://dmp.gfbio.org/
-  contact: Jimena Linares, Ivaylo Kostadinov
-  mail:    mailto:info@gfbio.org
-  lat:     53.10542
-  lon:     8.86242
-  color:   blue
-
-- name:    Hochschule Geisenheim
-  url:     https://rdmo.hs-gm.de/
-  contact: Laura Rodríguez
-  mail:    mailto:fdm@hs-gm.de
-  lat:     49.98440
-  lon:     7.96135
-  color:   white
-
-- name:    Johannes Gutenberg Universität Mainz (JGU)
-  url:     https://rdmo.zdv.uni-mainz.de
-  contact: Kompetenzteam Forschungsdaten
-  mail:    mailto:forschungsdaten@uni-mainz.de
-  lat:     49.98938
-  lon:     8.23284
-  color:   blue
+# - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
+  # url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
+  # contact: Johannes Sperling, Christin Henze
+  # mail:    mailto:forschungsdaten@slub-dresden.de
+  # lat:     51.028183
+  # lon:     13.736781
+  # color:   gray
+  # gelöscht auf deren Wunsch
