@@ -1,15 +1,15 @@
 current:
 - wg:
   name_de: Steuerungsgruppe
-  name_en:
+  name_en: 
   content_de1: Austausch der Steuerungsmitglieder
   content_de2: nicht öffentlich, keine Teilnahme möglich
-  content_en1:
-  content_en2:
-  date_de:
-  date_en:
-  leader:
-  leader_mail: 
+  content_en1: 
+  content_en2: 
+  date_de: am 4. Dienstag im Monat (13:00-14:30)
+  date_en: 
+  leader: Gerald Jagusch
+  leader_mail: gerald.jagusch@tu-darmstadt.de
 
 - wg:
   name_de: 
@@ -100,16 +100,16 @@ current:
 
 former:
 - wg:
-  name_de: 
+  name_de: UAG Werbung und Außenkooperationen
   name_en: 
-  content_de1: 
-  content_de2: 
+  content_de1: Zusammenführung der Inhalte und Aktivitäten aus nationalen und internationalen Gruppen
+  content_de2: abgeschlossen, keine Teilnahme mehr möglich
   content_en1: 
   content_en2: 
-  date_de: 
+  date_de: nicht festgelegt; alle 2 Monate
   date_en: 
-  leader: 
-  leader_mail: 
+  leader: Ivonne Anders
+  leader_mail: anders@dkrz.de
 
 - wg:
   name_de: 

@@ -57,12 +57,26 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 		<td>{{ group.date_de | markdownify }}</td>
 		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
-	
+	{% endfor %}
+	{% for group in site.data.groups.former %}
+	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
+		<td/>
+		<td style="font-weight: bold;">{{ group.name_de | markdownify }}</td>
+		<td>
+			<ul>
+				<li>{{ group.content_de1 | markdownify }}</li>
+				<li>{{ group.content_de2 | markdownify }}</li>
+			</ul>
+		</td>
+		<td>{{ group.date_de | markdownify }}</td>
+		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+	</tr>
+	{% endfor %}
 </table>
-{% endfor %}
-{% for group in site.data.groups.former %}
 
-{% endfor %}
+
+
+
 
 <br/>
 
