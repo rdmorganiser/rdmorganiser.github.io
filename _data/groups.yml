@@ -1,43 +1,43 @@
 current:
 - wg:
   name_de: Steuerungsgruppe
-  name_en: 
+  name_en: steering group
   content_de1: Austausch der Steuerungsmitglieder
   content_de2: nicht öffentlich, keine Teilnahme möglich
-  content_en1: 
-  content_en2: 
+  content_en1: Exchange of steering committee members
+  content_en2: not public, no participation possible
   date_de: am 4. Dienstag im Monat (13:00-14:30)
-  date_en: 
+  date_en: on the 4th Tuesday of the month (13:00-14:30)
   leader: Gerald Jagusch
   leader_mail: gerald.jagusch@tu-darmstadt.de
 
 - wg:
   name_de: Allgemeiner JourFixe
-  name_en: 
+  name_en: general jourfixe
   content_de1: Sprechstunde zur Klärung allgemeiner Fragen
   content_de2: offen, bei Fragen einfach hinzukommen
-  content_en1: 
-  content_en2: 
-  date_de: am 1. Donnerstag im Monat (11:00-12:00 Uhr)
-  date_en: 
+  content_en1: Consultation hours to clarify general questions
+  content_en2: open, if you have any questions
+  date_de: am 1. Donnerstag im Monat (11:00-12:00)
+  date_en: on the 1st Thursday of the month (11:00-12:00)
   leader: Jochen Klar
   leader_mail: mail@jochenklar.de
 
 - wg:
   name_de: Softwaregruppe
-  name_en: 
+  name_en: software group
   content_de1: Austausch über vergangene und zukünftige technische Entwicklungen
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: 
   content_en2: 
-  date_de: am 3. Donnerstag im Monat (11:00-12:00 Uhr)
+  date_de: am 3. Donnerstag im Monat (11:00-12:00)
   date_en: 
   leader: Jochen Klar
   leader_mail: mail@jochenklar.de
 
 - wg:
   name_de: Allgemeine Contentgruppe
-  name_en: 
+  name_en: general content group
   content_de1: Austausch und Anstimmung über inhaltliche Entwicklungsprozesse
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: 
@@ -54,31 +54,31 @@ current:
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: 
   content_en2: 
-  date_de: am 4. Donnerstag im Monat (11:00-12:00 Uhr)
+  date_de: am 4. Donnerstag im Monat (11:00-12:00)
   date_en: 
   leader: Giacomo Lanza
   leader_mail: giacomo.lanza@ptb.de
 
 - wg:
   name_de: UAG Website
-  name_en: 
+  name_en: UAG Website
   content_de1: Aktualisierung der offiziellen Website von RDMO
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: 
   content_en2: 
-  date_de: am 2. Montag im Monat (10:00-11:00 Uhr)
+  date_de: am 2. Montag im Monat (10:00-11:00)
   date_en: 
   leader: Sabine Schönau
   leader_mail: schoenau@ub.rwth-aachen.de
 
 - wg:
   name_de: UAG DFG Checkliste
-  name_en: 
+  name_en: UAG DFG Checklist
   content_de1: Überführung der DFG Checkliste in einen generischen RDMO Katalog samt View.
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: 
   content_en2: 
-  date_de: m 2. Dienstag (15:00-16:00 Uhr)
+  date_de: m 2. Dienstag (15:00-16:00)
   date_en: 
   leader: Giacomo Lanza
   leader_mail: giacomo.lanza@ptb.de

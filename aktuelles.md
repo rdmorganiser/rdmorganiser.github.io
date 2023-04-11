@@ -46,7 +46,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	</tr>
 	{% for group in site.data.groups.current %}
 	<tr>
-		<td style="font-weight: bold; padding-left:5px;" colspan="2">{{ group.name_de | markdownify }}</td>
+		<td style="font-weight: bold; padding-left:5px;">{{ group.name_de | markdownify }}</td>
 		<td>
 			<ul>
 				<li>{{ group.content_de1 | markdownify }}</li>
