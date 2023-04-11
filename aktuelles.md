@@ -39,11 +39,10 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 
 <table style="width: 100%; border:1px solid black;">
 	<tr>
-		<th style="width: 5%;"/>
-		<th style="width: 15%;"/>
-		<th style="width: 45%; padding-left: 25px;">Fokus</th>
-		<th style="width: 20%;">Termin</th>
-		<th style="width: 25%;">Ansprechperson</th>
+		<th style="width: 20%;"/>
+		<th style="width: 45%; padding-left: 5px;">Fokus</th>
+		<th style="width: 20%; padding-left: 5px;">Termin</th>
+		<th style="width: 25%; padding-left: 5px;">Ansprechperson</th>
 	</tr>
 	{% for group in site.data.groups.current %}
 	<tr>
@@ -60,7 +59,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	{% endfor %}
 	{% for group in site.data.groups.former %}
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
-		<td/>
 		<td style="font-weight: bold;">{{ group.name_de | markdownify }}</td>
 		<td>
 			<ul>
