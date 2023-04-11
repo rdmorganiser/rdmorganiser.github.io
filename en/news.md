@@ -5,21 +5,24 @@ key: news
 lang: en
 ---
 
-# news
+# News
 
-General meeting
+On this page we summarize our current activities.
+To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), follow us on [Twitter](https ://twitter.com/rdmorganiser), or chat with us on [Slack](https://rdmo.slack.com).
+(Write an email to us: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> and we will invite you to Slack.) <br/>
 
-The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the SG. The general meeting meets at least once a year as required.
+{% for announcement in site.data.2023.current %}
+## Announcements:
 
-Ad-hoc Groups
-
-For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the SG. The general meeting decides on the continuation of the ad-hoc groups.
-
-We would like to invite all institutions that are interested in the preservation and further development of RDMO to sign the MoU and send it to the following e-mail address: rdmo-steuerungsgruppe@listserv.dfn.de.
-
-Steering Group of  RDMO Consortium
-
-Harry Enke (Speaker) | Johannes Frenzel | Daniela Hausen | Gerald Jagusch (Speaker) | Birte Lindstädt | Robert Strötgen
-
-
-
+<table style="width: 100%; border: 3px dotted red;">
+  <tr>
+    <th style="width: 20%; padding: 10px;"></th>
+    <td style="width: 80%; padding: 10px;"></td>
+  </tr>
+  <tr>
+    <th style="width: 20%; padding: 10px;">{{ announcement.date | markdownify }}</th>
+    <td style="width: 80%; padding:10px;">{{ announcement.event.en | markdownify }}
+    </td>
+  </tr>
+</table>
+{% endfor %}

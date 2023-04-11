@@ -27,7 +27,7 @@ The Research Data Management Organiser (RDMO) supports research projects in the 
 </div>
 
 <div style=" margin-left:28%;margin-top: -5%;">
-<img src="./img/3.Möglichkeit.PNG" style="width: 300px;"/>
+<img src="../img/3.Möglichkeit.PNG" style="width: 300px;"/>
 </div>
 
 <div style="width: 33%; margin-left:67%;margin-top: -15%;">
@@ -40,7 +40,7 @@ We look forward to you!
 All RDMO users and institutions that have their own instance can seek advice and support from the RDMO community.<br/>
 At the same time, this network of cooperation enables RDMO to take into account requirements and feedback from the specialist sciences, as well as to ensure the exchange and coordination with infrastructure initiatives for data management.
 
-<link rel="stylesheet" href="./css/leaflet.css" />
+<link rel="stylesheet" href="../css/leaflet.css" />
 
 <script>
     var _locations = {{ site.data.locations | jsonify }};
@@ -77,23 +77,23 @@ At the same time, this network of cooperation enables RDMO to take into account 
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
-    <img src="./img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
+    <img src="../img/icons/marker-icon-blue.png" /> Produktiv-Instanzen
 </p>
 <p>
-    <img src="./img/icons/marker-icon-grey.png" /> Test-Instanzen
+    <img src="../img/icons/marker-icon-grey.png" /> Test-Instanzen
 </p>
 
 </script>
 {% endraw %}
 
-<script src="./js/func.js"></script>
-<script src="./js/handlebars.min.js"></script>
-<script src="./js/leaflet.js"></script>
-<script src="./js/map.js"></script>
+<script src="../js/func.js"></script>
+<script src="../js/handlebars.min.js"></script>
+<script src="../js/leaflet.js"></script>
+<script src="../js/map.js"></script>
 
-<script src="./js/tablesorter.min.js"></script>
-<script src="./js/tablesorter.widgets.js"></script>
-<link rel="stylesheet" type="text/css" href="./css/table.css">
+<script src="../js/tablesorter.min.js"></script>
+<script src="../js/tablesorter.widgets.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/table.css">
 
 <div id="map" class="map"></div>
 
@@ -128,9 +128,9 @@ At the same time, this network of cooperation enables RDMO to take into account 
                 <td id="{{ location.name | slugify: latin }}" class="instance">
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
-                            <img src="./img/icons/marker-icon-blue.png" />
+                            <img src="../img/icons/marker-icon-blue.png" />
                         {% else %}
-                            <img src="./img/icons/marker-icon-grey.png" />
+                            <img src="../img/icons/marker-icon-grey.png" />
                         {% endif %}
                         <script>
                             $("#{{ location.name | slugify }}")
