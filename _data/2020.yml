@@ -1,0 +1,70 @@
+former:
+- event:
+    de: Virtuelle RDMO-Sprechstunde<br/>Wir wünschen allen ein erholsames Jahresende und einen Gutes Neues Jahr
+    en: 
+  date: Dezember 2020
+  
+- event:
+    de: Regelmäßige virtuelle Treffen der Content-Gruppe und der Software-Gruppe<br/>Die Content-Gruppe trifft sich ab jetzt jeden 2. Donnerstag im Monat von 11-12h. Das Treffen findet via Zoom statt und wird per E-mail und Slack erneut angekündigt. Immer eine Woche später, also am 3. Donnerstag im Monat, trifft sich in gleicher Form die Software-Gruppe. Beide Treffen sind für alle Interessierten offen.<br/>Community-Treffen 07.10.2020<br/>Unser 4. Community-Treffen hat am 07.10.2020 virtuell mit ca. 60 Teilnehmerinnen und Teilnehmern stattgefunden.   Der ausführliche Bericht ist auf <a href="https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen">Forschungdaten.org</a> zu finden, nebst den meisten Folien, die präsentiert und diskutiert wurden.
+    en: 
+  date: November 2020
+
+- event:
+    de: Zunächst wollen wir vor allem noch einmal auf das geplante virtuelle RDMO Anwender-Treffen am 07.10.2020 hinweisen. Ein detailliertes <a href="{{site.baseurl}}/events/workshop022020_programm/">Programm</a> ist auf der RDMO-Webseite veröffentlicht. Die Keynote wird von Herrn Sure-Vetter (NFDI-Direktor) gehalten. Außerdem wird das RDMO Memorandum of Understanding (MoU) ausführlich vorgestellt. Bitte melden Sie sich bis zum 04.10.2020 für das Anwender-Treffen auf der <a href="https://meetings.aip.de/event/9/">Registrierungsseite</a> an. In der kommenden Woche wird noch vor dem Anwender-Treffen das RDMO-Release 1.3 erscheinen. Es wird einige Neuerungen enthalten, von denen hier nur ausschnittsweise ein paar genannt werden sollen. So wird es neben einigen Bug-Fixes kleinere Verbesserungen an der Nutzeroberfläche, eine erweiterte Konfigurierbarkeit von Referenz-Dokumenten und Erleichterungen beim Anpassen des Footers. Außerdem ist RDMO dank der Arbeit von Dario Pilori und Giacomo Lanza mit dem nächsten Release auch in italienischer Sprache nutzbar. Eine der größeren Veränderungen betrifft die Überarbeitung von Tasks, die in ihrer Funktionalität deutlich erweitert wurden.
+    en: 
+  date: Oktober 2020
+  
+- event:
+    de: <b>4. RDMO-Community-Treffen (virtuell)</b><br/><a href="{{site.baseurl}}/events/workshop102020_programm">Programm</a><br/><a href="https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen">Bericht</a>
+    en: 
+  date: 07.10.2020
+
+- event:
+    de: Auch in diesem Monat waren wir nicht untätig und haben heute Version 1.2 von RDMO veröffentlicht. In den Management-Oberflächen können nun Elemente wie Optionen, Attribute, aber auch ganze Fragenkataloge direkt kopiert werden. Kataloge, Aufgaben und Ansichten können von den Nutzenden verborgen werde (z.B. so lange noch an ihnen gearbeitet wird). Attribute und Bedingungen zeigen an, in welchen Fragen, Fragensets, etc. sie genutzt werden. Elemente können jetzt auch einzeln exportiert werden, z.B. ein Fragenset oder eine Ansicht. Auch den Import haben wir neu gestaltet. Vor dem eigentlichen Import wird jetzt angezeigt was importiert wird und ob es Probleme dabei gibt. Außerdem können einzelne Elemente abgewählt werden. Nach dem Import wird noch einmal gezeigt was importiert wurde und ob es Fehler gegeben hat. Auch einige Fehler wurden mit dem neuen Release behoben. Viele von ihnen betrafen Übersetzungen. RDMO ist nun besser auf fehlende Texte vorbereitet, sollten diese in der gewählten Sprache nicht verfügbar sein. In diesen Fällen wird auf die vorhandene Sprache zurückgegriffen. Views wurden um vier verfügbare Variablen erweitert. Die Funktion “render_value” kann nun mit “project/title”, “project/description”, “project/created” und “project/updated” verwendet werden.
+    en: 
+  date: September 2020
+
+- event:
+    de: In der neuen RDMO-Version 1.1 haben wir die Projekt Export- und Import-Funktionalitäten überarbeitet. Damit sind die Grundlagen gelegt, Formate wie DataCite, das von DataCite abgeleitete Schema von RADAR und auch das von der RDA vorgeschlagene <a href="https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard">maDMP</a> in RDMO zu unterstützen. Da das Mapping von RDMO auf diese Formate aber abhängig von unserem Domänenmodell ist, das aber wiederum kein Teil des RDMO-Codes ist, sondern unabhängig gepflegt wird, war es nötig den Code hierfür in Plugins auszulagern. Diese werden in der Zukunft, analog zu dem <a href="https://github.com/rdmorganiser/rdmo-catalog">rdmo-catalog</a> Repository, in <a href="https://github.com/rdmorganiser/rdmo-plugins">rdmo-plugins</a> gesammelt. Das “Mapping” der Formate auf das RDMO Domänenmodell passiert im Code dieser Plugins, wurde von uns aber zusätzlich in einem <a href="https://docs.google.com/spreadsheets/d/16fQ0Rgg-2ewMK9FklEjU8pAcpHODEm7PYy6xDCninew/edit?usp=sharing">Google-Doc</a> dokumentiert. Für die vollständige Unterstützung wird es aber noch nötig sein, zusätzliche Fragen und Attribute einzuführen. In der Zukunft wollen wir diese Art von Plugins verstärkt nutzen, um Domänenspezifische Features in RDMO zu realisieren und natürlich können Plugins auch von Instanzen genutzt werden, um stärker angepasste Funktionalitäten zu realisieren. Die Details gibt es in der <a href="https://rdmo.readthedocs.io/en/latest/plugins/index.html">Plugin Dokumentation</a>.
+    en: 
+  date: August 2020
+  
+- event:
+    de: Die neue Version 1.0.7 von RDMO beinhaltet als Neuerungen <br/>1) Multi-Site-Setup -  Betreiben verschiedener RDMO-Seiten mit unterschiedlichen URLs und Themes auf einem Server mit einer gemeinsamen Datenbank (mehr unter <a href="https://rdmo.readthedocs.io/en/latest/configuration/multisite.html">https://rdmo.readthedocs.io/en/latest/configuration/multisite.html</a>); 2) Bestimmte User können jetzt über das Admin-Interface zu Site-Managern gemacht werden (mehr unter <a href="https://rdmo.readthedocs.io/en/latest/administration/users.html#roles">https://rdmo.readthedocs.io/en/latest/administration/users.html#roles</a>); 3) RDMO steht ab sofort in französischer Sprache zu Verfügung (Texte in der Software selbst, RDMO-Fragenkatalog sowie die ihm anhängigen Optionen und einige andere Bezeichner und Hilfetexte), die entsprechenden XML-Dateien stehen über das Catalog-Repository zur Verfügung;  4) die Nutzungsbedingungen sind nun über eine eigene URL verfügbar. Außerdem ist sind die Aufzeichnung und Folien der Präsentation des RDMO-Teams “Datenmanagementpläne mit RDMO” für das Projekt FDM-BB nun verfügbar unter <a href="https://mediaup.uni-potsdam.de/Play/19500">https://mediaup.uni-potsdam.de/Play/19500</a>.
+    en: 
+  date: Juli 2020
+
+- event:
+    de: Im Mai haben wir die erste virtuelle RDMO-Sprechstunde durchgeführt. Aus dem Gespräch ergab sich die Bitte, Bedarfe möglichst als GitHub-Issues, als dauerhaftesten und am besten nachvollziehbaren Workflow anzulegen. Für Fragen zum Anlegen von Issues kontaktieren Sie uns am besten im RDMO-Slack oder über Email. Das RDMO-Team hat vom 27.-28.05.2020 am <a href="https://rda-dmp-common.github.io/hackathon-2020/">virtuellen “RDA Hackathon on maDMP”</a> teilgenommen und an der Interoperabilität von RDMO mit dem <a href="https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard">maDMP Standard</a> gearbeitet. Das Ergebnis ist ein Plugin, in dem das Mapping stattfindet und ein Export zum maDMP JSON-Format erstellt wird. Außerdem präsentierte das RDMO-Team “Datenmanagementpläne mit RDMO” am 08.06.2020 in einem vom Projekt FDM-BB (Universität Potsdam, Fachhochschule Potsdam) organisierten Webinar.
+    en: 
+  date: Juni 2020
+  
+- event:
+    de: RDMO ist nun in Version 1.0.6 verfügbar. Mit der neuen Version ist es möglich, in Ansichten einfache mathematische Berechnungen durchzuführen z. B. für einfache tabellarische Zusammenfassung der anfallenden Personal- und Sachkosten. Nähere Erläuterungen im <a href="https://www.forschungsdaten.org/index.php/Ansicht_erstellen">Tutorial</a> und in der <a href="https://rdmo.readthedocs.io/en/latest/management/views.html">technischen Dokumentation</a>. Seit Mai gibt es jeden ersten Donnerstag des Monats (außer an Feiertagen) für Mitglieder der RDMO-Community (DatenmanagerInnen, AdministratorInnen etc.) eine “virtuelle RDMO-Sprechstunde”. Details im <a href="https://www.listserv.dfn.de/sympa/info/rdmo">RDMO-Newsletter</a>. Außerdem hat die Steuerungsgruppe beschlossen, dass RDMO als Open Source Projekt ab sofort RDMO Arbeitsgemeinschaft heißt und bereitet ein Memorandum of Understanding vor, auf dessen Grundlage die Beteiligung an der Weiterführung von RDMO von Institutionen und Organisationen erfolgen wird. Die Mitglieder der Gruppen der Arbeitsgemeinschaft sind unter <a href="{{site.baseurl}}/groups/">https://rdmorganiser.github.io/groups/</a> zu finden.
+    en: 
+  date: Mai 2020
+
+- event:
+    de: RDMO Release 1.0.5 (Bug Fixes, u. a. Login mit ORCID, Fehler beim Download der Vendor Files, Darstellung von Sets in Views). Ein Update ist empfohlen. Siehe die Dokumentation bzgl. der für die ORCID notwendigen neuen Einträge in der local.py. Der Bericht des 3. RDMO-Anwendertreffens ist <a href="https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen">online</a>. Ab Mai 2020 gibt es eine “virtuelle RDMO Sprechstunde”, bitte <a href="https://rdmorganiser.github.io/">kontaktieren</a> Sie uns für Details. Wir haben den <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/master/shared/fodako">“DFG-Fragenkatalog”</a> vom Projekt FoDaKo, Bergische Universität Wuppertal (Torsten Rathmann) (CC0)] in die AIP-Demo-Instanz eingepflegt und nehmen weiterhin Kataloge aus der Community in das GitHub Repository auf (entweder einen Pull-Request auf GitHub erstellen oder die XML-Dateien per Mail an omichaelis@aip.de senden). Besonders hilfreich für die Nachnutzung sind die zusätzliche Bereitstellung einer Read.me-Datei bzw. Dokumentation zum jeweiligen Katalog.
+    en: 
+  date: April 2020
+  
+- event:
+    de: Im Februar fand das dritte RDMO-Anwendertreffen statt. Es war fokussiert auf die Etablierung einer Governance-Struktur für die Weiterführung von RDMO, unabhängig von dem in diesem Jahr endenden DFG-Projekt, das die Grundlage für RDMO geschaffen hat. Ein Block von Kurzvorträgen, die den Kontext im europäischen (Horizon Europe) und nationalen Raum (NFDI) skizzierten, wie auch einige Weiterentwicklungsaspekte von RDMO, reflektierte die gegenwärtige Situation. <a href="{{site.baseurl}}/events/workshop022020_programm/">Vorträge und Programm</a>. Das vom Projekt vorgelegte Manifest und weitere Beiträge haben in der Etablierung einer Steuerungsgruppe mit  6+ Personen, einer  Softwaregruppe mit 3+ Personen sowie einer Content-Gruppe mit 6+ Personen resultiert. Die Steuerungsgruppe wurde damit beauftragt, die Governance-Struktur weiter auszuarbeiten und ein MoU für RDMO auszuarbeiten, um den formalen Rahmen für RDMO zu festigen. Weitere Schritte werden über die Website und Mails bekannt gemacht. Während der <a href="https://www.rda-deutschland.de/events/tagung-2020">RDA-De-Tagung</a> haben Olaf Michaelis und Ulrike Wuttke am Vormittag des 25.02.2020 im Rahmen des Project-Tracks einen RDMO-Workshop angeboten. Während des gut besuchten Workshops, in dem die wichtigsten Features und weitere Entwicklungsmöglichkeiten des Werkzeugs vorgestellt wurden, und im weiteren Verlauf der Konferenz freuten wir uns über intensiven Austausch zu RDMO. Das starke Interesse an RDMO in der deutschen Community wurde insbesondere aus den Präsentationen der Bundesland-FDM-Initiativen deutlich.
+    en: 
+  date: März 2020
+
+- event:
+    de: Diesen Monat gab es <a href="https://github.com/rdmorganiser/rdmo/releases/tag/1.0.3">RDMO-Release 1.0.3.</a>. Es enthält einige Verbesserungen und behebt kleinere Fehler. Es stehen neue API-Filter-Attribute zur Verfügung, die Schnittstellen flexibler machen. Sie werden es unter anderem erleichtern, einen Satz an Antworten zu exportieren und diesem anschließend die entsprechenden Fragen zuzuordnen, da Fragen nun beispielsweise mit dem Parameter “attribute” über die API lokalisiert werden können. Außerdem nutzt RDMO nun “pytest”, mit dem auch die <a href="https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md">RDMO-App getestet werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop der DHd-AG Datenzentren am 23./24.01.2020 in Frankfurt an Main</a> vertreten. Ulrike Wuttke und Olaf Michaelis haben die bisher im Projekt erfolgten Anstrengungen vorgestellt, RDMO Datacite kompatibel zu machen. Der Beitrag “Vom Projekt zum nachhaltigen Werkzeug für das Forschungsdatenmanagement. Das Beispiel Research Data Management Organiser” wurde zum <a href="https://bibliothekartag2020.de">109. Deutschen Bibliothekartag</a> (26. - 29. Mai 2020, Hannover) angenommen.
+    en: 
+  date: Februar 2020
+  
+- event:
+    de: <b>3. RDMO-Community-Treffen</b>, Gründungstreffen als Open Source Projekt<br/><a href="{{site.baseurl}}/events/workshop022020_programm">Programm</a><br/><a href="https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen">Bericht</a>
+    en: 
+  date: 24.02.2020
+
+- event:
+    de: Im Mittelpunkt des inzwischen 3. RDMO-Community-Treffens am 24.02.2020 am Leibniz-Institut für Astrophysik Potsdam (AIP) werden die Verabschiedung des <a href="{{site.baseurl}}/docs/RDMO-Manifest-122019.pdf">RDMO-Manifests</a> und die Gründung der RDMO Community, insbesondere die Konstituierung der <i>Steuerungsgruppe</i> und der <i>Software-Gruppe</i> stehen. Außerdem sind wieder kurze <i>Spotlights</i> aus der Community der RDMO-Anwender\*innen vorgesehen. Link zum <a href="{{site.baseurl}}/events/workshop022020_programm/">Programm</a>. Während der an das Community-Treffen anschließenden <a href="https://www.rda-deutschland.de/events/tagung-2020">RDA-De-Tagung</a> werden wir am Vormittag des 25.02.2020 einen RDMO-Workshop anbieten. Die Registrierung ist inzwischen möglich.
+    en: 
+  date: Januar 2020

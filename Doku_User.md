@@ -7,10 +7,11 @@ lang: de
 
 # Hilfe / Anleitung / Dokumentation für RDMO-Nutzende
 
-Innerhalb von RDMO gibt es drei verschiedene Rollen.<br/>
-Als <b>Nutzende:r</b> haben Sie die Möglichkeit, Projekte zu erstellen und gemeinsam im Team oder alleine Fragenkataloge zu beantworten und die ausgefüllten DMPs zu exportieren. Mithilfe der Views kann die Ausgabe angepasst werden.<br/>
+Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
+Als <b>Nutzende:r</b> haben Sie die Möglichkeit: 
 
-Weitere Vorteile:
+* DMPs zu erstellen und kollaborativ daran zu arbeiten
+* die Ausgabe mithilfe der Views anzupassen
 * zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
 * Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
@@ -39,17 +40,17 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 
 <br>
 *Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 30%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 <br>
 <p style="margin-left:25%;">Wie beantworte ich einen Fragenkatalog? (<a href="{{ site.baseurl }}/img/promo/videos/fragenkatalog_v2.mp4">Video-Download</a>)</p>
-<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 30%; margin-left:35%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
 
 <br>
 <p style="margin-left:25%;">Was kann man mit RDMO machen? (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)</p>
-<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 30%; margin-left:70%;">
+<video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
