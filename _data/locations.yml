@@ -114,8 +114,8 @@
 
 - name:    Universität Hildesheim
   url:     https://dmp.uni-hildesheim.de/
-  contact: Mario Müller
-  mail:    javascript:linkTo_UnCryptMailto(%27jxfiql7rycrXrkf%3Aefiabpebfj%2Bab%27);
+  contact: Anna Beer
+  mail:    mailto:fdm@uni-hildesheim.de
   lat:     52.1600497
   lon:     9.9833092
   color:   gray
