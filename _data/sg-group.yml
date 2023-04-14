@@ -29,3 +29,8 @@ current:
     en: "**Robert Strötgen** is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board.<br/><a href='https://orcid.org/0000-0003-3320-5187' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
   image: img/team/stroetgen.jpg
 
+- text:
+    de: **Daniel Arend** arbeitet im Forschungsdatenmanagement am Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) Gatersleben und ist dort unter anderen für die Entwicklung und Betreuung der Datenpublikationsinfrastruktur verantwortlich. Dabei befasst er sich beispielsweise mit Themen wie Persistente IDs und Metadatenstandards im Bereich der Lebenswissenschaften.
+    en: 
+  image: img/team/arend.jpg
+  

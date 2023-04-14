@@ -283,14 +283,15 @@
   color:   gray
 
 - name:    Max Rubner-Institut (MRI)
-  contact: Bernhard Lucke
+  contact: Wahib Sahwan
+  mail:    mailto:wahib.sahwan@mri.bund.de
   lat:     49.013579
   lon:     8.426245
   color:   gray
 
 - name:    Ludwig-Maximilians-Universität München (LMU)
   url:     https://rdmo.ub.uni-muenchen.de
-  contact: Martin Spenger
+  contact: FDM-Beratung der UB
   mail:    mailto:forschungsdaten@ub.uni-muenchen.de
   lat:     48.150833
   lon:     11.580278
