@@ -16,8 +16,8 @@ old_news:
     de: Veranstaltungen
     en: Events
   path:
-    de: Vergangenes
-    en: en/past
+    de: Veranstaltungen
+    en: en/Events
 
 rdmo-arge:
   label:
