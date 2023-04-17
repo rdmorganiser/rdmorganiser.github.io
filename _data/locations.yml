@@ -193,6 +193,7 @@
 
 - name:    Universität Trier
   url:     https://rdmo.uni-trier.de/
+  url:     https://rdmo.uni-trier.de/
   contact: Marina Lemaire, Stefan Kellendonk
   mail:    mailto:esciences@uni-trier.de
   lat:     49.745933
@@ -385,6 +386,10 @@
 - name:    Stiftung Preußischer Kulturbesitz
   url:     https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
+  lat: 52.5066695
+  lon: 13.352966
+  color: gray
+  discipline: Geistes- und Sozialwissenschaften
 
 - name:    Deutsches Klimarechenzentrum (DKRZ)
   url:     https://rdmo.dkrz.de
@@ -485,3 +490,49 @@
   # lon:     13.736781
   # color:   gray
   # gelöscht auf deren Wunsch
+
+- name: osnaPlan / Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
+  contact: FDM-Team der UB Osnabrück (fdm@uos.de)
+  lat: 52.2731726
+  lon: 8.0457204
+  color: blue
+
+
+- name: ICIPE / International Center of Insect Physiology and Ecology
+  url: https://dmmg-dmp.icipe.org/
+  contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: -1.2218344
+  lon: 36.8966253
+  color: blue
+  discipline: Lebenswissenschaften
+
+- name: Technische Universität Berlin
+  url: https://dmp.tu-berlin.de
+  #contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: 52.512556072022434
+  lon: 13.32659749475189
+  color: blue
+
+- name: osnaPlan / Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
+  contact: FDM-Team der UB Osnabrück (fdm@uos.de)
+  lat: 52.2731726
+  lon: 8.0457204
+  color: blue
+
+- name: ICIPE / International Center of Insect Physiology and Ecology
+  url: https://dmmg-dmp.icipe.org/
+  contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: -1.2218344
+  lon: 36.8966253
+  color: blue
+  discipline: Lebenswissenschaften
+
+- name: Technische Universität Berlin
+  url: https://dmp.tu-berlin.de
+  #contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: 52.512556072022434
+  lon: 13.32659749475189
+  color: blue
+  

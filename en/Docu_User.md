@@ -35,7 +35,7 @@ The project now targets:
 * dissemination and training
 
 The RDMO collaborates with multiple institutions, discipline specific and other scientific organisations, and also international
-initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-team@listserv.dfn.de].
+initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-contact@listserv.dfn.de].
 
 The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
 
