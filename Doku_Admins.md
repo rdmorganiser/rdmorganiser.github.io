@@ -5,10 +5,10 @@ key: docu_admin
 lang: de
 ---
 
-Software
-========
+# Hilfe / Anleitung / Dokumentation für RDMO-Administrierende
 
-RDMO ist als Webanwendung realisiert und steht als Open-Source Software auf [github.com](https://github.com/rdmorganiser) zur Verfügung. Die Software soll es sowohl einzelnen Forschenden als auch Kooperationspartner erlauben, alle für das nachhaltige Datenmanagement nötigen Informationen zentral einzugeben und zu verwalten. Auf der obersten Ebene werden diese Informationen anhand von durch die Nutzer im jeweiligen Forschungskontext zu definierenden *Projekten* verwaltet.
+Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
+Als <b>Administrator:in</b> haben Sie die Möglichkeit:
 
 Die Hauptfunktionalität von RDMO umfasst folgende Features:
 
@@ -42,11 +42,6 @@ Besonderen Wert legen wir auf die reibungslose Installation und Anpassbarkeit vo
 * Vollständige Anpassbarkeit der Oberfläche
     * Corporate Design
     * Layout
-* Vollständige Anpassbarkeit der Inhalte
-    * Fragen und Antwortmöglichkeiten
-    * Hilfe-/Erläuterungstexte inkl. Verlinkung zu externen Informationsquellen
-    * Vorlagen für textuelle Datenmanagementpläne
-    * Zu erledigende Aufgaben
 * Integration in die lokale Infrastruktur
     * Autorisierung und Authentifizierung
     * Schnittstellen
@@ -70,3 +65,15 @@ Neue Feature-Wünsche, Bug-Reports oder Sicherheitsprobleme werden am besten per
 * <https://github.com/rdmorganiser/rdmo/issues/new/choose>
 
 Wir nehmen aber natürlich auch Anfragen auf allen anderen Kommunkationskanälen entgehen.
+
+
+## Erste Hilfestellungen
+
+RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. 
+
+* [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - erläutert wie RDMO auf Windows, Linux und macOS installiert wird
+* [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO kann entweder im Testszenario oder in wirklichem Einsatz auf einem Webserver betrieben werden
+* [Configuration](http://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO kann individuell angepasst werden
+* [Administration](http://rdmo.readthedocs.io/en/latest/administration/index.html) - Verwaltung von Benutzern, Gruppen und Zugangsberechtigungen
+* [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - Aktualisieren der RDMO-App
+

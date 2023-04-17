@@ -5,145 +5,71 @@ key: news
 lang: en
 ---
 
-News
-====
+# News
 
-On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [Twitter](https://www.twitter.com/rdmorganiser).
+On this page we summarize our current activities.
+To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), follow us on [Twitter](https ://twitter.com/rdmorganiser), or chat with us on [Slack](https://rdmo.slack.com).
+(Write an email to us: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> and we will invite you to Slack.) <br/>
 
-RDMO Arbeitsgemeinschaft
-------------------------
+{% for announcement in site.data.2023.current %}
+## Announcements:
 
-The continuation of the RDMO works is organised by the RDMO Arbeitsgemeinschaft. More info [here]({{ siteurl }}/rdmo_arge) (currently German language only). Base of the RMDO Arbeitsgemeinschaft is the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) (currently German language only).
+<table style="width: 100%; border: 3px dotted red;">
+  <tr>
+    <th style="width: 20%; padding: 10px;"></th>
+    <td style="width: 80%; padding: 10px;"></td>
+  </tr>
+  <tr>
+    <th style="width: 20%; padding: 10px;">{{ announcement.date | markdownify }}</th>
+    <td style="width: 80%; padding:10px;">{{ announcement.event.en | markdownify }}
+    </td>
+  </tr>
+</table>
+{% endfor %}
 
-Regular RDMO Times: 11:00h -12:00h
--------------------------------------
-(status:  August 2021)
+## RDMO working group
 
-- General JourFixe: each 1st Thursday of the month
-- Content  group:  each  2nd Thursday of the month
-- Development group: each 3rd Thursday of the month
+The [RDMO working group]({{ siteurl }}/Community) was constituted with the event on October 7th, 2020. It calls on RDMO users to participate in further work on the basis of the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
+For connection information to the workshops and regular dates, please contact the RDMO working group or the responsible person. Interested people are welcome.
 
-Please contact the RDMO Arbeitsgemeinschaft via the usual channels for connection information.  
-All interested parties are  welcome.
-
-
-December 2021
--------------
-
-as of now the new version RDMO 1.7.0 is available. While these are primarily bug fixes, since additional functionality has been added, the middle number of the version number is increased. In response to feedback, we have slightly revised the interview. For record questions, "Save and Continue" now moves to the next question set rather than the next record, but continues to process the same record. (The old behavior can be kept via the PROJECT_QUESTIONS_CYCLE_SETS setting). Question sets that can be skipped by conditions are marked by a small question mark in the navigation. As always, more information is available on the release page: https://github.com/rdmorganiser/rdmo/releases.
-
-There are also some new features coming to the rdmo-catalog repository. They are released under the version number 1.1.0-rdmo-1.6.0, where rdmo-1.6.0 means that the release can be used with RDMO from 1.6.0. The following changes are included:
-
-- Domain: 22 new attributes (required for Horizon Europe).
-- Conditions: 4 new conditions
-- Options: additional options; language adjustment; localization to French and Italian
-- Catalogs: additional questions and help texts; DFG links update; language adjustment; localization in French and Italian
-- Community contributions: Table overview; new catalog for Science Europe / VW Foundation; update FoDaKo-DFG catalog.
+## Regular RDMO video conference dates
+(Status: April 2023)
 
 
-November 2021
--------------
-in the last weeks some minor problems in RDMO have been noticed, so version 1.6.2 is now available, which mainly contains bug fixes. For example, overlays were fixed in case PROJECT_ISSUES were disabled in the settings. Also, an error that occurred when records were removed was fixed. A problem with resolving conditions in question sets was also fixed. Some improvements that might be more interesting for technical interested people or RDMO administrators are also on the list of new features. From now on we use Github actions and not Travis-CI for our automated tests. Furthermore, a command has been added on the command line to track down and remove projects that have no owners, for example. As always, our release notes can be found here: https://github.com/rdmorganiser/rdmo/releases.
-
-The reports of the community meeting on 04.10.2021 can be found - as always - at
-https://www.forschungsdaten.org/index.php/Sechstes_Community-Treffen.
-
-November 16 was the day of research data in NRW. In the afternoon program Torsten Rathmann talked about requirements of third party funders and DMPs and also presented RDMO, especially also a new version of the FoDaKo questionnaires for DFG projects. More information is available on the [event website](https://www.fdm.uni-wuppertal.de/de/schulungen-veranstaltungen.html).
-
-
-October 2021
------------
-
-After a 2 month testing period, we released RDMO 1.6 on Tuesday. As always, you can find the relevant information on the release page on GitHub:
-
-    https://github.com/rdmorganiser/rdmo/releases/tag/1.6
-
-There will be many new features in the new version:
-
-- Question sets can now be nested to map hierarchies such as datasets -> creators -> institutions (as in DataCite).
-- In the catalogs, questions can be marked as optional for users and default answers can be configured.
-- An autocomplete widget, tooltips in help texts, the possibility to arrange questions side by side serve for better usability.
-- An overlay tutorial for new users is designed to make it easier to get started.
-- The instance can be configured to automatically save most input when answering questions.
-- The implementation of the conditions and other database accesses have been optimized to improve page load speed.
-- Questions, question sets and options can be hidden in the management interface.
-- For question sets configured as a collection, the attribute is now set explicitly (i.e. project/dataset/id instead of project/dataset). A migration will automatically adjust existing question catalogs.
-- Theme creation is simplified for new instances, but existing instances can continue to operate as usual.
-
-RDMO uses Django 3.2 from version 1.6 and thus requires Python 3.6. If this should cause problems for you, please contact us.
-
-
-September 2021
------------
-
-Community Workshop on October 4, 2021:
-
-The detailed [program](https://rdmorganiser.github.io/events/workshop102021_programm/) is now posted. We will still add the contributions for the breakout sessions in the last week of September.
-
-The [registration](https://meetings.aip.de/event/13/) is open.
-
-Software:
-
-the release candidate of RDMO is still in the testing phase. We would appreciate it if institutions that have test instances or similar would try the release so that any bugs can be found and ironed out during the testing phase. The release candidate must be installed directly from GitHub. How to do that is described on the (pre-)release page:
-
-[pre-release](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1)
-
-The test phase will run at least until the next developer meeting, which will take place on the third Thursday in September. Depending on the feedback, the test phase will then be extended or terminated in order to then start work on a new RDMO release.
-
-
-August 2021
------------
-
-The work on RDMO will continue diligently in the summer! The new version of RDMO is now ready for a test phase, as announced. The release candidate has to be installed directly from GitHub, how to do that is described on the [(pre-)release page](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1). In addition, the list of numerous changes can be viewed on this page.
-
-July 2021
----------
-
-Work is underway on the new release of RDMO, which is expected to be arriving in early August. Part of the release will be nested question sets, optional questions, preset default answers, an autocomplete widget, tooltips in help texts, tutorial overlays for new users and numerous other improvements. Unlike before, we will have a test phase before the release, during which the new version can be tried out on test instances (if available). We will inform you by e-mail when the time comes.
-
-April 2021
------------
-
-RDMO 1.5.5: a new version has been published, with a cpuple of minor bug fixes. Installation procedures as usual. If RDMO version is 1.5.x no database migrations are required. More info at [Release page on GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5.5)
-
-March 2021
--------------
-
-*RDMO 1.5*
-
-Last week, version 1.5 of RDMO was released, which again contains a number of innovations. This time, the focus was particularly on practical usability for researchers. The interview is now always continued on the page that was last accessed. A number of details have been changed in the user interface, making it much more intuitive. In the questionnaires, file uploads can be configured to upload additional material such as graphics or documents. Projects can now be created as sub-projects of existing projects, with inherited access rights. Views of parent projects can access sub-projects to collate information from multiple projects. Adding new users to projects now works via email notifications and users who are not yet registered in the RDMO instance can also be invited via this way. We have also worked on RDMO "under the bonnet": By optimising the database accesses, RDMO should now be much faster and smoother. The (rather technical) overview of the individual features can be found on the [release page on GitHub](https://github.com/rdmorganiser/rdmo/releases/tag/1.5).
-
-*News from the RDMO Content Group*.
-
-Meanwhile, in addition to the UAG Editorial Processes for Attributes, Options and Views, 3 other UAGs have formed: Text Guidance for DMPs, Promotion for RDMO and Engagement in an RDA - UAG for DMPs. Anyone who is interested in getting involved in the UAGs is very welcome. For example, the UAG Editorial Processes is currently working on adding new attributes, options and conditions to the corresponding files of the RDMO standard catalogue on the basis of a concrete case. The CG meets every 2nd Thursday of the month from 11-12h. Announcements are made via the RDMO distribution list.
-
-*Report NFDI - DMP Workshop*
-
-On 02.03. the Steering Group of the RDMO Working Group together with the NFDI Directorate and the NFDI4Ing consortium held a virtual workshop on the topic "Creation of data management plans and use of DMP tools in the NFDI" with 50 representatives of 21 consortia (funded and not yet funded). A detailed report on this event can be found on the [RDMO's website](/docs/nfdiws/wsreport).
-
-
-February 2021
--------------
-
-Work is underway on a new version of RDMO, which is scheduled for release at the end of February. If all goes well, it will include improvements to the user interface, allow files to be uploaded when answering questions, and introduce a hierarchical structure of projects that can be nested in this way. However, there is still some testing and development to be done before this can happen.
-
-As announced elsewhere, the UAG Data Management Plans of the DINI/nestor-AG Research Data in cooperation with fdm.nrw is organising a virtual workshop series on the topic of data management plans in spring 2021. A description of the workshops and the registration form are now online.
-
-The workshops are aimed both at participants who have had little contact with the topic of DMPs so far and at people who already have a wide range of experience with DMPs.
-
-The RDMO steering group, together with the NFDI Directorate and the NFDI4Ing consortium, has invited all NFDI consortia to actively participate with a short presentation in the virtual workshop "Creating Data Management Plans and DMP Tools in the NFDI" in early March 2021.  This is against the background of the "Leipzig-Berlin Declaration on NFDI Cross-Cutting Issues in Infrastructure Development" and the cross-cutting issue "Creation of Data Management Plans" mentioned therein. It is intended to serve the exchange within the NFDI.  We will report on the results in due course.
-
-
-November 2020
--------------
-
-Virtual Meetings of Content group and  Software group
-
-Content group meets regularly  each 2.nd Thursday of the month, from 11:00-12:00h. The Zoom meeting will be announced via E-mail und Slack. A week later, each 3.rd Thursday of the month, from 11:00-12:00h the Software group meets. Both meetings are inviting interested parties.
-
-Community-Meeting 07.10.2020
-
-Our 4.th Community-Meeting took place on 07.10.2020, with about 60 participants as a virtual conference. An extended report has been published (in German language) at [Forschungdaten.org](https://www.forschungsdaten.org/index.php/Viertes_Community-Treffen), including most presented discussion material.
+<table style="width: 100%; border:1px solid black;">
+	<tr>
+		<th style="width: 20%;"/>
+		<th style="width: 45%; padding-left: 5px;">Fokus</th>
+		<th style="width: 20%; padding-left: 5px;">Termin</th>
+		<th style="width: 25%; padding-left: 5px;">Ansprechperson</th>
+	</tr>
+	{% for group in site.data.groups.current %}
+	<tr>
+		<td style="font-weight: bold; padding-left:5px;">{{ group.name_en | markdownify }}</td>
+		<td>
+			<ul>
+				<li>{{ group.content_en1 | markdownify }}</li>
+				<li>{{ group.content_en2 | markdownify }}</li>
+			</ul>
+		</td>
+		<td>{{ group.date_en | markdownify }}</td>
+		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+	</tr>
+	{% endfor %}
+	{% for group in site.data.groups.former %}
+	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
+		<td style="font-weight: bold;">{{ group.name_en | markdownify }}</td>
+		<td>
+			<ul>
+				<li>{{ group.content_en1 | markdownify }}</li>
+				<li>{{ group.content_en2 | markdownify }}</li>
+			</ul>
+		</td>
+		<td>{{ group.date_en | markdownify }}</td>
+		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+	</tr>
+	{% endfor %}
+</table>
 
 
 

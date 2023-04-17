@@ -6,23 +6,41 @@ lang: de
 ---
 
 
-# Willkommen auf der Seite von RDMO
+# Willkommen bei RDMO
 <hr>
 
-Auf diesen Seiten informieren wir u.a. über die [RDMO-Arbeitsgemeinschaft](./Community),  die [Software](./Doku_Admins) und deren Dokumentation, [aktuelle Aktivitäten der Arbeitsgemeinschaft](./aktuelles) und unsere Kooperationspartner.
+Auf diesen Seiten finden Sie alle wichtigen Informationen rund um die RDMO-Software, aktuelle Veranstaltungen, die RDMO-Community und Möglichkeiten zur Mitarbeit. <br/>
+Hilfestellungen zum Umgang mit RDMO in der Rolle [Nutzung]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) und [Administration]({{ site.baseurl }}/Doku_Admins) sind unter <i>Informationen</i> zu finden.<br/>
+Der Schlüssel für die Weiterentwicklung der Software ist eine aktive Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 
-## Was ist der Research Data Management Organiser?
-Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements. Es ermöglicht zusätzlich die textuelle Ausgabe eines Datenmanagementplans nach den Vorgaben unterschiedlicher Förderer.
-RDMO ist durch das RDMO-Projekt mit seinen [Arbeitspaketen](./arbeitspakete) geschaffen worden. 
+Die freie Software finden Sie unter:
+: [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
-## RDMO-Community
-RDMO wurde im Rahmen von zwei Förderperioden als DFG Projekt entwickelt und hat den Status einer operationellen Software erreicht. Seit 2020 kümmert sich die Community um die stetige Weiterentwicklung der Software und Koordinierung des Projekts. 
-Die Mitarbeit erfolgt dabei in verschiedenen Gruppen: Steuerungsgruppe, Softwaregruppe und Contentgruppe.<br/>
-Innerhalb der Gruppen gibt es Arbeitsgruppen, die sich mit einzelnen Themenschwerpunkten befassen. Eine Übersicht über die Gruppen und die Möglichkeiten zur Teilnahme finden Sie [hier](./aktuelles).
+Eine Demo-Instanz finden Sie unter:
+: [rdmo.aip.de](https://rdmo.aip.de)
 
-## Kooperationen
-Um Anforderungen und Feedback aus den Fachwissenschaften einfließen zu lassen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen, kooperiert RDMO mit verschiedenen Partnern:
+Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link:
+: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
+
+<div style="width: 35%;margin-top: 1%;">
+<h2>Was ist RDMO?</h2>
+Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
+</div>
+
+<div style=" margin-left:28%;margin-top: -5%;">
+<img src="./img/3.Möglichkeit.PNG" style="width: 300px;"/>
+</div>
+
+<div style="width: 33%; margin-left:67%;margin-top: -15%;">
+<h2>RDMO-Community</h2>
+Werden Sie Teil der Community und beteiligen Sie sich an der technischen oder inhaltlichen Weiterentwicklung von RDMO in einer unserer Arbeitsgruppen.<br/>
+Wir freuen uns auf Sie!
+</div>
+
+<h2>Kooperationsnetzwerk</h2>
+Alle RDMO-Nutzende und Institutionen, die über eine eigene Instanz verfügen, können sich Rat und Unterstützung von der RDMO-Community holen.<br/>
+Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Feedback aus den Fachwissenschaften zu berücksichtigen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen.
 
 
 <link rel="stylesheet" href="./css/leaflet.css" />

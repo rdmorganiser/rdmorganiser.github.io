@@ -20,11 +20,7 @@ Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, als
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (Software Scribus)
 * **Videos**:
 
-<br>
-*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
-<source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-
+<br/>
 
 ## Datenschutz
 
@@ -74,3 +70,4 @@ Ein Administrator (Superuser) kann alle Projekte sehen, er hat jedoch auch die b
 #### 3) Projekte die schutzwürdige, personenbezogene Daten zu Forschungszwecken erheben bzw. nutzen 
 
 Diese Projekte müssen bezogen auf ihr Vorhaben gesonderte Maßnahmen und Verfahren überlegen. RDMO bietet hier mit der Trennung der Projekte und Separierung der Nutzer eine Grundlage. Gegebenenfalls ist eine weitergehende ToU hier notwendig.  
+

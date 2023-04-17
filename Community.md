@@ -10,7 +10,7 @@ lang: de
 Mit dem Ende der DFG-Förderung für RDMO im Herbst 2020 hat sich die Arbeitsgemeinschaft RDMO bei der Nutzerversammlung am 07.10.2020 gegründet. Sie basiert auf der freiwilligen Mitarbeit von Institutionen und Individuen, um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln.
 Mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) haben sie ihre Unterstützung bekundet.
 
-Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt:
+Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt.
 
 ## Steuerungsgruppe
 
@@ -34,7 +34,7 @@ So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 Die technische Koordination und Weiterentwicklung von RDMO erfolgt durch eine Entwicklungsgruppe (EG). Neben einem Kern von langfristig engagierten
 Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch eine niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler\*innen wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
 
-So erreichen Sie die Entwicklungsgruppe: [E-Mail](), [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
+So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
 <div class="team-member">
@@ -61,46 +61,12 @@ So erreichen Sie die Contentgruppe: [E-Mail](rdmo-contentgruppe@listserv.dfn.de)
 </div>
 {% endfor %}
 
-## Mitgliederversammlung
 
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
-
-## Ad-Hoc-Gruppen
-
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der SG abgestimmt werden.
-Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-Wir möchten alle Institutionen, die Interesse am Erhalt und der Weiterentwicklung von RDMO haben, bitten das MoU zu unterschreiben und an folgende Mailadresse zu senden: <rdmo-steuerungsgruppe@listserv.dfn.de>.
-
-## Ehemalige Community-Mitglieder ... (ändern)
-
-<details>
-  <summary><u>Ehemalige Community-Mitglieder</u></summary>   # für neu ausgeschiedene Personen
-  {% for member in site.data.team.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
-</details>
-<details>
-  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
-  {% for member in site.data.team.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
-</details>
+## Ehemalige Community-Mitglieder 
 
 <details>
   <summary><u>Ehemalige Mitarbeiterinnen und Mitarbeiter</u></summary>
-  {% for member in site.data.team.former %}
+  {% for member in site.data.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">

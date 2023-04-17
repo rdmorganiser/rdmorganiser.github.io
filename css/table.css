@@ -2,8 +2,6 @@ table {
     width: 100%;
     display: inline-block;
     margin-top: 20px;
-    width: 80%;
-    margin-left: 10%;
 }
 
 th {
@@ -18,7 +16,6 @@ td {
     border: 1px solid;
     float: right;
     margin-top: 20px;
-    margin-right: 10%;
 }
 
 .no_entries {
