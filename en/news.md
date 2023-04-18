@@ -46,27 +46,27 @@ For connection information to the workshops and regular dates, please contact th
 	{% for group in site.data.groups.current %}
 	<tr>
 		<td style="font-weight: bold; padding: 10px;">{{ group.name_en | markdownify }}</td>
-		<td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_en1 | markdownify }}</li>
 				<li>{{ group.content_en2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_en | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
-		<td style="font-weight: bold;">{{ group.name_en | markdownify }}</td>
-		<td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_en | markdownify }}</td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_en1 | markdownify }}</li>
 				<li>{{ group.content_en2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_en | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>

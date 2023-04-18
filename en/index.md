@@ -95,11 +95,6 @@ At the same time, this network of cooperation enables RDMO to take into account 
 <script src="../js/tablesorter.widgets.js"></script>
 <link rel="stylesheet" type="text/css" href="../css/table.css">
 
-
-Discuss with us on Slack:
-: [rdmo.slack.com](https://rdmo.slack.com)
-(Send us a e-mail: <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a> and we will send you an invitation.)
-
 <div id="map" class="map"></div>
 <div>
     <div class="no_entries"></div>
