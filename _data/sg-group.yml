@@ -25,6 +25,6 @@ current:
   image: img/team/michaelis.jpg
 
 - text:
-    de: "**Daniel Arend** ... .<br/><a href='' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-    en: "**Daniel Arend** ... .<br/><a href='' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a>"
-  image: img/team/dummy.jpg
+    de: "**Daniel Arend**<a href='http://orcid.org/0000-0002-2455-5938' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> arbeitet im Forschungsdatenmanagement am Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) Gatersleben und ist dort unter anderen für die Entwicklung und Betreuung der Datenpublikationsinfrastruktur verantwortlich. Dabei befasst er sich beispielsweise mit Themen wie Persistente IDs und Metadatenstandards im Bereich der Lebenswissenschaften."
+    en: "**Daniel Arend**<a href='http://orcid.org/0000-0002-2455-5938' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is involved in research data management at the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, where he is responsible, among other things, for the development and maintenance of the data publication infrastructure. He deals, for example, with topics such as persistent IDs and metadata standards in life sciences."
+  image: img/team/arend.jpg

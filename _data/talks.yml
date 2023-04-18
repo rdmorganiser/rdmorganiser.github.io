@@ -143,13 +143,13 @@
   authors: Jochen Klar
 
 - event: RDA-Deutschland-Treffen 2016
-  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/
+  # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/
   date: 2016-11-28
   place: Potsdam
   title: Jenseits von Datenmanagementplänen
   authors: Jens Ludwig
-  abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993
-  slides: http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf
+  # abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993
+  # slides: http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf
 
 - event: "Herbsttagung der Astronomischen Gesellschaft, Splinter Meeting: E-Science & Virtual Observatory"
   url: https://escience.aip.de/ag2016/
@@ -178,12 +178,12 @@
   # slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
 
 - event: RDA-Deutschland-Treffen 2015
-  url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
+  # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/
   date: 2015-11-26
   place: Potsdam
   title: Breakout-Session zu Datenmanagementplänen
   authors: Jochen Klar, Hermann Stehouwer, Torsten Trippel
-  abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
+  # abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-15/sessionabstracts/#c2115
 
 - event: Helmholtz Open Science Webinar
   # url: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/webinare-zu-forschungsdaten/

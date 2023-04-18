@@ -114,8 +114,8 @@
 
 - name:    Universität Hildesheim
   url:     https://dmp.uni-hildesheim.de/
-  contact: Mario Müller
-  mail:    javascript:linkTo_UnCryptMailto(%27jxfiql7rycrXrkf%3Aefiabpebfj%2Bab%27);
+  contact: Anna Beer
+  mail:    mailto:fdm@uni-hildesheim.de
   lat:     52.1600497
   lon:     9.9833092
   color:   gray
@@ -142,7 +142,7 @@
   mail:    mailto:services.fdm@uni-hamburg.de
   lat:     53.566298
   lon:     9.984469
-  color:   blau
+  color:   blue
 
 - name:    Universität Münster
   # url:     https://www.ulb.uni-muenster.de
@@ -192,6 +192,7 @@
   color:   blue
 
 - name:    Universität Trier
+  url:     https://rdmo.uni-trier.de/
   url:     https://rdmo.uni-trier.de/
   contact: Marina Lemaire, Stefan Kellendonk
   mail:    mailto:esciences@uni-trier.de
@@ -325,14 +326,15 @@
   color:   gray
 
 - name:    Max Rubner-Institut (MRI)
-  contact: Bernhard Lucke
+  contact: Wahib Sahwan
+  mail:    mailto:wahib.sahwan@mri.bund.de
   lat:     49.013579
   lon:     8.426245
   color:   gray
 
 - name:    Ludwig-Maximilians-Universität München (LMU)
   url:     https://rdmo.ub.uni-muenchen.de
-  contact: Martin Spenger
+  contact: FDM-Beratung der UB
   mail:    mailto:forschungsdaten@ub.uni-muenchen.de
   lat:     48.150833
   lon:     11.580278
@@ -384,6 +386,10 @@
 - name:    Stiftung Preußischer Kulturbesitz
   url:     https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
+  lat: 52.5066695
+  lon: 13.352966
+  color: gray
+  discipline: Geistes- und Sozialwissenschaften
 
 - name:    Deutsches Klimarechenzentrum (DKRZ)
   url:     https://rdmo.dkrz.de
@@ -484,3 +490,11 @@
   # lon:     13.736781
   # color:   gray
   # gelöscht auf deren Wunsch
+
+- name: ICIPE / International Center of Insect Physiology and Ecology
+  url: https://dmmg-dmp.icipe.org/
+  contact: Henri Tonnang (https://dmmg.icipe.org/)
+  lat: -1.2218344
+  lon: 36.8966253
+  color: blue
+  discipline: Lebenswissenschaften
