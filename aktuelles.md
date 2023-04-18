@@ -36,17 +36,16 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 ## Reguläre RDMO-Videokonferenz-Termine
 (Stand: April 2023)
 
-
 <table style="width: 100%; border:1px solid black;">
 	<tr>
 		<th style="width: 20%;"/>
-		<th style="width: 45%; padding-left: 5px;">Fokus</th>
-		<th style="width: 20%; padding-left: 5px;">Termin</th>
-		<th style="width: 25%; padding-left: 5px;">Ansprechperson</th>
+		<th style="width: 45%; padding: 10px;">Fokus</th>
+		<th style="width: 20%; padding: 10px;">Termin</th>
+		<th style="width: 25%; padding: 10px;">Ansprechperson</th>
 	</tr>
 	{% for group in site.data.groups.current %}
 	<tr>
-		<td style="font-weight: bold; padding-left:5px;">{{ group.name_de | markdownify }}</td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_de | markdownify }}</td>
 		<td>
 			<ul>
 				<li>{{ group.content_de1 | markdownify }}</li>
@@ -71,10 +70,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	</tr>
 	{% endfor %}
 </table>
-
-
-
-
 
 <br/>
 
