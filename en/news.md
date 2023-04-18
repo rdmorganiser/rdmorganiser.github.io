@@ -39,37 +39,43 @@ For connection information to the workshops and regular dates, please contact th
 <table style="width: 100%; border:1px solid black;">
 	<tr>
 		<th style="width: 20%;"/>
-		<th style="width: 45%; padding-left: 5px;">Fokus</th>
-		<th style="width: 20%; padding-left: 5px;">Termin</th>
-		<th style="width: 25%; padding-left: 5px;">Ansprechperson</th>
+		<th style="width: 45%; padding: 10px;">Fokus</th>
+		<th style="width: 20%; padding: 10px;">Termin</th>
+		<th style="width: 25%; padding: 10px;">Ansprechperson</th>
 	</tr>
 	{% for group in site.data.groups.current %}
 	<tr>
-		<td style="font-weight: bold; padding-left:5px;">{{ group.name_en | markdownify }}</td>
-		<td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_en | markdownify }}</td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_en1 | markdownify }}</li>
 				<li>{{ group.content_en2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_en | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
-		<td style="font-weight: bold;">{{ group.name_en | markdownify }}</td>
-		<td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_en | markdownify }}</td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_en1 | markdownify }}</li>
 				<li>{{ group.content_en2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_en | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>
 
+## Ad Hoc Groups
 
+For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the SG. The general meeting decides on the continuation of the ad-hoc groups.<br/>
+We would like to invite all institutions that are interested in the preservation and further development of RDMO to sign the MoU and send it to the following e-mail address: rdmo-steuerungsgruppe@listserv.dfn.de.
 
+## General meeting
+
+The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the SG. The general meeting meets at least once a year as required.

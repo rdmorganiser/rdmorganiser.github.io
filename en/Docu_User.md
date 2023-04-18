@@ -5,21 +5,22 @@ key: docu_user
 lang: en
 ---
 
+# Help / Guide / Documentation for RDMO Users
+
+There are three different roles within RDMO: [User]({{ site.baseurl }}/Docu_User), [Manager]({{ site.baseurl }}/Docu_Manager) and [Admins]({{ site .baseurl }}/Docu_Admins).<br/>
+As a <b>user</b> you have the option:
+
+* Create DMPs and work on them collaboratively
+* customize the output using the views
+* central administration of information for research data management
+* continuous updateability and versioning of information in the course of a project
+* Freeze the status of information for projects at certain points in time using snapshots
+* Overview of different projects
+
+## First Aid
 
 
-Project
-=======
-
-**Research Data Management Organiser (RDMO) supports the systematic planning, organisation and implementation of research data management throughout the course of a project. An additional feature is the output of a data management plan in the form of a text documents, according to funder requirements.**
-
-Data management plans are one of the crucial components of research data management, but their potential is rarely exhausted. Often they are only a part of the project proposal, never again updated. RDMO is a companion during the whole research process offering multiple functionalities to track the data.
-Among the core functionalities of RDMO are:
-
-* central instance for all informations pertaining to the reserach data managment of a project
-* adaptable templates for questionnaire and reporting
-* easy customisation of look and feel, versioning of information
-* built in multilingual support
-* templates for various purposes, e.g. funder required DMP
+### History
 
 In the first project phase these features were implemented to use RDMO for data management. RDMO is now in its second project phase.
 The project now targets:
@@ -35,7 +36,7 @@ The project now targets:
 * dissemination and training
 
 The RDMO collaborates with multiple institutions, discipline specific and other scientific organisations, and also international
-initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-team@listserv.dfn.de].
+initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-contact@listserv.dfn.de].
 
 The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
 
@@ -48,8 +49,4 @@ RDMO's DFG funding will come to an end in autumn 2020. In the meantime RDMO has 
 
 In order to keep the Open Source Software usable and evolving, the RDMO working group (AG) is currently being founded by signing a [Memorandum of Understanding](/docs/Memorandum-of-Understanding-RDMO.pdf) .
 The last RDMO community meeting in Potsdam in February paved the way for this by creating a future [organisational structure](/groups) with various committees. This structure is intended to support future development and elaborated in detail inside the MoU.
-
-
-<video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 100%;">
-<source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

@@ -36,45 +36,40 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 ## Reguläre RDMO-Videokonferenz-Termine
 (Stand: April 2023)
 
-
 <table style="width: 100%; border:1px solid black;">
 	<tr>
 		<th style="width: 20%;"/>
-		<th style="width: 45%; padding-left: 5px;">Fokus</th>
-		<th style="width: 20%; padding-left: 5px;">Termin</th>
-		<th style="width: 25%; padding-left: 5px;">Ansprechperson</th>
+		<th style="width: 45%; padding: 10px;">Fokus</th>
+		<th style="width: 20%; padding: 10px;">Termin</th>
+		<th style="width: 25%; padding: 10px;">Ansprechperson</th>
 	</tr>
 	{% for group in site.data.groups.current %}
 	<tr>
-		<td style="font-weight: bold; padding-left:5px;">{{ group.name_de | markdownify }}</td>
-		<td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_de | markdownify }}</td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_de1 | markdownify }}</li>
 				<li>{{ group.content_de2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_de | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
 	<tr style="border:1px solid grey; border-bottom-right-radius: 15px; color:grey;">
-		<td style="font-weight: bold;">{{ group.name_de | markdownify }}</td>
-		<td>
+		<td style="font-weight: bold; padding: 10px;">{{ group.name_de | markdownify }}</td>
+		<td style="padding: 10px;">
 			<ul>
 				<li>{{ group.content_de1 | markdownify }}</li>
 				<li>{{ group.content_de2 | markdownify }}</li>
 			</ul>
 		</td>
-		<td>{{ group.date_de | markdownify }}</td>
-		<td><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
+		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>
-
-
-
-
 
 <br/>
 

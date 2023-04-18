@@ -96,7 +96,6 @@ At the same time, this network of cooperation enables RDMO to take into account 
 <link rel="stylesheet" type="text/css" href="../css/table.css">
 
 <div id="map" class="map"></div>
-
 <div>
     <div class="no_entries"></div>
     <input class="tabfilter" type="search" data-column="all" placeholder="Filter">

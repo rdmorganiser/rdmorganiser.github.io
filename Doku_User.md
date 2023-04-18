@@ -15,7 +15,7 @@ Als <b>Nutzende:r</b> haben Sie die Möglichkeit:
 * zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
 * Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
-* Übersichtsansichten über verschiedene Projekte
+* Übersicht über verschiedene Projekte
 
 ## Erste Hilfestellungen
 
@@ -39,7 +39,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 ## Videos
 
 <br>
-*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)
+<p style="margin-left:25%;">*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
@@ -54,7 +54,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
-### Historie:
+### Historie
 
 Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisation des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in der zweiten Phase.
 Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
@@ -69,7 +69,7 @@ Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
 * Nachhaltigkeit und Community-Building
 * Dissemination und Training
 
-Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
+Das RDMO-Projekt arbeitet mit einer Vielzahl von Fachdisziplinen, Institutionen und Wissenschaftsorganisationen und auch internationalen Initiativen zusammen, um die Anwendbarkeit und Nachnutzbarkeit der RDMO-Software sicherzustellen. Wenn Sie Fragen haben oder uns anderweitig kontaktieren möchten, schicken Sie bitte eine Mail an uns unter <a href="mailto:rdmo-contact@listserv.dfn.de">rdmo-contact@listserv.dfn.de</a>.
 
 Das RDMO-Projekt wird durch die DFG (Deutsche Forschungsgemeinschaft) gefördert.
 
