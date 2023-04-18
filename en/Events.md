@@ -5,14 +5,155 @@ key: old_news
 lang: en
 ---
 
-# Events
+# Events, lectures and announcements
 
-Talks
-=====
+So that we can stay up to date, please send us information about new events and publications to <a href="mailto:mail@jochenklar.de">Jochen Klar</a> or <a href="mailto:schoenau@ ub.rwth-aachen.de">Sabine Schönau</a> or make a pull request.
 
-RDMO has been presented at several occasions:
+## Previous workshops and meetings:
 
-<ul class="talks">
+<button class="tablinks">2023</button>
+{% for announcement in site.data.2023.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ announcement.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ announcement.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+
+<br/>
+
+<div class="tab">
+  <button class="tablinks" onclick="openYear(event, '2022')" id="defaultOpen">2022</button>
+  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
+  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
+  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
+  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
+  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
+  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
+</div>
+
+<div id="2022" class="tabcontent">
+
+{% for x in site.data.2022.current %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+<div id="2021" class="tabcontent">
+{% for x in site.data.2021.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+<div id="2020" class="tabcontent">
+
+{% for x in site.data.2020.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+<div id="2019" class="tabcontent">
+
+{% for x in site.data.2019.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+<div id="2018" class="tabcontent">
+
+{% for x in site.data.2018.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+<div id="2017" class="tabcontent">
+
+{% for x in site.data.2017.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+ 
+<div id="2016" class="tabcontent">
+
+{% for x in site.data.2016.former %}
+<table style="width: 100%;">
+	<tr>
+		<th style="width: 20%;"/>
+		<td style="width: 80%; padding-left:10px;"/>
+	</tr>
+	<tr style="border-bottom: 1pt solid darkgrey;">
+		<th style="width: 20%;">{{ x.date | markdownify }}</th>
+		<td style="width: 90%; padding-left:10px;">{{ x.event.en | markdownify }}</td>
+	</tr>
+</table>
+{% endfor %}
+</div>
+
+## Talks
+
+RDMO has been presented at several occasions:<br/>
+<details>
+  <summary style="list-style-image: &#9658;"><u>See list of talks:</u></summary>
+  <ul class="talks">
 {% for talk in site.data.talks %}
     <li>
         {% if talk.url %}
@@ -43,6 +184,8 @@ RDMO has been presented at several occasions:
     </li>
 {% endfor %}
 </ul>
+</details>
+
 
 ## Publications
 
