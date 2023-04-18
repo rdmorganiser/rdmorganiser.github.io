@@ -15,7 +15,7 @@ Als <b>Nutzende:r</b> haben Sie die Möglichkeit:
 * zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
 * Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapshots
-* Übersichtsansichten über verschiedene Projekte
+* Übersicht über verschiedene Projekte
 
 ## Erste Hilfestellungen
 
@@ -54,7 +54,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 <source src="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
-### Historie:
+### Historie
 
 Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisation des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in der zweiten Phase.
 Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
