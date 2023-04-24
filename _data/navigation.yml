@@ -33,6 +33,11 @@
       de: für Admins
       en: for admins
 
+- key: rdmo-begin
+  label:
+    de: Historie
+    en: History
+    
 - key: more
   label:
      de: Weiteres
