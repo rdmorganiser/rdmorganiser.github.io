@@ -5,54 +5,33 @@ key: docu_admin
 lang: en
 ---
 
-Software
-========
+# Help / Guide / Documentation for RDMO Manager
 
-RDMO is implemented as a web application. It is available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative collecting, editing and maintenance of all necessary information for a sustainable data management. This is done along the notion of *projects*, which will be defined by the users for their particular context.
-
-The main functionality of RDMO includes the following features:
-
-Input
------
-
-The input of all information about a project is collected via a structured interview using an interactive web interface. This includes the following functions:
-
-* Collaborative work of the different Stakeholders
-* Skipping of redundant questions based on the given answers
-* Display of progress of the given input
-* Different widgets (rulers, check boxes, drop-down lists)
-* Use of a controlled vocabulary for answering choices
-* Upload of documents (e.g. meta data documentation, codebooks, etc.)
-* Freezing the state of all project information at times using snapshots
-
-Output
-------
-
-The information can be retrieved in several ways:
-
-* Aggregation of the given information into textual views (e.g. structured for data management plans to be used in proposals for Horizon 2020, DFG)
-* Time line of all tasks to be done regarding data management
-* Interfaces to external services or data models
-
-Setup and operation
--------------------
-
-We pay special attention to making RDMO easily installable and customisable, so that institutions like research institutes, libraries and universities can adapt it for their work. This includes:
+There are three different roles within RDMO: [User]({{ site.baseurl }}/Docu_User), [Manager]({{ site.baseurl }}/Docu_Manager) and [Admins]({{ site .baseurl }}/Docu_Admins).<br/>
+As a <b>admin</b> you have the option:
 
 * Complete customisation of the user interface
     * Corporate design
     * Layout
-* Complete customisation of the content
-    * Questions and answering options
-    * Help texts, including links to external sources
-    * Templates for textual data management plans
-    * Tasks to be done
 * Integration into the local infrastructure
     * Authorisation and authentication
     * APIs
 
-Development
------------
+## First Aid
+
+* [Quickstart Guide (pdf document)]({{ start.baseurl }}/docs/SchnellstartanleitungAdmins_v2020.pdf)
+* [Installation](http://rdmo.readthedocs.io/en/latest/installation/index.html) - describes how RDMO can be installed on Windows, Linux and macOS
+* [Deployment](http://rdmo.readthedocs.io/en/latest/deployment/index.html) - RDMO can be used in a testing setting or in production running on a webserver
+* [Configuration](http://rdmo.readthedocs.io/en/latest/configuration/index.html) - RDMO can be adapted individually
+* [Administration](http://rdmo.readthedocs.io/en/latest/administration/index.html) - manage users, groups and access permissions
+* [Upgrade](http://rdmo.readthedocs.io/en/latest/upgrade/index.html) - upgrade the RDMO app
+
+
+<b>Software</b>
+RDMO is implemented as a web application. It is available as open-source software on [github.com](https://github.com/rdmorganiser). Our main use case is the collaborative collecting, editing and maintenance of all necessary information for a sustainable data management. This is done along the notion of *projects*, which will be defined by the users for their particular context.
+The main functionality of RDMO includes the following features:
+
+## Development
 
 For the further development of RDMO, we use a roadmap process in which the existing issues on GitHub are prioritised by the community. In 2022, a large number of issues were prioritised into `critical`, `high`, `medium` and `low` in two community meetings. The best way to view the individual lists is on GitHub, under these links:
 
@@ -70,3 +49,5 @@ New feature requests, bug reports or security issues are best suggested or repor
 <https://github.com/rdmorganiser/rdmo/issues/new/choose>
 
 Of course, we also accept requests via all other communication channels.
+
+
