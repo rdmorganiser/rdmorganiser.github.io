@@ -8,8 +8,9 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Manager:innen
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
-Als <b>Manager:in</b> haben Sie die Möglichkeit:
+Als <b>Manager:in</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 
+* Erstellung und Anpassung von Content (Katalogen, Attributen, Optionensätzen, Bedingungen, Ansichten, Aufgaben)
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
 * Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u. ä.)
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.) für verschiedene Katalogdarstellungen
