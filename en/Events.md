@@ -47,7 +47,7 @@ So that we can stay up to date, please send us information about new events and 
 ## Previous workshops and meetings:
 
 <button class="tablinks">2023</button>
-{% for announcement in site.data.2023.former %}
+{% for announcement in site.data.y2023.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -74,7 +74,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2022" class="tabcontent">
 
-{% for x in site.data.2022.current %}
+{% for x in site.data.y2022.current %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -90,7 +90,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2021" class="tabcontent">
 
-{% for x in site.data.2021.former %}
+{% for x in site.data.y2021.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -106,7 +106,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2020" class="tabcontent">
 
-{% for x in site.data.2020.former %}
+{% for x in site.data.y2020.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -122,7 +122,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2019" class="tabcontent">
 
-{% for x in site.data.2019.former %}
+{% for x in site.data.y2019.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -138,7 +138,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2018" class="tabcontent">
 
-{% for x in site.data.2018.former %}
+{% for x in site.data.y2018.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -154,7 +154,7 @@ So that we can stay up to date, please send us information about new events and 
 
 <div id="2017" class="tabcontent">
 
-{% for x in site.data.2017.former %}
+{% for x in site.data.y2017.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -167,10 +167,10 @@ So that we can stay up to date, please send us information about new events and 
 </table>
 {% endfor %}
 </div>
- 
+
 <div id="2016" class="tabcontent">
 
-{% for x in site.data.2016.former %}
+{% for x in site.data.y2016.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
