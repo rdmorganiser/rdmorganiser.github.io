@@ -46,7 +46,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 ## Bisherige Workshops und Treffen
 
-{% for announcement in site.data.2023.former %}
+{% for announcement in site.data.y2023.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -73,7 +73,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2022" class="tabcontent">
 
-{% for x in site.data.2022.current %}
+{% for x in site.data.y2022.current %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -88,7 +88,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 </div>
 
 <div id="2021" class="tabcontent">
-{% for x in site.data.2021.former %}
+{% for x in site.data.y2021.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -104,7 +104,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2020" class="tabcontent">
 
-{% for x in site.data.2020.former %}
+{% for x in site.data.y2020.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -120,7 +120,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2019" class="tabcontent">
 
-{% for x in site.data.2019.former %}
+{% for x in site.data.y2019.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -136,7 +136,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2018" class="tabcontent">
 
-{% for x in site.data.2018.former %}
+{% for x in site.data.y2018.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -152,7 +152,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 <div id="2017" class="tabcontent">
 
-{% for x in site.data.2017.former %}
+{% for x in site.data.y2017.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -165,10 +165,10 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 </table>
 {% endfor %}
 </div>
- 
+
 <div id="2016" class="tabcontent">
 
-{% for x in site.data.2016.former %}
+{% for x in site.data.y2016.former %}
 <table style="width: 100%;">
 	<tr>
 		<th style="width: 20%;"/>
@@ -232,16 +232,16 @@ Kröger, J., & Wedlich-Zachodin, K. (2020). [Das Beteiligungsmodell von forschun
 
 An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projekt  in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
 
-* **Datenmanagementpläne. Eine Bestandsübersicht.**  
-*Marcus Heinrich, Martin Heger*  
+* **Datenmanagementpläne. Eine Bestandsübersicht.**
+*Marcus Heinrich, Martin Heger*
 [Link zur Hausarbeit]({{ site.baseurl }}/docs/Heinrich_Heger_DMP_eine_Bestandsuebersicht.pdf)
 
-* **Publikation von Forschungsdaten.**  
-*Christoph Steinhof*  
+* **Publikation von Forschungsdaten.**
+*Christoph Steinhof*
 [Link zur Hausarbeit]({{ site.baseurl }}/docs/Projektarbeit_Steinhof_Publikation_von_Forschungsdaten.pdf)
 
-* **Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid.**  
-*Michaela Meyer*  
+* **Sozialwissenschaftliche Fragestellungen zum Forschungsdatenmanagement am Beispiel von WissGrid.**
+*Michaela Meyer*
 [Link zur Hausarbeit]({{ site.baseurl }}/docs/Projektarbeit_Meyer_Sozialwissenschaftliche_Fragestellungen_zum_FDM.pdf)
 
 * **Datenmodellierung für Forschungsdatenmanagementpläne**
