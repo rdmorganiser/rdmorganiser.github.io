@@ -22,7 +22,7 @@
   color:   blue
 
 - name:    IZUS / Universitätsbibliothek Stuttgart
-  url:     http://fdm.ub.uni-stuttgart.de
+  # url:     http://fdm.ub.uni-stuttgart.de
   contact: Florian Fritze
   lat:     48.78231
   lon:     9.1686
