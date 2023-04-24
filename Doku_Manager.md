@@ -27,14 +27,11 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 ## Videos
 
 <br>
-<p style="margin-left:25%;">*Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/videos/erstellen_22-01-2019.mp4">Video-Download</a>)</p>
+<p style="margin-left:25%;">Screencast: Wie erstelle ich einen Fragenkatalog? (<a href="{{ site.baseurl }}/img/promo/videos/erstellen_22-01-2019.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/erstellen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
 
 <br>
-<p style="margin-left:25%;">*Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
+<p style="margin-left:25%;">Screencast: Optionen & Bedingungen (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/optionen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/optionen.mp4">Your browser does not support the video tag.</video>
-
-
-

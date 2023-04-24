@@ -39,7 +39,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 ## Videos
 
 <br>
-<p style="margin-left:25%;">*Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)</p>
+<p style="margin-left:25%;">Was ist RDMO?* (<a href="{{ site.baseurl }}/img/promo/videos/was-ist-rdmo_v4.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/was-ist-rdmo_v4.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
