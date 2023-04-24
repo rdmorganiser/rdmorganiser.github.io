@@ -8,7 +8,7 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Administrierende
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
-Als <b>Administrator:in</b> haben Sie die Möglichkeit:
+Als <b>Administrator:in</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 
 * Vollständige Anpassbarkeit der Oberfläche
     * Corporate Design
@@ -31,7 +31,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 
 ## Weiterentwicklung
 
-Für die Weiterentwicklung von RDMO nutzen wir einen Roadmap-Prozess, in dem die bestehenden Issues auf GitHub durch die Community priorisiert werden. Im Jahr 2022 wurden so in zwei Community-Treffen ein Großteil der Issues in die Priorotäten `critical`, `high`, `medium`, und `low` eingruppiert. Die einzelnen Listen können am besten auf GitHub eingesehen werden, und zwar unter diesen Links:
+Für die Weiterentwicklung von RDMO nutzen wir einen Roadmap-Prozess, in dem die bestehenden Issues auf GitHub durch die Community priorisiert werden. Im Jahr 2022 wurde im Rahmen zweier Community-Treffen ein Großteil der Issues nach der Prioritätsstufe `critical`, `high`, `medium`, und `low` eingruppiert. Die einzelnen Listen können am besten auf GitHub eingesehen werden, und zwar unter diesen Links:
 
 * [Critical](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+critical%22)
 * [High](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+high%22)

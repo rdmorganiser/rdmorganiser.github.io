@@ -44,9 +44,8 @@ lang: de
 
 Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informationen zu neuen Veranstaltungen und Publikationen an <a href="mailto:mail@jochenklar.de">Jochen Klar</a> oder <a href="mailto:schoenau@ub.rwth-aachen.de">Sabine Schönau</a> oder machen Sie einen Pull Request.
 
-## Bisherige Workshops und Treffen:
+## Bisherige Workshops und Treffen
 
-<button class="tablinks">2023</button>
 {% for announcement in site.data.2023.former %}
 <table style="width: 100%;">
 	<tr>
@@ -183,9 +182,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 {% endfor %}
 </div>
 
-
-
-## Vorträge:
+## Vorträge
 
 RDMO wurde bereits bei zahlreichen Anlässen vorgestellt und diskutiert:
 
@@ -224,14 +221,14 @@ RDMO wurde bereits bei zahlreichen Anlässen vorgestellt und diskutiert:
   </ul>
 </details>
 
-## Publikationen:
+## Publikationen
 
 Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
 Kröger, J., & Wedlich-Zachodin, K. (2020). [Das Beteiligungsmodell von forschungsdaten.Info: Ein Kleines ABC Der Nachhaltigkeit“](/docs/das_beteiligungsmodel.pdf), Bausteine Forschungsdatenmanagement, Nr. 1 (April), 86-95. doi: [https://doi.org/10.17192/bfdm.2020.1.8160](https://doi.org/10.17192/bfdm.2020.1.8160)
 
 
-## Lehre:
+## Lehre
 
 An der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) wird das Projekt  in einer einsemestrigen Lehrveranstaltung im Rahmen des Masterstudiengangs Informationswissenschaften thematisiert. So wurde im Wintersemester 2015/16 ein Projektkurs durchgeführt, in dem sich Studierende, einzeln oder in Gruppen, jeweils mit ausgewählten Aspekten der Thematik beschäftigten und eine Projektarbeit verfassten. In diesem Zusammenhang sind folgende Semesterarbeiten entstanden:
 

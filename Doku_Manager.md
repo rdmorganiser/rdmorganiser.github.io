@@ -8,8 +8,9 @@ lang: de
 # Hilfe / Anleitung / Dokumentation für RDMO-Manager:innen
 
 Innerhalb von RDMO gibt es drei verschiedene Rollen: [Nutzer:innen]({{ site.baseurl }}/Doku_User), [Manager:innen]({{ site.baseurl }}/Doku_Manager) und [Admins]({{ site.baseurl }}/Doku_Admins).<br/>
-Als <b>Manager:in</b> haben Sie die Möglichkeit:
+Als <b>Manager:in</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 
+* Erstellung und Anpassung von Content (Katalogen, Attributen, Optionensätzen, Bedingungen, Ansichten, Aufgaben)
 * Unterstützung für Multilingualität (deutsche und englische Bedienoberfläche sind integriert)
 * Upload von Dokumenten (z. B. Metadatendokumentation, Codebooks u. ä.)
 * Verschiedene Widgets (Schieberegler, Auswahlboxen, Dropdown-Menüs etc.) für verschiedene Katalogdarstellungen
@@ -27,14 +28,11 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 ## Videos
 
 <br>
-<p style="margin-left:25%;">*Screencast: Wie erstelle ich einen Fragenkatalog?* (<a href="{{ site.baseurl }}/img/promo/videos/erstellen_22-01-2019.mp4">Video-Download</a>)</p>
+<p style="margin-left:25%;">Screencast: Wie erstelle ich einen Fragenkatalog? (<a href="{{ site.baseurl }}/img/promo/videos/erstellen_22-01-2019.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/erstellen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/erstellen_22-01-2019.mp4">Your browser does not support the video tag.</video>
 
 <br>
-<p style="margin-left:25%;">*Screencast: Optionen & Bedingungen* (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
+<p style="margin-left:25%;">Screencast: Optionen & Bedingungen (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/optionen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/optionen.mp4">Your browser does not support the video tag.</video>
-
-
-
