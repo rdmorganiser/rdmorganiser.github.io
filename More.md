@@ -76,7 +76,7 @@ Diese Projekte müssen bezogen auf ihr Vorhaben gesonderte Maßnahmen und Verfah
 </details>
 
 
-### Historie
+## Historie
 
 Der RDMO ist in der ersten Projektphase mit diesen grundlegenden Features ausgestattet worden, die für die Organisation des Datenmanagements benötigt werden. Derzeit befindet sich das Projekt in der zweiten Phase.
 Die Entwicklungsziele für die zweite Projektphase sind insbesondere:
