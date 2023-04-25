@@ -55,13 +55,12 @@ So that we can stay up to date, please send us information about new events and 
     </tr>
     <tr style="border-bottom: 1pt solid darkgrey;">
       <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
-      <td style="width: 90%; padding-left:10px;">{{ announcement.event.en | markdownify }}</td>
+      <td style="width: 90%; padding-left:10px;">{{ announcement.event[page.lang] | markdownify }}</td>
     </tr>
   </table>
 {% endfor %}
 
 <br/>
-
 <div class="tab">
   {% for year in site.data.events.conf.former_years %}
   {% assign y = year | replace:'y','' %}
@@ -83,7 +82,7 @@ So that we can stay up to date, please send us information about new events and 
         </tr>
         <tr style="border-bottom: 1pt solid darkgrey;">
           <th style="width: 20%;">{{ event.date | markdownify }}</th>
-          <td style="width: 90%; padding-left:10px;">{{ event.event.en | markdownify }}</td>
+          <td style="width: 90%; padding-left:10px;">{{ event.event[page.lang] | markdownify }}</td>
         </tr>
       </table>
     {% endfor %}

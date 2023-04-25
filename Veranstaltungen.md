@@ -46,141 +46,49 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 ## Bisherige Workshops und Treffen
 
-{% for announcement in site.data.y2023.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ announcement.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ announcement.event.de | markdownify }}</td>
-	</tr>
-</table>
+{% for announcement in site.data.events[site.data.events.conf.current_year] %}
+  <table style="width: 100%;">
+    <tr>
+      <th style="width: 20%;"/>
+      <td style="width: 80%; padding-left:10px;"/>
+    </tr>
+    <tr style="border-bottom: 1pt solid darkgrey;">
+      <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
+      <td style="width: 90%; padding-left:10px;">{{ announcement.event[page.lang] | markdownify }}</td>
+    </tr>
+  </table>
 {% endfor %}
 
 <br/>
-
 <div class="tab">
-  <button class="tablinks" onclick="openYear(event, '2022')" id="defaultOpen">2022</button>
-  <button class="tablinks" onclick="openYear(event, '2021')">2021</button>
-  <button class="tablinks" onclick="openYear(event, '2020')">2020</button>
-  <button class="tablinks" onclick="openYear(event, '2019')">2019</button>
-  <button class="tablinks" onclick="openYear(event, '2018')">2018</button>
-  <button class="tablinks" onclick="openYear(event, '2017')">2017</button>
-  <button class="tablinks" onclick="openYear(event, '2016')">2016</button>
+  {% for year in site.data.events.conf.former_years %}
+  {% assign y = year | replace:'y','' %}
+  {% assign id = "" %}
+  {% if year == site.data.events.conf.former_years[0] %}
+    {% assign id = "defaultOpen" %}
+  {% endif %}
+    <button class="tablinks" onclick="openYear(event, '{{year}}')" id="{{id}}">{{y}}</button>
+  {% endfor %}
 </div>
 
-<div id="2022" class="tabcontent">
+{% for year in site.data.events.conf.former_years %}
+  <div id="{{year}}" class="tabcontent">
+    {% for event in site.data.events[year] %}
+      <table style="width: 100%;">
+        <tr>
+          <th style="width: 20%;"/>
+          <td style="width: 80%; padding-left:10px;"/>
+        </tr>
+        <tr style="border-bottom: 1pt solid darkgrey;">
+          <th style="width: 20%;">{{ event.date | markdownify }}</th>
+          <td style="width: 90%; padding-left:10px;">{{ event.event[page.lang] | markdownify }}</td>
+        </tr>
+      </table>
+    {% endfor %}
 
-{% for x in site.data.y2022.current %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
+  </div>
 {% endfor %}
-</div>
 
-<div id="2021" class="tabcontent">
-{% for x in site.data.y2021.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
-
-<div id="2020" class="tabcontent">
-
-{% for x in site.data.y2020.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
-
-<div id="2019" class="tabcontent">
-
-{% for x in site.data.y2019.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
-
-<div id="2018" class="tabcontent">
-
-{% for x in site.data.y2018.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
-
-<div id="2017" class="tabcontent">
-
-{% for x in site.data.y2017.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
-
-<div id="2016" class="tabcontent">
-
-{% for x in site.data.y2016.former %}
-<table style="width: 100%;">
-	<tr>
-		<th style="width: 20%;"/>
-		<td style="width: 80%; padding-left:10px;"/>
-	</tr>
-	<tr style="border-bottom: 1pt solid darkgrey;">
-		<th style="width: 20%;">{{ x.date | markdownify }}</th>
-		<td style="width: 90%; padding-left:10px;">{{ x.event.de | markdownify }}</td>
-	</tr>
-</table>
-{% endfor %}
-</div>
 
 ## Vorträge
 
