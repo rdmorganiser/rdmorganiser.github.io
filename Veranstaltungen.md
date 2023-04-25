@@ -46,49 +46,7 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 ## Bisherige Workshops und Treffen
 
-{% for announcement in site.data.events[site.data.events.conf.current_year] %}
-  <table style="width: 100%;">
-    <tr>
-      <th style="width: 20%;"/>
-      <td style="width: 80%; padding-left:10px;"/>
-    </tr>
-    <tr style="border-bottom: 1pt solid darkgrey;">
-      <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
-      <td style="width: 90%; padding-left:10px;">{{ announcement.event[page.lang] | markdownify }}</td>
-    </tr>
-  </table>
-{% endfor %}
-
-<br/>
-<div class="tab">
-  {% for year in site.data.events.conf.former_years %}
-  {% assign y = year | replace:'y','' %}
-  {% assign id = "" %}
-  {% if year == site.data.events.conf.former_years[0] %}
-    {% assign id = "defaultOpen" %}
-  {% endif %}
-    <button class="tablinks" onclick="openYear(event, '{{year}}')" id="{{id}}">{{y}}</button>
-  {% endfor %}
-</div>
-
-{% for year in site.data.events.conf.former_years %}
-  <div id="{{year}}" class="tabcontent">
-    {% for event in site.data.events[year] %}
-      <table style="width: 100%;">
-        <tr>
-          <th style="width: 20%;"/>
-          <td style="width: 80%; padding-left:10px;"/>
-        </tr>
-        <tr style="border-bottom: 1pt solid darkgrey;">
-          <th style="width: 20%;">{{ event.date | markdownify }}</th>
-          <td style="width: 90%; padding-left:10px;">{{ event.event[page.lang] | markdownify }}</td>
-        </tr>
-      </table>
-    {% endfor %}
-
-  </div>
-{% endfor %}
-
+{% include events.html %}
 
 ## Vorträge
 
