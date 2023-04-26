@@ -25,7 +25,8 @@ We provide promotion material which can be freely used, hence under CC0 licence.
 
 We provide a German draft of a process description for our RDMO demo instance rdmo.aip.de:
 * [PDF]({{ site.baseurl }}/docs/DS_AIP_DE.pdf)
-* 
+
+
 ## Data protection - Terms of use
 
 Template for your **terms of use**:

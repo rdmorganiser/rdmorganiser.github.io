@@ -85,7 +85,7 @@ Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierf
 
 ### Ehemaliges DFG Projekt Team
 
-{% for member in site.data.dfg_team.current %}
+{% for member in site.data.dfg_team.former %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
