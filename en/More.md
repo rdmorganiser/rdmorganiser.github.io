@@ -11,13 +11,21 @@ lang: en
 
 We provide promotion material which can be freely used, hence under CC0 licence.
 
-* **Postcard** - PDF format: [Frontpage]({{ site.baseurl }}/img/promo/venv1.pdf) [Backpage]({{ site.baseurl }}/img/promo/renv1.pdf)
-           - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/venv1.svg) [Backpage]({{ site.baseurl }}/img/promo/renv1.svg)
+* **Postcard** 
+     - PDF format: [Frontpage]({{ site.baseurl }}/img/promo/venv1.pdf) [Backpage]({{ site.baseurl }}/img/promo/renv1.pdf)
+     - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/venv1.svg) [Backpage]({{ site.baseurl }}/img/promo/renv1.svg)
 * **Poster**: [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (software Inkscape)
 * **Presentation slides** (in German): [PDF]({{ site.baseurl }}/slides/slides.pdf)
 * **Topical slides** (in German): [PDF]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pdf) or [PowerPoint]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pptx)
 * **Flyer** (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
 
+<br/>
+
+## Data protection - Process description
+
+We provide a German draft of a process description for our RDMO demo instance rdmo.aip.de:
+* [PDF]({{ site.baseurl }}/docs/DS_AIP_DE.pdf)
+* 
 ## Data protection - Terms of use
 
 Template for your **terms of use**:
