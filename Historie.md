@@ -83,9 +83,9 @@ Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln g
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/groups) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
 <br/>
 
-<details>
-  <summary><u>Ehemaliges DFG Projekt Team</u></summary>
-  {% for member in site.data.dfg_team.current %}
+### Ehemaliges DFG Projekt Team
+
+{% for member in site.data.dfg_team.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
@@ -93,4 +93,3 @@ Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierf
     </div>
 </div>
 {% endfor %}
-</details>

@@ -88,9 +88,9 @@ The last RDMO community meeting in Potsdam in February paved the way for this by
 
 <br/>
 
-<details>
-  <summary><u>Former DFG Projekt Team</u></summary>
-  {% for member in site.data.dfg_team.current %}
+### Former DFG Projekt Team
+
+{% for member in site.data.dfg_team.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
@@ -98,4 +98,3 @@ The last RDMO community meeting in Potsdam in February paved the way for this by
     </div>
 </div>
 {% endfor %}
-</details>
