@@ -1,17 +1,17 @@
 ---
 layout: page
 
-key: phase1
+key: rdmo-begin
 lang: en
 ---
 
-First projekt phase
-===================
+# History
+
+## First projekt phase
 
 *Most of RDMO was developed during the first project phase from November 2015 - April 2017. On this page, we document the description of the project and the workpackages. Please note that the information on this page is no longer up to date.*
 
-Project description
--------------------
+### Project description
 
 **Research Data Management Organiser (RDMO) develops a tool to support the systematic planning, organisation and implementation of research data management throughout the course of a project. An additional feature will be the output of a data management plan in the form of a text document.**
 
@@ -27,15 +27,13 @@ The target group comprises all parties involved in research data management, i.e
 
 For more information about the project please visit the description of our [workpackages]({{ site.baseurl }}/en/workpackages), [outreach]({{ site.baseurl }}/en/talks) and [cooperations]({{ site.baseurl }}/en/cooperations/). For questions and other matters, please contact us by mail <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a>.
 
-Concept
--------
+### Concept
 
 The content and its logical structure and dependencies have to be cast into a user friendly flow of questions, which is the main task of WP1. It uses material already available from previous work which will be critically assessed, extended and modularised. In addition, we want to include specialized sections for disciplinary variations.
 
 The first iteration will chiefly assess the available Know-How from our own work and already published works. The general questions and the specialised sections for specific target groups need to be carefully fitted to create a robust application with a decision tree that enables a stable implementation. In following iterations the usability, robustness and extensibility will be reviewed and improved.
 
-Software
---------
+### Software
 
 This workpackage will implement the concepts worked out in "Concepts". This requires the selection of an appropriate software platform and the development of an architecture and a database model. We base this on our experiences with implementing web applications and will make use of the Open Source code of [DMPonline](https://dmponline.dcc.ac.uk) and [DMPTool](https://dmptool.org/).
 
@@ -45,8 +43,8 @@ In later stages, functionalities like export/import and continuous updating of t
 
 The source code will be available from the first stages of development on with an OpenSource license (Apache 2.0) on [github.com/rdmorganiser](https://github.com/rdmorganiser).
 
-Testing by Community and Users
-------------------------------
+
+### Testing by Community and Users
 
 Feedback and input from the community are needed with regards to assess the usability, to work out extended sets of discipline-specific questions or to gather feedback on the various features. Improving the tool is an iterative process that will help to eliminate errors and problems of the implementation.
 
@@ -55,3 +53,48 @@ WP3 will organize tests with collaborating projects and partners (from Social Sc
 While the feedback from scientists will focus on gathering specifics on content, discussion with IT infrastructure providers will address deployment into and adaptability of features to the institutional context. This input and interaction is a necessary element for delivering a useful tool that can be efficiently implemented and maintained.
 
 The final version of the tool will be presented and discussed in a public workshop. In some cases, our collaborators will offer deployment of the RDMO for various departments or groups.
+
+
+### Features
+
+In the first project phase these features were implemented to use RDMO for data management. RDMO is now in its second project phase.
+The project now targets:
+
+* extending the data model towards task definition and handling
+* role based views for stakeholders across multiple projects
+* support of repositories and identifier systems to link with data storage systems or long term archives
+* support for suggestion of suitable data repositores, and possibly cost estimations based on their terms
+* extension of interfaces to authentication and authorisation systems
+* participation in the effort of creating an international exchange format for DMP
+* improvement of technical installation, maintenance and update procedures
+* sustainibility and community building
+* dissemination and training
+
+The RDMO collaborates with multiple institutions, discipline specific and other scientific organisations, and also international
+initiatives to ensure the usefulness and sustainability of the software and its applications. For questions and contact, pleasae send a mail to [rdmo-contact@listserv.dfn.de].
+
+The RDMO project is funded by DFG (Deutsche Forschungsgemeinschaft).
+
+The description of the first project phase is available [here](/en/first-project-phase).
+
+
+**The RDMO project will be transferred to the community-based RDMO working group
+
+RDMO's DFG funding will come to an end in autumn 2020. In the meantime RDMO has become an important tool supporting dynamic research data management in multiple projects, creating research data management plans at many German research institutions.
+
+In order to keep the Open Source Software usable and evolving, the RDMO working group (AG) is currently being founded by signing a [Memorandum of Understanding](/docs/Memorandum-of-Understanding-RDMO.pdf) .
+The last RDMO community meeting in Potsdam in February paved the way for this by creating a future [organisational structure](/groups) with various committees. This structure is intended to support future development and elaborated in detail inside the MoU.
+<br/>
+
+<br/>
+
+### Former DFG Projekt Team
+
+{% for member in site.data.dfg_team.former %}
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+        {{ member.text.en | markdownify }}
+    </div>
+</div>
+{% endfor %}

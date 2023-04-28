@@ -1,4 +1,3 @@
-former:
 - event:
     de: Es steht nun fest, dass <i>Jochen Klar</i> das AIP verlassen wird, aber auch zukünftig eng mit dem RDMO-Team zusammenarbeiten wird. Weitere Screencasts sind in Arbeit.
     en: It is now clear that *Jochen Klar* will leave the AIP, but will continue to work closely with the RDMO team in the future. More screencasts are in preparation.
@@ -13,7 +12,7 @@ former:
     de: Workshop über DMPs bei dem Open Science Forum in Luxemburg
     en: Workshop about DMPs at the Open Science Forum in Luxembourg
   date: 15.11.2018
-  
+
 - event:
     de: Am 24.10. präsentierten wir ein RDMO-Poster bei der <a href="http://www.open-access-berlin.de/aktivitaeten"><b>International Open Access Week 2018</b></a> in Berlin. Außerdem haben wir unsere <b>Werbepostkarte</b> überarbeitet und es gibt jetzt auch eine <a href="{{site.baseurl}}/en/promotion/">englische Version</a>.
     en: On the 24th October we presented a RDMO poster at the **[International Open Access Week 2018](http://www.open-access-berlin.de/aktivitaeten)** in Berlin. Moreover we improved our **Postcard** and there is now a English [version](/en/promotion/).
@@ -23,7 +22,7 @@ former:
     de: Anfang September fand unser erstes, großes Community-Treffen an der Universität Duisburg-Essen mit regem Austausch statt. Hier gibt es einen <a href="http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen">Bericht</a>.<br/>Mitte September hatten wir einen lokalen Workshop an der SLUB Dresden veranstaltet, wo RDMO noch recht neu ist. Ende September fand unser zweites Projekttreffen der zweiten Projektphase in Karlsruhe statt. Für die Weiterentwicklung von RDMO haben wir einen Fahrplan für die nächsten großen Features festgelegt.<br/><b>2018</b><br/>* Finalisierung Import/Export <br/>* Ausbau der API und RDMO-Anbindung an andere Beispielsoftware <br/>* Release mit neuem Datenmodell<br/><b>2019</b><br/>* Implementierung von rollenbezogenen, projektübergreifenden Ansichten <br/>* Weiterentwicklung der kollaborativen Funktionen von RDMO durch die Möglichkeit zur Kommentierung und Versionierung von Eingaben. <br/>* Diff--Funktion von Snapshots <br/>* Echte Mehrsprachigkeit <br/>* Mandantenfähigkeit
     en: At the beginning of September the first bigger Community-Meeting took place at the University of Duisburg-Essen with a lot of discussions. Here is a German report of the meeting <a href="http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen">http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen</a><br/>Mid-September we were at the Library of Dresden, where RDMO is quite new. At the end of September we had our second meeting of the project members in Karlsruhe and agreed on the following plan of main features<br/><br/><b>2018</b><br/>* Finalisation of Import/Export<br/>* Extension of API and RDMO connection to other examplary software<br/>* Release of new data model<br/><b>2019</b><br/>* Implementation of role-based views across projects<br/>* Further development of collaborative features of RDMO for comments and versioning of input<br/>* Diff–function for snapshots<br/>* Genuine multilingualism<br/>* Client capability
   date: Sep 2018
-  
+
 - event:
     de: 2. Projekttreffen
     en: 2nd Meeting of the project members
@@ -33,7 +32,7 @@ former:
     de: Lokaler Workshop in Dresden
     en: Regional workshop in Dresden
   date: 13.09.2018
-  
+
 - event:
     de: <b>1. Community-Treffen</b>, Uni Duisburg-Essen<br/><a href="http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen">Bericht</a>
     en: 1st Community Meeting at University Duisburg-Essen [Report](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)
@@ -43,7 +42,7 @@ former:
     de: Im August haben wir die letzten Vorkehrungen für unser erstes, großes <b>Community-Treffen</b> getroffen, welches in der Universität Duisburg-Essen statt finden wird. Wir haben auch auf Anfrage einen aktuellen <a href="{{site.baseurl}}/materialien/"><b>Foliensatz</b></a> entworfen, den Sie gerne nachnutzen und für Ihre Bedarfe anpassen können. Außerdem steht im September auch unser nächstes Projekttreffen an.
     en: In August we prepaired the first and big **Community Meeting** of RDMO which will take place at the University Duisburg-Essen. We have created a **[set of topical slides](/en/promotion/)** which was asked for and which you are allowed to re-use and adapt. Moreover, the next meeting of the project members will be in September.
   date: Aug 2018
-  
+
 - event:
     de: Im Juli haben wir dank diverser Diskussionen mit der Community beschlossen eine eingeschränkte <b>Mandantenfähigkeit</b> in RDMO umzusetzen, allerdings voraussichtlich erst im nächsten Jahr. Wir arbeiten intensiv an dem Refractoring des <b>Datenmodels</b> und werden bald davon berichten. Außerdem gibt es jetzt zwei <a href="{{site.baseurl}}/materialien/"><b>Videos</b></a> zu RDMO, die Sie gerne nachnutzen dürfen.
     en: In July we decided, based on discussions with the community, to evolve a restricted **multi-clientcapability** in RDMO, but expected not before next year. We were working very hard on the refractoring of our **data model** and we will report about it soon. Moreover, there are now two **[movies](/en/promotion/)** about what RDMO, which you can re-use.
@@ -53,7 +52,7 @@ former:
     de: Lokaler Workshop in Bochum und Siegen
     en: Regional workshop in Bochum & Siegen
   date: 17./18.07.2018
-  
+
 - event:
     de: Lokaler Workshop in Darmstadt
     en: Regional workshop in Darmstadt
@@ -63,7 +62,7 @@ former:
     de: Im Juni haben wir die Webseite mit Untermenüs versehen, um eine höhrere Übersichtlichkeit zu gewährleisten. So wurde beispielsweise das Thema <a href="{{site.baseurl}}/schutz"><b>Datenschutz</b></a> hinzugefügt. Es gibt jetzt eine <a href="http://www.forschungsdaten.org/index.php/Import_Export"><b>Kurzanleitung</b> zu den Import- und Exportfunktionen</a>. Am 13.06. haben wir einen <a href="{{site.baseurl}}/vorträge/"><i>Vortrag</i></a> über RMDO beim 107. Bibliothekartag gehalten.
     en: In June we added submenues to our website to achieve a clear arrangement, for example we added the topic **Data protection({{site.baseurl}}/en/protection)**. There is now a **Quick tutorial** for the import and export available at <a href="http://www.forschungsdaten.org/index.php/Import_Export">http://www.forschungsdaten.org/index.php/Import_Export</a>. At the 13th of June we gave a *[talk]({{ site.baseurl}}/en/talks)* about RDMO at the 107th Bibliothekartag.
   date: Jun 2018
-  
+
 - event:
     de: Lokaler Workshop in der UB Braunschweig
     en: Regional workshop in Braunschweig
@@ -73,7 +72,7 @@ former:
     de: Im April haben wir intensiv daran gearbeitet die <b>Import- und Exportfunktionen</b> zu verbessern, so dass wir Anfang Mai eine neue RDMO-Version herausbringen konnten. Kleinere Bug-Fixes wurden auch vorgenommen, so dass die aktuelle <b>Release-Nummer 0.10.2</b> lautet. Außerdem gibt es jetzt einen <a href="{{site.baseurl}}/materialien"><b>Flyer</b></a>, den Sie gerne abwandeln und für ihr Institut anpassen dürfen, um so für ihre RDMO-Instanz Werbung zu machen. Das Thema Datenschutzes (Stichwort DSGVO) hat uns veranlasst eine Vorschaltseite für die Nutzungsbedingungen einzubauen und ist seit der <b>Version 0.10.3.</b> verfügbar.
     en: In April we were focused on improving the **import and export** and we released a new RDMO version at the beginning of May. Including some mino bug fixes the current **version number is 0.10.2**. Moreover we provide a **[flyer]({{site.baseurl}}/en/promotion)** which you can reuse and adapt for your institute to advertise for your RDMO instance. The current issue about data security let us introduce a splash screen for the terms of use available since **version 0.10.3**.
   date: Apr & Mai 2018
-  
+
 - event:
     de: Lokaler Workshop an der RWTH Aachen
     en: Regional workshop at RWTH Aachen University
@@ -88,13 +87,13 @@ former:
     de: Die aktuellen und neuen Mitglieder des RDMO-Projektteams kamen am 8. und 9. Februar 2018  zum <b>Kickoff-Meeting</b> am Leibniz-Institut für Astrophysik Potsdam (AIP) zusammen. Nach einer kurzen Vorstellungrunde machten wir uns ans Werk und einigten uns auf einen <b>Arbeitsplan</b> für die nächsten 6 Monate <br/>* RDMO wird auch in Zukunft bei <b>Workshops und Konferenzen</b> Präsenz zeigen. Als nächstes werden wir bei der <a href="https://www.open-science-conference.eu/">Open Science Conference</a> und dem <a href="https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany">RDA Plenary Meeting</a> im März vor Ort sein. Beide Konferenzen finden in Berlin statt. <br/>* Außerdem identifizierten wir dringend benötigte <b>Features</b> und priorisierten ihre Implementation. Wir planen den oft gewünschten verbesserten Import/Export im nächsten Monat zu implementieren. Danach werden wir uns um ein verbessertes Management-Interface kümmern. Dies wird auch die Möglichkeit umfassen, Fragenkataloge, Abschnitte usw. kopieren und verschieben zu können. Es folgen die Anbindung an externe Software über Plugins und die Integration von APIs, z.B. re3data.org. <br/>* Wir werden weiter an <b>Tutorials und Schulungs- sowie Outreachmaterialien</b> arbeiten. <br/>* Die meisten Institutionen, die den Einsatz von RDMO planen, müssen eine <b>Verfahrensbeschreibung für den Datenschutz</b> und <b>Nutzungsbedingungen</b> (unter Einschluss von Datenschutzgesichtspunkten) formulieren. Wir planen dies durch das Bereitstellen von Vorlagen auf unserer Weibseite zu unterstützen.
     en: On 8th and 9th of February, the current and new members of the RDMO project team came together for the **kickoff-meeting of the second phase of the RDMO project** at the Leibniz-Institute for Astrophysics Potsdam (AIP). After a short introduction, we got down to business and assmbled our **work plan** for the next 6 months<br/>* RDMO will be present in future **workshops and conferences**. The next meetings are the [Open Science Conference](https://www.open-science-conference.eu/) and the [RDA Plenary Meeting](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany) in March. Both meetings are in Berlin.<br/>* We identified **upcoming features** in RDMO and prioritised their implementation. We plan to add the much wanted improved Import/Export in the next month. Next, we will improve the management interface, including the possibility to copy and move catalogs, sections, etc. Following up, we will implement the interface to 3rd party tools via plugins and the integration of external APIs, e.g. re3data.org.<br/>* We will further work on **tutorials and material for training and outreach**.<br/>* Most institutions who plan to use RDMO will need to create a **documentation regarding data privacy regulations** and **terms of use** (including probably a consent declaration of users for DPR) in the process. We plan to support this by providing corresponding templates on our webpage.
   date: Feb 2018
-  
+
 - event:
     de: 1. Projekttreffen
     en: 1st Meeting of the project members
   date: 08./09.02.2018
-  
+
 - event:
-    de: Wir begrüßen unsere neuen <b>Teammitglieder</b> Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in <a href="http://www.forschungsdaten.info">forschungsdaten.info</a> kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen. Unsere ersten beiden <b>Tutorials</b> zu <a href="http://www.forschungsdaten.org/index.php/Katalog_erstellen">"Wie erstelle ich einen Fragenktalog in RDMO?"</a> und <a href="http://www.forschungsdaten.org/index.php/Ansicht_erstellen">"Wie erstelle ich eine Ansicht in RDMO?"</a> wurden veröffentlicht. Eine Seite für <a href="http://www.forschungsdaten.org/index.php/FAQs">häufig gestellte Fragen (FAQ)</a> ist jetzt ebenfalls verfügbar. Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erstellt und kann auf <a href="http://www.github.com/rdmorganiser/rdmo-catalog">GitHub</a> herruntergeladen werden. 
+    de: Wir begrüßen unsere neuen <b>Teammitglieder</b> Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). Während Kerstin sich um die intergration von RDMO in <a href="http://www.forschungsdaten.info">forschungsdaten.info</a> kümmern wird, wird Olaf die Software weiterentwickeln und den technischen Support unterstützen. Unsere ersten beiden <b>Tutorials</b> zu <a href="http://www.forschungsdaten.org/index.php/Katalog_erstellen">"Wie erstelle ich einen Fragenktalog in RDMO?"</a> und <a href="http://www.forschungsdaten.org/index.php/Ansicht_erstellen">"Wie erstelle ich eine Ansicht in RDMO?"</a> wurden veröffentlicht. Eine Seite für <a href="http://www.forschungsdaten.org/index.php/FAQs">häufig gestellte Fragen (FAQ)</a> ist jetzt ebenfalls verfügbar. Ein neuer <b>Fragenkatalog für den Schweizer Nationalfonds (SNF)</b> wurde erstellt und kann auf <a href="http://www.github.com/rdmorganiser/rdmo-catalog">GitHub</a> herruntergeladen werden.
     en: We welcome our **new team members** Kerstin Vanessa Wedlich (KIT) and Olaf Michaelis (AIP). While Kerstin will work on the integration of RDMO into forschungsdaten.info, Olaf will delevelop the RDMO codebase further and help the technical support. We published our first two **tutorials** on ["How do I create a catalogue in RDMO?"](https://forschungsdaten.org/index.php/Katalog_erstellen) and ["How do I create a view in RDMO?"](https://forschungsdaten.org/index.php/ansicht_erstellen) (in German). A page for [Frequently Asked Questions](http://www.forschungsdaten.org/index.php/FAQs) was created as well. A **new questionaire** for the Switzer National Fonds (SNF) was created and can be obtained on [GitHub](http://www.github.com/rdmorganiser/rdmo-catalog).
   date: Jan 2018

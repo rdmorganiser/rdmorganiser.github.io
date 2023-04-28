@@ -51,6 +51,14 @@ docu_admin:
     de: Doku_Admins
     en: en/Docu_Admins
 
+rdmo-begin:
+  label:
+    de: Historie
+    en: History
+  path:
+    de: Historie
+    en: en/History
+  
 more:
   label:
     de: Weiteres

@@ -12,18 +12,6 @@ current:
   leader_mail: gerald.jagusch@tu-darmstadt.de
 
 - wg:
-  name_de: Allgemeiner JourFixe
-  name_en: general jourfixe
-  content_de1: Sprechstunde zur Klärung allgemeiner Fragen
-  content_de2: offen, bei Fragen einfach hinzukommen
-  content_en1: Consultation hours to clarify general questions
-  content_en2: open, if you have any questions
-  date_de: am 1. Donnerstag im Monat (11:00-12:00)
-  date_en: on the 1st Thursday of the month (11:00-12:00)
-  leader: Jochen Klar
-  leader_mail: mail@jochenklar.de
-
-- wg:
   name_de: Softwaregruppe
   name_en: software group
   content_de1: Austausch über vergangene und zukünftige technische Entwicklungen

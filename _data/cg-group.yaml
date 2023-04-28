@@ -50,8 +50,8 @@ current:
   image: img/team/Rohrwild.jpg
   
 - text:
-    de: "**Frank Rühle**<br/><a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten."
-    en: "**Frank Rühle**<a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments."
+    de: "**Frank Rühle** <a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten."
+    en: "**Frank Rühle** <a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments."
   image: img/team/ruehle.jpg
 
 - text:

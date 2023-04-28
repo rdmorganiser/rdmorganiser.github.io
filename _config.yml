@@ -1,17 +1,18 @@
+---
 # Site settings
 title: RDMO
 description: "Research Data Management Organiser"
-baseurl: "/rdmorganiser.github.io"
+# baseurl: "/rdmorganiser.github.io"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
 exclude:
-- "vendor"
-- "Gemfile*"
-- "Makefile*"
-- "README.md"
+  - "vendor"
+  - "Gemfile*"
+  - "Makefile*"
+  - "README.md"
 
 sass:
   style: :compressed

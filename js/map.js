@@ -55,8 +55,11 @@ $(document).ready(function() {
     legend.addTo(map);
     markers = [];
     $.each(_locations, function(key, location) {
+        if (!(location.color in icons)) {
+            console.log(location.name, ', Marker color not found: ' + location.color);
+        }
         if (typeof(location.lon) != 'undefined' && typeof(location.lat) != 'undefined') {
-            if (location.color !== 'undefined') {
+            if ((location.color !== 'undefined') && (location.color in icons)) {
                 var icon = icons[location.color];
             } else {
                 var icon = icons['gray'];
@@ -70,4 +73,9 @@ $(document).ready(function() {
             markers.push(marker);
         }
     });
+    if (_locations.length !== markers.length) {
+        console.log('locations: ',_locations.length);
+        console.log('markers: ', markers.length);
+        console.log('Not all locations have been added to the map!');
+    }
 });

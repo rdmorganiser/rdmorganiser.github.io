@@ -307,7 +307,7 @@
   mail:    mailto:fdm@hs-gm.de
   lat:     49.98440
   lon:     7.96135
-  color:   white
+  color:   blue
 
 - name:    Johannes Gutenberg Universität Mainz (JGU)
   url:     https://rdmo.zdv.uni-mainz.de
@@ -386,9 +386,9 @@
 - name:    Stiftung Preußischer Kulturbesitz
   url:     https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
-  lat: 52.5066695
-  lon: 13.352966
-  color: gray
+  lat:     52.5066695
+  lon:     13.352966
+  color:   gray
   discipline: Geistes- und Sozialwissenschaften
 
 - name:    Deutsches Klimarechenzentrum (DKRZ)
