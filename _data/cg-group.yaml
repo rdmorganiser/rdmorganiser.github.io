@@ -35,8 +35,8 @@ current:
   image: img/team/KPvG.jpg
 
 - text:
-    de: "**Thomas Richter** ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
-    en: "**Thomas Richter** is Research Data Officer and Technical Data Consultant at [Fulda University](https://www.hs-fulda.de/)."
+    de: "**Thomas Richter**<a href='https://orcid.org/0009-0005-7168-7959' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda](https://www.hs-fulda.de/)."
+    en: "**Thomas Richter**<a href='https://orcid.org/0009-0005-7168-7959' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is Research Data Officer and Technical Data Consultant at [Fulda University](https://www.hs-fulda.de/)."
   image: img/team/Thomas_Richter.jpg
 
 - text:
