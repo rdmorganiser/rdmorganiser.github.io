@@ -9,8 +9,8 @@ lang: en
 <hr>
 
 On these pages you will find all important information about the RDMO software, current events, the RDMO community and opportunities to get involved. <br/>
-Help for handling RDMO in the roles [Usage]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) and [Administration]({{ site.baseurl }}/ Doku_Admins) can be found under <i>Information</i>.<br/>
-The key to the further development of the software is the active participation of interested parties. A selection of [working groups]({{ site.baseurl }}/current) with different focuses is therefore available to you. Talk to the responsible person or write an <a href="mailto:rdmo-contact@listserv.dfn.de">mail</a> to the internal mailing list.<br/>
+Help for handling RDMO in the roles [Usage]({{ site.baseurl }}/en/Docu_User), [Management]({{ site.baseurl }}/en/Docu_Manager) and [Administration]({{ site.baseurl }}/en/Docu_Admins) can be found under <i>Information</i>.<br/>
+The key to the further development of the software is the active participation of interested parties. A selection of [working groups]({{ site.baseurl }}/en/news) with different focuses is therefore available to you. Talk to the responsible person or write an <a href="mailto:rdmo-contact@listserv.dfn.de">mail</a> to the internal mailing list.<br/>
 
 The free software:
 : [github.com/rdmorganiser](https://github.com/rdmorganiser)

@@ -27,7 +27,7 @@ Aufbauend auf externen und eigenen Vorarbeiten (insbesondere dem [WissGrid-Leitf
 
 ### Konzeption
 
-Erarbeitung von Inhalten, logischer Struktur und Bedienungsablauf des geplanten Werkzeugs für Forschungsdatenmanagementpläne
+Erarbeitung von Inhalten, logischer Struktur und Bedienungsablauf des geplanten Werkzeugs für Forschungsdatenmanagementpläne.
 
 ### Software
 

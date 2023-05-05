@@ -29,7 +29,7 @@ To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https:/
 
 ## RDMO working group
 
-The [RDMO working group]({{ siteurl }}/Community) was constituted with the event on October 7th, 2020. It calls on RDMO users to participate in further work on the basis of the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
+The [RDMO working group]({{ siteurl }}/en/Community) was constituted with the event on October 7th, 2020. It calls on RDMO users to participate in further work on the basis of the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
 For connection information to the workshops and regular dates, please contact the RDMO working group or the responsible person. Interested people are welcome.
 
 ## Regular RDMO video conference dates
