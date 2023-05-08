@@ -29,7 +29,7 @@ Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [
 
 ## RDMO Arbeitsgemeinschaft
 
-Die [Arbeitsgemeinschaft RDMO]({{ siteurl }}/Community) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
+Die [Arbeitsgemeinschaft RDMO]({{ site.baseurl }}/Community) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
 
