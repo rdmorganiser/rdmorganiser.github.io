@@ -498,3 +498,11 @@
   lon: 36.8966253
   color: blue
   discipline: Lebenswissenschaften
+  
+- name:    Hochschule Darmstadt
+  url:     https://rdmo.h-da.de
+  contact: Andreas Schieberle
+  mail:    mailto:forschungsdaten.bib@h-da.de
+  lat:     49.867370
+  lon:     8.638490
+  color:   blue
