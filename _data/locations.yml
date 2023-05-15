@@ -491,3 +491,19 @@
   # color:   gray
   # gelöscht auf deren Wunsch
 
+
+- name:    Hochschule Darmstadt
+  url:     https://rdmo.h-da.de
+  contact: Andreas Schieberle
+  mail:    mailto:forschungsdaten.bib@h-da.de
+  lat:     49.867370
+  lon:     8.638490
+  color:   blue
+
+- name:    Hochschule RheinMain
+  url:     http://rdmo.hs-rm.de
+  contact: Jens Möhrstedt
+  mail:    mailto:support-fdm-hlb@hs-rm.de
+  lat:     50.0804713
+  lon:     8.2139031
+  color:   blue
