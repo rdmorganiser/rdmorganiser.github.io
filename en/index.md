@@ -26,11 +26,11 @@ Register for our public mailing list:
 The Research Data Management Organiser (RDMO) supports research projects in the planning, implementation and administration of all research data management tasks.
 </div>
 
-<div style=" margin-left:28%;margin-top: -5%;">
-<img src="../img/3.Möglichkeit.PNG" style="width: 300px;"/>
+<div style="margin-left:28%;margin-top: -5%;">
+<img src="../img/3.Möglichkeit.PNG" style="width: 300px;padding:10px;hspace: 5px; vspace:5px;"/>
 </div>
 
-<div style="width: 33%; margin-left:67%;margin-top: -15%;float: right;">
+<div style="width: 33%; margin-left:67%;margin-top: -15%;">
 <h2>RDMO-Community</h2>
 Become part of the community and participate in the technical or content-related further development of RDMO in one of our working groups.<br/>
 We look forward to you!
