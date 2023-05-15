@@ -21,7 +21,7 @@ Diese Instrumente unterstützen Forschende vor allem bei der Erstellung von DMP 
 
 Neben der Dokumentation des Forschungsdaten¬manage¬ments können DMPs auch dazu dienen, die Planung des Forschungsdatenmanagements schon im Vorfeld zu optimieren, die Umsetzung im Projektverlauf – gewissermaßen als Leitfaden – zu unterstützen und dadurch die Effizienz und Qualität von wissenschaftlicher Arbeit zu erhöhen. Die Wissenschaftlerin oder der Wissenschaftler hätte in diesem Fall voraussichtlich eine höhere Motivation, zum eigenen Nutzen einen DMP zu erstellen.
 
-Aufbauend auf externen und eigenen Vorarbeiten (insbesondere dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) stellte das Projekt ein Werkzeug zur Verfügung, das die strukturierte Planung, Umsetzung und Verwaltung des For¬schungs¬datenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
+Aufbauend auf externen und eigenen Vorarbeiten (insb. dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) stellte das Projekt ein Werkzeug zur Verfügung, das die strukturierte Planung, Umsetzung und Verwaltung des For¬schungs¬datenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
 
 ## Arbeitspakete:
 
@@ -41,8 +41,6 @@ Austausch mit Zielgruppen zu Anforderungserhebung sowie Evaluierung von Prototyp
 ## Publikationen
 
 Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
-
-Kröger, J., & Wedlich-Zachodin, K. (2020). [Das Beteiligungsmodell von forschungsdaten.Info: Ein Kleines ABC Der Nachhaltigkeit“](/docs/das_beteiligungsmodel.pdf), Bausteine Forschungsdatenmanagement, Nr. 1 (April), 86-95. doi: [https://doi.org/10.17192/bfdm.2020.1.8160](https://doi.org/10.17192/bfdm.2020.1.8160)
 
 Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
 

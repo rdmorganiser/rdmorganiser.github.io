@@ -27,9 +27,9 @@ To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https:/
 </table>
 {% endfor %}
 
-## RDMO working group
+<br/>
 
-The [RDMO working group]({{ siteurl }}/en/Community) was constituted with the event on October 7th, 2020. It calls on RDMO users to participate in further work on the basis of the [Memorandum of Understanding (MoU)]({{ siteurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
+The [RDMO working group]({{ site.baseurl }}/en/Community) was constituted with the event on October 7th, 2020. It calls on RDMO users to participate in further work on the basis of the [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
 For connection information to the workshops and regular dates, please contact the RDMO working group or the responsible person. Interested people are welcome.
 
 ## Regular RDMO video conference dates
@@ -53,7 +53,7 @@ For connection information to the workshops and regular dates, please contact th
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
-		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
@@ -66,16 +66,16 @@ For connection information to the workshops and regular dates, please contact th
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
-		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>
 
 ## Ad Hoc Groups
 
-For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the SG. The general meeting decides on the continuation of the ad-hoc groups.<br/>
+For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.<br/>
 We would like to invite all institutions that are interested in the preservation and further development of RDMO to sign the MoU and send it to the following e-mail address: rdmo-steuerungsgruppe@listserv.dfn.de.
 
 ## General meeting
 
-The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the SG. The general meeting meets at least once a year as required.
+The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the Steering group. The general meeting meets at least once a year as required.

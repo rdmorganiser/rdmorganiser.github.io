@@ -26,8 +26,7 @@ Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [
   </tr>
 </table>
 {% endfor %}
-
-## RDMO Arbeitsgemeinschaft
+<br/>
 
 Die [Arbeitsgemeinschaft RDMO]({{ site.baseurl }}/Community) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen.
 Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
@@ -53,7 +52,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
-		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
@@ -66,7 +65,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
-		<td style="padding: 10px;"><a href="mailto:{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>
@@ -76,12 +75,12 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 
 ## Ad-Hoc-Gruppen
 
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der StG abgestimmt werden.
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
 Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
 
 ## Mitgliederversammlung
 
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der SG.
+Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der Steuerungsgruppe.
 Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 
