@@ -28,7 +28,7 @@ Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link:
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
 </div>
 
-<div style=" margin-left:28%;">
+<div style=" margin-left:33%;">
 <img src="./img/3.Möglichkeit.PNG" style="width: 250px;"/>
 </div>
 
