@@ -21,40 +21,20 @@ Demo instance:
 Register for our public mailing list:
 : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
-<div style="align:center;">
-<table style="width: 100%; border:none;">
-    <tr>
-		<th style="width: 33%;"/>
-		<th style="width: 33%; padding: 10px;"></th>
-		<th style="width: 33%; padding: 10px;"></th>
-	</tr>
-	<tr>
-		<td style="font-weight: bold; padding: 10px;">What is RDMO?</td>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;"></td>
-		</tr>
-		<tr>
-		<td style="padding: 10px;">The Research Data Management Organiser (RDMO) supports research projects in the planning, implementation and administration of all research data management tasks.</td>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;"></td>
-	</tr>
-	<tr>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;"><img src="../img/3.Möglichkeit.PNG" style="width: 300px;padding:10px;hspace: 5px; vspace:5px;"/></td>
-		<td style="padding: 10px;"></td>
-	</tr>
-	<tr>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;"></td>
-		<td style="font-weight: bold; padding: 10px;">RDMO-Community</td>
-	</tr>
-	<tr>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;"></td>
-		<td style="padding: 10px;">Become part of the community and participate in the technical or content-related further development of RDMO in one of our working groups.<br/>
-We look forward to you!</td>
-	</tr>
-</table>
+
+<div style="width: 35%;margin-top: 1%; padding:5px;">
+<h2>What is RDMO?</h2>
+The Research Data Management Organiser (RDMO) supports research projects in the planning, implementation and administration of all research data management tasks.
+</div>
+
+<div style="margin-left:28%;margin-top: -5%;">
+<img src="../img/3.Möglichkeit.PNG" style="width: 300px;padding:10px;hspace: 5px; vspace:5px;"/>
+</div>
+
+<div style="width: 33%; margin-left:67%;margin-top: -15%;">
+<h2>RDMO-Community</h2>
+Become part of the community and participate in the technical or content-related further development of RDMO in one of our working groups.<br/>
+We look forward to you!
 </div>
 
 
