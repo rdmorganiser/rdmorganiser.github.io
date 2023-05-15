@@ -53,7 +53,7 @@ For connection information to the workshops and regular dates, please contact th
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
-		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ group.leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
@@ -66,7 +66,7 @@ For connection information to the workshops and regular dates, please contact th
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_en | markdownify }}</td>
-		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ group.leader_mail }}">{{ group.leader | markdownify }}</a></td>
 	</tr>
 	{% endfor %}
 </table>

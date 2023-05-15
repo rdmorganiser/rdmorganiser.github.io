@@ -52,7 +52,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
-		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ group.leader_mail }}">{{ group.leader }}</a></td>
 	</tr>
 	{% endfor %}
 	{% for group in site.data.groups.former %}
@@ -65,7 +65,7 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 			</ul>
 		</td>
 		<td style="padding: 10px;">{{ group.date_de | markdownify }}</td>
-		<td style="padding: 10px;"><a href="{{ leader_mail }}">{{ group.leader | markdownify }}</a></td>
+		<td style="padding: 10px;"><a href="{{ group.leader_mail }}">{{ group.leader }}</a></td>
 	</tr>
 	{% endfor %}
 </table>
