@@ -21,7 +21,7 @@ Demo instance:
 Register for our public mailing list:
 : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
-<div style="width: 35%;margin-top: 1%;">
+<div style="width: 35%;margin-top: 1%; padding:5px;">
 <h2>What is RDMO?</h2>
 The Research Data Management Organiser (RDMO) supports research projects in the planning, implementation and administration of all research data management tasks.
 </div>
@@ -30,7 +30,7 @@ The Research Data Management Organiser (RDMO) supports research projects in the 
 <img src="../img/3.Möglichkeit.PNG" style="width: 300px;"/>
 </div>
 
-<div style="width: 33%; margin-left:67%;margin-top: -15%;">
+<div style="width: 33%; margin-left:67%;margin-top: -15%;float: right;">
 <h2>RDMO-Community</h2>
 Become part of the community and participate in the technical or content-related further development of RDMO in one of our working groups.<br/>
 We look forward to you!
