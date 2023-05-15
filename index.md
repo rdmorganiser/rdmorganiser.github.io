@@ -32,7 +32,7 @@ Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte be
 <img src="./img/3.Möglichkeit.PNG" style="width: 250px;"/>
 </div>
 
-<div style="width: 33%; margin-left:67%;margin-top: -15%;">
+<div style="width: 33%; margin-left:67%;">
 <h2>RDMO-Community</h2>
 Werden Sie Teil der Community und beteiligen Sie sich an der technischen oder inhaltlichen Weiterentwicklung von RDMO in einer unserer Arbeitsgruppen.<br/>
 Wir freuen uns auf Sie!
