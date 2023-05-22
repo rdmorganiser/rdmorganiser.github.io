@@ -5,7 +5,7 @@ key: docu_admin
 lang: en
 ---
 
-# Help / Guide / Documentation for RDMO Manager
+# Help / Guide / Documentation for RDMO Admins
 
 There are three different roles within RDMO: [User]({{ site.baseurl }}/en/Docu_User), [Manager]({{ site.baseurl }}/en/Docu_Manager) and [Admins]({{ site .baseurl }}/en/Docu_Admins).<br/>
 As a <b>admin</b> you have the option:

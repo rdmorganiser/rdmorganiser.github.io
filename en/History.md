@@ -5,13 +5,11 @@ key: rdmo-begin
 lang: en
 ---
 
-# History
-
 *RDMO was funded by the DFG in two project phases and then transferred to a community-based working group. In the first phase of the project, the Leibniz Institute for Astrophysics Potsdam (AIP) and the Department of Information Sciences of the University of Applied Sciences Potsdam were involved, in the second phase also the library of the Karlsruhe Institute of Technology (KIT). Here we document excerpts of project descriptions and results of the DFG funding phases.*
 
-## First projekt phase (11/2015-04/2017)
+# First projekt phase (11/2015-04/2017)
 
-### Project description
+## Project description
 
 **The aim of the project was to provide a tool that supports the structured planning, implementation and administration of research data management and also enables the textual output of a data management plan (DMP).**
 
@@ -41,13 +39,13 @@ Includes the technical implementation, software architecture and data model. The
 Exchange with target groups for requirements gathering and evaluation of prototypes of the RDMO tool. At the end of the first project phase, the final version of RDMO was presented to the community in a final workshop.
 
 
-## Publications
+### Publications
 
 Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
 Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
 
-## Second DFG-Phase (11/2017 – 4/2020)
+# Second DFG-Phase (11/2017 – 4/2020)
 
 In the first phase of the project, RDMO was equipped with the basic features needed to organize data management. In the second project phase, selected functionalities were expanded:
 * extending the data model towards task definition and handling
