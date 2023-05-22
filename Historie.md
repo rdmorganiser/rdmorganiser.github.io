@@ -5,11 +5,13 @@ key: rdmo-begin
 lang: de
 ---
 
+# Historie
+
 *RDMO wurde in zwei Projektphasen von der DFG gefördert und danach in eine community-getragene Arbeitsgemeinschaft überführt. In der ersten Projektphase waren das Leibniz-Institut für Astrophysik Potsdam (AIP) sowie der Fachbereich Informationswissenschaften der Fachhochschule Potsdam beteiligt, in der zweiten Phase außerdem die Bibliothek des Karlsruher Instituts für Technologie (KIT). Hier dokumentieren wir auszugsweise Projektbeschreibungen und Ergebnisse der DFG-Förderphasen.*
 
-# Erste DFG-Projektphase (11/2015-04/2017)
+## Erste DFG-Projektphase (11/2015-04/2017)
 
-## Projektbeschreibung
+### Projektbeschreibung
 
 **Ziel des Projekts war es, ein Werkzeug zur Verfügung zu stellen, das die strukturierte Planung, Umsetzung und Verwaltung des Forschungsdatenmanagements unterstützt und zusätzlich die textuelle Ausgabe eines Datenmanagementplans (DMP) ermöglicht.**
 
@@ -43,7 +45,7 @@ Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives F
 Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
 
 
-#  Zweite DFG-Projektphase (11/2017 – 4/2020)
+##  Zweite DFG-Projektphase (11/2017 – 4/2020)
 
 In der ersten Projektphase wurde RDMO mit grundlegenden Features ausgestattet, die für die Organisation des Datenmanagements benötigt werden. In der zweiten Projektphase wurden ausgewählte Funktionalitäten ausgebaut:
 
@@ -58,7 +60,7 @@ In der ersten Projektphase wurde RDMO mit grundlegenden Features ausgestattet, d
 * Dissemination und Training
 
 
-## RDMO-Arbeitsgemeinschaft
+### RDMO-Arbeitsgemeinschaft
 
 Im Herbst 2020 endete die DFG-Förderung für RDMO. RDMO wurde zu diesem Zeitpunkt bereits an vielen Forschungsinstitutionen in Deutschland als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen genutzt.
 
