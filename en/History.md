@@ -23,29 +23,31 @@ In addition to the documentation of research data management, DMPs can also be u
 
 Building on external and own preparatory work (see [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)), the project provided a tool that supports the structured planning, implementation and administration of research data management instead of just generating a text for funding applications. The tool can also be used as an accompanying instrument for the course of the project.
 
+### Work packages
 
-## Workpackages:
++ **Concept**: Development of content, logical structure and operating procedure of the planned tool for research data management plans.
 
-### Concept
++ **Software**: Includes the technical implementation, software architecture and data model. The application's source code was released under an open license during the development phase and has since been available at [github.com/rdmorganiser](https://github.com/rdmorganiser).
 
-Development of content, logical structure and operating procedure of the planned tool for research data management plans.
-
-### Software
-
-
-Includes the technical implementation, software architecture and data model. The application's source code was released under an open license during the development phase and has since been available at [github.com/rdmorganiser](https://github.com/rdmorganiser).
-
-
-### Testing by Community and Users
-
-Exchange with target groups for requirements gathering and evaluation of prototypes of the RDMO tool. At the end of the first project phase, the final version of RDMO was presented to the community in a final workshop.
-
++ **Testing by Community and Users**: Exchange with target groups for requirements gathering and evaluation of prototypes of the RDMO tool. At the end of the first project phase, the final version of RDMO was presented to the community in a final workshop.
 
 ### Publications
 
 Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
 Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
+
+<details>
+  <summary style="list-style-image: &#9658;"><h3>Former DFG Projekt Team</h3></summary>
+  {% for member in site.data.dfg_team.former %}
+    <div class="team-member">
+      <img src="{{ site.baseurl }}/{{ member.image}}" />
+      <div class="team-member-info">
+        {{ member.text.en | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</details>
 
 ## Second DFG-Phase (11/2017 – 4/2020)
 
@@ -60,29 +62,10 @@ In the first phase of the project, RDMO was equipped with the basic features nee
 * sustainibility and community building
 * dissemination and training
 
-
-### RDMO Working Group
+## RDMO Working Group (since 2020)
 
 DFG funding for RDMO ended in autumn 2020. At that time, RDMO was already being used at many research institutions in Germany as a tool for the dynamic monitoring of research data management in projects and for the creation of data management plans.
 
 In order to keep the open source software usable and to further develop it, the working group (AG) RDMO was founded with the signing of a [Memorandum of Understanding]({{ site.baseurl }}/docs/Memorandum-of-Understanding-RDMO.pdf) by institutions and individuals.
 
 The way was paved for this at the RDMO community meeting in February 2020 in Potsdam, in which a future [organisational structure]({{ site.baseurl }}/en/Community) with various committees was created. This structure is intended to support further development and is detailed in the MoU.
-<br/>
-
-<br/>
-
-
-<details>
-  <summary style="list-style-image: &#9658;"><u>Former DFG Projekt Team</u></summary>
-
-{% for member in site.data.dfg_team.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
-{% endfor %}
-
-</details>
