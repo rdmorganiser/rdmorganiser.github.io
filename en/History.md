@@ -35,7 +35,7 @@ Building on external and own preparatory work (see [WissGrid-Leitfaden zum Forsc
 
 Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
-Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
+Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017). Research data management organiser. In _Proceedings of the 14th International Conference on Digital Preservation_, 25-29. [http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf](http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf)
 
 <details>
   <summary style="list-style-image: &#9658;"><h3>Former DFG Projekt Team</h3></summary>
