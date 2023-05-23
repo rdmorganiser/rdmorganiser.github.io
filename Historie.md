@@ -39,16 +39,14 @@ Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017). Research d
 
 <details>
   <summary style="list-style-image: &#9658;"><h3>Ehemaliges DFG Projekt Team</h3></summary>
-
-{% for member in site.data.dfg_team.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
+  {% for member in site.data.dfg_team.former %}
+    <div class="team-member">
+      <img src="{{ site.baseurl }}/{{ member.image}}" />
+      <div class="team-member-info">
         {{ member.text.de | markdownify }}
+      </div>
     </div>
-</div>
-{% endfor %}
-
+  {% endfor %}
 </details>
 
 ##  Zweite DFG-Projektphase (11.2017 – 4.2020)
