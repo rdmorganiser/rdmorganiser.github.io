@@ -70,18 +70,6 @@ Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte d
 	{% endfor %}
 </table>
 
-<br/>
-
-
-## Ad-Hoc-Gruppen
-
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
-Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-## Mitgliederversammlung
-
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der Steuerungsgruppe.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 
 
