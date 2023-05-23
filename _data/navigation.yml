@@ -1,76 +1,44 @@
-- key: news
-  label:
+- label:
     de: Aktuelles
     en: News
-- label:
-    de: Über uns
-    en: About
   submenu:
-  - key: rdmo-arge
+  - key: news
     label:
-      de: RDMO Arbeitsgemeinschaft
-      en: RDMO Consortium
-  - key: groups
+      de: Aktuelles
+      en: News
+  - key: old_news
     label:
-      de: Gruppen der RDMO AG
-      en: Groups of RDMO Consortium
-  - key: software
-    label:
-      de: Software
-      en: Software
-  - key: project
-    label:
-      de: Projekt
-      en: Project
-  - key: team
-    label:
-      de: DFG Projekt Team
-      en: DFG Project Team
-
-
-- label:
-    de: Veranstaltungen
-    en: Events
-  submenu:
-  - key: workshops
-    label:
-      de: Workshops
-      en: Workshops
-  - key: talks
-    label:
-      de: Vorträge
-      en: Talks
-  - key: teaching
-    label:
-      de: Lehre
-      en: Teaching
-
-- label:
-    de: Informationen
-    en: Information
-  submenu:
-  - key: documentation
-    label:
-      de: Dokumentation
-      en: Documentation
-  - key: protection
-    label:
-      de: Datenschutz
-      en: Data protection
-  - key: publications
-    label:
-      de: Publikationen
-      en: Publications
-
-- label:
+      de: Veranstaltungen
+      en: Events
+  
+- key: rdmo-arge
+  label:
     de: Community
     en: Community
+
+- label:
+     de: Anleitungen
+     en: Informations
   submenu:
-  - key: cooperations
+  - key: docu_user
     label:
-      de: Kooperationen
-      en: Cooperation
-  - key: material
+      de: für Nutzer:innen
+      en: for users
+  - key: docu_manager
     label:
-      de: Materialien
-      en: Promotion
+      de: für Manager:innen
+      en: for manager
+  - key: docu_admin
+    label:
+      de: für Admins
+      en: for admins
+
+- key: rdmo-begin
+  label:
+    de: Historie
+    en: History
+    
+- key: more
+  label:
+     de: Weiteres
+     en: More
