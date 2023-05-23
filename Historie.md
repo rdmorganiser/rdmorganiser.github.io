@@ -9,7 +9,7 @@ lang: de
 
 *RDMO wurde in zwei Projektphasen von der DFG gefördert und danach in eine community-getragene Arbeitsgemeinschaft überführt. In der ersten Projektphase waren das Leibniz-Institut für Astrophysik Potsdam (AIP) sowie der Fachbereich Informationswissenschaften der Fachhochschule Potsdam beteiligt, in der zweiten Phase außerdem die Bibliothek des Karlsruher Instituts für Technologie (KIT). Hier dokumentieren wir auszugsweise Projektbeschreibungen und Ergebnisse der DFG-Förderphasen.*
 
-## Erste DFG-Projektphase (11/2015-04/2017)
+## Erste DFG-Projektphase (11.2015-04.2017)
 
 ### Projektbeschreibung
 
@@ -23,29 +23,33 @@ Neben der Dokumentation des Forschungsdaten¬manage¬ments können DMPs auch daz
 
 Aufbauend auf externen und eigenen Vorarbeiten (insb. dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) stellte das Projekt ein Werkzeug zur Verfügung, das die strukturierte Planung, Umsetzung und Verwaltung des For¬schungs¬datenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
 
-## Arbeitspakete:
+### Arbeitspakete
 
-### Konzeption
++ **Konzeption**: Erarbeitung von Inhalten, logischer Struktur und Bedienungsablauf des geplanten Werkzeugs für Forschungsdatenmanagementpläne.
 
-Erarbeitung von Inhalten, logischer Struktur und Bedienungsablauf des geplanten Werkzeugs für Forschungsdatenmanagementpläne.
++ **Software**: Beinhaltet die technische Umsetzung, Softwarearchitektur und Datenmodell. Der Quellcode der Anwendung wurde schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und ist seither auf [github.com/rdmorganiser](https://github.com/rdmorganiser) abrufbar.
 
-### Software
-
-Beinhaltet die technische Umsetzung, Softwarearchitektur und Datenmodell. Der Quellcode der Anwendung wurde schon in der Entwicklungsphase unter einer offenen Lizenz veröffentlicht und ist seither auf [github.com/rdmorganiser](https://github.com/rdmorganiser) abrufbar.
-
-### Community und Nutzertests
-
-Austausch mit Zielgruppen zu Anforderungserhebung sowie Evaluierung von Prototypen des RDMO-Tools. Am Ende der ersten Projektphase wurde die finale Version von RDMO in einem Abschlussworkshop der Community vorgestellt.
-
++ **Community und Nutzertests**: Austausch mit Zielgruppen zu Anforderungserhebung sowie Evaluierung von Prototypen des RDMO-Tools. Am Ende der ersten Projektphase wurde die finale Version von RDMO in einem Abschlussworkshop der Community vorgestellt.
 
 ### Publikationen
 
-Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. doi: [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
+Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
-Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017, September). Research data management organiser. In Proceedings of the 14th International Conference on Digital Preservation (pp. 25-29).
+Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017). Research data management organiser. In _Proceedings of the 14th International Conference on Digital Preservation_, 25-29. [http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf](http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf)
 
+<details>
+  <summary style="list-style-image: &#9658;"><h3>Ehemaliges DFG Projekt Team</h3></summary>
+  {% for member in site.data.dfg_team.former %}
+    <div class="team-member">
+      <img src="{{ site.baseurl }}/{{ member.image}}" />
+      <div class="team-member-info">
+        {{ member.text.de | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</details>
 
-##  Zweite DFG-Projektphase (11/2017 – 4/2020)
+##  Zweite DFG-Projektphase (11.2017 – 4.2020)
 
 In der ersten Projektphase wurde RDMO mit grundlegenden Features ausgestattet, die für die Organisation des Datenmanagements benötigt werden. In der zweiten Projektphase wurden ausgewählte Funktionalitäten ausgebaut:
 
@@ -59,26 +63,9 @@ In der ersten Projektphase wurde RDMO mit grundlegenden Features ausgestattet, d
 * Nachhaltigkeit und Community-Building
 * Dissemination und Training
 
-
-### RDMO-Arbeitsgemeinschaft
+## RDMO-Arbeitsgemeinschaft (ab 2020)
 
 Im Herbst 2020 endete die DFG-Förderung für RDMO. RDMO wurde zu diesem Zeitpunkt bereits an vielen Forschungsinstitutionen in Deutschland als Tool für die dynamische Begleitung des Forschungsdatenmanagements in Projekten und für die Erstellung von Datenmanagementplänen genutzt.
 
 Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) . 
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/Community) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
-<br/>
-
- 
-<details>
-  <summary style="list-style-image: &#9658;"><u>Ehemaliges DFG Projekt Team</u></summary>
-
-{% for member in site.data.dfg_team.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
-
-</details>

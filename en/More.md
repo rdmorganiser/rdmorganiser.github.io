@@ -12,12 +12,12 @@ lang: en
 We provide promotion material which can be freely used, hence under CC0 licence.
 
 * **Postcard** 
-     - PDF format: [Frontpage]({{ site.baseurl }}/img/promo/venv1.pdf) [Backpage]({{ site.baseurl }}/img/promo/renv1.pdf)
-     - svg format (software Inkscape): [Frontpage]({{ site.baseurl }}/img/promo/venv1.svg) [Backpage]({{ site.baseurl }}/img/promo/renv1.svg)
-* **Poster**: [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg) (software Inkscape)
+     - PDF: [Frontpage]({{ site.baseurl }}/img/promo/venv1.pdf) [Backpage]({{ site.baseurl }}/img/promo/renv1.pdf)
+     - SVG: [Frontpage]({{ site.baseurl }}/img/promo/venv1.svg) [Backpage]({{ site.baseurl }}/img/promo/renv1.svg) (may be opened e.g. with Inkscape)
+* **Poster**: [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) or [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg)
 * **Presentation slides** (in German): [PDF]({{ site.baseurl }}/slides/slides.pdf)
-* **Topical slides** (in German): [PDF]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pdf) or [PowerPoint]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pptx)
-* **Flyer** (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (software Scribus)
+* **Topical slides** (in German): [PDF]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pdf) or [PPTX]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jan_2020_H.pptx)
+* **Flyer** (in German): [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) or [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (may be opened e.g. with Scribus)
 
 <br/>
 

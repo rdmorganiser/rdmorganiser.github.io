@@ -45,6 +45,7 @@ So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives
 </div>
 {% endfor %}
 
+
 ## Contentgruppe
 
 Die Contentgruppe (CG) setzt sich aus Freiwilligen zusammen, die die inhaltliche Koordination und Weiterentwicklung von RDMO vorantreiben. Eine niedrigschwellige Beteiligung einer größeren Anzahl von Freiwilligen ist wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
@@ -60,6 +61,17 @@ So erreichen Sie die Contentgruppe: [E-Mail](rdmo-contentgruppe@listserv.dfn.de)
     </div>
 </div>
 {% endfor %}
+
+
+## Ad-Hoc-Gruppen
+
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
+Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
+
+## Mitgliederversammlung
+
+Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der Steuerungsgruppe.
+Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 
 ## Ehemalige Community-Mitglieder 
