@@ -1,30 +1,42 @@
 current:
 - text:
-    de: "**Harry Enke** (Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien). Er engaiert sich für den Aufbau digitaler Infrastukturen für astrophysikalische Forschung. Er is einer der Sprecher für den Arbeitskreis Forshungsdaten der Leibniz Gemeinschaft. Derzeit, er leitet die Taskarea 4 des [PUNCH4NFDI](https://www.punch4nfdi.de) Konsortiums."
-    en: "**Harry Enke** (Speaker) leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works towards building digital infrastructures for research data in astrophysics. Also, he is one of the spokespersons for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien). He currently leads Taskarea 4 of the [PUNCH4NFDI](https://www.punch4nfdi.de) collaboration."
-  image: img/team/enke.jpg
+    de: "**Gerald Jagusch** <a href='https://orcid.org/0000-0001-9964-1112' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Sprecher) ) leitet die Abteilung IT, Forschung & Entwicklung an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Sein Interesse liegt u.a. im Forschungsdatenmanagement für die Ingenieurwissenschaften."
+    en: "**Gerald Jagusch** <a href='https://orcid.org/0000-0001-9964-1112' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Speaker) leads the IT, research & development department at the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp). He is interested, among otherthings, in Research Data Management for engineering sciences."
+  image: img/team/Gerald_Jagusch_2023.jpg
+  name: Gerald Jagusch
+  orcid: 0000-0001-9964-1112
 
+- text:
+    de: "**Giacomo Lanza** <a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Sprecher) ist Koordinator für das Forschungsdatenmanagement an der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementplänen für europäische Projekte und deren Implementierung in RDMO."
+    en: "**Giacomo Lanza** <a href='https://orcid.org/0000-0002-2239-3955' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Speaker) is coordinator for the research data management at the [Library of the Physikalisch-Technische Bundesanstalt (PTB)](https://www.ptb.de/cms/en/research-development/into-the-future-with-metrology/the-challenges-of-digital-transformation/nutzbarkeitvonforschungsdaten.html#c121491) in Brunswick. His main action fields are the [interaction of metrology and research data management](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); the development of standards, metadata and terminologies; the generation of data management plans for European project and their implementation in RDMO."
+  image: img/team/lanza.jpg
+  name: Giacomo Lanza
+  orcid: 0000-0002-2239-3955
+  
 - text:
     de: "**Johannes Frenzel** ist Mitarbeiter bei [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) und [Research Data Services](https://www.ruhr-uni-bochum.de/researchdata/de/index.html) der [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de). Beim Aufbau einer Infrastruktur für institutionelle Forschungsdaten liegen seine Arbeitsschwerpunkte in den Bereichen Repositorien und Datenmanagemenpläne, welche er aktiv innerhalb der [UA Ruhr](https://www.uaruhr.de) und NRW mit vorantreibt."
     en: "**Johannes Frenzel** is a staff in [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) and [Research Data Service](https://www.ruhr-uni-bochum.de/researchdata/de/index.html) at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de). His work focuses on repositories and data management plans, which he actively promotes within the [UA Ruhr](https://www.uaruhr.de) and NRW."
   image: img/team/frenzel.jpg
+  name: Johannes Frenzel
+  orcid: 0000-0003-0458-5424
 
 - text:
-    de: "**Daniela Hausen** arbeitet im Bereich Forschungsdatenmanagement an der [RWTH Aachen University](https://www.academy.rwth-aachen.de/de/). Der Fokus ihrer Arbeit liegt auf Datenmanagementplänen, Trainings und (inter-)nationaler Arbeit. Bei der Research Data Alliance ist sie aktiv in den Arbeitsgruppen zu Datenmanagementplänen und Chair der IG 'Research data management in engineering'."
-    en: "**Daniela Hausen** works on Research Data Manageme at [RWTH Aachen University](https://www.academy.rwth-aachen.de/en/). Her work focuses on data management plans, trainings and (inter-)national collaborations. She is actively participating in the workgroup on data management plans of the Research Data Alliance. Also she is Chair of IG 'Research data management in engineering'."
-  image: img/team/hausen.jpg
+    de: "**Katja Diederichs** <a href='https://orcid.org/0000-0003-3409-9902' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> arbeitet als Team-Mitglied im Bereich Forschungsdatenmanagement bei ZB MED - Informationszentrum für Lebenswissenschaften. Sie ist zuständig für den PID-Service, das Forschungsdatenmanagement und Forschungsdaten- sowie weitere Publikationsdienste."
+    en: "**Katja Diederichs** <a href='https://orcid.org/0000-0003-3409-9902' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is working as a team member in the section Research Data Management at ZB MED - Information Centre for Life Sciences. She is responsible for the PID service, reserach data management and publication services."
+  image: img/team/KatjaDiederichsBild.jpg
+  name: Katja Diederichs
+  orcid: 0000-0003-3409-9902
 
 - text:
-    de: "**Gerald Jagusch** (Sprecher) ist Referent an der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und leitet dort das Team Forschungsdaten-Services. Sein Interesse liegt u.a. im Forschungsdatenmanagement für die Ingenieurwissenschaften."
-    en: "**Gerald Jagusch** (Speaker) works as consultant at the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) leading the Reserach Data Services team. He is interested, among otherthings, in Research Data Management for engineering sciences."
-  image: img/team/jagusch.jpg
+    de: "**Olaf Michaelis** <a href='https://orcid.org/0000-0002-5282-703X' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er ist Teil der E-Science Gruppe und arbeitet hauptsächlich im Bereich der Softwareentwicklung."
+    en: "**Olaf Michaelis** <a href='https://orcid.org/0000-0002-5282-703X' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a research associate at the [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He is a member of the E-Science group and works primarily as a software developer."
+  image: img/team/michaelis.jpg
+  name: Olaf Michaelis
+  orcid: 0000-0002-5282-703X
 
 - text:
-    de: "**Birte Lindstädt** leitet die Abteilung Forschungsdatenmanagment beim [ZB MED Informationszentrum Lebenswissenschaften](https://www.zbmed.de). Dort ist sie für den Aufbau von Informationsinfrastrukturen für die Verarbeitung und Bereitstellung von Forschungsdaten sowie für Beratungs-, Schulungs- und Ausbildungsservices im Kontext von Forschungsdatenmanagement zuständig."
-    en: "**Birte Lindstädt** is Deputy Head leading the section Research Data Management at [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/). She is responsible for information infrastructures for reserach data, and services for research data management."
-  image: img/team/lindstaedt.jpg
-
-- text:
-    de: "**Robert Strötgen** ist stellvertretender Direktor der [Universitätsbibliothek der TU Braunschweig](https://www.tu-braunschweig.de/ub) und Leiter der Abteilung IT und Forschungsnahe Services. Dort verantwortet er auch das Thema Forschungsdatenmanagement. Im Bereich Open Source engagiert er sich unter anderem seit 2012 für 'Kitodo. Key to digital objects e.V.', dessen Vorstandsvorsitzender er ist."
-    en: "**Robert Strötgen** is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board."
-  image: img/team/stroetgen.jpg
+    de: "**Daniel Arend** <a href='http://orcid.org/0000-0002-2455-5938' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> arbeitet im [Forschungsdatenmanagement](https://www.leibniz-ipk.de/forschung/zuechtungsforschung/bioinformatik-und-informationstechnologie) am [Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) Gatersleben](https://www.ipk-gatersleben.de/) und ist dort unter anderen für die Entwicklung und Betreuung der Datenpublikationsinfrastruktur verantwortlich. Dabei befasst er sich beispielsweise mit Themen wie Persistente IDs und Metadatenstandards im Bereich der Lebenswissenschaften."
+    en: "**Daniel Arend** <a href='http://orcid.org/0000-0002-2455-5938' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is involved in [research data management](https://www.ipk-gatersleben.de/en/research/breeding-research/bioinformatics-and-information-technology) at the [Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben](https://www.ipk-gatersleben.de/en/), where he is responsible, among other things, for the development and maintenance of the data publication infrastructure. He deals, for example, with topics such as persistent IDs and metadata standards in life sciences."
+  image: img/team/arend.jpg
+  name: Daniel Arend
+  orcid: 0000-0002-2455-5938

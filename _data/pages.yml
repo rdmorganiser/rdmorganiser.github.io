@@ -11,111 +11,61 @@ news:
     de: aktuelles
     en: en/news
 
-project:
+old_news:
   label:
-    de: Projekt
-    en: Project
+    de: Veranstaltungen
+    en: Events
   path:
-    de: projekt
-    en: en/project
-
-phase1:
-  path:
-    de: erste-projektphase/
-    en: en/first-project-phase/
-
-software:
-  label:
-    de: Software
-    en: Software
-  path:
-    de: software/
-    en: en/software/
-
-documentation:
-  label:
-    de: Dokumentation
-    en: Documentation
-  path:
-    de: dokumentation/
-    en: en/documentation/
-
-cooperations:
-  label:
-    de: Kooperationen
-    en: Cooperations
-  path:
-    de: kooperationen/
-    en: en/cooperations/
-
-material:
-  label:
-    de: Materialien
-    en: Promotion
-  path:
-    de: materialien/
-    en: en/promotion/
-
-workshops:
-  label:
-    de: Workshops
-    en: Workshops
-  path:
-    de: workshops/
-    en: en/workshops/
-
-talks:
-  label:
-    de: Vorträge
-    en: Talks
-  path:
-    de: vorträge/
-    en: en/talks/
-
-teaching:
-  label:
-    de: Lehre
-    en: Teaching
-  path:
-    de: lehre/
-    en: en/teaching/
-
-team:
-  label:
-    de: Team
-    en: Team
-  path:
-    de: team/
-    en: en/team/
+    de: Veranstaltungen
+    en: en/Events
 
 rdmo-arge:
   label:
-    de: RDMO Arbeitsgemeinschaft
-    en: RDMO Consortium
+    de: Community
+    en: Community
   path:
-    de: rdmo_arge
-    en: en/rdmo_arge
-
-groups:
+    de: Community
+    en: en/Community
+    
+docu_user:
   label:
-    de: Arbeitsgruppen
-    en: Working Groups
+    de: für Nutzer:innen
+    en: for users
   path:
-    de: groups/
-    en: en/groups/
+    de: Doku_User
+    en: en/Docu_User
 
-protection:
+docu_manager:
   label:
-    de: Datenschutz
-    en: Data protection
+    de: für Manager:innen
+    en: for manager
   path:
-    de: schutz/
-    en: en/protection/
+    de: Doku_Manager
+    en: en/Docu_Manager
 
-publications:
+docu_admin:
   label:
-    de: Publikationen
-    en: Publications
+    de: für Admins
+    en: for admins
   path:
-    de: publikationen/
-    en: en/publications/
+    de: Doku_Admins
+    en: en/Docu_Admins
+
+rdmo-begin:
+  label:
+    de: Historie
+    en: History
+  path:
+    de: Historie
+    en: en/History
+  
+more:
+  label:
+    de: Weiteres
+    en: More
+  path:
+    de: More
+    en: en/More
+
+
+

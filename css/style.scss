@@ -6,9 +6,11 @@ $lightgray: #f5f5f5;
 $mediumgray: #666;
 $darkgray: #112;
 $fontcolor: #484c55;
+$Gainsboro: #DCDCDC;
+$RebeccaPurple: #663399;
 
-$header-height: 400px;
-$header-height-md: 300px;
+$header-height: 250px;
+$header-height-md: 150px;
 
 
 /* colors */
@@ -112,6 +114,12 @@ h2 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
 pre {
     margin-bottom: 10px;
 }
@@ -132,9 +140,9 @@ dl dd {
 .page,
 .front {
     background-color: white;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .page {
-    margin: 40px 0;
     padding: 40px;
 }
 
@@ -180,6 +188,8 @@ dl dd {
         height: 140px;
         width: 140px;
         border-radius: 50%;
+        object-fit: cover;
+        aspect-ratio: 1/1;
     }
     .team-member-info {
         padding-left: 40px;
@@ -222,8 +232,8 @@ header {
 
     .header-image {
         position: absolute;
-        left: 0;
-        right: 0;
+        left: 130px;
+        right: 130px;
 
         opacity: 0;
         -webkit-transition: $image-transition;
@@ -261,12 +271,12 @@ header {
         width: 768px;
     }
     .header-text h1 {
-        font-size: 80px;
+        font-size: 40px;
         color: white;
         text-align: center;
     }
     .header-text p {
-        font-size: 24px;
+        font-size: 18px;
         color: white;
         text-align: center;
     }
@@ -301,7 +311,7 @@ header {
 
 /* footer */
 footer {
-    background-color: $darkgray;
+    background-color: $Gainsboro;
     color: #999;
     padding-top: 40px;
     padding-bottom: 20px;
@@ -344,7 +354,7 @@ footer {
 /* map */
 
 .map {
-    height: 600px;
+    height: 400px;
     margin-bottom: 20px;
 
     .leaflet-popup-content-wrapper {
