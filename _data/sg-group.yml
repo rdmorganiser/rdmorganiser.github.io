@@ -12,10 +12,10 @@ current:
   image: img/team/lanza.jpg
   name: Giacomo Lanza
   orcid: 0000-0002-2239-3955
-
+  
 - text:
-    de: "**Johannes Frenzel** <a href='https://orcid.org/0000-0003-0458-5424' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Mitarbeiter bei [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) der [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de) und Mitglied der dortigen [Arbeitsgruppe Forschungsdaten](https://www.ruhr-uni-bochum.de/researchdata/de/index.html). Beim Aufbau einer Infrastruktur für institutionelle Forschungsdaten liegen seine Arbeitsschwerpunkte in den Bereichen Repositorien und Datenmanagemenpläne, welche er aktiv innerhalb der UARuhr und NRW mit vorantreibt. Er ist verantwortlich für rdmo.uaruhr.de."
-    en: "**Johannes Frenzel** <a href='https://orcid.org/0000-0003-0458-5424' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is staff member at [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de) and member of its [workgroup research data](https://www.ruhr-uni-bochum.de/researchdata/de/index.html). He is working on development of institutional research data infrastructure with focusing on repositories and datamanagement plans, which he is actively pushing within the UARuhr collaboration and NRW. He is responsible for rdmo.uaruhr.de."
+    de: "**Johannes Frenzel** ist Mitarbeiter bei [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) und [Research Data Services](https://www.ruhr-uni-bochum.de/researchdata/de/index.html) der [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de). Beim Aufbau einer Infrastruktur für institutionelle Forschungsdaten liegen seine Arbeitsschwerpunkte in den Bereichen Repositorien und Datenmanagemenpläne, welche er aktiv innerhalb der [UA Ruhr](https://www.uaruhr.de) und NRW mit vorantreibt."
+    en: "**Johannes Frenzel** is a staff in [IT.SERVICES](https://www.it-services.ruhr-uni-bochum.de/) and [Research Data Service](https://www.ruhr-uni-bochum.de/researchdata/de/index.html) at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de). His work focuses on repositories and data management plans, which he actively promotes within the [UA Ruhr](https://www.uaruhr.de) and NRW."
   image: img/team/frenzel.jpg
   name: Johannes Frenzel
   orcid: 0000-0003-0458-5424

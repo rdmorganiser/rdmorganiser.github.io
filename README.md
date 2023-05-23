@@ -1,3 +1,3 @@
-This is a copy of the repository for the public pages of the DFG funded project RDMO.
+This is the repository for the public pages of the RDMO Community (RDMO Arbeitsgemeinschaft).
 
-The pages can be found at https://sabine-schoenau.github.io/rdmorganiser.github.io/
+The pages can be found at https://rdmorganiser.github.io/
