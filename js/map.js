@@ -1,3 +1,7 @@
+---
+---
+// please leave front matter, it signals jekyll to template this file
+
 $(document).ready(function() {
     map = L.map('map');
     map.setView([51.165, 10.455278], 5);
@@ -14,7 +18,10 @@ $(document).ready(function() {
     var legend_source = document.getElementById('legend-template').innerHTML;
     var legend_template = Handlebars.compile(legend_source);
 
-    var base_url = '/' // hard coded for now
+    var base_url = "{{ site.baseurl }}"
+    if ( base_url == '' ){
+        base_url = '/'
+    }
 
     var icons = {
         'green': new L.Icon({
