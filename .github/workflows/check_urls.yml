@@ -1,0 +1,30 @@
+---
+name: check_urls
+
+on:
+  schedule:
+    - cron: "1 1 * * 1"
+  push:
+    tags:
+      - '*'
+
+jobs:
+  check_urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: install muffet
+        env:
+          URL: raviqqe/muffet
+          GREP_SCHEME: "Linux_x86_64"
+          TARGET_FOLDER: /home/.local/bin
+        run: |
+          sudo mkdir -p ${TARGET_FOLDER}
+          curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
+      - name: run the test
+        env:
+          TARGET_FOLDER: /home/.local/bin
+        run: ${TARGET_FOLDER}/muffet -b 16384 -e "\.(mkv|mp4|mpg|pdf)$"
+          -e ".+#.+$" -e "cdlib\.org" --skip-tls-verification
+          https://rdmorganiser.github.io
