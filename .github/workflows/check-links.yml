@@ -4,10 +4,12 @@ name: Check for broken links
 on:
   schedule:
     - cron: "1 1 * * 1"
-  workflow_run:
-    workflows: ["Deploy Jekyll site to Pages"]
-    types:
-      - completed
+  workflow_dispatch:
+  # NOTE: entry below disabled due to github api limitations
+  # workflow_run:
+  #   workflows: ["Deploy Jekyll site to Pages"]
+  #   types:
+  #     - completed
 
 jobs:
   check_links:
