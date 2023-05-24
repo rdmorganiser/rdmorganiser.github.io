@@ -1,19 +1,30 @@
-var _current_image = 0;
-var _max_image = 2;
-var _timeout = 5000;
+var timeout = 9000
 
 function swap_image() {
-    $('.header-image-' + _current_image).removeClass('visible');
-    if (_current_image >= _max_image) {
-        _current_image = 0;
-    } else {
-        _current_image += 1;
-    }
-    $('.header-image-' + _current_image).addClass('visible');
+  var header_images = $('.header-image')
+  var nextel = header_images[0]
+  var replaced = false
 
-    setTimeout(swap_image, _timeout);
+  $.each(header_images, function (idx, el) {
+    if ($(el).hasClass('visible')) {
+      $(el).removeClass('visible')
+
+      if (header_images.length >= idx + 1) {
+        nextel = header_images[idx + 1]
+      }
+      $(nextel).addClass('visible')
+      replaced = true
+      return false
+    }
+
+    if (replaced === false) {
+      $(header_images[0]).addClass('visible')
+    }
+  })
+
+  setTimeout(swap_image, timeout)
 }
 
-$(document).ready(function() {
-    setTimeout(swap_image, _timeout);
-});
+$(document).ready(function () {
+  swap_image()
+})
