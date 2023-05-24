@@ -5,8 +5,7 @@ on:
   schedule:
     - cron: "1 1 * * 1"
   push:
-    tags:
-      - '*'
+    branches: ["master"]
 
 jobs:
   check_urls:
