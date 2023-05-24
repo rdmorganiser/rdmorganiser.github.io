@@ -4,8 +4,10 @@ name: Check for broken links
 on:
   schedule:
     - cron: "1 1 * * 1"
-  push:
-    branches: ["master"]
+  workflow_run:
+    workflows: ["Deploy Jekyll site to Pages"]
+    types:
+      - completed
 
 jobs:
   check_urls:
@@ -19,7 +21,7 @@ jobs:
           GREP_SCHEME: "Linux_x86_64"
           TARGET_FOLDER: /home/.local/bin
         run: |
-          mkdir -p ${TARGET_FOLDER}
+          sudo mkdir -p ${TARGET_FOLDER}
           curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
       - name: run the test
         env:
