@@ -1,4 +1,4 @@
-https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/pages.yml/badge.svg
+![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/pages.yml/badge.svg)
 
 This is the repository for the public pages of the RDMO Community (RDMO Arbeitsgemeinschaft).
 
