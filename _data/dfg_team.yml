@@ -2,7 +2,7 @@ former:
 - text:
     de: "**Harry Enke**<a href='https://orcid.org/0000-0002-2366-8316' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> (Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
     en: "**Harry Enke**<a href='https://orcid.org/0000-0002-2366-8316' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> (Speaker) leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
-  image: img/team/ehem/HarryEnke.png
+  image: img/team/ehem/HarryEnke.jpg
 
 - text:
     de: "**Jochen Klar**<a href='https://orcid.org/0000-0002-5883-4273' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Sprecher) ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
@@ -24,7 +24,7 @@ former:
     en: "**Olaf Michaelis** <a href='https://orcid.org/0000-0002-5282-703X' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a research associate at the [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He is a member of the E-Science group and works primarily as a software developer."
   image: img/team/michaelis.jpg
   name: Olaf Michaelis
-  
+
 - text:
     de: "**Heike Neuroth**<a href='https://orcid.org/0000-0002-3637-3154' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
     en: "**Heike Neuroth**<a href='https://orcid.org/0000-0002-3637-3154' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is a professor for Library Sciences at [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/). Her work comprises of many activities in the areas of electronic archiving, research data management, long-term preservation and digital humanities."
