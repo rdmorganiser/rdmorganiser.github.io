@@ -10,7 +10,7 @@ on:
       - completed
 
 jobs:
-  check_urls:
+  check_links:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -26,6 +26,6 @@ jobs:
       - name: run the test
         env:
           TARGET_FOLDER: /home/.local/bin
-        run: ${TARGET_FOLDER}/muffet -b 16384 -e "\.(mkv|mp4|mpg|pdf)$"
+        run: ${TARGET_FOLDER}/muffet -t 90 -b 16384 -e "\.(mkv|mp4|mpg|pdf)$"
           -e ".+#.+$" -e "cdlib\.org" --skip-tls-verification
           https://rdmorganiser.github.io
