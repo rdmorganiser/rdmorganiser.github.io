@@ -1,5 +1,5 @@
 ---
-name: check_urls
+name: Check for broken links
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
           GREP_SCHEME: "Linux_x86_64"
           TARGET_FOLDER: /home/.local/bin
         run: |
-          sudo mkdir -p ${TARGET_FOLDER}
+          mkdir -p ${TARGET_FOLDER}
           curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
       - name: run the test
         env:
