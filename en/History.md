@@ -15,7 +15,7 @@ lang: en
 
 **The aim of the project was to provide a tool that supports the structured planning, implementation and administration of research data management and also enables the textual output of a data management plan (DMP).**
 
-Special online tools for creating DMPs have previously been developed by several institutions. Pioneers were the [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in UK with [DMPonline](https://dmponline.dcc.ac.uk), the [California Digital Library (CDL)](http://www.cdlib.org) with [DMPTool](https://dmptool.org/), and in Germany the [Universität Bielefeld](https://www.uni-bielefeld.de/ub/digital/forschungsdaten).
+Special online tools for creating DMPs have previously been developed by several institutions. Pioneers were the [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in UK with [DMPonline](https://dmponline.dcc.ac.uk), the [California Digital Library (CDL)](https://cdlib.org) with [DMPTool](https://dmptool.org/), and in Germany the [Universität Bielefeld](https://www.uni-bielefeld.de/ub/digital/forschungsdaten).
 
 These instruments support researchers primarily in the creation of DMPs in accordance with the specifications of the respective funder. While they are useful tools in the context of the application, they are essentially limited to the questions relevant for this purpose and therefore do not exploit the full potential of DMPs.
 

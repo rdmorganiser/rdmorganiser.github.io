@@ -5,7 +5,7 @@ key: rdmo-arge
 lang: en
 ---
 
-# RDMO Consortium 
+# RDMO Consortium
 
 With the end of the DFG funding for RDMO in autumn 2020, the RDMO working group was founded at the user meeting on October 7th, 2020. It is based on the voluntary cooperation of institutions and individuals to keep the open source software RDMO usable and to further develop it.
 They have expressed their support by signing the [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
@@ -47,7 +47,7 @@ The development group ist contactable via: [Slack](https://rdmo.slack.com/archiv
 
 The content group (CG) consists of volunteers who drive the content coordination and further development of RDMO. A low-threshold participation of a larger number of volunteers is desired and possible. They can, for example, contribute to the development of the project. The focus of their work is the maintenance and controlled merging of existing and newly generated content such as attributes or questions for catalog templates. A moderation and support of the individual processes as well as domain adaptations will take place. The CG collects user feedback and checks the general usability against the background of user feedback.
 <br/>
-The content group is contactable via: [E-Mail](rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
+The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
 {% for member in site.data.cg-group.current %}
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />

@@ -15,7 +15,7 @@ lang: de
 
 **Ziel des Projekts war es, ein Werkzeug zur Verfügung zu stellen, das die strukturierte Planung, Umsetzung und Verwaltung des Forschungsdatenmanagements unterstützt und zusätzlich die textuelle Ausgabe eines Datenmanagementplans (DMP) ermöglicht.**
 
-Spezielle Online-Tools zur Erstellung von DMPs wurden zuvor durch mehrere Institutionen entwickelt. Vorreiter waren das [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in Großbritannien mit [DMPonline](https://dmponline.dcc.ac.uk), die [California Digital Library (CDL)](http://www.cdlib.org) mit dem [DMPTool](https://dmptool.org/) und in Deutschland die [Universität Bielefeld](https://www.uni-bielefeld.de/ub/digital/forschungsdaten).
+Spezielle Online-Tools zur Erstellung von DMPs wurden zuvor durch mehrere Institutionen entwickelt. Vorreiter waren das [Digital Curation Centre (DCC)](http://www.dcc.ac.uk) in Großbritannien mit [DMPonline](https://dmponline.dcc.ac.uk), die [California Digital Library (CDL)](https://cdlib.org) mit dem [DMPTool](https://dmptool.org/) und in Deutschland die [Universität Bielefeld](https://www.uni-bielefeld.de/ub/digital/forschungsdaten).
 
 Diese Instrumente unterstützen Forschende vor allem bei der Erstellung von DMP gemäß den Vorgaben des jeweiligen Förderers. Während sie damit sinnvolle Hilfsmittel im Rahmen der Antragstellung sind, beschränken sie sich im Wesentlichen auf die für diesen Zweck relevanten Fragen und schöpfen somit nicht das volle Potential von DMPs aus. 
 

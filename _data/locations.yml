@@ -17,7 +17,7 @@
   color:   blue
 
 - name:    Universitätsallianz Ruhr, Universität Duisburg-Essen
-  url:     http://rdmo.ub.uni-due.de
+  # url:     http://rdmo.ub.uni-due.de
   contact: Stephanie Rehwald, Sonja Hendricks, Henning Timm
   mail:    mailto:rds.ub@uni-due.org
   lat:     51.429167
@@ -56,7 +56,7 @@
 - name:    Göttingen eResearch Alliance
   url:     https://plan.goettingen-research-online.de/
   contact: Timo Gnadt, Ubbo Veentjer
-  mail:    mailto:info@eresearch.uni-goettingen.de 
+  mail:    mailto:info@eresearch.uni-goettingen.de
   lat:     51.5400097
   lon:     9.9358179
   color:   blue
@@ -137,7 +137,7 @@
   color:   blue
 
 - name:    Universität Hamburg
-  url:     https://dmp.fdm.uni-hamburg.de/ 
+  url:     https://dmp.fdm.uni-hamburg.de/
   contact: Hagen Peukert
   mail:    mailto:services.fdm@uni-hamburg.de
   lat:     53.566298
@@ -356,7 +356,7 @@
   color:   blue
 
 - name:    Robert Koch-Institut (RKI)
-  url:     https://www.rki.de/mamodar
+  # url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
   mail:    mailto:fdz@rki.de
   lat:     52.516181
@@ -425,7 +425,7 @@
   color:   blue
 
 - name:    Institute of Science and Technology Austria (ISTA)
-  url:     https://rdmo.ista.ac.at
+  # url:     https://rdmo.ista.ac.at
   contact: Doris Ernst
   mail:    mailto:library@ista.ac.at
   lat:     48.310556
