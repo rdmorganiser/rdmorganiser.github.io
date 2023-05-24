@@ -14,8 +14,7 @@ $(document).ready(function() {
     var legend_source = document.getElementById('legend-template').innerHTML;
     var legend_template = Handlebars.compile(legend_source);
 
-    var base_url = '/rdmorganiser.github.io/' // hard coded for now
-
+    var base_url = '/' // hard coded for now
 
     var icons = {
         'green': new L.Icon({
