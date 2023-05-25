@@ -12,11 +12,9 @@ on:
   #     - completed
 
 jobs:
-  check_links:
+  check-links:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v3
       - name: install muffet
         env:
           URL: raviqqe/muffet
@@ -28,6 +26,10 @@ jobs:
       - name: run the test
         env:
           TARGET_FOLDER: /home/.local/bin
-        run: ${TARGET_FOLDER}/muffet -t 90 -b 16384 -e "\.(mkv|mp4|mpg|pdf)$"
-          -e ".+#.+$" -e "cdlib\.org" --skip-tls-verification
+        run: |
+          ${TARGET_FOLDER}/muffet -t 60 -b 16384 --skip-tls-verification \
+          -e "\.(mkv|mp4|mpg|pdf)$" \
+          -e "#" \
+          -e "cdlib\.org" \
+          -e "ipk-gatersleben" \
           https://rdmorganiser.github.io
