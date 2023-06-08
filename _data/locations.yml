@@ -1,508 +1,517 @@
-- name:    Leibniz-Institut für Astrophysik Potsdam (AIP)
-  url:     https://rdmo.aip.de
+---
+- name: Leibniz-Institut für Astrophysik Potsdam (AIP)
+  url: https://rdmo.aip.de
   contact: Olaf Michaelis
-  mail:    mailto:omichaelis@aip.de
-  lat:     52.405
-  lon:     13.104167
-  color:   blue
+  mail: mailto:omichaelis@aip.de
+  lat: 52.405
+  lon: 13.104167
+  color: blue
   # discipline: Astrophysik
   # description: Das Leibniz-Institut für Astrophysik Potsdam (AIP) widmet sich astrophysikalischen Fragen, die von der Untersuchung unserer Sonne bis zur Entwicklung des Kosmos reichen.
 
-- name:    Universitätsallianz Ruhr, Ruhr-Universität Bochum
-  url:     http://rdmo.uaruhr.de
+- name: Universitätsallianz Ruhr, Ruhr-Universität Bochum
+  url: http://rdmo.uaruhr.de
   contact: Johannes Frenzel
-  mail:    mailto:researchdata+rdmo@uaruhr.de
-  lat:     51.4439
-  lon:     7.261572
-  color:   blue
+  mail: mailto:researchdata+rdmo@uaruhr.de
+  lat: 51.4439
+  lon: 7.261572
+  color: blue
 
-- name:    Universitätsallianz Ruhr, Universität Duisburg-Essen
+- name: Universitätsallianz Ruhr, Universität Duisburg-Essen
   # url:     http://rdmo.ub.uni-due.de
   contact: Stephanie Rehwald, Sonja Hendricks, Henning Timm
-  mail:    mailto:rds.ub@uni-due.org
-  lat:     51.429167
-  lon:     6.800833
-  color:   blue
+  mail: mailto:rds.ub@uni-due.org
+  lat: 51.429167
+  lon: 6.800833
+  color: blue
 
-- name:    IZUS / Universitätsbibliothek Stuttgart
+- name: IZUS / Universitätsbibliothek Stuttgart
   # url:     https://rdmo.forschungsdaten.info/
   contact: Dorothea Iglezakis, Björn Selent
-  mail:    mailto:fokus@izus.uni-stuttgart.de
-  lat:     48.78231
-  lon:     9.1686
-  color:   blue
+  mail: mailto:fokus@izus.uni-stuttgart.de
+  lat: 48.78231
+  lon: 9.1686
+  color: blue
 
-- name:    Fachhochschule Potsdam (FHP)
+- name: Fachhochschule Potsdam (FHP)
   # url:     https://rdmo.fh-potsdam.de
   contact: Miriam Zeunert
-  mail:    mailto:forschungsdaten@fh-potsdam.de
-  lat:     52.413501
-  lon:     13.0512984
-  color:   gray
+  mail: mailto:forschungsdaten@fh-potsdam.de
+  lat: 52.413501
+  lon: 13.0512984
+  color: gray
   discipline: Informationswissenschaften
   description: >-
-      Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule Potsdam
-      verantwortlich für Nachhaltigkeit, Community-Building, Dissemination
-      und Training von RDMO.
-
-- name:    Karlsruher Institut für Technologie (KIT)
+    Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule
+    Potsdam verantwortlich für Nachhaltigkeit, Community-Building,
+    Dissemination und Training von RDMO. #magic___^_^___line
+- name: Karlsruher Institut für Technologie (KIT)
   # url:     https://rdmo.forschungsdaten.info
-  mail:    mailto:contact@rdm.kit.edu
+  mail: mailto:contact@rdm.kit.edu
   contact: Kerstin Vanessa Wedlich-Zachodin
-  lat:     49.00955
-  lon:     8.4121891
-  color:   blue
+  lat: 49.00955
+  lon: 8.4121891
+  color: blue
 
-- name:    Göttingen eResearch Alliance
-  url:     https://plan.goettingen-research-online.de/
+- name: Göttingen eResearch Alliance
+  url: https://plan.goettingen-research-online.de/
   contact: Timo Gnadt, Ubbo Veentjer
-  mail:    mailto:info@eresearch.uni-goettingen.de
-  lat:     51.5400097
-  lon:     9.9358179
-  color:   blue
+  mail: mailto:info@eresearch.uni-goettingen.de
+  lat: 51.5400097
+  lon: 9.9358179
+  color: blue
 
 # - name:  Hessisches Forschungsdateninfrastrukture (HeFDI)
 #   url:   https://www.uni-marburg.de/projekte/forschungsdaten/projekt
 
-- name:    Universität Bayreuth
-  url:     https://rdmo.uni-bayreuth.de
+- name: Universität Bayreuth
+  url: https://rdmo.uni-bayreuth.de
   contact: Thomas Martin
-  mail:    mailto:fdm@uni-bayreuth.de
-  lat:     49.929511
-  lon:     11.586435
-  color:   blue
+  mail: mailto:fdm@uni-bayreuth.de
+  lat: 49.929511
+  lon: 11.586435
+  color: blue
 
-- name:    Universitäts- und Landesbibliothek Darmstadt
-  url:     http://tudmo.ulb.tu-darmstadt.de
+- name: Universitäts- und Landesbibliothek Darmstadt
+  url: http://tudmo.ulb.tu-darmstadt.de
   contact: Gerald Jagusch
-  mail:    mailto:rdmo@ulb.tu-darmstadt.de
-  lat:     49.861429
-  lon:     8.680805
-  color:   blue
+  mail: mailto:rdmo@ulb.tu-darmstadt.de
+  lat: 49.861429
+  lon: 8.680805
+  color: blue
 
-- name:    Universitätsallianz Ruhr, Technische Universität Dortmund
-  url:     https://rdmo.uaruhr.de/
+- name: Universitätsallianz Ruhr, Technische Universität Dortmund
+  url: https://rdmo.uaruhr.de/
   contact: Kathrin Höhner
-  mail:    mailto:fdm@tu-dortmund.de
-  lat:     51.48426
-  lon:     7.41454
-  color:   blue
+  mail: mailto:fdm@tu-dortmund.de
+  lat: 51.48426
+  lon: 7.41454
+  color: blue
 
-- name:    Heinrich-Heine-Universität Düsseldorf
-  url:     https://rdmo.hhu.de/
+- name: Heinrich-Heine-Universität Düsseldorf
+  url: https://rdmo.hhu.de/
   contact: Ania López, Nina Knipprath
-  mail:    mailto:fdm@hhu.de
-  lat:     51.1952525
-  lon:     6.7899203
-  color:   blue
+  mail: mailto:fdm@hhu.de
+  lat: 51.1952525
+  lon: 6.7899203
+  color: blue
 
-- name:    FoDaKo, Universität Wuppertal
-  url:     https://rdmo.zim.uni-wuppertal.de/
+- name: FoDaKo, Universität Wuppertal
+  url: https://rdmo.zim.uni-wuppertal.de/
   contact: Torsten Rathmann
-  mail:    mailto:fdm@uni-wuppertal.de
-  lat:     51.2458565
-  lon:     7.1486939
-  color:   gray
+  mail: mailto:fdm@uni-wuppertal.de
+  lat: 51.2458565
+  lon: 7.1486939
+  color: gray
 
-- name:    FoDaKo, Universität Siegen
-  url:     https://rdmo.e-science-service.uni-siegen.de/
+- name: FoDaKo, Universität Siegen
+  url: https://rdmo.e-science-service.uni-siegen.de/
   contact: Team E-Science-Service
-  mail:    mailto:e-science-service@uni-siegen.de
-  lat:     50.91082
-  lon:     8.0273001
-  color:   blue
+  mail: mailto:e-science-service@uni-siegen.de
+  lat: 50.91082
+  lon: 8.0273001
+  color: blue
 
-- name:    Universität Hildesheim
-  url:     https://dmp.uni-hildesheim.de/
+- name: Universität Hildesheim
+  url: https://dmp.uni-hildesheim.de/
   contact: Anna Beer
-  mail:    mailto:fdm@uni-hildesheim.de
-  lat:     52.1600497
-  lon:     9.9833092
-  color:   gray
+  mail: mailto:fdm@uni-hildesheim.de
+  lat: 52.1600497
+  lon: 9.9833092
+  color: gray
 
-- name:    Technische Universität Braunschweig
-  url:     https://rdmo.biblio.etc.tu-bs.de
+- name: Technische Universität Braunschweig
+  url: https://rdmo.biblio.etc.tu-bs.de
   contact: Džulia Terzijska
-  mail:    mailto:forschungsdaten@tu-braunschweig.de
-  lat:     52.2735074
-  lon:     10.5296839
-  color:   blue
+  mail: mailto:forschungsdaten@tu-braunschweig.de
+  lat: 52.2735074
+  lon: 10.5296839
+  color: blue
 
-- name:    Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
-  url:     https://rdmo.ptb.de
+- name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+  url: https://rdmo.ptb.de
   contact: Giacomo Lanza
-  mail:    mailto:fdm@ptb.de
-  lat:     52.29653
-  lon:     10.46418
-  color:   blue
+  mail: mailto:fdm@ptb.de
+  lat: 52.29653
+  lon: 10.46418
+  color: blue
 
-- name:    Universität Hamburg
-  url:     https://dmp.fdm.uni-hamburg.de/
+- name: Universität Hamburg
+  url: https://dmp.fdm.uni-hamburg.de/
   contact: Hagen Peukert
-  mail:    mailto:services.fdm@uni-hamburg.de
-  lat:     53.566298
-  lon:     9.984469
-  color:   blue
+  mail: mailto:services.fdm@uni-hamburg.de
+  lat: 53.566298
+  lon: 9.984469
+  color: blue
 
-- name:    Universität Münster
+- name: Universität Münster
   # url:     https://www.ulb.uni-muenster.de
   contact: Frank Berkemeier
-  mail:    mailto:forschungsdaten@uni-muenster.de
-  lat:     51.9627609
-  lon:     7.620459
-  color:   gray
+  mail: mailto:forschungsdaten@uni-muenster.de
+  lat: 51.9627609
+  lon: 7.620459
+  color: gray
 
-- name:    Hochschul- und Landesbibliothek Fulda
-  url:     https://rdmo.hlb.hs-fulda.de/
+- name: Hochschul- und Landesbibliothek Fulda
+  url: https://rdmo.hlb.hs-fulda.de/
   contact: Patrick Langner, Thomas Richter
-  mail:    mailto:forschungsdaten@hlb.hs-fulda.de
-  lat:     50.5653467
-  lon:     9.68746859
-  color:   gray
+  mail: mailto:forschungsdaten@hlb.hs-fulda.de
+  lat: 50.5653467
+  lon: 9.68746859
+  color: gray
 
-- name:    PUBLISSO / ZB MED
-  url:     http://rdmo.publisso.de
+- name: PUBLISSO / ZB MED
+  url: http://rdmo.publisso.de
   contact: Roman Riedel
-  mail:    mailto:publisso@zbmed.de
-  lat:     50.9246806
-  lon:     6.9164622
-  color:   blue
+  mail: mailto:publisso@zbmed.de
+  lat: 50.9246806
+  lon: 6.9164622
+  color: blue
 
-- name:    Universität Kassel
-  url:     https://rdmo.uni-kassel.de
+- name: Universität Kassel
+  url: https://rdmo.uni-kassel.de
   contact: Forschungsdaten-Service
-  mail:    mailto:forschungsdaten@uni-kassel.de
-  lat:     51.322817
-  lon:     9.507359
-  color:   blue
+  mail: mailto:forschungsdaten@uni-kassel.de
+  lat: 51.322817
+  lon: 9.507359
+  color: blue
 
-- name:    Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+- name: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
   contact: Jutta Graf, Christian Langenbach
-  mail:    https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
-  lat:     48.0853178
-  lon:     11.2789751
-  color:   gray
+  mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
+  lat: 48.0853178
+  lon: 11.2789751
+  color: gray
 
-- name:    Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
-  url:     https://rdmo.ipk-gatersleben.de
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
+    (IPK)
+  url: https://rdmo.ipk-gatersleben.de
   contact: Daniel Arend
-  mail:    mailto:bioinformatics@ipk-gatersleben.de
-  lat:     51.827277
-  lon:     11.2771503
-  color:   blue
+  mail: mailto:bioinformatics@ipk-gatersleben.de
+  lat: 51.827277
+  lon: 11.2771503
+  color: blue
 
-- name:    Universität Trier
-  url:     https://rdmo.uni-trier.de/
+- name: Universität Trier
+  url: https://rdmo.uni-trier.de/
   contact: Marina Lemaire, Stefan Kellendonk
-  mail:    mailto:esciences@uni-trier.de
-  lat:     49.745933
-  lon:     6.688490
-  color:   blue
+  mail: mailto:esciences@uni-trier.de
+  lat: 49.745933
+  lon: 6.688490
+  color: blue
 
-- name:    Alfred-Wegener-Institut (AWI)
+- name: Alfred-Wegener-Institut (AWI)
   contact: Angela Schäfer
-  mail:    mailto:data@awi.de
-  lat:     53.533308
-  lon:     8.5805956
-  color:   gray
+  mail: mailto:data@awi.de
+  lat: 53.533308
+  lon: 8.5805956
+  color: gray
 
-- name:    Deutsches GeoForschungsZentrum (GFZ)
+- name: Deutsches GeoForschungsZentrum (GFZ)
   contact: Roland Bertelmann, Kirsten Elger
-  mail:    mailto:datapub@gfz-potsdam.de
-  lat:     52.385098
-  lon:     13.066132
-  color:   gray
+  mail: mailto:datapub@gfz-potsdam.de
+  lat: 52.385098
+  lon: 13.066132
+  color: gray
 
-- name:    Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
-  url:     https://rdmo.ub.fau.de/
+- name: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+  url: https://rdmo.ub.fau.de/
   contact: Jürgen Rohrwild
-  mail:    mailto:ub-fdm@fau.de
-  lat:     49.597901
-  lon:     11.004571
-  color:   blue
+  mail: mailto:ub-fdm@fau.de
+  lat: 49.597901
+  lon: 11.004571
+  color: blue
 
-- name:    Helmholtz-Zentrum Berlin (HZB)
+- name: Helmholtz-Zentrum Berlin (HZB)
   contact: Heike Görzig
-  mail:    https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
-  lat:     52.411138
-  lon:     13.129854
-  color:   gray
+  mail: https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
+  lat: 52.411138
+  lon: 13.129854
+  color: gray
 
-- name:    RWTH Aachen
-  url:     https://rdmo.rwth-aachen.de/
+- name: RWTH Aachen
+  url: https://rdmo.rwth-aachen.de/
   contact: Daniela Hausen, Sabine Schönau
-  mail:    mailto:forschungsdaten@ub.rwth-aachen.de
-  lat:     50.781177
-  lon:     6.065603
-  color:   gray
+  mail: mailto:forschungsdaten@ub.rwth-aachen.de
+  lat: 50.781177
+  lon: 6.065603
+  color: gray
 
-- name:    Istituto Nazionale di Ricerca Metrologica (INRiM)
-  url:     https://rdmo.inrim.it/
+- name: Istituto Nazionale di Ricerca Metrologica (INRiM)
+  url: https://rdmo.inrim.it/
   # contact: Michaela Kuepferling
-  lat:     45.014953
-  lon:     7.637828
-  color:   gray
+  lat: 45.014953
+  lon: 7.637828
+  color: gray
 
-- name:    Max Planck Digital Library (MPDL)
-  url:     https://rdmo.mpdl.mpg.de/
+- name: Max Planck Digital Library (MPDL)
+  url: https://rdmo.mpdl.mpg.de/
   contact: Yves Vincent Grossmann
-  mail:    mailto:rdmo@mpdl.mpg.de
-  lat:     48.1478564
-  lon:     11.5763998
-  color:   blue
+  mail: mailto:rdmo@mpdl.mpg.de
+  lat: 48.1478564
+  lon: 11.5763998
+  color: blue
 
-- name:    Zuse-Institut Berlin (ZIB)
-  url:     https://rdmo.zib.de
+- name: Zuse-Institut Berlin (ZIB)
+  url: https://rdmo.zib.de
   contact: Tim Hasler
-  mail:    mailto:rdm@zib.de
-  lat:     52.4560878
-  lon:     13.2960695
-  color:   blue
+  mail: mailto:rdm@zib.de
+  lat: 52.4560878
+  lon: 13.2960695
+  color: blue
 
-- name:    Universitätsbibliothek Osnabrück
-  url:     https://osnaplan.ub.uni-osnabrueck.de
+- name: Universitätsbibliothek Osnabrück
+  url: https://osnaplan.ub.uni-osnabrueck.de
   contact: Marco Gronwald
-  mail:    mailto:fdm@uos.de
-  lat:     52.2731726
-  lon:     8.0457204
-  color:   blue
+  mail: mailto:fdm@uos.de
+  lat: 52.2731726
+  lon: 8.0457204
+  color: blue
 
-- name:    International Center of Insect Physiology and Ecology (ICIPE)
-  url:     https://dmmg-dmp.icipe.org/
+- name: International Center of Insect Physiology and Ecology
+    (ICIPE)
+  url: https://dmmg-dmp.icipe.org/
   contact: Henri Tonnang
-  mail:    https://dmmg.icipe.org/service_request.html
-  lat:     -1.2218344
-  lon:     36.8966253
-  color:   blue
+  mail: https://dmmg.icipe.org/service_request.html
+  lat: -1.2218344
+  lon: 36.8966253
+  color: blue
   discipline: Lebenswissenschaften
 
-- name:    Technische Universität Berlin
-  url:     https://dmp.tu-berlin.de
+- name: Technische Universität Berlin
+  url: https://dmp.tu-berlin.de
   contact: Britta Steinke
-  mail:    mailto:szf@ub.tu-berlin.de
-  lat:     52.512556072022434
-  lon:     13.32659749475189
-  color:   blue
+  mail: mailto:szf@ub.tu-berlin.de
+  lat: 52.512556072022434
+  lon: 13.32659749475189
+  color: blue
 
-- name:    Julius-Kühn-Institut (JKI)
-  url:     https://194.94.63.33/
+- name: Julius-Kühn-Institut (JKI)
+  url: https://194.94.63.33/
   contact: Christoph Sinn, Ulrike Stahl
-  mail:    mailto:fdm@julius-kuehn.de
-  lat:     51.77277
-  lon:     11.14100
-  color:   gray
+  mail: mailto:fdm@julius-kuehn.de
+  lat: 51.77277
+  lon: 11.14100
+  color: gray
 
-- name:    German Federation for Biological Data (GFBio)
-  url:     https://dmp.gfbio.org/
+- name: German Federation for Biological Data (GFBio)
+  url: https://dmp.gfbio.org/
   contact: Jimena Linares, Ivaylo Kostadinov
-  mail:    mailto:info@gfbio.org
-  lat:     53.10542
-  lon:     8.86242
-  color:   blue
+  mail: mailto:info@gfbio.org
+  lat: 53.10542
+  lon: 8.86242
+  color: blue
 
-- name:    Hochschule Geisenheim
-  url:     https://rdmo.hs-gm.de/
+- name: Hochschule Geisenheim
+  url: https://rdmo.hs-gm.de/
   contact: Laura Rodríguez
-  mail:    mailto:fdm@hs-gm.de
-  lat:     49.98440
-  lon:     7.96135
-  color:   blue
+  mail: mailto:fdm@hs-gm.de
+  lat: 49.98440
+  lon: 7.96135
+  color: blue
 
-- name:    Johannes Gutenberg Universität Mainz (JGU)
-  url:     https://rdmo.zdv.uni-mainz.de
+- name: Johannes Gutenberg Universität Mainz (JGU)
+  url: https://rdmo.zdv.uni-mainz.de
   contact: Kompetenzteam Forschungsdaten
-  mail:    mailto:forschungsdaten@uni-mainz.de
-  lat:     49.98938
-  lon:     8.23284
-  color:   blue
+  mail: mailto:forschungsdaten@uni-mainz.de
+  lat: 49.98938
+  lon: 8.23284
+  color: blue
 
-- name:    Universität Potsdam
-  url:     https://rdmo.uni-potsdam.de/
+- name: Universität Potsdam
+  url: https://rdmo.uni-potsdam.de/
   contact: Janine Straka, Janna Kienbaum
-  mail:    mailto:forschungsdaten@uni-potsdam.de
-  lat:     52.401111
-  lon:     13.011944
-  color:   gray
+  mail: mailto:forschungsdaten@uni-potsdam.de
+  lat: 52.401111
+  lon: 13.011944
+  color: gray
 
-- name:    Max Rubner-Institut (MRI)
+- name: Max Rubner-Institut (MRI)
   contact: Wahib Sahwan
-  mail:    mailto:wahib.sahwan@mri.bund.de
-  lat:     49.013579
-  lon:     8.426245
-  color:   gray
+  mail: mailto:wahib.sahwan@mri.bund.de
+  lat: 49.013579
+  lon: 8.426245
+  color: gray
 
-- name:    Ludwig-Maximilians-Universität München (LMU)
-  url:     https://rdmo.ub.uni-muenchen.de
+- name: Ludwig-Maximilians-Universität München (LMU)
+  url: https://rdmo.ub.uni-muenchen.de
   contact: FDM-Beratung der UB
-  mail:    mailto:forschungsdaten@ub.uni-muenchen.de
-  lat:     48.150833
-  lon:     11.580278
-  color:   blue
+  mail: mailto:forschungsdaten@ub.uni-muenchen.de
+  lat: 48.150833
+  lon: 11.580278
+  color: blue
 
-- name:    Universität Rostock
+- name: Universität Rostock
   # url:     https://rdmo.uni-rostock.de/
   contact: Max Schröder
-  mail:    mailto:forschungsdaten@uni-rostock.de
-  lat:     54.088133
-  lon:     12.133373
-  color:   blue
+  mail: mailto:forschungsdaten@uni-rostock.de
+  lat: 54.088133
+  lon: 12.133373
+  color: blue
 
-- name:    Goethe Universität Frankfurt am Main
-  url:     https://rdmo.server.uni-frankfurt.de
+- name: Goethe Universität Frankfurt am Main
+  url: https://rdmo.server.uni-frankfurt.de
   contact: Nina Dworschak
-  mail:    mailto:forschungsdaten@ub.uni-frankfurt.de
-  lat:     50.127778
-  lon:     8.666667
-  color:   blue
+  mail: mailto:forschungsdaten@ub.uni-frankfurt.de
+  lat: 50.127778
+  lon: 8.666667
+  color: blue
 
-- name:    Robert Koch-Institut (RKI)
+- name: Robert Koch-Institut (RKI)
   # url:     https://www.rki.de/mamodar
   contact: Luca Leipold, Kyanoush Yahosseini
-  mail:    mailto:fdz@rki.de
-  lat:     52.516181
-  lon:     13.376935
-  color:   gray
+  mail: mailto:fdz@rki.de
+  lat: 52.516181
+  lon: 13.376935
+  color: gray
   discipline: Biologie, Medizin
   description: >-
-      Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut
-      in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche
-      Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten
-      aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen
-      Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und
-      Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte
-      Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in
-      öffentliche Repositorien wie GenBank zu unterstützen.
-
-- name:    Centre de calcul d'IN2P3
-  url:     https://dmp.in2p3.fr/
+    Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut
+    in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche
+    Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten
+    aus RDMO und Metadaten aus angrenzenden Systemen direkt mit
+    molekularen Forschungsdaten. Der DataLinker bietet zudem eine
+    Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten,
+    z.B. um eine strukturierte Veröffentlichung von Forschungsdaten
+    nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank
+    zu unterstützen. #magic___^_^___line
+- name: Centre de calcul d'IN2P3
+  url: https://dmp.in2p3.fr/
   contact: Yonny Cardenas
-  mail:    mailto:contact@cc.in2p3.fr
-  lat:     45.7825982
-  lon:     4.8651914
-  color:   gray
+  mail: mailto:contact@cc.in2p3.fr
+  lat: 45.7825982
+  lon: 4.8651914
+  color: gray
   discipline: Physik
 
-- name:    Stiftung Preußischer Kulturbesitz
-  url:     https://www.preussischer-kulturbesitz.de
+- name: Stiftung Preußischer Kulturbesitz
+  url: https://www.preussischer-kulturbesitz.de
   contact: Jens Ludwig
-  lat:     52.5066695
-  lon:     13.352966
-  color:   gray
+  lat: 52.5066695
+  lon: 13.352966
+  color: gray
   discipline: Geistes- und Sozialwissenschaften
 
-- name:    Deutsches Klimarechenzentrum (DKRZ)
-  url:     https://rdmo.dkrz.de
+- name: Deutsches Klimarechenzentrum (DKRZ)
+  url: https://rdmo.dkrz.de
   contact: Karsten Peters, Ivonne Anders
-  mail:    mailto:data@dkrz.de
-  lat:     53.5668648
-  lon:     9.9765854
-  color:   blue
+  mail: mailto:data@dkrz.de
+  lat: 53.5668648
+  lon: 9.9765854
+  color: blue
   discipline: Klima- und Erdsystemforschung
   description: >-
-      Das Deutsche Klimarechenzentrum ist der zentrale IT-Serviceprovider
-      der simulationsbasierten deutschen Klima- und Erdsystemforschung. Das
-      Portfolio der Abteilung Datenmanagement des DKRZ beinhaltet
-      fachspezifische Beratung und Unterstützung sowie maßgeschneiderte Dienste
-      zu allen, das Forschungsdatenmanagement betreffenden, Angelegenheiten
-      (Stichwort „Datenlebenszyklus“). Am DKRZ wird RDMO seit Anfang 2020 in
-      erster Linie zur Erstellung und Pflege von Datenmanagementplänen großer
-      Konsortialprojekte und intedisziplinärer Exzellenzcluster genutzt.
-
-- name:    Universität Tübingen
-  url:     https://rdmo.escience.uni-tuebingen.de
+    Das Deutsche Klimarechenzentrum ist der zentrale IT-Serviceprovider
+    der simulationsbasierten deutschen Klima- und Erdsystemforschung.
+    Das Portfolio der Abteilung Datenmanagement des DKRZ beinhaltet
+    fachspezifische Beratung und Unterstützung sowie maßgeschneiderte
+    Dienste zu allen, das Forschungsdatenmanagement betreffenden,
+    Angelegenheiten (Stichwort „Datenlebenszyklus“). Am DKRZ wird
+    RDMO seit Anfang 2020 in erster Linie zur Erstellung und Pflege
+    von Datenmanagementplänen großer Konsortialprojekte und intedisziplinärer
+    Exzellenzcluster genutzt. #magic___^_^___line
+- name: Universität Tübingen
+  url: https://rdmo.escience.uni-tuebingen.de
   contact: Fabian Hamm
-  mail:    mailto:fdat@dh-center.uni-tuebingen.de
-  lat:     48.5244121
-  lon:     9.0597217
-  color:   gray
+  mail: mailto:fdat@dh-center.uni-tuebingen.de
+  lat: 48.5244121
+  lon: 9.0597217
+  color: gray
 
-- name:    Philipps-Universität Marburg
-  url:     http://rdmo.uni-marburg.de
+- name: Philipps-Universität Marburg
+  url: http://rdmo.uni-marburg.de
   contact: Veit Lorenz
-  mail:    mailto:hefdi@uni-marburg.de
-  lat:     50.810833
-  lon:     8.773611
-  color:   blue
+  mail: mailto:hefdi@uni-marburg.de
+  lat: 50.810833
+  lon: 8.773611
+  color: blue
 
-- name:    Institute of Science and Technology Austria (ISTA)
+- name: Institute of Science and Technology Austria (ISTA)
   # url:     https://rdmo.ista.ac.at
   contact: Doris Ernst
-  mail:    mailto:library@ista.ac.at
-  lat:     48.310556
-  lon:     16.261111
-  color:   gray
+  mail: mailto:library@ista.ac.at
+  lat: 48.310556
+  lon: 16.261111
+  color: gray
 
-- name:    Leuphana Universität Lüneburg
-  url:     https://rdmo.leuphana.de/
+- name: Leuphana Universität Lüneburg
+  url: https://rdmo.leuphana.de/
   contact: Servicestelle Forschungsdatenmanagement
-  mail:    mailto:forschungsdaten@leuphana.de
-  lat:     53.228889
-  lon:     10.401111
-  color:   blue
+  mail: mailto:forschungsdaten@leuphana.de
+  lat: 53.228889
+  lon: 10.401111
+  color: blue
 
-- name:    Universität Bonn
-  url:     https://rdmo.forschungsdaten.uni-bonn.de/
+- name: Universität Bonn
+  url: https://rdmo.forschungsdaten.uni-bonn.de/
   contact: Christian Bittner
-  mail:    mailto:forschungsdaten@uni-bonn.de
-  lat:     50.734040
-  lon:     7.103840
-  color:   gray
+  mail: mailto:forschungsdaten@uni-bonn.de
+  lat: 50.734040
+  lon: 7.103840
+  color: gray
   # description: >-
-     # Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
-     # Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
+  # Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
+  # Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
 
 # - name:  Leibniz-Institut für Pflanzenbiochemie (IPB)
-  # url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
-  # contact: Oliver Duchrow
-  # mail:    mailto:Oliver.Duchrow@ipb-halle.de
-  # gelöscht auf deren Wunsch
+# url:   https://www.ipb-halle.de/forschung/program-center-metacom/forschungsgruppen/computergestuetzte-pflanzenbiochemie/projekte/forschungsdaten/
+# contact: Oliver Duchrow
+# mail:    mailto:Oliver.Duchrow@ipb-halle.de
+# gelöscht auf deren Wunsch
 
 # - name:  EAWAG
-  # url:   https://opendata.eawag.ch/eawagrdm/
-  # contact: Harald von Waldow
-  # mail:  mailto:rdm@eawag.ch
+# url:   https://opendata.eawag.ch/eawagrdm/
+# contact: Harald von Waldow
+# mail:  mailto:rdm@eawag.ch
 
 # - name:    Technische Universität Hamburg
-  # url:     https://dmp.fdm.uni-hamburg.de/
-  # contact: Beate Rajski, Francesca Schulze
-  # mail:    mailto:forschungsdaten@tuhh.de
-  # lat:     53.4610079
-  # lon:     9.9699716
-  # color:   gray
-  # gelöscht auf deren Wunsch
+# url:     https://dmp.fdm.uni-hamburg.de/
+# contact: Beate Rajski, Francesca Schulze
+# mail:    mailto:forschungsdaten@tuhh.de
+# lat:     53.4610079
+# lon:     9.9699716
+# color:   gray
+# gelöscht auf deren Wunsch
 
 # - name:    Forschungszentrum Jülich
-  # url:     https://dmp.fz-juelich.de
-  # contact: Ines Schmahl, Torsten Bronger
-  # mail:    mailto:forschungsdaten@fz-juelich.de
-  # lat:     50.905626
-  # lon:     6.40600
-  # color:   blue
-  # gelöscht auf deren Wunsch
+# url:     https://dmp.fz-juelich.de
+# contact: Ines Schmahl, Torsten Bronger
+# mail:    mailto:forschungsdaten@fz-juelich.de
+# lat:     50.905626
+# lon:     6.40600
+# color:   blue
+# gelöscht auf deren Wunsch
 
 
 # - name:    Staats- und Universitätsbibliothek Dresden (SLUB)
-  # url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
-  # contact: Johannes Sperling, Christin Henze
-  # mail:    mailto:forschungsdaten@slub-dresden.de
-  # lat:     51.028183
-  # lon:     13.736781
-  # color:   gray
-  # gelöscht auf deren Wunsch
+# url:     https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
+# contact: Johannes Sperling, Christin Henze
+# mail:    mailto:forschungsdaten@slub-dresden.de
+# lat:     51.028183
+# lon:     13.736781
+# color:   gray
+# gelöscht auf deren Wunsch
 
 
-- name:    Hochschule Darmstadt
-  url:     https://rdmo.h-da.de
+- name: Hochschule Darmstadt
+  url: https://rdmo.h-da.de
   contact: Andreas Schieberle
-  mail:    mailto:forschungsdaten.bib@h-da.de
-  lat:     49.867370
-  lon:     8.638490
-  color:   blue
+  mail: mailto:forschungsdaten.bib@h-da.de
+  lat: 49.867370
+  lon: 8.638490
+  color: blue
 
-- name:    Hochschule RheinMain
-  url:     http://rdmo.hs-rm.de
+- name: Hochschule RheinMain
+  url: http://rdmo.hs-rm.de
   contact: Jens Möhrstedt
-  mail:    mailto:support-fdm-hlb@hs-rm.de
-  lat:     50.0804713
-  lon:     8.2139031
-  color:   blue
+  mail: mailto:support-fdm-hlb@hs-rm.de
+  lat: 50.0804713
+  lon: 8.2139031
+  color: blue
+
+- name: Helmholtz-Zentrum Dresden - Rossendorf
+  contact: Oliver Knodel
+  mail: o.knodel@hzdr.de
+  lat: 51.063179
+  lon: 13.950314
+  color: gray
