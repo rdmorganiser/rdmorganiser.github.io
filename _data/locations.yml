@@ -511,7 +511,7 @@
 
 - name: Helmholtz-Zentrum Dresden - Rossendorf
   contact: Oliver Knodel
-  mail: o.knodel@hzdr.de
+  mail: mailto:o.knodel@hzdr.de
   lat: 51.063179
   lon: 13.950314
   color: gray
