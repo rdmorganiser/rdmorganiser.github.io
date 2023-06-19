@@ -16,6 +16,14 @@
   lat: 51.4439
   lon: 7.261572
   color: blue
+  
+- name: Helmholtz-Zentrum Dresden - Rossendorf (HZDR)
+  url: https://www.hzdr.de/db/Cms?pNid=0
+  contact: Oliver Knodel
+  mail: mailto:o.knodel@hzdr.de
+  lat: 51.06328
+  lon: 13.95027
+  color: gray
 
 - name: Universitätsallianz Ruhr, Universität Duisburg-Essen
   # url:     http://rdmo.ub.uni-due.de
