@@ -44,7 +44,7 @@
   description: >-
     Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule
     Potsdam verantwortlich für Nachhaltigkeit, Community-Building,
-    Dissemination und Training von RDMO. #magic___^_^___line
+    Dissemination und Training von RDMO.
 - name: Karlsruher Institut für Technologie (KIT)
   # url:     https://rdmo.forschungsdaten.info
   mail: mailto:contact@rdm.kit.edu
@@ -374,7 +374,7 @@
     Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten,
     z.B. um eine strukturierte Veröffentlichung von Forschungsdaten
     nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank
-    zu unterstützen. #magic___^_^___line
+    zu unterstützen.
 - name: Centre de calcul d'IN2P3
   url: https://dmp.in2p3.fr/
   contact: Yonny Cardenas
@@ -409,9 +409,9 @@
     Angelegenheiten (Stichwort „Datenlebenszyklus“). Am DKRZ wird
     RDMO seit Anfang 2020 in erster Linie zur Erstellung und Pflege
     von Datenmanagementplänen großer Konsortialprojekte und intedisziplinärer
-    Exzellenzcluster genutzt. #magic___^_^___line
+    Exzellenzcluster genutzt.
 - name: Universität Tübingen
-  url: https://rdmo.escience.uni-tuebingen.de
+  url: https://rdmo.dh-center.uni-tuebingen.de
   contact: Steve Kaminski
   mail: mailto:fdat@dh-center.uni-tuebingen.de
   lat: 48.5244121
