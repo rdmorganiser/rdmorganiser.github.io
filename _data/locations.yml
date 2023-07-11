@@ -224,7 +224,7 @@
 
 - name: Helmholtz-Zentrum Berlin (HZB)
   contact: Heike Görzig
-  mail: https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
+  # mail: https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
   lat: 52.411138
   lon: 13.129854
   color: gray
