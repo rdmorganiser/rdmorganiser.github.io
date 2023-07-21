@@ -18,7 +18,7 @@ jobs:
       - name: install muffet
         env:
           URL: raviqqe/muffet
-          GREP_SCHEME: "Linux_x86_64"
+          GREP_SCHEME: "linux_amd64"
           TARGET_FOLDER: /home/.local/bin
         run: |
           sudo mkdir -p ${TARGET_FOLDER}
