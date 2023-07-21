@@ -72,14 +72,14 @@
   lon: 11.586435
   color: blue
 
-- name: Universitäts- und Landesbibliothek Darmstadt
-  url: http://tudmo.ulb.tu-darmstadt.de
-  contact: Gerald Jagusch
-  mail: mailto:rdmo@ulb.tu-darmstadt.de
-  lat: 49.861429
-  lon: 8.680805
-  color: blue
-
+- name:    Universitäts- und Landesbibliothek Darmstadt
+  url:     http://tudmo.ulb.tu-darmstadt.de
+  contact: Jürgen Windeck, David Wallace
+  mail:    mailto:rdmo@ulb.tu-darmstadt.de
+  lat:     49.861429
+  lon:     8.680805
+  color:   blue
+  
 - name: Universitätsallianz Ruhr, Technische Universität Dortmund
   url: https://rdmo.uaruhr.de/
   contact: Kathrin Höhner
