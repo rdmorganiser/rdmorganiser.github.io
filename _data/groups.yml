@@ -62,7 +62,7 @@ current:
 - wg:
   name_de: UAG DFG Checkliste
   name_en: UAG DFG Checklist
-  content_de1: Überführung der DFG Checkliste in einen generischen RDMO Katalog samt View
+  content_de1: Überführung der DFG Checkliste in einen generischen RDMO Katalog samt Ansicht
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: Transfer of the DFG checklist into a generic RDMO catalog including a view
   content_en2: open, participation possible
@@ -70,6 +70,18 @@ current:
   date_en: on the 2nd Tuesday (15:00-16:00)
   leader: Kathrin Höhner
   leader_mail: mailto:kathrin.hoehner@tu-dortmund.de
+
+- wg:
+  name_de: UAG Ansichten
+  name_en: UAG Views
+  content_de1: Verbesserung der Generierung der Ansichten
+  content_de2: offen, Teilnahme jederzeit möglich
+  content_en1: Improvement of the generation of views
+  content_en2: open, participation possible
+  date_de: am 4. Donnerstag (10:00-11:00)
+  date_en: on the 4th Thursday (10:00-11:00)
+  leader: Jürgen Windeck
+  leader_mail: mailto:juergen.windeck@tu-darmstadt.de
 
 former:
 - wg:
