@@ -27,7 +27,7 @@ jobs:
         env:
           TARGET_FOLDER: /home/.local/bin
         run: |
-          ${TARGET_FOLDER}/muffet -t 60 -b 16384 --skip-tls-verification \
+          ${TARGET_FOLDER}/muffet --rate-limit 4 -t 60 -b 16384 --skip-tls-verification \
           -e "\.(mkv|mp4|mpg|pdf)$" \
           -e "#" \
           -e "cdlib\.org" \
