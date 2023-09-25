@@ -235,7 +235,7 @@
   mail: mailto:forschungsdaten@ub.rwth-aachen.de
   lat: 50.781177
   lon: 6.065603
-  color: gray
+  color: blue
 
 - name: Istituto Nazionale di Ricerca Metrologica (INRiM)
   url: https://rdmo.inrim.it/
