@@ -338,8 +338,8 @@
       exportieren und diesem anschließend die entsprechenden Fragen
       zuzuordnen, da Fragen nun beispielsweise mit dem Parameter
       “attribute” über die API lokalisiert werden können. Außerdem
-      nutzt RDMO nun “pytest”, mit dem auch die <a href="https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md">RDMO-App
-      getestet werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop
+      nutzt RDMO nun “pytest”, mit dem auch die RDMO-App getestet
+      werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop
       der DHd-AG Datenzentren am 23./24.01.2020 in Frankfurt an
       Main</a> vertreten. Ulrike Wuttke und Olaf Michaelis haben
       die bisher im Projekt erfolgten Anstrengungen vorgestellt,
