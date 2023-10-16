@@ -21,7 +21,7 @@ Diese Instrumente unterstützen Forschende vor allem bei der Erstellung von DMP 
 
 Neben der Dokumentation des Forschungsdaten¬manage¬ments können DMPs auch dazu dienen, die Planung des Forschungsdatenmanagements schon im Vorfeld zu optimieren, die Umsetzung im Projektverlauf – gewissermaßen als Leitfaden – zu unterstützen und dadurch die Effizienz und Qualität von wissenschaftlicher Arbeit zu erhöhen. Die Wissenschaftlerin oder der Wissenschaftler hätte in diesem Fall voraussichtlich eine höhere Motivation, zum eigenen Nutzen einen DMP zu erstellen.
 
-Aufbauend auf externen und eigenen Vorarbeiten (insb. dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) stellte das Projekt ein Werkzeug zur Verfügung, das die strukturierte Planung, Umsetzung und Verwaltung des For¬schungs¬datenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
+Aufbauend auf externen und eigenen Vorarbeiten (insb. dem [WissGrid-Leitfaden zum Forschungsdatenmanagement]({{ site.baseurl }}/docs/Leitfaden_Data-Management-WissGrid.pdf)) stellte das Projekt ein Werkzeug zur Verfügung, das die strukturierte Planung, Umsetzung und Verwaltung des Forschungsdatenmanagements unterstützt, statt nur einen Text für Förderanträge zu generieren. Das Werkzeug kann auch als begleitendes Instrument für den Projektverlauf genutzt werden.
 
 ### Arbeitspakete
 
