@@ -16,7 +16,7 @@
   lat: 51.4439
   lon: 7.261572
   color: blue
-  
+
 - name: Helmholtz-Zentrum Dresden - Rossendorf (HZDR)
   url: https://www.hzdr.de/db/Cms?pNid=0
   contact: Oliver Knodel
@@ -80,14 +80,14 @@
   lon: 11.586435
   color: blue
 
-- name:    Universitäts- und Landesbibliothek Darmstadt
-  url:     http://tudmo.ulb.tu-darmstadt.de
+- name: Universitäts- und Landesbibliothek Darmstadt
+  url: http://tudmo.ulb.tu-darmstadt.de
   contact: Jürgen Windeck, David Wallace
-  mail:    mailto:rdmo@ulb.tu-darmstadt.de
-  lat:     49.861429
-  lon:     8.680805
-  color:   blue
-  
+  mail: mailto:rdmo@ulb.tu-darmstadt.de
+  lat: 49.861429
+  lon: 8.680805
+  color: blue
+
 - name: Universitätsallianz Ruhr, Technische Universität Dortmund
   url: https://rdmo.uaruhr.de/
   contact: Kathrin Höhner
