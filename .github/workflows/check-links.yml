@@ -3,7 +3,7 @@ name: Check for broken links
 
 on:
   schedule:
-    - cron: "1 1 * * 1"
+    - cron: "1 13 * * 1"
   workflow_dispatch:
   # NOTE: entry below disabled due to github api limitations
   # workflow_run:
