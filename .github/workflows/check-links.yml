@@ -33,4 +33,5 @@ jobs:
           -e "#" \
           -e "cdlib\.org" \
           -e "ipk-gatersleben" \
+          -e "uni-rostock" \
           https://rdmorganiser.github.io
