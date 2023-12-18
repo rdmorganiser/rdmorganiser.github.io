@@ -527,7 +527,7 @@
 - name: Max Weber Stiftung
   url: https://rdmo.maxweberstiftung.de/
   contact: Nanette Rißler-Pipka
-  mail: rdmo@maxweberstiftung.de
+  mail: mailto:rdmo@maxweberstiftung.de
   lat: 50.68617
   lon: 7.16029
   color: blue
