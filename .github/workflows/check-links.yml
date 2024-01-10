@@ -34,5 +34,6 @@ jobs:
           -e "cdlib\.org" \
           -e "ipk-gatersleben" \
           -e "rdmo.mpdl.mpg.de" \
+          -e "rdmo.uni-trier.de" \
           -e "uni-rostock" \
           https://rdmorganiser.github.io
