@@ -16,7 +16,7 @@
   lat: 51.4439
   lon: 7.261572
   color: blue
-  
+
 - name: Helmholtz-Zentrum Dresden - Rossendorf (HZDR)
   url: https://www.hzdr.de/db/Cms?pNid=0
   contact: Oliver Knodel
@@ -52,7 +52,7 @@
   description: >-
     Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule
     Potsdam verantwortlich für Nachhaltigkeit, Community-Building,
-    Dissemination und Training von RDMO. #magic___^_^___line
+    Dissemination und Training von RDMO.
 - name: Karlsruher Institut für Technologie (KIT)
   # url:     https://rdmo.forschungsdaten.info
   mail: mailto:contact@rdm.kit.edu
@@ -82,7 +82,7 @@
 
 - name: Universitäts- und Landesbibliothek Darmstadt
   url: http://tudmo.ulb.tu-darmstadt.de
-  contact: Gerald Jagusch
+  contact: Jürgen Windeck, David Wallace
   mail: mailto:rdmo@ulb.tu-darmstadt.de
   lat: 49.861429
   lon: 8.680805
@@ -110,7 +110,7 @@
   mail: mailto:fdm@uni-wuppertal.de
   lat: 51.2458565
   lon: 7.1486939
-  color: gray
+  color: blue
 
 - name: FoDaKo, Universität Siegen
   url: https://rdmo.e-science-service.uni-siegen.de/
@@ -232,7 +232,7 @@
 
 - name: Helmholtz-Zentrum Berlin (HZB)
   contact: Heike Görzig
-  mail: https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
+  # mail: https://www.helmholtz-berlin.de/pubbin/info-anfrage.pl?sprache=de
   lat: 52.411138
   lon: 13.129854
   color: gray
@@ -382,7 +382,7 @@
     Durchsuchbarkeit und Import-/Export-Möglichkeiten dieser Metadaten,
     z.B. um eine strukturierte Veröffentlichung von Forschungsdaten
     nach den FAIR-Prinzipien in öffentliche Repositorien wie GenBank
-    zu unterstützen. #magic___^_^___line
+    zu unterstützen.
 - name: Centre de calcul d'IN2P3
   url: https://dmp.in2p3.fr/
   contact: Yonny Cardenas
@@ -417,10 +417,10 @@
     Angelegenheiten (Stichwort „Datenlebenszyklus“). Am DKRZ wird
     RDMO seit Anfang 2020 in erster Linie zur Erstellung und Pflege
     von Datenmanagementplänen großer Konsortialprojekte und intedisziplinärer
-    Exzellenzcluster genutzt. #magic___^_^___line
+    Exzellenzcluster genutzt.
 - name: Universität Tübingen
-  url: https://rdmo.escience.uni-tuebingen.de
-  contact: Fabian Hamm
+  url: https://rdmo.dh-center.uni-tuebingen.de
+  contact: Steve Kaminski
   mail: mailto:fdat@dh-center.uni-tuebingen.de
   lat: 48.5244121
   lon: 9.0597217
@@ -523,3 +523,11 @@
   lat: 51.063179
   lon: 13.950314
   color: gray
+
+- name: Max Weber Stiftung
+  url: https://rdmo.maxweberstiftung.de/
+  contact: Nanette Rißler-Pipka
+  mail: mailto:rdmo@maxweberstiftung.de
+  lat: 50.68617
+  lon: 7.16029
+  color: blue
