@@ -1,13 +1,13 @@
 ---
-  - event:
-      de: <b>RDMO-Gemeinschaftstreffen (virtuell) </b> <br/> Wir
-        planen mit Ihnen und Euch wichtige Themen zu besprechen,
-        u.a. den Stand der geplanten Vereinsgründung, die Migration
-        und das Ende des Supports 1.x -> 2.0 und viele Updates
-        aus den RDMO-Gruppen und Initiativen mit RDMO-Beteiligung.
-      en: <b>RDMO Community Meeting (Virtual) </b> <br/> We plan
-        to discuss important topics with you, including Status
-        of the planned founding of the association, migration
-        and the end of the Supports 1.x -> 2.0 and many updates
-        from the RDMO groups and Initiatives with RDMO participation.
+- event:
+    de: <b>RDMO-Gemeinschaftstreffen (virtuell) </b> <br/> Wir
+      planen mit Ihnen und Euch wichtige Themen zu besprechen,
+      u.a. den Stand der geplanten Vereinsgründung, die Migration
+      und das Ende des Supports 1.x -> 2.0 und viele Updates
+      aus den RDMO-Gruppen und Initiativen mit RDMO-Beteiligung.
+    en: <b>RDMO Community Meeting (Virtual) </b> <br/> We plan
+      to discuss important topics with you, including Status
+      of the planned founding of the association, migration
+      and the end of the Supports 1.x -> 2.0 and many updates
+      from the RDMO groups and Initiatives with RDMO participation.
     date: 28.02.2024
