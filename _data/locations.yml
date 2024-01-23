@@ -28,7 +28,7 @@
 - name: Universitätsallianz Ruhr, Universität Duisburg-Essen
   # url:     http://rdmo.ub.uni-due.de
   contact: Stephanie Rehwald, Sonja Hendricks, Henning Timm
-  mail: mailto:rds.ub@uni-due.org
+  mail: https://www.uni-due.de/rds/kontakt_formular.php
   lat: 51.429167
   lon: 6.800833
   color: blue
@@ -53,6 +53,7 @@
     Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule
     Potsdam verantwortlich für Nachhaltigkeit, Community-Building,
     Dissemination und Training von RDMO.
+
 - name: Karlsruher Institut für Technologie (KIT)
   # url:     https://rdmo.forschungsdaten.info
   mail: mailto:contact@rdm.kit.edu
@@ -137,7 +138,7 @@
   color: blue
 
 - name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
-  url: https://rdmo.ptb.de
+  url: https://dmp.metrology-rdm.eu
   contact: Giacomo Lanza
   mail: mailto:fdm@ptb.de
   lat: 52.29653
@@ -276,11 +277,10 @@
   lon: 8.0457204
   color: blue
 
-- name: International Center of Insect Physiology and Ecology
-    (ICIPE)
+- name: International Center of Insect Physiology and Ecology (ICIPE)
   url: https://dmmg-dmp.icipe.org/
   contact: Henri Tonnang
-  mail: https://dmmg.icipe.org/service_request.html
+  # mail: https://dmmg.icipe.org/service_request.html
   lat: -1.2218344
   lon: 36.8966253
   color: blue
@@ -335,8 +335,8 @@
   color: gray
 
 - name: Max Rubner-Institut (MRI)
-  contact: Wahib Sahwan
-  mail: mailto:wahib.sahwan@mri.bund.de
+  # contact: Wahib Sahwan
+  # mail: mailto:wahib.sahwan@mri.bund.de
   lat: 49.013579
   lon: 8.426245
   color: gray
