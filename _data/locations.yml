@@ -407,6 +407,13 @@
   lat: 51.9627609
   lon: 7.620459
   color: gray
+- name: Universität Paderborn
+  url: https://rdmo.uni-paderborn.de/
+  contact: Kontaktstelle Forschungsdatenmanagement
+  mail: mailto:kontakt-fdm@imt.uni-paderborn.de
+  lat: 51.708213999847025
+  lon: 8.772273197853455
+  color: blue
 - name: Universität Potsdam
   url: https://rdmo.uni-potsdam.de/
   contact: Janine Straka, Janna Kienbaum
