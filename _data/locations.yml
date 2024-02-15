@@ -212,7 +212,7 @@
     (ICIPE)
   url: https://dmmg-dmp.icipe.org/
   contact: Henri Tonnang
-  mail: https://dmmg.icipe.org/service_request.html
+  # mail: https://dmmg.icipe.org/service_request.html
   lat: -1.2218344
   lon: 36.8966253
   color: blue
@@ -283,8 +283,8 @@
   lon: 11.5763998
   color: blue
 - name: Max Rubner-Institut (MRI)
-  contact: Wahib Sahwan
-  mail: mailto:wahib.sahwan@mri.bund.de
+  # contact: Wahib Sahwan
+  # mail: mailto:wahib.sahwan@mri.bund.de
   lat: 49.013579
   lon: 8.426245
   color: gray
@@ -310,7 +310,7 @@
   lon: 8.773611
   color: blue
 - name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
-  url: https://rdmo.ptb.de
+  url: https://dmp.metrology-rdm.eu
   contact: Giacomo Lanza
   mail: mailto:fdm@ptb.de
   lat: 52.29653
@@ -452,7 +452,7 @@
 - name: Universitätsallianz Ruhr, Ruhr-Universität Bochum
   url: http://rdmo.uaruhr.de
   contact: Johannes Frenzel
-  mail: mailto:researchdata+rdmo@uaruhr.de
+  mail: https://www.uni-due.de/rds/kontakt_formular.php
   lat: 51.4439
   lon: 7.261572
   color: blue
