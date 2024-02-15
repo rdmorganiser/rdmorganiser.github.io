@@ -160,12 +160,6 @@
   lat: 51.06328
   lon: 13.95027
   color: gray
-- name: Helmholtz-Zentrum Dresden - Rossendorf
-  contact: Oliver Knodel
-  mail: mailto:o.knodel@hzdr.de
-  lat: 51.063179
-  lon: 13.950314
-  color: gray
 - name: Hochschul- und Landesbibliothek Fulda
   url: https://rdmo.hlb.hs-fulda.de/
   contact: Patrick Langner, Thomas Richter
