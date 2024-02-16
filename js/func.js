@@ -40,12 +40,12 @@ function len_minus_one(arr) {
 
 function open_marker(id, coords, desc_length) {
   coords = [coords[0] + (0.0007 * desc_length), coords[1]]
-  var off = $('#map').offset()
+  var offset = $('#map').offset().top - $('.navbar').height() - 70
   map.setView(coords, 9)
   for (var i in markers) {
     if (markers[i].id == id) {
       window.scrollTo({
-        top: off.top - 150,
+        top: offset,
         behavior: 'smooth',
       })
       markers[i].openPopup()
