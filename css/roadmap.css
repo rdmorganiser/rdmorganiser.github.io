@@ -1,0 +1,24 @@
+.milestone {
+    display: inline-block;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 20px 0px;
+    padding: 15px;
+}
+
+.milestone span {
+    margin-right: 20px;
+}
+
+.milestone-title-link {
+    margin-top: 0px;
+}
+
+.milestone-stats {
+    float: right;
+
+}
+
+.milestone-meta {
+    float: left;
+}

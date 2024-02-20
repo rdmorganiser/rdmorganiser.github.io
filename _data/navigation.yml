@@ -11,6 +11,10 @@
       label:
         de: Veranstaltungen
         en: Events
+    - key: roadmap
+      label:
+        de: Roadmap
+        en: Roadmap
 
 - key: rdmo-arge
   label:
