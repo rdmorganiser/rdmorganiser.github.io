@@ -8,7 +8,7 @@ function render_milestones() {
   var milestones = $('#milestones')
   fetch_json('https://api.github.com/repos/rdmorganiser/rdmo/milestones')
     .then(res => {
-      console.log(res)
+      res.sort((a, b) => parseFloat(a.updated_at) - parseFloat(b.updated_at))
       return res
     })
     .then(res => {
