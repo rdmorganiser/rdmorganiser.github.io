@@ -29,6 +29,9 @@ function render_milestones() {
         html += '</div>'
         milestone.append(html)
       })
+    }).catch(error => {
+      milestones.append('<br>The roadmap is currently not available. Please try again later.')
+      console.error('[error] ' + error)
     })
 }
 
@@ -38,8 +41,6 @@ function time_diff(pref, dat, postf, defr) {
   }
   var date1 = new Date(dat)
   var date2 = new Date()
-  console.log(date1)
-  console.log(date2)
   if (!(date1 instanceof Date && date2 instanceof Date)) {
     throw new RangeError('Invalid date arguments')
   }
