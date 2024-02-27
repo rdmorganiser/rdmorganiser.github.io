@@ -19,11 +19,9 @@ function render_milestones() {
         var milestone = $(sel)
 
         var html = '<div class="header">'
-        html += '<h2>' + el.title + '</h2>'
+        html += '<h2><a href="' + el.html_url + '" target=_blank>' + el.title + '</a></h2>'
         html += '<h3>(' + el.state + ')</h3>'
         html += '</div>'
-        // var html = '<h2 class="milestone-title-link fl"><a href="' + el.html_url + '" target=_blank>' + el.title +
-        //   '</a></h2>'
         html += '<div class="milestone-meta">'
         html += '<div class="fl">' + time_diff('due by', el.due_on, '', 'no due date') + '</div>'
         html += '<div class="fl">' + time_diff('updated', el.updated_at, 'ago', '') + '</div>'
