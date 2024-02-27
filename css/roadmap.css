@@ -1,9 +1,32 @@
+#milestones .fl {
+	float: left;
+	margin-right: 20px;
+}
+
+#milestones .fl:last-child:after {
+	margin-right: 4px;
+}
+
 .milestone {
 	display: inline-block;
 	width: 100%;
 	border: 1px solid #ccc;
 	margin: 20px 0px;
 	padding: 15px;
+}
+
+.milestone .header {
+	display: flex;
+	width: 100%
+}
+
+.milestone .header h2 {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.milestone .header h3 {
+	margin: 5px;
 }
 
 .milestone span {
@@ -20,4 +43,19 @@
 
 .milestone-meta {
 	float: left;
+}
+
+.milestone-meta div:first-of-type {
+	margin-left: 5px;
+}
+
+
+.milestone-meta .fl {
+	float: left;
+	margin: 0px 20px 0px 0px;
+}
+
+.milestone-stats div:last-of-type {
+	float: right;
+	margin-right: 5px;
 }

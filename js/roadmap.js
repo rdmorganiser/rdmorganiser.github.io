@@ -5,8 +5,9 @@ async function fetch_json(url) {
 }
 
 function render_milestones() {
+  var api_url = 'https://api.github.com/repos/rdmorganiser/rdmo/milestones'
   var milestones = $('#milestones')
-  fetch_json('https://api.github.com/repos/rdmorganiser/rdmo/milestones')
+  fetch_json(api_url)
     .then(res => {
       res.sort((a, b) => parseFloat(a.updated_at) - parseFloat(b.updated_at))
       return res
@@ -16,15 +17,20 @@ function render_milestones() {
         milestones.append('<div class="milestone ' + el.id + '"></div>')
         var sel = '.milestone' + '.' + el.id
         var milestone = $(sel)
-        var html = '<h2 class="milestone-title-link"><a href="' + el.html_url + '" target=_blank>' + el.title +
-          '</a></h2>'
-        html += '<div class="milestone-meta">'
-        html += '<span>' + time_diff('due by', el.due_on, '', 'no due date') + '</span>'
-        html += '<span>' + time_diff('updated', el.updated_at, 'ago', '') + '</span>'
+
+        var html = '<div class="header">'
+        html += '<h2>' + el.title + '</h2>'
+        html += '<h3>(' + el.state + ')</h3>'
         html += '</div>'
-        html += '<div class="milestone-stats">'
-        html += '<span>open issues ' + el.open_issues + '</span>'
-        html += '<span>closed issues ' + el.closed_issues + '</span>'
+        // var html = '<h2 class="milestone-title-link fl"><a href="' + el.html_url + '" target=_blank>' + el.title +
+        //   '</a></h2>'
+        html += '<div class="milestone-meta">'
+        html += '<div class="fl">' + time_diff('due by', el.due_on, '', 'no due date') + '</div>'
+        html += '<div class="fl">' + time_diff('updated', el.updated_at, 'ago', '') + '</div>'
+        html += '</div>'
+        html += '<div class="milestone-stats fr">'
+        html += '<div class="fl">open issues ' + el.open_issues + '</div>'
+        html += '<div>closed issues ' + el.closed_issues + '</div>'
         html += '</div>'
         html += '</div>'
         milestone.append(html)
