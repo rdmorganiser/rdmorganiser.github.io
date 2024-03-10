@@ -1,27 +1,20 @@
 ---
 layout: front
-
-key: index
 lang: de
+key: index
 ---
 
-
 # Willkommen bei RDMO
+
 <hr>
 
-Auf diesen Seiten finden Sie alle wichtigen Informationen rund um die RDMO-Software, aktuelle Veranstaltungen, die RDMO-Community und Möglichkeiten zur Mitarbeit. <br/>
-Hilfestellungen zum Umgang mit RDMO in der Rolle [Nutzung]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) und [Administration]({{ site.baseurl }}/Doku_Admins) sind unter <i>Anleitungen</i> zu finden.<br/>
-Der Schlüssel für die Weiterentwicklung der Software ist eine aktive Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
+Auf diesen Seiten finden Sie alle wichtigen Informationen rund um die RDMO-Software, aktuelle Veranstaltungen, die RDMO-Community und Möglichkeiten zur Mitarbeit. <br/> Hilfestellungen zum Umgang mit RDMO in der Rolle [Nutzung]({{ site.baseurl }}/Doku_User), [Management]({{ site.baseurl }}/Doku_Manager) und [Administration]({{ site.baseurl }}/Doku_Admins) sind unter <i>Anleitungen</i> zu finden.<br/> Der Schlüssel für die Weiterentwicklung der Software ist eine aktive Beteiligung von Interessierten. Daher steht Ihnen eine Auswahl an [Arbeitsgruppen]({{ site.baseurl }}/aktuelles) mit unterschiedlichem Fokus zur Verfügung. Sprechen Sie die Verantwortlichen an oder schreiben Sie eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 
-Die freie Software finden Sie unter:
-: [github.com/rdmorganiser](https://github.com/rdmorganiser)
+Die freie Software finden Sie unter: : [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
-Eine Demo-Instanz finden Sie unter:
-: [rdmo.aip.de](https://rdmo.aip.de)
+Eine Demo-Instanz finden Sie unter: : [rdmo.aip.de](https://rdmo.aip.de)
 
-Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link:
-: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
-
+Um sich für unsere Mailingliste anzumelden, klicken Sie auf folgenden Link: : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
 
 <div style="width: 35%;margin-top: 1%;">
 <h2>Was ist RDMO?</h2>
@@ -29,7 +22,7 @@ Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte be
 </div>
 
 <div style=" margin-left:33%;">
-<img src="./img/3.Möglichkeit.PNG" style="width: 250px;"/>
+<img src="./img/what_is_rdmo.png" style="width: 250px;"/>
 </div>
 
 <div style="width: 33%; margin-left:67%;">
@@ -42,7 +35,6 @@ Wir freuen uns auf Sie!
 Alle RDMO-Nutzende und Institutionen, die über eine eigene Instanz verfügen, können sich Rat und Unterstützung von der RDMO-Community holen.<br/>
 Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Feedback aus den Fachwissenschaften zu berücksichtigen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen.
 
-
 <link rel="stylesheet" href="./css/leaflet.css" />
 
 <script>
@@ -50,6 +42,7 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
 </script>
 
 {% raw  %}
+
 <script id="popup-template" type="text/x-handlebars-template">
 
 <h4>{{name}}</h4>
@@ -74,9 +67,11 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
 </dl>
 
 </script>
+
 {% endraw %}
 
 {% raw  %}
+
 <script id="legend-template" type="text/x-handlebars-template">
 
 <p>
@@ -87,15 +82,21 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
 </p>
 
 </script>
+
 {% endraw %}
 
 <script src="./js/func.js"></script>
+
 <script src="./js/handlebars.min.js"></script>
+
 <script src="./js/leaflet.js"></script>
+
 <script src="./js/map.js"></script>
 
 <script src="./js/tablesorter.min.js"></script>
+
 <script src="./js/tablesorter.widgets.js"></script>
+
 <link rel="stylesheet" type="text/css" href="./css/table.css">
 
 <div id="map" class="map"></div>
