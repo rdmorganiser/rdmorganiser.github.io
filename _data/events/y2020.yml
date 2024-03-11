@@ -338,8 +338,8 @@
       exportieren und diesem anschließend die entsprechenden Fragen
       zuzuordnen, da Fragen nun beispielsweise mit dem Parameter
       “attribute” über die API lokalisiert werden können. Außerdem
-      nutzt RDMO nun “pytest”, mit dem auch die <a href="https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md">RDMO-App
-      getestet werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop
+      nutzt RDMO nun “pytest”, mit dem auch die RDMO-App getestet
+      werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop
       der DHd-AG Datenzentren am 23./24.01.2020 in Frankfurt an
       Main</a> vertreten. Ulrike Wuttke und Olaf Michaelis haben
       die bisher im Projekt erfolgten Anstrengungen vorgestellt,
@@ -355,10 +355,9 @@
       assign the corresponding questions to it, since questions
       can now be localized via the API using the "attribute" parameter.
       Furthermore, RDMO now uses "pytest", which can also be used
-      to [test the RDMO app](https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md).
-      In January Ulrike Wuttke and Olaf Michaelis presented at
-      the [workshop of the DHd-AG data centers on 23/24.01.2020
-      in Frankfurt an Main](http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020)
+      to test the RDMO app. In January Ulrike Wuttke and Olaf
+      Michaelis presented at the [workshop of the DHd-AG data
+      centers on 23/24.01.2020 in Frankfurt an Main](http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020)
       the efforts made by the RDMO-project to make it Datacite
       compatible. The paper "From Project to Sustainable Tool
       for Research Data Management - The Example of Research Data
@@ -378,7 +377,7 @@
 - event:
     de: Im Mittelpunkt des inzwischen 3. RDMO-Community-Treffens
       am 24.02.2020 am Leibniz-Institut für Astrophysik Potsdam
-      (AIP) werden die Verabschiedung des <a href="{{site.baseurl}}/docs/RDMO-Manifest-122019.pdf">RDMO-Manifests</a>
+      (AIP) werden die Verabschiedung des <a href="/docs/RDMO-Manifest-122019.pdf">RDMO-Manifests</a>
       und die Gründung der RDMO Community, insbesondere die Konstituierung
       der <i>Steuerungsgruppe</i> und der <i>Software-Gruppe</i>
       stehen. Außerdem sind wieder kurze <i>Spotlights</i> aus

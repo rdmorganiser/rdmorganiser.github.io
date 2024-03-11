@@ -2,9 +2,6 @@
 
 # rdmorganiser.github.io
 
-<!--- mdtoc: toc begin -->
-<!--- mdtoc: toc end -->
-
 This is the repository for the public pages of the RDMO Community (RDMO Arbeitsgemeinschaft).
 
-The pages can be found at https://rdmorganiser.github.io/
+The pages can be found at [https://rdmorganiser.github.io/](https://rdmorganiser.github.io/)
