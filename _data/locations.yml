@@ -176,7 +176,6 @@
   color: blue
 
 - name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
-		 
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
@@ -431,5 +430,3 @@
   lat: 45.014953
   lon: 7.637828
   color: gray
-
-...
