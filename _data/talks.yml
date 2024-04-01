@@ -107,7 +107,7 @@
   poster: https://escience.aip.de/ak-forschungsdaten/wp-content/uploads/2018/06/rdmo-poster.pdf
 
 - event: "DMP Common Standards WG - RDA 11th Plenary meeting"
-  url: https://www.rd-alliance.org/dmp-common-standards-wg-rda-11th-plenary-meeting
+  # url: https://www.rd-alliance.org/dmp-common-standards-wg-rda-11th-plenary-meeting
   date: 2018-03-21
   place: Berlin
   title: RDMO Lightning Talk
