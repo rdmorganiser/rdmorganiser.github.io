@@ -31,6 +31,14 @@
   lon: 11.5763998
   color: blue
 
+- name: Deutsches Elektronen-Synchrotron DESY
+  url: https://rdmo.desy.de/
+  contact: Martin Köhler
+  mail: mailto:library@desy.de
+  lat: 53.573554398905586
+  lon: 9.880975
+  color: blue
+  
 - name: Julius-Kühn-Institut (JKI)
   url: https://dbfz.rdmo.julius-kuehn.de/
   contact: Christoph Sinn, Ulrike Stahl
