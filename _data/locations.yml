@@ -31,6 +31,14 @@
   lon: 11.5763998
   color: blue
 
+- name: Deutsches Elektronen-Synchrotron DESY
+  url: https://rdmo.desy.de/
+  contact: Martin Köhler
+  mail: mailto:library@desy.de
+  lat: 53.573554398905586
+  lon: 9.880975
+  color: blue
+  
 - name: Julius-Kühn-Institut (JKI)
   url: https://dbfz.rdmo.julius-kuehn.de/
   contact: Christoph Sinn, Ulrike Stahl
@@ -95,7 +103,7 @@
   lon: 8.680805
   color: blue
 
-- name: Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+- name: Physikalisch-Technische Bundesanstalt (PTB)
   url: https://dmp.metrology-rdm.eu/
   contact: Giacomo Lanza
   mail: mailto:fdm@ptb.de
@@ -149,7 +157,7 @@
   mail: mailto:forschungsdaten@tu-braunschweig.de
   lat: 52.2735074
   lon: 10.5296839
-  color: blue
+  color: gray
 
 - name: Deutsches Klimarechenzentrum (DKRZ)
   url: https://rdmo.dkrz.de/
@@ -175,8 +183,7 @@
   lon: 6.7899203
   color: blue
 
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
-    (IPK)
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
@@ -192,7 +199,7 @@
   lon: 10.401111
   color: blue
 
-- name: PUBLISSO / ZB MED
+- name: PUBLISSO / ZB MED / RDMO4Life
   url: https://rdmo.publisso.de/
   contact: Roman Riedel
   mail: mailto:publisso@zbmed.de
@@ -268,8 +275,8 @@
   url: https://dmp.tu-berlin.de/
   contact: Britta Steinke
   mail: mailto:szf@ub.tu-berlin.de
-  lat: 52.512556072022434
-  lon: 13.32659749475189
+  lat: 52.512556
+  lon: 13.326597
   color: blue
 
 - name: Universitätsbibliothek Osnabrück
@@ -293,15 +300,15 @@
   contact: Kontaktstelle Forschungsdatenmanagement
   mail: mailto:imt@uni-paderborn.dekontakt-fdm@imt.uni-paderborn.de
   lat: 51.70819
-  # lon: 8.77271
+  lon: 8.77271
   # color: blue
 
 - name: Johannes Gutenberg Universität Mainz (JGU)
   url: https://rdmo.zdv.uni-mainz.de/
   contact: Kompetenzteam Forschungsdaten
   mail: mailto:forschungsdaten@uni-mainz.de
-  lat: 49.98938
-  lon: 8.23284
+  lat: 50.93341
+  lon: 11.58192
   color: gray
 
 - name: Hochschul- und Landesbibliothek Fulda
@@ -342,18 +349,18 @@
   mail: mailto:o.knodel@hzdr.de
   lat: 51.06328
   lon: 13.95027
-  color: gray
+  color: blue
 
 - name: RWTH Aachen University
   url: https://rdmo.rwth-aachen.de/
-  contact: Daniela Hausen, Sabine Schönau
+  contact: Sabine Schönau
   mail: mailto:forschungsdaten@ub.rwth-aachen.de
   lat: 50.781177
   lon: 6.065603
-  color: gray
+  color: blue
 
 - name: IZUS / Universitätsbibliothek Stuttgart
-  # url: https://rdmo.forschungsdaten.info/
+  url: https://rdmo.forschungsdaten.info/
   contact: Dorothea Iglezakis, Björn Selent
   mail: mailto:fokus@izus.uni-stuttgart.de
   lat: 48.78231
@@ -361,7 +368,7 @@
   color: blue
 
 - name: Karlsruher Institut für Technologie (KIT)
-  # url: https://rdmo.forschungsdaten.info/
+  url: https://rdmo.forschungsdaten.info/
   contact: Kerstin Vanessa Wedlich-Zachodin
   mail: mailto:contact@rdm.kit.edu
   lat: 49.00955
@@ -384,8 +391,39 @@
   lon: 12.133373
   color: blue
 
-- name: International Center of Insect Physiology and Ecology
-    (ICIPE)
+- name: Fachhochschule Münster
+  # url: https://rdmo.fh-muenster.de/
+  contact: Frank Berkemeier
+  mail: mailto:forschungsdaten@uni-muenster.de
+  lat: 51.9627609
+  lon: 7.620459
+  color: blue
+
+- name: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+  # url: https://rdmo.dlr.de/
+  contact: Jutta Graf, Christian Langenbach
+  mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
+  lat: 48.0853178
+  lon: 11.2789751
+  color: blue
+
+# - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
+  # url:
+  # contact: Stephan Brosig
+  # mail:
+  # lat: 51.49522
+  # lon: 11.93823
+  # color: gray
+
+- name: Nationale Forschungsdateninfrastruktur für die Chemie
+  url: https://rdmo-test.nfdi4chem.ulb.tu-darmstadt.de/
+  contact: Ann-Christin Andres, Daniela Hausen
+  mail: mailto:rdmo@nfdi4chem.de
+  lat: 49.861429
+  lon: 8.680805
+  color: gray
+
+- name: International Center of Insect Physiology and Ecology (ICIPE)
   url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
   # mail: https://dmmg.icipe.org/service_request.html
