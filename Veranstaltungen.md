@@ -52,18 +52,13 @@ Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informa
 
 Unsere Community hat Inhalte über Datenmanagementplänen und RDMO produziert:
 
-<details>
-  <summary style="list-style-image: &#9658;"><u>Siehe Liste der Artikel:</u></summary>
-  <ul class="talks">
-{% for talk in site.data.talks %}
-    <li>
-...
-    </li>
-{% endfor %}
-  </ul>
-</details>
+Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H. (2018). [Aktives Forschungsdatenmanagement](https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml), ABI Technik, 38(1), 55-64. [https://doi.org/10.1515/abitech-2018-0008](https://doi.org/10.1515/abitech-2018-0008)
 
+Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H. (2017). Research data management organiser. In _Proceedings of the 14th International Conference on Digital Preservation_, 25-29. [http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf](http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf)
 
+Henzen, ...
+
+Anders, ...
 
 ## Vorträge
 
