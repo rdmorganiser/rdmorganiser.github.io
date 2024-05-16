@@ -407,6 +407,14 @@
   lon: 11.2789751
   color: blue
 
+- name: Sächsische Landesinitiative zum Forschungsdatenmanagement (SaxFDM)
+  # url: https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/
+  contact: Carina Becker
+  mail: mailto:carina.becker@tu-dresden.de
+  lat: 51.028183
+  lon: 13.736781
+  color: gray
+
 # - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
   # url:
   # contact: Stephan Brosig
