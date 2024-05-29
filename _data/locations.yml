@@ -208,8 +208,8 @@
   color: blue
 
 - name: Goethe Universität Frankfurt am Main
-  url: https://rdmo.server.uni-frankfurt.de/
-  contact: Nina Dworschak
+  url: https://rdmo.uni-frankfurt.de/
+  contact: Yves Vincent Grossmann
   mail: mailto:forschungsdaten@ub.uni-frankfurt.de
   lat: 50.127778
   lon: 8.666667
