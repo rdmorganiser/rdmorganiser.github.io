@@ -59,7 +59,7 @@
   authors: Jochen Klar
 
 - event: "7. Bibliothekskongress"
-  url: https://bibliothekartag2018.de/
+  # url: https://bibliothekartag2018.de/
   date: 2019-03-20
   place: Leipzig
   title: Aktives Datenmanagement mit RDMO
@@ -89,7 +89,7 @@
   authors: Claudia Kramer
 
 - event: "107. Bibliothekartag"
-  url: https://bibliothekartag2018.de/
+  # url: https://bibliothekartag2018.de/
   date: 2018-06-13
   place: Berlin
   title: Aktives Forschungsdatenmanagement - Das DFG-Projekt Research
