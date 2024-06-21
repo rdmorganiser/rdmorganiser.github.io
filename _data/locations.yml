@@ -416,7 +416,7 @@
   # color: gray
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
-  url: https://rdmo-test.nfdi4chem.ulb.tu-darmstadt.de/
+  url: https://rdmo.nfdi4chem.de/
   contact: Ann-Christin Andres, Daniela Hausen
   mail: mailto:rdmo@nfdi4chem.de
   lat: 49.861429
