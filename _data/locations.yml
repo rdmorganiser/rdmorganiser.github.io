@@ -208,8 +208,8 @@
   color: blue
 
 - name: Goethe Universität Frankfurt am Main
-  url: https://rdmo.server.uni-frankfurt.de/
-  contact: Nina Dworschak
+  url: https://rdmo.uni-frankfurt.de/
+  contact: Yves Vincent Grossmann
   mail: mailto:forschungsdaten@ub.uni-frankfurt.de
   lat: 50.127778
   lon: 8.666667
@@ -317,7 +317,7 @@
   mail: mailto:forschungsdaten@hlb.hs-fulda.de
   lat: 50.5653467
   lon: 9.68746859
-  color: gray
+  color: blue
 
 - name: Universität Potsdam
   url: https://rdmo.uni-potsdam.de/
@@ -424,7 +424,7 @@
   # color: gray
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
-  url: https://rdmo-test.nfdi4chem.ulb.tu-darmstadt.de/
+  url: https://rdmo.nfdi4chem.de/
   contact: Ann-Christin Andres, Daniela Hausen
   mail: mailto:rdmo@nfdi4chem.de
   lat: 49.861429
