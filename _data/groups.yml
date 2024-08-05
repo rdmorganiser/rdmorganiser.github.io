@@ -72,6 +72,19 @@ current:
   leader_mail: mailto:kathrin.hoehner@tu-dortmund.de
 
 - wg:
+  name_de: UAG Laufende Projekte
+  name_en: UAG Actual Projects
+  content_de1: tbd
+  content_de2: offen, Teilnahme jederzeit möglich
+  content_en1: tbd
+  content_en2: open, participation possible
+  date_de: am 4. Montag (11:00-12:00)
+  date_en: on the 4th Monday (11:00-12:00)
+  leader: tdb
+  leader_mail: 
+  
+former:
+- wg:
   name_de: UAG Ansichten
   name_en: UAG Views
   content_de1: Verbesserung der Generierung der Ansichten
@@ -82,8 +95,7 @@ current:
   date_en: on the 4th Thursday (10:00-11:00)
   leader: Jürgen Windeck
   leader_mail: mailto:juergen.windeck@tu-darmstadt.de
-
-former:
+  
 - wg:
   name_de: UAG Werbung und Außenkooperationen
   name_en: UAG advertising and external cooperation
