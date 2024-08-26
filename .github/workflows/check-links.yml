@@ -32,4 +32,5 @@ jobs:
           -e "\.(mkv|mp4|mpg|pdf)$" \
           -e "#" \
           -e "rdmo.*.de" \
+          -e "twitter" \
           https://rdmorganiser.github.io
