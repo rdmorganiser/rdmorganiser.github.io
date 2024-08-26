@@ -1,36 +1,20 @@
 ---
 layout: page
-
-key: workshop
 lang: de
+key: workshop
 ---
 
-Workshop:
----------
+## Workshop:
 
-Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI
-==========================================================================
+# Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI
 
-Die Steuerungsgruppe der [Arbeitsgemeinschaft RDMO](https://rdmorganiser.github.io/Community/) hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einladen,
-aktiv mit einem Kurzvortrag an dem virtuellen Workshop “Erstellung von Datenmanagementplänen und
-Einsatz von DMP Tools in der NFDI” teilzunehmen. Das RDMO-Team hat in den letzten Jahren
-eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten
-Region veranstaltet.
+Die Steuerungsgruppe der [Arbeitsgemeinschaft RDMO](https://rdmorganiser.github.io/Community/) hat gemeinsam mit dem NFDI Direktorat und dem Konsortium NFDI4Ing einladen, aktiv mit einem Kurzvortrag an dem virtuellen Workshop “Erstellung von Datenmanagementplänen und Einsatz von DMP Tools in der NFDI” teilzunehmen. Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
 
-Vor dem Hintergrund der [Leipzig-Berlin-Erklärung zu NFDI-https://rdmorganiser.github.io/Community/Querschnittsthemen der
-Infrastrukturentwicklung](https://zenodo.org/record/3895209) und
-dem darin genannten Querschnittsthema “Erstellung von Datenmanagementplänen”
-möchten wir den Austausch innerhalb der NFDI dazu anregen. Ziel des Workshops ist,
-einen Überblick über Planungen zu erhalten wie in den NFDI Konsortien das
-Forschungsdatenmanagement durchgeführt und ein Datenmanagementplan (DMP) erstellt,
-genutzt und projektbegleitend weitergeführt werden soll. Dabei liegt ein besonderer
-Fokus auf den genutzten Tools wie z.B RDMO, DMPonline oder individuell erstellten Templates.
+Vor dem Hintergrund der [Leipzig-Berlin-Erklärung zu NFDI-https://rdmorganiser.github.io/Community/Querschnittsthemen der Infrastrukturentwicklung](https://zenodo.org/record/3895209) und dem darin genannten Querschnittsthema “Erstellung von Datenmanagementplänen” möchten wir den Austausch innerhalb der NFDI dazu anregen. Ziel des Workshops ist, einen Überblick über Planungen zu erhalten wie in den NFDI Konsortien das Forschungsdatenmanagement durchgeführt und ein Datenmanagementplan (DMP) erstellt, genutzt und projektbegleitend weitergeführt werden soll. Dabei liegt ein besonderer Fokus auf den genutzten Tools wie z.B RDMO, DMPonline oder individuell erstellten Templates.
 
 [Ergebnisse/Bericht](/docs/nfdiws/wsreport)
 
-
-Programm
----------------------------------
+## Programm
 
 * Begrüssung (RDMO StG)
 * Ansprache von Y. Sure-Vetter (NFDI e.V. Direktorat)
@@ -78,5 +62,3 @@ Abschluss-Diskussion
 Zusammenfassung + Abschluss
 
 [Ergebnisse/Bericht](/docs/nfdiws/wsreport)
-
-[Zeitplan](https://meetings.aip.de/event/11/)
