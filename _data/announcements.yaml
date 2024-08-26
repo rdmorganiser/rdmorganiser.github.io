@@ -1,7 +1,11 @@
 ---
 current:
-- event:
-    de: 
-    en: 
-  date: 
+- event: 
+     de: Virtuelles 12. RDMO Community-Treffen. Weitere Details und Agenda folgen!
+     en: Virtual 12th RDMO Community Meeting. More details and agenda to follow!
+     date: 8.10.2024 (10-14)
 
+- event: 
+     de: RDMO Hackathon. Die Veranstaltung findet vom 16. bis 17. Oktober 2024 in München an der Universitätsbibliothek der LMU statt. Mehr Infos und Anmeldung <a href='https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024' target='_blank'>https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024</a>
+     en: RDMO Hackathon. The event will take place from October 16th to 17th, 2024 in Munich at the LMU University Library. More information and registration <a href='https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024' target='_blank'>https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024</a>
+date: 16. + 17.10.2024
