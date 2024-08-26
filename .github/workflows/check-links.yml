@@ -33,4 +33,5 @@ jobs:
           -e "#" \
           -e "rdmo.*.de" \
           -e "twitter" \
+          -e "www.ub.uni-rostock.de/forschungsdaten" \
           https://rdmorganiser.github.io
