@@ -38,7 +38,7 @@
   lat: 53.573554398905586
   lon: 9.880975
   color: blue
-  
+
 - name: Julius-Kühn-Institut (JKI)
   url: https://dbfz.rdmo.julius-kuehn.de/
   contact: Christoph Sinn, Ulrike Stahl
@@ -183,7 +183,8 @@
   lon: 6.7899203
   color: blue
 
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
+    (IPK)
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
@@ -333,7 +334,7 @@
   mail: mailto:fdat@dh-center.uni-tuebingen.de
   lat: 48.5244121
   lon: 9.0597217
-  color: gray
+  color: blue
 
 - name: Universität Bonn
   url: https://rdmo.forschungsdaten.uni-bonn.de/
@@ -408,12 +409,12 @@
   color: blue
 
 # - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
-  # url:
-  # contact: Stephan Brosig
-  # mail:
-  # lat: 51.49522
-  # lon: 11.93823
-  # color: gray
+# url:
+# contact: Stephan Brosig
+# mail:
+# lat: 51.49522
+# lon: 11.93823
+# color: gray
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
   url: https://rdmo.nfdi4chem.de/
@@ -423,7 +424,8 @@
   lon: 8.680805
   color: gray
 
-- name: International Center of Insect Physiology and Ecology (ICIPE)
+- name: International Center of Insect Physiology and Ecology
+    (ICIPE)
   url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
   # mail: https://dmmg.icipe.org/service_request.html
