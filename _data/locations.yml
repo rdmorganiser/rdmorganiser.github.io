@@ -350,6 +350,14 @@
   mail: mailto:o.knodel@hzdr.de
   lat: 51.06328
   lon: 13.95027
+  color: bluezzz
+
+- name: GSI Helmholtzzentrum für Schwerionenforschung GmbH
+  url: https://rdmo.gsi.de/
+  contact: Andrew Mistry
+  mail: mailto:rdmo-help@gsi.de
+  lat: 49.93165191349084
+  lon: 8.679370924793428
   color: blue
 
 - name: RWTH Aachen University
