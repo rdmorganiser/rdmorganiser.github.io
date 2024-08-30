@@ -1,10 +1,19 @@
 ---
 current:
   - event:
-      de: Virtuelles 12. RDMO Community-Treffen. Weitere Details
-        und Agenda folgen!
-      en: Virtual 12th RDMO Community Meeting. More details and
-        agenda to follow!
+      de: >
+        **12. RDMO-Gemeinschaftstreffen** (virtuell)<br/>Geplant
+        sind unter anderem Vorstellungen einiger Projekte aus
+        der Community, des NFDI-Basisdienstes DMP4NFDI, der Möglichkeiten
+        von RDMO-Plugins und des neuen RDMO-Features, das das
+        Mergen von Attributen erlaubt. Die Registrierung findet
+        sich [hier](https://tu-darmstadt.zoom-x.de/meeting/register/u5Urce6gpzwsH9QCwwfLwZgxojtlvTvlYsqT)
+      en: >
+        **12. RDMO community meeting** (virtual)<br/>Planned are
+        among other things, presentations of some projects from
+        the community, the NFDI basic service DMP4NFDI, the possibilities
+        of RDMO plugins and the new RDMO feature that allows attributes
+        to be merged. You can register [here](https://tu-darmstadt.zoom-x.de/meeting/register/u5Urce6gpzwsH9QCwwfLwZgxojtlvTvlYsqT)
     date: 8.10.2024 (10-14)
 
   - event:
