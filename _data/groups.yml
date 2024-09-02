@@ -62,9 +62,9 @@ current:
 - wg:
   name_de: UAG Laufende Projekte
   name_en: UAG Actual Projects
-  content_de1: tbd
+  content_de1: Anpassung von Fragen und Hilfetexten in Hinsicht auf noch aktive Projekte
   content_de2: offen, Teilnahme jederzeit möglich
-  content_en1: tbd
+  content_en1: Adjustment von questions and help texts considering still running projects
   content_en2: open, participation possible
   date_de: am 4. Montag (11:00-12:00)
   date_en: on the 4th Monday (11:00-12:00)
@@ -76,9 +76,9 @@ former:
   name_de: UAG Ansichten
   name_en: UAG Views
   content_de1: Verbesserung der Generierung der Ansichten
-  content_de2: offen, Teilnahme jederzeit möglich
+  content_de2: pausiert
   content_en1: Improvement of the generation of views
-  content_en2: open, participation possible
+  content_en2: paused
   date_de: --#am 4. Donnerstag (10:00-11:00)
   date_en: --#on the 4th Thursday (10:00-11:00)
   leader: Jürgen Windeck
@@ -88,9 +88,9 @@ former:
   name_de: UAG DFG Checkliste
   name_en: UAG DFG Checklist
   content_de1: Überführung der DFG Checkliste in einen generischen RDMO Katalog samt Ansicht
-  content_de2: offen, Teilnahme jederzeit möglich
+  content_de2: abgeschlossen, keine Teilnahme mehr möglich
   content_en1: Transfer of the DFG checklist into a generic RDMO catalog including a view
-  content_en2: open, participation possible
+  content_en2: completed, no longer possible to participate
   date_de: --#am 2. Dienstag (15:00-16:00)
   date_en: --#on the 2nd Tuesday (15:00-16:00)
   leader: Kathrin Höhner
