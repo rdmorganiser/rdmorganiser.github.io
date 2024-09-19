@@ -408,9 +408,9 @@
   lon: 7.620459
   color: blue
 
-- name: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
-  # url: https://rdmo.dlr.de/
-  contact: Jutta Graf, Christian Langenbach
+- name: Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
+  url: https://rdmo.dlr.de/
+  contact: Christian Langenbach
   mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
   lat: 48.0853178
   lon: 11.2789751
