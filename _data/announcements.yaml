@@ -6,15 +6,14 @@ current:
         sind unter anderem Vorstellungen einiger Projekte aus
         der Community, des NFDI-Basisdienstes DMP4NFDI, der Möglichkeiten
         von RDMO-Plugins und des neuen RDMO-Features, das das
-        Mergen von Attributen erlaubt. Die Registrierung findet
-        sich [hier](https://tu-darmstadt.zoom-x.de/meeting/register/u5Urce6gpzwsH9QCwwfLwZgxojtlvTvlYsqT)
+        Mergen von Attributen erlaubt.
       en: >
         **12. RDMO community meeting** (virtual)<br/>Planned are
         among other things, presentations of some projects from
         the community, the NFDI basic service DMP4NFDI, the possibilities
         of RDMO plugins and the new RDMO feature that allows attributes
-        to be merged. You can register [here](https://tu-darmstadt.zoom-x.de/meeting/register/u5Urce6gpzwsH9QCwwfLwZgxojtlvTvlYsqT)
-    date: 8.10.2024 (10-14)
+        to be merged.
+    date: 8.10.2024
 
   - event:
       de: RDMO Hackathon. Die Veranstaltung findet vom 16. bis
@@ -26,8 +25,15 @@ current:
         More information and registration <a href='https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024'
         target='_blank'>https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024</a>
     date: 16.10.2024
-    
+
   - event:
-      de: Am 19.11.2024 findet in der UB der TU Berlin die Gründungsversammlung für den "RDMO e.V." statt. Daran Interessierte können sich sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden. Nähere Infos zur Vereinsgründung finden Sie [hier](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
-      en: The founding meeting for the “RDMO e.V.” will take place on 19.11.2024 at the TU Berlin University Library. Interested parties are welcome to contact the steering group in advance. You can find more information about the founding of the association [here](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
+      de: Am 19.11.2024 findet in der UB der TU Berlin die Gründungsversammlung
+        für den "RDMO e.V." statt. Daran Interessierte können
+        sich sehr gerne noch im Vorfeld an die Steuerungsgruppe
+        wenden. Nähere Infos zur Vereinsgründung finden Sie [hier](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
+      en: The founding meeting for the “RDMO e.V.” will take place
+        on 19.11.2024 at the TU Berlin University Library. Interested
+        parties are welcome to contact the steering group in advance.
+        You can find more information about the founding of the
+        association [here](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
     date: 19.11.2024
