@@ -434,7 +434,7 @@
 
 - name: International Center of Insect Physiology and Ecology
     (ICIPE)
-  url: https://dmmg-dmp.icipe.org/
+  # url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
   # mail: https://dmmg.icipe.org/service_request.html
   lat: -1.2218344
