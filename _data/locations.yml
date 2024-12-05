@@ -23,6 +23,14 @@
   lon: 7.16029
   color: blue
 
+- name: Universität Regensburg
+  url: https://rdmo.ur.de/
+  contact: Sophie Stolzenberger 
+  mail: mailto:datahub@ur.de 
+  lat: 49.00335323280793
+  lon: 12.09420057012294
+  color: blue
+  
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
   contact: rdmo@mpdl.mpg.de
