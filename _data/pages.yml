@@ -60,6 +60,14 @@ rdmo-begin:
     de: Historie
     en: en/History
 
+rdmo-pub:
+  label:
+    de: Publikationen
+    en: Publications
+  path:
+    de: Publikationen
+    en: en/Publications
+
 more:
   label:
     de: Weiteres

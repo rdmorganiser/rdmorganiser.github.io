@@ -38,11 +38,19 @@
         de: für Admins
         en: for admins
 
-- key: rdmo-begin
-  label:
+- label:
     de: Historie
     en: History
-
+  submenu:
+    - key: rdmo-begin
+      label:
+        de: Historie
+        en: History
+    - key: rdmo-pub
+      label:
+        de: Publikationen
+        en: Publications
+        
 - key: more
   label:
     de: Weiteres
