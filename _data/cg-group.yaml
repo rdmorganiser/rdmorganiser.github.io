@@ -10,6 +10,11 @@ current:
   image: img/team/Anders_Y.jpg
 
 - text:
+    de: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Datenmanagerin am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz. Sie ist verantwortlich für die Schulung von wissenschaftlichem Personal im Bereich Forschungsdatenmanagement, die Unterstützung von DMPs in Förderanträgen und Projekten sowie die Entwicklung von RDM-Politiken und -Richtlinien."
+    en: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a Data Manager at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz. She is responsible for training scientific staff on research data management, supporting DMPs in grants and projects, and developing RDM policies and guidelines."
+  image: img/team/Yasmin_Demerdash.jpg
+
+- text:
     de: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
     en: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
   image: img/team/Grossmann.jpg
