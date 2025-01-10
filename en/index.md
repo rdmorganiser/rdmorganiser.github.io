@@ -10,11 +10,16 @@ key: index
 
 On these pages you will find all important information about the RDMO software, current events, the RDMO community and opportunities to get involved. <br/> Help for handling RDMO in the roles [Usage]({{ site.baseurl }}/en/Docu_User), [Management]({{ site.baseurl }}/en/Docu_Manager) and [Administration]({{ site.baseurl }}/en/Docu_Admins) can be found under <i>Informations</i>.<br/> The key to the further development of the software is the active participation of interested parties. A selection of [working groups]({{ site.baseurl }}/en/news) with different focuses is therefore available to you. Talk to the responsible person or write an <a href="mailto:rdmo-contact@listserv.dfn.de">mail</a> to the internal mailing list.<br/>
 
-The free software: : [github.com/rdmorganiser](https://github.com/rdmorganiser)
+The free software: [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
-Demo instance: : [rdmo.aip.de](https://rdmo.aip.de)
+Demo instance: [rdmo.aip.de](https://rdmo.aip.de)
 
-Register for our public mailing list: : [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo)
+Register for our public mailing list, to be always updated: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo)
+
+Register for the public mailing list of the Content Group, to contribute to the development of catalogues and other material - no programming experience required! [rdmo-contentgruppe@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo-contentgruppe)
+
+Register to our group chat, for sorking together and for troubleshooting: [RDMO-Slack](https://rdmo.slack.com/signin)
+
 
 <div style="width: 35%;margin-top: 1%;">
 <h2>What is RDMO?</h2>
