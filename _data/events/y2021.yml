@@ -159,7 +159,6 @@
 - event:
     de: <b>6. RDMO-Community-Treffen (virtuell)</b><br/>[Programm](/events/workshop102021_programm)
     en: 6th Community-Meeting (virtual) [Program](/en/events/workshop102021_programm)
-      and [Registration (German language)](https://meetings.aip.de/event/13/)
   date: 04.10.2021
 
 - event:
@@ -167,15 +166,13 @@
       <a href="/events/workshop102021_programm/">Programm</a>
       ist jetzt veröffentlicht. Wir werden noch die Beiträge für
       die Breakout-Sessions in der letzten September-Woche hinzufügen.
-      Die <a href="https://meetings.aip.de/event/13/">Registrierung</a>
-      ist offen. Software - der Release Candidate von RDMO befindet
-      sich noch in der Testphase. Wir würden uns freuen, wenn
-      Institutionen, die über Testinstanzen oder ähnliches verfügen,
-      die Version ausprobieren würden, damit etwaige Fehler schon
-      in der Testphase gefunden und ausgemerzt werden können.
-      Der Release Candidate muss direkt von GitHub installiert
-      werden. Wie das geht, steht auf der (pre-)Release-Page <a
-      href="https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1">Pre-Release</a>.
+      Software - der Release Candidate von RDMO befindet sich
+      noch in der Testphase. Wir würden uns freuen, wenn Institutionen,
+      die über Testinstanzen oder ähnliches verfügen, die Version
+      ausprobieren würden, damit etwaige Fehler schon in der Testphase
+      gefunden und ausgemerzt werden können. Der Release Candidate
+      muss direkt von GitHub installiert werden. Wie das geht,
+      steht auf der (pre-)Release-Page <a href="https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1">Pre-Release</a>.
       Die Testphase läuft noch mindestens bis zum nächsten Entwicklertreffen,
       welches am dritten Donnerstag im September stattfindet.
       Je nach Feedback wird die Testphase dann verlängert oder
@@ -184,14 +181,13 @@
     en: <b>Community Workshop on October 4, 2021</b><br/>The detailed
       [program](/events/workshop102021_programm/) is now posted.
       We will still add the contributions for the breakout sessions
-      in the last week of September.<br/>The [registration](https://meetings.aip.de/event/13/)
-      is open.<br/><b>Software:</b><br/>the release candidate
-      of RDMO is still in the testing phase. We would appreciate
-      it if institutions that have test instances or similar would
-      try the release so that any bugs can be found and ironed
-      out during the testing phase. The release candidate must
-      be installed directly from GitHub. How to do that is described
-      on the (pre-)release page - [pre-release](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1)<br/>The
+      in the last week of September.<br/><b>Software:</b><br/>the
+      release candidate of RDMO is still in the testing phase.
+      We would appreciate it if institutions that have test instances
+      or similar would try the release so that any bugs can be
+      found and ironed out during the testing phase. The release
+      candidate must be installed directly from GitHub. How to
+      do that is described on the (pre-)release page - [pre-release](https://github.com/rdmorganiser/rdmo/releases/tag/1.6-rc.1)<br/>The
       test phase will run at least until the next developer meeting,
       which will take place on the third Thursday in September.
       Depending on the feedback, the test phase will then be extended

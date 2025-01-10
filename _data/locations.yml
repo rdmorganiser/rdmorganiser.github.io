@@ -23,9 +23,17 @@
   lon: 7.16029
   color: blue
 
+- name: Universität Regensburg
+  url: https://rdmo.ur.de/
+  contact: Sophie Stolzenberger 
+  mail: mailto:datahub@ur.de 
+  lat: 49.00335323280793
+  lon: 12.09420057012294
+  color: blue
+  
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
-  contact: Yves Vincent Grossmann
+  contact: rdmo@mpdl.mpg.de
   mail: mailto:rdmo@mpdl.mpg.de
   lat: 48.1478564
   lon: 11.5763998
@@ -38,7 +46,7 @@
   lat: 53.573554398905586
   lon: 9.880975
   color: blue
-  
+
 - name: Julius-Kühn-Institut (JKI)
   url: https://dbfz.rdmo.julius-kuehn.de/
   contact: Christoph Sinn, Ulrike Stahl
@@ -183,7 +191,8 @@
   lon: 6.7899203
   color: blue
 
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
+    (IPK)
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
@@ -307,8 +316,8 @@
   url: https://rdmo.zdv.uni-mainz.de/
   contact: Kompetenzteam Forschungsdaten
   mail: mailto:forschungsdaten@uni-mainz.de
-  lat: 50.93341
-  lon: 11.58192
+  lat: 49.992640242541086
+  lon: 8.241576657265096
   color: gray
 
 - name: Hochschul- und Landesbibliothek Fulda
@@ -333,7 +342,7 @@
   mail: mailto:fdat@dh-center.uni-tuebingen.de
   lat: 48.5244121
   lon: 9.0597217
-  color: gray
+  color: blue
 
 - name: Universität Bonn
   url: https://rdmo.forschungsdaten.uni-bonn.de/
@@ -349,6 +358,14 @@
   mail: mailto:o.knodel@hzdr.de
   lat: 51.06328
   lon: 13.95027
+  color: blue
+
+- name: GSI Helmholtzzentrum für Schwerionenforschung GmbH
+  url: https://rdmo.gsi.de/
+  contact: Andrew Mistry
+  mail: mailto:rdmo-help@gsi.de
+  lat: 49.93165191349084
+  lon: 8.679370924793428
   color: blue
 
 - name: RWTH Aachen University
@@ -399,10 +416,10 @@
   lon: 7.620459
   color: blue
 
-- name: Deutsches Zentrum für Luft- und Raumfahrt (DLR)
-  # url: https://rdmo.dlr.de/
-  contact: Jutta Graf, Christian Langenbach
-  mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
+- name: Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
+  url: https://rdmo.dlr.de/
+  contact: Christian Langenbach
+  # mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
   lat: 48.0853178
   lon: 11.2789751
   color: blue
@@ -416,12 +433,12 @@
   color: gray
 
 # - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
-  # url:
-  # contact: Stephan Brosig
-  # mail:
-  # lat: 51.49522
-  # lon: 11.93823
-  # color: gray
+# url:
+# contact: Stephan Brosig
+# mail:
+# lat: 51.49522
+# lon: 11.93823
+# color: gray
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
   url: https://rdmo.nfdi4chem.de/
@@ -431,8 +448,9 @@
   lon: 8.680805
   color: gray
 
-- name: International Center of Insect Physiology and Ecology (ICIPE)
-  url: https://dmmg-dmp.icipe.org/
+- name: International Center of Insect Physiology and Ecology
+    (ICIPE)
+  # url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
   # mail: https://dmmg.icipe.org/service_request.html
   lat: -1.2218344

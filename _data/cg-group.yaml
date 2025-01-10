@@ -40,11 +40,6 @@ current:
   image: img/team/Thomas_Richter.jpg
 
 - text:
-    de: "**Laura Rodríguez**<a href='https://orcid.org/0000-0002-1446-2199' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Forschungsdatenreferentin an der Hochschule Geisenheim. Sie berät, gibt Schulungen und baut die Forschungsdatenmanagement-Servicestelle auf. Sie betreut die RDMO-Instanz in Geisenheim."
-    en: "**Laura Rodríguez**<a href='https://orcid.org/0000-0002-1446-2199' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a research data officer at Geisenheim University. She gives advise, training and sets up the Research Data Management Service Office. She supervises the RDMO instance in Geisenheim."
-  image: img/team/rodriguezl.jpg
-
-- text:
     de: "**Jürgen Rohrwild**<a href='https://orcid.org/0000-0002-1167-0339' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Referent für Forschungsdatenmanagement an der [Universitätsbibliothek Erlangen-Nürnberg](https://www.ub.fau.de) und ist Mitglied der [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). Er betreut die [RDMO-Instanz der Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
     en: "**Jürgen Rohrwild**<a href='https://orcid.org/0000-0002-1167-0339' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data management officer at the [University Library Erlangen-Nürnberg](https://www.ub.fau.de) and a member of the [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). He is in charge of the [RDMO instance of Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
   image: img/team/Rohrwild.jpg

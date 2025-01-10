@@ -1,0 +1,34 @@
+---
+version: '3'
+
+vars:
+  SOURCE_FOLDER: src
+
+tasks:
+  default:
+    cmds:
+      - task: build
+      - task: serve
+      - task: clean
+
+  build:
+    desc: build the page
+    cmds:
+      - task: vendor
+      - cmd: bundle exec jekyll build
+
+  serve:
+    desc: serve the page
+    cmds:
+      - task: vendor
+      - cmd: bundle exec jekyll serve
+
+  vendor:
+    desc: install vendor files
+    cmds:
+      - cmd: bundle install --path vendor
+
+  clean:
+    desc: clean up folders 'site' and 'vendor'
+    cmds:
+      - cmd: rm -rf vendor site

@@ -11,7 +11,7 @@ key: news
 1. [Ankündigung:](#ank%C3%BCndigung)
 2. [Reguläre RDMO-Videokonferenz-Termine](#regul%C3%A4re-rdmo-videokonferenz-termine)<!--- mdtoc: toc end -->
 
-Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), folgen uns auf [Twitter](https://twitter.com/rdmorganiser), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.demailto:rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
+Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.demailto:rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
 
 ## Ankündigung:
 
