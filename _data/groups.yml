@@ -61,14 +61,21 @@ current:
 
 - wg:
   name_de: UAG Laufende Projekte
-  name_en: UAG Actual Projects
-  content_de1: Anpassung von Fragen und Hilfetexten in Hinsicht auf noch aktive Projekte
-  content_de2: offen, Teilnahme jederzeit möglich
-  content_en1: Adjustment von questions and help texts considering still running projects
-  content_en2: open, participation possible
-  date_de: monatlich
-  date_en: every month
-  leader: Bernd Zey
+  name_en: UAG Running Projects
+  content_de1: Überarbeitung und Anpassung des RDMO-Basiskatalogs, um seine Abdeckung auf bereits laufende Projekte zu erweitern
+  content_de2: abgeschlossen, keine Teilnahme mehr möglich
+  content_en1: Development and adjustment of the RDMO basic catalogue, to extend its coverage to already running projects
+  content_en2: completed, no longer possible to participate
+  results_de1: 
+  * 12 neue Fragen und Attribute für laufende Projekte
+  * existierende Fragen und Attribute bleiben bestehen
+  * Überarbeitung der englischen Formulierungen aller Fragen 
+  * Überprüfung und Korrektur der enthaltenen Links
+  * In [Version 1.5](https://github.com/rdmorganiser/rdmo-catalog/releases/tag/1.5.0-rdmo-2.0.0) veröffentlicht
+  results_en1: 
+  date_de: -- # monatlich
+  date_en: -- # every month
+  leader: Bernd Zey, Sarah Wettermann
   leader_mail: mailto:bernd.zey@tu-dortmund.de
   
 former:
