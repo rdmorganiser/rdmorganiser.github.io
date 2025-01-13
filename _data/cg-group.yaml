@@ -10,6 +10,11 @@ current:
   image: img/team/Anders_Y.jpg
 
 - text:
+    de: "**Stephan Brosig**<a href='https://orcid.org/0000-0002-9444-9225' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)](https://www.iamo.de/) in Halle (Saale). Er ist Sprecher der Arbeitsgruppe Forschungsdatenmanagement am Institut und engagiert sich dabei für die RDMO Bereitstellung sowie die Beratung zur RDMO Nutzung."
+    en: "**Stephan Brosig**<a href='https://orcid.org/0000-0002-9444-9225' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is senior researcher at [Leibniz Institute of Agricultural Development in Transition Economies (IAMO)](https://www.iamo.de/) in Halle (Saale). He is speaker of the institute’s research data management working group. As part of this task he facilitates and supports the use of RDMO at IAMO."
+  image: img/team/StephanBrosig_iamo.jpg
+
+- text:
     de: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Datenmanagerin am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz. Sie ist verantwortlich für die Schulung von wissenschaftlichem Personal im Bereich Forschungsdatenmanagement, die Unterstützung von DMPs in Förderanträgen und Projekten sowie die Entwicklung von RDM-Politiken und -Richtlinien."
     en: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a Data Manager at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz. She is responsible for training scientific staff on research data management, supporting DMPs in grants and projects, and developing RDM policies and guidelines."
   image: img/team/Yasmin_Demerdash.jpg
