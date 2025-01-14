@@ -11,7 +11,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
 
 <details>
   <summary><h2>RDMO Development</h2>
-    Hier sind die Publikationen über die Entwicklung der RDMO-Software selbst und des Contents (Kataloge, Optionen usw.) aufgelistet.
+    <p>Hier sind die Publikationen über die Entwicklung der RDMO-Software selbst und des Contents (Kataloge, Optionen usw.) aufgelistet.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_development %}
@@ -28,7 +28,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
 
 <details>
   <summary><h2>RDMO Implementation and Applications</h2>
-    Hier sind Publikationen rund um die Entwicklung einzelner Instanzen oder FDM-Systemen aus der Community, sowie über alnassbezogenem Content.
+    <p>Hier sind Publikationen rund um die Entwicklung einzelner Instanzen oder FDM-Systemen aus der Community, sowie über anlassbezogenem Content.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_implementation %}
@@ -45,7 +45,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
 
 <details>
   <summary><h2>DMP Tools</h2>
-    Hier sind Publikationen über andere DMP-Werkzeuge.
+    <p>Hier sind Publikationen über andere DMP-Werkzeuge.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_Tools %}
@@ -62,7 +62,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
 
 <details>
   <summary><h2>DMP and SMP Templates</h2>
-    Hier sind Publikationen über DMPs und SMPs und deren Vorlagen, losgelost von den DMP-Werkzeugen.
+    <p>Hier sind Publikationen über DMPs und SMPs und deren Vorlagen, losgelost von den DMP-Werkzeugen.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_SMP %}
