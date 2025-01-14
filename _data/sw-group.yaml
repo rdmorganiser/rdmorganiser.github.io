@@ -1,17 +1,23 @@
 current:
-- text:
-    de: "**Jochen Klar**<a href='https://orcid.org/0000-0002-5883-4273' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Sprecher) ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
-    en: "**Jochen Klar**<a href='https://orcid.org/0000-0002-5883-4273' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Speaker) is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+- name: Jochen Klar
+  orcid: 0000-0002-5883-4273
+  text:
+    de: "(Sprecher) ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+    en: "(Speaker) is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
   image: img/team/klar.jpg
 
-- text:
-    de: "**David Wallace**<a href='https://orcid.org/0000-0001-8958-4601' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Softwareentwickler im Team Forschungsdaten-Services an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den Betrieb der mandantenfähigen RDMO-Instanz, entwickelt mit an neuen Features und behebt hin und wieder einen Bug."
-    en: "**David Wallace**<a href='https://orcid.org/0000-0001-8958-4601' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is software developer in the Research Data Services team at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the operation of the multi-tenant RDMO instance, contributes in the development of new features and fixes the occasional bugs."
+- name: David Wallace
+  orcid: 0000-0001-8958-4601
+  text:
+    de: "ist Softwareentwickler im Team Forschungsdaten-Services an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den Betrieb der mandantenfähigen RDMO-Instanz, entwickelt mit an neuen Features und behebt hin und wieder einen Bug."
+    en: "is software developer in the Research Data Services team at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the operation of the multi-tenant RDMO instance, contributes in the development of new features and fixes the occasional bugs."
   image: img/team/David_Wallace.jpg
 
-- text:
-    de: "**Max Schröder**<a href='https://orcid.org/0000-0003-1522-494X' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Softwareentwickler im [Team Forschungsdaten der Universitätsbibliothek Rostock](https://www.ub.uni-rostock.de/forschungsdaten). Neben der Umsetzung von Forschungsdatenservices beschäftigt er sich mit standardisierten Beschreibungen von Forschungsprozessen, Forschungsdatenmanagement und virtuellen Forschungsumgebungen."
-    en: "**Max Schröder**<a href='https://orcid.org/0000-0003-1522-494X' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a software developer in the [research data team at the Rostock University Library](https://www.ub.uni-rostock.de/en/support-for-researchers/research-data). In addition to the implementation of research data services, he deals with standardized descriptions of research processes, research data management and virtual research environments."
+- name: Max Schröder
+  orcid: 0000-0003-1522-494X
+  text:
+    de: "ist Softwareentwickler im [Team Forschungsdaten der Universitätsbibliothek Rostock](https://www.ub.uni-rostock.de/forschungsdaten). Neben der Umsetzung von Forschungsdatenservices beschäftigt er sich mit standardisierten Beschreibungen von Forschungsprozessen, Forschungsdatenmanagement und virtuellen Forschungsumgebungen."
+    en: "is a software developer in the [research data team at the Rostock University Library](https://www.ub.uni-rostock.de/en/support-for-researchers/research-data). In addition to the implementation of research data services, he deals with standardized descriptions of research processes, research data management and virtual research environments."
   image: img/team/Max_Schröder.jpg
 
 - text:
@@ -19,12 +25,16 @@ current:
     en: "**Janine Straka**<a href='https://orcid.org/0000-0002-0695-1689' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is the coordinator of research data management and subject specialist at the [Potsdam University Library](https://www.ub.uni-potsdam.de/en/). From 2017 to 2021 she worked on various research data management projects at the [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/en), e.g. in the second RDMO project."
   image: img/team/straka.jpg
 
-- text:
-    de: "**Martin Spenger**<a href='https://orcid.org/0000-0002-8841-5985' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist in der FDM-Beratung an der [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://www.ub.uni-muenchen.de/index.html) tätig. Er übernimmt die technische und inhaltliche Betreuung der [RDMO-Instanz der LMU](https://rdmo.ub.uni-muenchen.de) sowie die dazugehörige Beratung und Durchführung von Informationsveranstaltungen."
-    en: "**Martin Spenger**<a href='https://orcid.org/0000-0002-8841-5985' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> participates in RDM information services at [University Library of Ludwig-Maximilians-Universität in Munich](https://www.ub.uni-muenchen.de/index.html). He is responsible for technical and content-related support of the [RDMO instance of LMU](https://rdmo.ub.uni-muenchen.de) as well as the associated consulting and realisation of workshops."
+- name: Martin Spenger
+  orcid: 0000-0002-8841-5985
+  text:
+    de: "ist in der FDM-Beratung an der [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://www.ub.uni-muenchen.de/index.html) tätig. Er übernimmt die technische und inhaltliche Betreuung der [RDMO-Instanz der LMU](https://rdmo.ub.uni-muenchen.de) sowie die dazugehörige Beratung und Durchführung von Informationsveranstaltungen."
+    en: "participates in RDM information services at [University Library of Ludwig-Maximilians-Universität in Munich](https://www.ub.uni-muenchen.de/index.html). He is responsible for technical and content-related support of the [RDMO instance of LMU](https://rdmo.ub.uni-muenchen.de) as well as the associated consulting and realisation of workshops."
   image: img/team/spenger.jpg
 
-- text:
-    de: "**Laura Meier**<a href='https://orcid.org/0000-0003-1368-2306' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist in der FDM-Beratung an der [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://www.ub.uni-muenchen.de/index.html) tätig. Sie übernimmt die technische und inhaltliche Betreuung der [RDMO-Instanz der LMU](https://rdmo.ub.uni-muenchen.de) sowie die dazugehörige Beratung und Durchführung von Informationsveranstaltungen."
-    en: "**Laura Meier**<a href='https://orcid.org/0000-0003-1368-2306' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> participates in RDM information services at [University Library of Ludwig-Maximilians-Universität in Munich](https://www.ub.uni-muenchen.de/index.html). She is responsible for technical and content-related support of the [RDMO instance of LMU](https://rdmo.ub.uni-muenchen.de) as well as the associated consulting and realisation of workshops."
+- name: Laura Meier
+  orcid: 0000-0003-1368-2306
+  text:
+    de: "ist in der FDM-Beratung an der [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://www.ub.uni-muenchen.de/index.html) tätig. Sie übernimmt die technische und inhaltliche Betreuung der [RDMO-Instanz der LMU](https://rdmo.ub.uni-muenchen.de) sowie die dazugehörige Beratung und Durchführung von Informationsveranstaltungen."
+    en: "participates in RDM information services at [University Library of Ludwig-Maximilians-Universität in Munich](https://www.ub.uni-muenchen.de/index.html). She is responsible for technical and content-related support of the [RDMO instance of LMU](https://rdmo.ub.uni-muenchen.de) as well as the associated consulting and realisation of workshops."
   image: img/team/meier.jpg

@@ -23,7 +23,9 @@ So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.de | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -40,7 +42,9 @@ So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.de | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -57,7 +61,9 @@ So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.de | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -82,7 +88,9 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.de | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.de | markdownify }}
     </div>
 </div>
 {% endfor %}
