@@ -9,96 +9,71 @@ key: rdmo-pub
 RDMO has already been mentioned in numerous publications. These are listed below, broken down according to specific content.
 If the list is not complete, please write an <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> to the internal mailing list.<br/>
 
-
-<u>RDMO Development</u>
+<details>
+  <summary><h2>RDMO Development</h2>
+    Here are publications about the development of the RDMO software and content (catalogs, options, etc.).
+  </summary>
   <ul class="publication">
-{% for publication in site.data.publications.RDMO_development %}
+  {% for publication in site.data.publications.RDMO_development %}
     <li>
-        <i>{{ publication.type }}</i>
-        <br />
-        <strong>{{ publication.title }}</strong>
-        <br />
-        <i>{{ publication.authors }}</i>
-        <br />
-        <i>{{ publication.date }}</i>
-        <br />
-        {% if publication.uri %}
-            <a href="{{ publication.uri }}">Details</a>
-        {% endif %}
-        <br />
-        {% if publication.doi %}
-            <i>{{ publication.doi }}</i>
+        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
+        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
+        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
+        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
-{% endfor %}
+  {% endfor %}
   </ul>
+</details>
 
-<u>RDMO Implementation and Applications</u>
+<details>
+  <summary><h2>RDMO Implementation and Applications</h2>
+    Here are publications about the development of single instances or RDM-ecosystems in the community, as well as application-specific content.
+  </summary>
   <ul class="publication">
-{% for publication in site.data.publications.RDMO_implementation %}
+  {% for publication in site.data.publications.RDMO_implementation %}
     <li>
-        <i>{{ publication.type }}</i>
-        <br />
-        <strong>{{ publication.title }}</strong>
-        <br />
-        <i>{{ publication.authors }}</i>
-        <br />
-        <i>{{ publication.date }}</i>
-        <br />
-        {% if publication.uri %}
-            <a href="{{ publication.uri }}">Details</a>
-        {% endif %}
-        <br />
-        {% if publication.doi %}
-            <i>{{ publication.doi }}</i>
+        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
+        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
+        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
+        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
-{% endfor %}
+  {% endfor %}
   </ul>
-  
-<u>DMP Tools</u>
-  <ul class="publication">
-{% for publication in site.data.publications.DMP_Tools %}
-    <li>
-        <i>{{ publication.type }}</i>
-        <br />
-        <strong>{{ publication.title }}</strong>
-        <br />
-        <i>{{ publication.authors }}</i>
-        <br />
-        <i>{{ publication.date }}</i>
-        <br />
-        {% if publication.uri %}
-            <a href="{{ publication.uri }}">Details</a>
-        {% endif %}
-        <br />
-        {% if publication.doi %}
-            <i>{{ publication.doi }}</i>
-        {% endif %}
-    </li>
-{% endfor %}
-  </ul>
+</details>
 
-<u>DMP and SMP Templates</u>
+<details>
+  <summary><h2>DMP Tools</h2>
+    Here are publications about other DMP tools.
+  </summary>
   <ul class="publication">
-{% for publication in site.data.publications.DMP_SMP %}
-   <li>
-        <i>{{ publication.type }}</i>
-        <br />
-        <strong>{{ publication.title }}</strong>
-        <br />
-        <i>{{ publication.authors }}</i>
-        <br />
-        <i>{{ publication.date }}</i>
-        <br />
-        {% if publication.uri %}
-            <a href="{{ publication.uri }}">Details</a>
-        {% endif %}
-        <br />
-        {% if publication.doi %}
-            <i>{{ publication.doi }}</i>
+  {% for publication in site.data.publications.DMP_Tools %}
+    <li>
+        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
+        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
+        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
+        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
-{% endfor %}
+  {% endfor %}
   </ul>
+</details>
+
+<details>
+  <summary><h2>DMP and SMP Templates</h2>
+    Here are publications about DMPs and SMPs and their templates, independently from DMP tools.
+  </summary>
+  <ul class="publication">
+  {% for publication in site.data.publications.DMP_SMP %}
+    <li>
+        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
+        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
+        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
+        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</details>
   
