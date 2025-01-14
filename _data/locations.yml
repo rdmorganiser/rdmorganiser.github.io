@@ -318,7 +318,7 @@
   mail: mailto:forschungsdaten@uni-mainz.de
   lat: 49.992640242541086
   lon: 8.241576657265096
-  color: gray
+  color: blue
 
 - name: Hochschul- und Landesbibliothek Fulda
   url: https://rdmo.hlb.hs-fulda.de/
