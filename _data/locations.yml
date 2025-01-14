@@ -328,6 +328,14 @@
   lon: 9.68746859
   color: blue
 
+- name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
+  url: Stephan Brosig
+  contact: Stephan Brosig
+  mail: brosig@iamo.de
+  lat: 51.495108
+  lon: 11.937702
+  color: blue
+
 - name: Universität Potsdam
   url: https://rdmo.uni-potsdam.de/
   contact: Janine Straka, Janna Kienbaum
