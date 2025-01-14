@@ -27,7 +27,7 @@ RDMO_development:
   type: Conference Paper
   date: 2017
   title: Research data management organiser. In _Proceedings of the 14th International Conference on Digital Preservation_, 25-29.
-  authors: Engelhardt, C., Enke, H., Klar, J., Ludwig, J., & Neuroth, H.
+  authors: Claudia Engelhardt; Harry Enke; Jochen Klar; Jens Ludwig; Heike Neuroth
   doi:
   uri: http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf
 
@@ -35,7 +35,7 @@ RDMO_development:
   type: Conference Paper
   date: 01.04.2017
   title: RDMO - Research Data Management Organiser
-  authors: Klar, Jochen ; Engelhardt, Claudia ; Neuroth, Heike ; Enke, Harry ; Ludwig, Jens
+  authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry Enke; Jens Ludwig
   doi:
   uri: https://ui.adsabs.harvard.edu/abs/2017EGUGA..1915760K
 
@@ -277,7 +277,7 @@ DMP_Tools:
   type: Dataset
   date: 24.03.2021
   title: DMP-Toolguide
-  authors: Helbig, Kerstin; Paul-Stüve, Thilo; Rex, Jessica
+  authors: Kerstin Helbig; Thilo Paul-Stüve; Jessica Rex
   doi: 10.5281/ZENODO.4632308
   uri: https://zenodo.org/record/4632308
   
@@ -414,7 +414,7 @@ DMP_SMP:
   type: Journal Article
   date: 2023
   title: RESEARCH DATA MANAGEMENT AND A SYSTEM DESIGN TO SEMI-AUTOMATICALLY COMPLETE INTEGRATED DATA MANAGEMENT PLANS [POSITION PAPER]
-  authors: SYED ASHFAQ HUSSAIN SHAH; Frank Petzold
+  authors: Syed Ashfaq Hussain Shah; Frank Petzold
   doi: 10.54729/2789-8547.1235
   uri: https://digitalcommons.bau.edu.lb/apj/vol28/iss3/40/
   
@@ -470,7 +470,7 @@ DMP_SMP:
   type: Report
   date: 2023
   title: Five Minutes to Write a Software Management Plan – A Machine-actionable Approach to Simplify the Creation of SMPs
-  authors: Castro, Leyla Jael; Geist, Lukas; Gonzalez, Esteban; Gonzalez-Ocanto, Mariaisabel; Grossmann, Yves Vincent; Pronk, Thomas; Solanki, Dhwani; Utrilla Guerrero, Carlos; Wallace, David; Windeck, Jürgen
+  authors: Leyla Jael Castro; Lukas Geist; Estéban Gonzalez; Mariaisabel González-Ocanto; Yves Vincent Grossmann; Thomas Pronk; Dhwani Solanki; Carlos Utrilla Guerrero; David Wallace; Jürgen Windeck
   doi: 10.5281/ZENODO.10374838
   uri: https://www.i12.rwth-aachen.de/go/id/opqu/lidx/1/file/975680
   
