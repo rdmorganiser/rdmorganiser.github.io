@@ -69,3 +69,7 @@ DFG funding for RDMO ended in autumn 2020. At that time, RDMO was already being 
 In order to keep the open source software usable and to further develop it, the working group (AG) RDMO was founded with the signing of a [Memorandum of Understanding]({{ site.baseurl }}/docs/Memorandum-of-Understanding-RDMO.pdf) by institutions and individuals.
 
 The way was paved for this at the RDMO community meeting in February 2020 in Potsdam, in which a future [organisational structure]({{ site.baseurl }}/en/Community) with various committees was created. This structure is intended to support further development and is detailed in the MoU.
+
+## RDMO Association (since 2025)
+
+RDMO has reached the status of a mature software with a big user community. To better satisfy the increasing demands and guarantee continuity and reliability, the non-profit RDMO association was founded on 19th November 2024. The association elects an **Executive board**, which takes on the strategical lead (until now assigned to the Steering Group); it assigns organisational tasks to a hired **office**; introduces a structured **Release Management**. The **association members** have voting right. As before, the **user community** gets continuously informed, can express wishes and of course can use the software for free.
