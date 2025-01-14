@@ -11,7 +11,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
 
 <details>
   <summary><h2>RDMO Development</h2>
-    Here are publications about the development of the RDMO software and content (catalogs, options, etc.).
+    <p>Here are publications about the development of the RDMO software and content (catalogs, options, etc.).</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_development %}
@@ -28,7 +28,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
 
 <details>
   <summary><h2>RDMO Implementation and Applications</h2>
-    Here are publications about the development of single instances or RDM-ecosystems in the community, as well as application-specific content.
+    <p>Here are publications about the development of single instances or RDM-ecosystems in the community, as well as application-specific content.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_implementation %}
@@ -45,7 +45,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
 
 <details>
   <summary><h2>DMP Tools</h2>
-    Here are publications about other DMP tools.
+    <p>Here are publications about other DMP tools.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_Tools %}
@@ -62,7 +62,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
 
 <details>
   <summary><h2>DMP and SMP Templates</h2>
-    Here are publications about DMPs and SMPs and their templates, independently from DMP tools.
+    <p>Here are publications about DMPs and SMPs and their templates, independently from DMP tools.</p>
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_SMP %}
