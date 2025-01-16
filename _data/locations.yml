@@ -25,12 +25,12 @@
 
 - name: Universität Regensburg
   url: https://rdmo.ur.de/
-  contact: Sophie Stolzenberger 
-  mail: mailto:datahub@ur.de 
+  contact: Sophie Stolzenberger
+  mail: mailto:datahub@ur.de
   lat: 49.00335323280793
   lon: 12.09420057012294
   color: blue
-  
+
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
   contact: Laura Bahamón, David Walter
@@ -217,8 +217,8 @@
 
 - name: Goethe Universität Frankfurt am Main
   url: https://rdmo.uni-frankfurt.de/
-  contact: Yves Vincent Grossmann
-  mail: mailto:forschungsdaten@ub.uni-frankfurt.de
+  contact: Team Forschungsdaten
+  mail: mailto:rdmo@rz.uni-frankfurt.de
   lat: 50.127778
   lon: 8.666667
   color: blue
@@ -306,7 +306,7 @@
 - name: Universität Paderborn
   url: https://rdmo.uni-paderborn.de/
   contact: Kontaktstelle Forschungsdatenmanagement
-  mail: mailto:imt@uni-paderborn.dekontakt-fdm@imt.uni-paderborn.de
+  mail: mailto:kontakt-fdm@imt.uni-paderborn.de
   lat: 51.70819
   lon: 8.77271
   # color: blue
