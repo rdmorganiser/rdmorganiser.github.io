@@ -42,8 +42,8 @@ current:
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: Implementation of decided changes of content type
   content_en2: open, participation possible
-  date_de: am 4. Donnerstag im Monat (11:00-12:00)
-  date_en: on the 4th Thursday of the month (11:00-12:00)
+  date_de: am 1. Freitag im Monat (10:00-11:00)
+  date_en: on the 1st Friday of the month (10:00-11:00)
   leader: Giacomo Lanza
   leader_mail: mailto:giacomo.lanza@ptb.de
 
@@ -54,30 +54,23 @@ current:
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: Updating the official website of RDMO
   content_en2: open, participation possible
-  date_de: am 2. Montag im Monat (11:00-12:00)
-  date_en: on the second monday of the month (11:00-12:00)
+  date_de: am 2. Freitag im Monat (10:00-11:00)
+  date_en: on the 2nd Friday of the month (10:00-11:00)
   leader: Sabine Schönau
   leader_mail: mailto:schoenau@ub.rwth-aachen.de
 
-- wg:
-  name_de: UAG Laufende Projekte
-  name_en: UAG Running Projects
-  content_de1: Überarbeitung und Anpassung des RDMO-Basiskatalogs, um seine Abdeckung auf bereits laufende Projekte zu erweitern
-  content_de2: abgeschlossen, keine Teilnahme mehr möglich
-  content_en1: Development and adjustment of the RDMO basic catalogue, to extend its coverage to already running projects
-  content_en2: completed, no longer possible to participate
-  results_de1: 
-  * 12 neue Fragen und Attribute für laufende Projekte
-  * existierende Fragen und Attribute bleiben bestehen
-  * Überarbeitung der englischen Formulierungen aller Fragen 
-  * Überprüfung und Korrektur der enthaltenen Links
-  * In [Version 1.5](https://github.com/rdmorganiser/rdmo-catalog/releases/tag/1.5.0-rdmo-2.0.0) veröffentlicht
-  results_en1: 
-  date_de: -- # monatlich
-  date_en: -- # every month
-  leader: Bernd Zey, Sarah Wettermann
-  leader_mail: mailto:bernd.zey@tu-dortmund.de
-  
+- wg:         
+  name_de: UAG Attribute
+  name_en: UAG attributes
+  content_de1: Dokumentation bisheriger Attribute und Anleitung zum Finden passender Attribute
+  content_de2: Redaktion der Domänenerweiterungen
+  content_en1: documentation of actual attributes and instructions to find suitable attributes
+  content_en2: redaction of the extentions of the domain
+  date_de: am 3. Freitag im Monat (10:00-11:00)
+  date_en: on the 3rd Friday of the month (10:00-11:00)
+  leader: Sabine Schönau
+  leader_mail: mailto:schoenau@ub.rwth-aachen.de
+
 former:
 - wg:
   name_de: UAG Ansichten
@@ -102,6 +95,25 @@ former:
   date_en: -- # on the 2nd Tuesday (15:00-16:00)
   leader: Kathrin Höhner
   leader_mail: mailto:kathrin.hoehner@tu-dortmund.de
+
+- wg:
+  name_de: UAG Laufende Projekte
+  name_en: UAG Running Projects
+  content_de1: Überarbeitung und Anpassung des RDMO-Basiskatalogs, um seine Abdeckung auf bereits laufende Projekte zu erweitern
+  content_de2: abgeschlossen, keine Teilnahme mehr möglich
+  content_en1: Development and adjustment of the RDMO basic catalogue, to extend its coverage to already running projects
+  content_en2: completed, no longer possible to participate
+  results_de1: 
+  * 12 neue Fragen und Attribute für laufende Projekte
+  * existierende Fragen und Attribute bleiben bestehen
+  * Überarbeitung der englischen Formulierungen aller Fragen 
+  * Überprüfung und Korrektur der enthaltenen Links
+  * In [Version 1.5](https://github.com/rdmorganiser/rdmo-catalog/releases/tag/1.5.0-rdmo-2.0.0) veröffentlicht
+  results_en1: 
+  date_de: -- # monatlich
+  date_en: -- # every month
+  leader: Bernd Zey, Sarah Wettermann
+  leader_mail: mailto:bernd.zey@tu-dortmund.de
   
 - wg:
   name_de: UAG Werbung und Außenkooperationen
