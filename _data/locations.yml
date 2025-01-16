@@ -33,7 +33,7 @@
   
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
-  contact: rdmo@mpdl.mpg.de
+  contact: Laura Bahamón, David Walter
   mail: mailto:rdmo@mpdl.mpg.de
   lat: 48.1478564
   lon: 11.5763998
@@ -191,8 +191,7 @@
   lon: 6.7899203
   color: blue
 
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
-    (IPK)
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
