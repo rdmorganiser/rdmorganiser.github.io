@@ -25,15 +25,15 @@
 
 - name: Universität Regensburg
   url: https://rdmo.ur.de/
-  contact: Sophie Stolzenberger 
-  mail: mailto:datahub@ur.de 
+  contact: Sophie Stolzenberger
+  mail: mailto:datahub@ur.de
   lat: 49.00335323280793
   lon: 12.09420057012294
   color: blue
-  
+
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
-  contact: rdmo@mpdl.mpg.de
+  contact: Laura Bahamón, David Walter
   mail: mailto:rdmo@mpdl.mpg.de
   lat: 48.1478564
   lon: 11.5763998
@@ -191,8 +191,7 @@
   lon: 6.7899203
   color: blue
 
-- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung
-    (IPK)
+- name: Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
   url: https://rdmo.ipk-gatersleben.de/
   contact: Daniel Arend
   mail: mailto:bioinformatics@ipk-gatersleben.de
@@ -218,8 +217,8 @@
 
 - name: Goethe Universität Frankfurt am Main
   url: https://rdmo.uni-frankfurt.de/
-  contact: Yves Vincent Grossmann
-  mail: mailto:forschungsdaten@ub.uni-frankfurt.de
+  contact: Beate La Sala
+  mail: mailto:rdmo@ub.uni-frankfurt.de
   lat: 50.127778
   lon: 8.666667
   color: blue
@@ -307,7 +306,7 @@
 - name: Universität Paderborn
   url: https://rdmo.uni-paderborn.de/
   contact: Kontaktstelle Forschungsdatenmanagement
-  mail: mailto:imt@uni-paderborn.dekontakt-fdm@imt.uni-paderborn.de
+  mail: mailto:kontakt-fdm@imt.uni-paderborn.de
   lat: 51.70819
   lon: 8.77271
   # color: blue
@@ -329,7 +328,7 @@
   color: blue
 
 - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
-  url: Stephan Brosig
+  url: https://iamo.rdmo.julius-kuehn.de
   contact: Stephan Brosig
   mail: brosig@iamo.de
   lat: 51.495108

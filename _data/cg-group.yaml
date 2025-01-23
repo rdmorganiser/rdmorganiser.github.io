@@ -27,13 +27,6 @@ current:
     en: "is a Data Manager at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz. She is responsible for training scientific staff on research data management, supporting DMPs in grants and projects, and developing RDM policies and guidelines."
   image: img/team/Yasmin_Demerdash.jpg
 
-- name: Yves Vincent Grossmann
-  orcid: 0000-0002-2880-8947
-  text:
-    de: "ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
-    en: "is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
-  image: img/team/Grossmann.jpg
-
 - name: Christin Henzen
   orcid: 0000-0002-5181-4368
   text:

@@ -32,6 +32,13 @@
     en: "is a member of the research data management team of the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
   image: img/team/ehem/freund.jpg
 
+- name: Yves Vincent Grossmann
+  orcid: 0000-0002-2880-8947
+  text:
+    de: "ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
+    en: "is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
+  image: img/team/Grossmann.jpg
+
 - name: Claudia Kramer
   text:
     de: "ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
