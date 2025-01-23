@@ -24,6 +24,11 @@
   image: img/team/ehem/freund.jpg
 
 - text:
+    de: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
+    en: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
+  image: img/team/Grossmann.jpg
+
+- text:
     de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
     en: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
   image: img/team/ehem/kramer.jpg
