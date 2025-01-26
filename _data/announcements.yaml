@@ -1,13 +1,14 @@
 ---
 current:
   - event:
-      de: Am 19.11.2024 findet in der UB der TU Berlin die Gründungsversammlung
-        für den "RDMO e.V." statt. Daran Interessierte können
-        sich sehr gerne noch im Vorfeld an die Steuerungsgruppe
-        wenden. Nähere Infos zur Vereinsgründung finden Sie [hier](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
-      en: The founding meeting for the “RDMO e.V.” will take place
-        on 19.11.2024 at the TU Berlin University Library. Interested
-        parties are welcome to contact the steering group in advance.
-        You can find more information about the founding of the
-        association [here](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
-    date: 19.11.2024
+      de:  Love Data Week - Developing DMP Templates with RDMO - the new editor’s guide. Nehmen Sie an unserer coffee lecture über den neuen RDMO-Editor's Guide teil. Diese Anleitung richtet sich an Forschungsdatenmanager und RDMO-Redakteure und ihre wichtigsten Fragen. Nähere Infos finden Sie [hier](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2025/)
+      en: Love Data Week - Developing DMP Templates with RDMO - the new editor’s guide. Join our coffee lecture on the new RDMO editor’s guide. This manual addresses research data managers and RDMO editors and their most important questions. You can find more information [here](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2025/)
+    date: 12.02.2025 1pm-1:45pm
+  - event:
+      de: Neugründung der UAG Attribute. Attribute als zentrales Element in RDMO sind ein großes Thema, das in einer eigenen UAG behandelt werden soll. Nähere Infos finden Sie demnächst auf dieser Seite.
+      en: New formation of the Attributes UAG. Attributes as a central element in RDMO are a major topic that will be dealt with in a separate UAG. You will find more information on this page soon.
+    date: First session on 21.02.2025 from 10-11am
+  - event:
+      de: Einladung zur Nutzungsstudie zum "Standardisierten Datenmanagementplan für die Bildungsforschung (Stamp). Die Stamp-Redaktionsgruppe des Verbund Forschungsdaten Bildung (VerbundFDB) lädt herzlich zur Teilnahme an einer Nutzungsstudie zum Stamp ein. Gesucht werden Forschende in der Bildungsforschung bzw. in verwandten sozialwissenschaftlichen Fachbereichen, die an der Studie teilnehmen möchten. Nähere Infos finden Sie [hier](https://forschungsdaten.info/nachrichten/nachricht-anzeige/verbundfdb-einladung-zur-nutzungsstudie-zum-standardisierten-datenmanagementplan-fuer-die-bildungsforschung-stamp/)
+      en: Invitation to the user study on the “Standardized Data Management Plan for Educational Research (Stamp). The Stamp editorial group of the Verbund Forschungsdaten Bildung (VerbundFDB) cordially invites you to participate in a user study on the Stamp. They are looking for researchers in educational research or related social science disciplines who would like to participate in the study. You can find more information [here](https://forschungsdaten.info/nachrichten/nachricht-anzeige/verbundfdb-einladung-zur-nutzungsstudie-zum-standardisierten-datenmanagementplan-fuer-die-bildungsforschung-stamp/)
+    date: deadline 03/2025
