@@ -23,7 +23,7 @@ jobs:
           GREP_SCHEME: "linux_amd64"
           TARGET_FOLDER: /home/.local/bin
         run: |
-          mkdir -p ${TARGET_FOLDER}
+          sudo mkdir -p ${TARGET_FOLDER}
           curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
       - name: run the test
         env:
