@@ -26,7 +26,8 @@ tasks:
   vendor:
     desc: install vendor files
     cmds:
-      - cmd: bundle install --path vendor
+      - cmd: bundle config set --local path vendor
+      - cmd: bundle install
 
   clean:
     desc: clean up folders 'site' and 'vendor'
