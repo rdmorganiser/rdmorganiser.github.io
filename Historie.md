@@ -65,3 +65,7 @@ Im Herbst 2020 endete die DFG-Förderung für RDMO. RDMO wurde zu diesem Zeitpun
 
 Um die Open Source Software weiterhin nutzbar zu halten und weiterzuentwickeln gründet sich aktuell die Arbeitsgemeinschaft (AG) RDMO mit der Unterzeichnung eines [Memorandum of Understanding]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) . 
 Bereits auf dem letzten RDMO-Community-Treffen im Februar in Potsdam wurde hierfür der Weg geebnet, indem eine künftige [Organisationsstruktur]({{ site.baseurl }}/Community) mit verschiedenen Gremien ins Leben gerufen wurde. Diese Struktur soll die künftige Entwicklung tragen und ist im MoU detailliert ausgeführt.
+
+## RDMO-Verein (ab 2025)
+
+RDMO hat nun den Stand einer reifen Software mit einer großen Nutzendengemeinschaft. Um den steigenden Anforderungen Recht zu geben und Langlebigkeit und Zuverlässigkeit zu garantieren, [hat RDMO sich am 19.11.2024 als gemeinnützigen Verein konstituiert](https://www.forschungsdaten.org/index.php/Gr%C3%BCndungsversammlung_des_RDMO-Vereins). Der Verein wählt einen **Vorstand**, der die strategische Führung von der Steuerungsgruppe übernimmt, überträgt organisatorische Aufgaben an eine hauptämtliche **Geschäftsstelle** und führt ein strukturiertes **Release Management** ein. Die **Vereinsmitglieder** erhalten Stimmrecht. Die **Nutzendencommunity** wird wie bisher regelmäßig informiert, kann Wünsche äußern und natürlich die Software kostenlos nutzen.
