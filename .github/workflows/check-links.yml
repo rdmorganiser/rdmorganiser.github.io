@@ -27,5 +27,5 @@ jobs:
           curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
       - name: run the test
         env:
-          PATH: ${PATH}:/home/.local/bin
+          PATH: /bin:/sbin:/usr/bin:/usr/sbin:/home/.local/bin
         run: .github/sh/check-links.sh
