@@ -21,12 +21,12 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  run_tests:
+  test:
     uses: ./.github/workflows/run_tests.yaml
     permissions: write-all
   build:
     needs:
-      - run_tests
+      - test
     runs-on: ubuntu-latest
     steps:
       - name: checkout
