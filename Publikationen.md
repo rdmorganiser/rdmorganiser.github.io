@@ -6,8 +6,7 @@ key: rdmo-pub
 
 # Publikationen über RDMO
 
-RDMO wurde bereits in zahlreichen Publikationen erwähnt. Im Folgenden sind diese nach bestimmten Inhalten gegliedert aufgelistet.
-Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
+RDMO wurde bereits in zahlreichen Publikationen erwähnt. Im Folgenden sind diese nach bestimmten Inhalten gegliedert aufgelistet. Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 
 <details>
   <summary><h2>RDMO Development</h2>
@@ -19,7 +18,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -36,7 +35,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -53,7 +52,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -70,7 +69,7 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}

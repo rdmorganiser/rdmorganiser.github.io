@@ -6,8 +6,7 @@ key: rdmo-pub
 
 # Publications about RDMO
 
-RDMO has already been mentioned in numerous publications. These are listed below, broken down according to specific content.
-If the list is not complete, please write an <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> to the internal mailing list.<br/>
+RDMO has already been mentioned in numerous publications. These are listed below, broken down according to specific content. If the list is not complete, please write an <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> to the internal mailing list.<br/>
 
 <details>
   <summary><h2>RDMO Development</h2>
@@ -19,7 +18,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -36,7 +35,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -53,7 +52,7 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
@@ -70,10 +69,9 @@ If the list is not complete, please write an <a href="mailto:rdmo-contact@listse
         <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
         <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
         {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% elif publication.uri %}<a href="{{ publication.uri }}">Download</a>
+        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
         {% endif %}
     </li>
   {% endfor %}
   </ul>
 </details>
-  
