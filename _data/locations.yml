@@ -416,7 +416,7 @@
   color: blue
 
 - name: Fachhochschule Münster
-  # url: https://rdmo.fh-muenster.de/
+  url: https://rdmo.fh-muenster.de/
   contact: Frank Berkemeier
   mail: mailto:forschungsdaten@uni-muenster.de
   lat: 51.9627609
@@ -431,13 +431,13 @@
   lon: 11.2789751
   color: blue
 
-# - name: Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)
-# url:
-# contact: Stephan Brosig
-# mail:
-# lat: 51.49522
-# lon: 11.93823
-# color: gray
+- name: Sächsische Landesinitiative zum Forschungsdatenmanagement (SaxFDM)
+  # url: https://dmp.saxfdm.de/
+  contact: Carina Becker
+  mail: mailto:carina.becker@tu-dresden.de
+  lat: 51.028446
+  lon: 13.733930
+  color: gray
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
   url: https://rdmo.nfdi4chem.de/
@@ -447,8 +447,7 @@
   lon: 8.680805
   color: gray
 
-- name: International Center of Insect Physiology and Ecology
-    (ICIPE)
+- name: International Center of Insect Physiology and Ecology (ICIPE)
   # url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
   # mail: https://dmmg.icipe.org/service_request.html
