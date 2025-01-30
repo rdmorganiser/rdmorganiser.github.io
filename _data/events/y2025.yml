@@ -1,10 +1,10 @@
 ---
 - date: 25.03.2025
   place: online
-  registration: .....
-  program: .....
-  report: .....
-  further_info: .....
+  registration: "....."
+  program: "....."
+  report: "....."
+  further_info: "....."
   name:
     de: 13. RDMO-Gemeinschaftstreffen
     en: 13th RDMO community meeting
@@ -13,28 +13,38 @@
     en: Update about the foundation of the association
 
 - date: 12.02.2025
-  place: online, https://rwth.zoom-x.de/j/67786569618?pwd=agLbnXZDdWMZ5oVPy2TRDq65j3t0Dj.1
-  registration: .....
-  program: .....
-  report: .....
-  further_info: "DMP4NFDI is a centralised Basic Service for managing data management plans (DMPs), software management plans (SMPs) and analogues across the National Research Data Infrastructure (NFDI). More information on https://www.base4nfdi.de/projects/dmp4nfdi"
+  place: "online, https://rwth.zoom-x.de/j/67786569618?pwd=agLbnXZDdWMZ5oVPy2TRDq65j3t0Dj.1"
+  registration: "....."
+  program: "....."
+  report: "....."
+  further_info: "DMP4NFDI is a centralised Basic Service for managing
+    data management plans (DMPs), software management plans (SMPs)
+    and analogues across the National Research Data Infrastructure
+    (NFDI). More information on https://www.base4nfdi.de/projects/dmp4nfdi"
   name:
-    de: DMP4NFDI Coffee lecture: Das Handbuch für RDMO-Editoren
-    en: DMP4NFDI Coffee lecture: RDMO Editor's guide
+    de: "DMP4NFDI Coffee lecture: Das Handbuch für RDMO-Editoren"
+    en: "DMP4NFDI Coffee lecture: RDMO Editor's guide"
   description:
     de: ""
-    en: "During the RDMO Hackathon 2024 in Munich, members of the RDMO Community and DMP4NFDI1 started writing a comprehensive guide on How to develop a catalog within RDMO. This manual addresses research data managers and RDMO editors and their most important questions.
-In this coffee lecture, we will introduce the structure of the manual, how to use it effectively, and highlight its key benefits. Whether you are new to RDMO or are looking to refine your skills as an RDMO Editor, this session will offer valuable insights."
+    en: "During the RDMO Hackathon 2024 in Munich, members of
+      the RDMO Community and DMP4NFDI1 started writing a comprehensive
+      guide on How to develop a catalog within RDMO. This manual
+      addresses research data managers and RDMO editors and their
+      most important questions. In this coffee lecture, we will
+      introduce the structure of the manual, how to use it effectively,
+      and highlight its key benefits. Whether you are new to RDMO
+      or are looking to refine your skills as an RDMO Editor,
+      this session will offer valuable insights."
 
-- date: .....
-  place: .....
-  registration: .....
-  program: .....
-  report: .....
-  further_info: .....
+- date: "....."
+  place: "....."
+  registration: "....."
+  program: "....."
+  report: "....."
+  further_info: "....."
   name:
-    de: .....
-    en: .....
+    de: "....."
+    en: "....."
   description:
-    de: .....
-    en: .....
+    de: "....."
+    en: "....."
