@@ -5,6 +5,6 @@
       <a href='https://orcid.org/{{ member.orcid }}' target='_blank'>
         <img src='/img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID'/>
       </a>
-      {{ member.text.de | markdownify }}
+      {{ member.text[page.lang] | markdownify }}
     </div>
 </div>

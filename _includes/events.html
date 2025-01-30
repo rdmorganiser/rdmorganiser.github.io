@@ -5,8 +5,17 @@
       <td style="width: 80%; padding-left:10px;"/>
     </tr>
     <tr style="border-bottom: 1pt solid darkgrey;">
-      <th style="width: 20%;">{{ announcement.date | markdownify }}</th>
-      <td style="width: 90%; padding-left:10px;">{{ announcement.event[page.lang] | markdownify }}</td>
+      <th style="width: 20%;">{{ event.date | markdownify }}<br />{{ event.place }}</th>
+      <td style="width: 90%; padding-left:10px;">
+        <b>{{ event.name[page.lang] | markdownify }}</b>
+        <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>
+        <u><a href='{{ event.program }}' target='_blank'>Program</a></u>
+        <u><a href='{{ event.report }}' target='_blank'>Report</a></u>
+        <br />
+        {{ event.description[page.lang] | markdownify }}
+        <br />
+        <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>
+      </td>
     </tr>
   </table>
 {% endfor %}
