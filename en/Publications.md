@@ -14,13 +14,7 @@ RDMO has already been mentioned in numerous publications. These are listed below
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_development %}
-    <li>
-        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
-        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
-        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
-        {% endif %}
-    </li>
+  {% include publications.html %}
   {% endfor %}
   </ul>
 </details>
@@ -31,13 +25,7 @@ RDMO has already been mentioned in numerous publications. These are listed below
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.RDMO_implementation %}
-    <li>
-        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
-        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
-        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
-        {% endif %}
-    </li>
+  {% include publications.html %}
   {% endfor %}
   </ul>
 </details>
@@ -48,13 +36,7 @@ RDMO has already been mentioned in numerous publications. These are listed below
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_Tools %}
-    <li>
-        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
-        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
-        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
-        {% endif %}
-    </li>
+  {% include publications.html %}
   {% endfor %}
   </ul>
 </details>
@@ -65,13 +47,7 @@ RDMO has already been mentioned in numerous publications. These are listed below
   </summary>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_SMP %}
-    <li>
-        <i>{{ publication.authors }}</i> ({{ publication.date }}).<br />
-        <strong>{{ publication.title }}</strong> [{{ publication.type }}].<br />
-        {% if publication.doi %}<a href="{{ publication.doi }}">Download</a>
-        {% else if publication.uri %}<a href="{{ publication.uri }}">Download</a>
-        {% endif %}
-    </li>
+  {% include publications.html %}
   {% endfor %}
   </ul>
 </details>

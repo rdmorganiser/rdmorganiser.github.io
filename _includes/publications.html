@@ -1,0 +1,9 @@
+<li class="publication">
+    <b>{{ publication.title }}</b><br />
+    <i>{{ publication.authors }}</i><br />
+    {{ publication.journal }} ({{ publication.year }})<br />
+    {% if publication.ads %}ADS: <a href="{{ publication.ads }}">{{ publication.ads }}</a><br />{% endif %}
+    {% if publication.doi %}DOI: <a href="{{ publication.doi }}">{{ publication.doi }}</a><br />{% endif %}
+    {% if publication.urn %}URN: <a href="{{ publication.urn }}">{{ publication.urn }}</a><br />{% endif %}
+    {% if publication.uri %}URL: <a href="{{ publication.urn }}">{{ publication.uri }}</a><br />{% endif %}
+</li>
