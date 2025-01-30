@@ -20,7 +20,7 @@ Die SG wird die Richtung der Weiterentwicklung begleiten und die Abstimmungsproz
 So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 
 {% for member in site.data.sg-group.current %}
-{% include persons_de.html %}
+{% include person.html %}
 {% endfor %}
 
 
@@ -32,7 +32,7 @@ Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch ein
 So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
-{% include persons_de.html %}
+{% include persons.html %}
 {% endfor %}
 
 
@@ -44,7 +44,7 @@ Im Fokus der Arbeit stehen die Pflege und die kontrollierte Zusammenführung bes
 So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
 
 {% for member in site.data.cg-group.current %}
-{% include persons_de.html %}
+{% include persons.html %}
 {% endfor %}
 
 
@@ -64,6 +64,6 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 <details>
   <summary><u>Ehemalige Mitarbeiterinnen und Mitarbeiter</u></summary>
   {% for member in site.data.former %}
-  {% include persons_de.html %}
+  {% include persons.html %}
   {% endfor %}
 </details>

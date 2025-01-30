@@ -8,7 +8,7 @@
   name:
     de: 13. RDMO-Gemeinschaftstreffen
     en: 13th RDMO community meeting
-  description:
+  event:
     de: Update zum Stand der Vereinsgründung
     en: Update about the foundation of the association
 
@@ -24,7 +24,7 @@
   name:
     de: "DMP4NFDI Coffee lecture: Das Handbuch für RDMO-Editoren"
     en: "DMP4NFDI Coffee lecture: RDMO Editor's guide"
-  description:
+  event:
     de: ""
     en: "During the RDMO Hackathon 2024 in Munich, members of
       the RDMO Community and DMP4NFDI1 started writing a comprehensive
@@ -45,6 +45,6 @@
   name:
     de: "....."
     en: "....."
-  description:
+  event:
     de: "....."
     en: "....."

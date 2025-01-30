@@ -19,7 +19,7 @@ The RDMO Consortium is led by a steering group (SG). The representatives of the 
 You can reach the steering group via: rdmo-steuerungsgruppe@listserv.dfn.de
 
 {% for member in site.data.sg-group.current %}
-{% include persons_en.html %}
+{% include persons.html %}
 {% endfor %}
 
 
@@ -30,7 +30,7 @@ The technical coordination and further development of RDMO is organised by a dev
 The development group ist contactable via: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
-{% include persons_en.html %}
+{% include persons.html %}
 {% endfor %}
 
 ## Content group
@@ -39,7 +39,7 @@ The content group (CG) consists of volunteers who drive the content coordination
 <br/>
 The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
 {% for member in site.data.cg-group.current %}
-{% include persons_en.html %}
+{% include persons.html %}
 {% endfor %}
 
 
@@ -58,6 +58,6 @@ The general meeting of the RDMO collaboration comprises the entirety of all memb
 <details>
   <summary><u>Formerly engaged people</u></summary>
   {% for member in site.data.former %}
-  {% include persons_en.html %}
+  {% include persons.html %}
   {% endfor %}
 </details>
