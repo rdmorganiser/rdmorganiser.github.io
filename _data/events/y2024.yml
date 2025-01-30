@@ -1,101 +1,45 @@
 ---
-- event:
-    de: >
-       Am 19.11.2024 findet in der UB der TU Berlin die Gründungsversammlung für den "RDMO e.V." statt. Daran Interessierte können sich sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden. Nähere Infos zur Vereinsgründung finden Sie [hier](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
-    en: >
-       The founding meeting for the “RDMO e.V.” will take place on 19.11.2024 at the TU Berlin University Library. Interested parties are welcome to contact the steering group in advance. You can find more information about the founding of the association [here](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt))
-    date: 19.11.2024
-- event:
-    de: >
-      **Vereinsgründung**<br/> [Bericht](https://www.forschungsdaten.org/index.php/Gr%C3%BCndungsversammlung_des_RDMO-Vereins)
-      Die Gründungsversammlung für den "RDMO e.V." findet in der UB der TU Berlin statt. Daran Interessierte können sich sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden.
-      Nähere Infos zur Vereinsgründung
-      finden Sie [hier](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt)).
-    en: >
-      **Foundation of the RDMO association**<br/> [Report](https://www.forschungsdaten.org/index.php/Gr%C3%BCndungsversammlung_des_RDMO-Vereins)
-      The founding meeting for the “RDMO e.V.” takes place at the the UB of the TU Berlin. Anyone interested in attending can to contact the steering group in advance.
-      You can find more information about the founding of the association
-      [here](https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt)).
-  date: 19.11.2024
+
+- date: 19.11.2024
   place: Berlin, TU-Bibliothek
-  registration:
-  program:
   report: https://www.forschungsdaten.org/index.php/Gr%C3%BCndungsversammlung_des_RDMO-Vereins
   further_info: https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen#Vorstellung_&_Diskussion_der_Vorschl%C3%A4ge_zur_Vereinsgr%C3%BCndung_f%C3%BCr_RDMO_%E2%80%93_Katja_Diederichs_(ZB_MED),_Kathrin_H%C3%B6hner_(UB_Dortmund)_&_Gerald_Jagusch_(ULB_Darmstadt)
   name:
-    de: Vereinsgründung
-    en: Foundation of the RDMO association
-- event:
-    de: >
-      **12. RDMO-Gemeinschaftstreffen** (virtuell) [Bericht](https://www.forschungsdaten.org/index.php/12._Community-Treffen)<br/>
-      Vorstellung einiger Projekte aus der Community, des NFDI-Basisdienstes DMP4NFDI, der Möglichkeiten
-      von RDMO-Plugins und des neuen RDMO-Features, das das Mergen von Attributen erlaubt.
-    en: >
-      **12. RDMO community meeting** (virtual) [Report](https://www.forschungsdaten.org/index.php/12._Community-Treffen)<br/>
-      Presentations of some projects from the community, the NFDI basic service DMP4NFDI, the possibilities
-      of RDMO plugins and the new RDMO feature that allows attributes to be merged.
-  date: 8.10.2024
-- event:
-    de: >
-      **RDMO-Hackathon an der LMU München** [Programm](https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024)<br/>
-      In München findet ein RDMO Hackathon an der Universitätsbibliothek
-      der LMU statt. [Registrierung](https://www.pretix.osc.lmu.de/lmu-ub/rdmo/)
-      ist bis zum 25.09.2024 möglich. Die Teilnahme ist kostenlos.
-    en: >
-      **RDMOHackathon at the LMU Munich** [Program](https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024)<br/>
-      A RDMO hackathon is taking place in Munich at the university
-      library of the LMU. [Registration](https://www.pretix.osc.lmu.de/lmu-ub/rdmo/)
-      is possible until 25.09.2024. Participation is free of charge.
-  date: 16.10.2024
-- event:
-    de: >
-      **11. RDMO-Gemeinschaftstreffen** (virtuell) <a href="https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen"
-      target="_blank">Bericht</a><br/> Wir planen mit Ihnen und
-      Euch wichtige Themen zu besprechen, u.a. den Stand der geplanten
-      Vereinsgründung, die Migration und das Ende des Supports
-      1.x -> 2.0 und viele Updates aus den RDMO-Gruppen und Initiativen
-      mit RDMO-Beteiligung.
-    en: >
-      **11. RDMO Community Meeting** (virtual) <a href="https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen"
-      target="_blank">Report</a><br/> We plan to discuss important
-      topics with you, including Status of the planned founding
-      of the association, migration and the end of the Supports
-      1.x -> 2.0 and many updates from the RDMO groups and Initiatives
-      with RDMO participation.
-  date: 28.02.2024
-- date: "....."
-  place: "....."
-  registration: "....."
-  program: "....."
-  report: "....."
-  further_info: "....."
-  name:
-    de: "....."
-    en: "....."
+    de: "Vereinsgründung"
+    en: "Foundation of the RDMO association"
   event:
-    de: "....."
-    en: "....."
-- date: "....."
-  place: "....."
-  registration: "....."
-  program: "....."
-  report: "....."
-  further_info: "....."
+    de: "Die Gründungsversammlung für den "RDMO e.V." findet in der UB der TU Berlin statt. Daran Interessierte können sich sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden."
+    en: "The founding meeting for the “RDMO e.V.” takes place at the the UB of the TU Berlin. Anyone interested in attending can to contact the steering group in advance."
+
+- date: 8.10.2024
+  place: "online"
+  report: "https://www.forschungsdaten.org/index.php/12._Community-Treffen"
   name:
-    de: "....."
-    en: "....."
+    de: "12. RDMO-Gemeinschaftstreffen"
+    en: "12. RDMO community meeting"
   event:
-    de: "....."
-    en: "....."
-- date: "....."
-  place: "....."
-  registration: "....."
-  program: "....."
-  report: "....."
-  further_info: "....."
+    de: "Vorstellung einiger Projekte aus der Community, des NFDI-Basisdienstes DMP4NFDI, der Möglichkeiten
+    von RDMO-Plugins und des neuen RDMO-Features, das das Mergen von Attributen erlaubt."
+    en: "Presentations of some projects from the community, the NFDI basic service DMP4NFDI, the possibilities
+    of RDMO plugins and the new RDMO feature that allows attributes to be merged."
+
+- date: 16.10.2024
+  place: "LMU, München"
+  registration: "https://www.pretix.osc.lmu.de/lmu-ub/rdmo/"
+  program: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2024"
   name:
-    de: "....."
-    en: "....."
+    de: "RDMO Hackathon an der LMU München"
+    en: "RDMO Hackathon at the LMU Munich"
   event:
-    de: "....."
-    en: "....."
+    de: "In München findet ein RDMO Hackathon an der Universitätsbibliothek der LMU statt. Registrierung ist bis zum 25.09.2024 möglich. Die Teilnahme ist kostenlos."
+    en: "A RDMO hackathon is taking place in Munich at the university library of the LMU. Registration is possible until 25.09.2024. Participation is free of charge."
+
+- date: 28.02.2024
+  place: "online"
+  report: "https://www.forschungsdaten.org/index.php/Elftes_Community-Treffen"
+  name:
+    de: "11. RDMO-Gemeinschaftstreffen"
+    en: "11. RDMO Community Meeting"
+  event:
+    de: "Wir planen mit Ihnen und Euch wichtige Themen zu besprechen, u.a. den Stand der geplanten Vereinsgründung, die Migration und das Ende des Supports 1.x -> 2.0 und viele Updates aus den RDMO-Gruppen und Initiativen mit RDMO-Beteiligung."
+    en: "We plan to discuss important topics with you, including Status of the planned founding of the association, migration and the end of the Supports 1.x -> 2.0 and many updates from the RDMO groups and Initiatives with RDMO participation."
