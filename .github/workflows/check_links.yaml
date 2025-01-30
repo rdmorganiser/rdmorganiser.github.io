@@ -1,0 +1,31 @@
+---
+name: check_links
+
+on:
+  schedule:
+    - cron: "1 13 * * 1"
+  workflow_dispatch:
+  # NOTE: entry below disabled due to github api limitations
+  # workflow_run:
+  #   workflows: ["Deploy Jekyll site to Pages"]
+  #   types:
+  #     - completed
+
+jobs:
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: install muffet
+        env:
+          URL: raviqqe/muffet
+          GREP_SCHEME: "linux_amd64"
+          TARGET_FOLDER: /home/.local/bin
+        run: |
+          sudo mkdir -p ${TARGET_FOLDER}
+          curl https://raw.githubusercontent.com/triole/ghwfe/master/sh/install_from_github.sh | bash
+      - name: check for broken links
+        env:
+          PATH: /bin:/sbin:/usr/bin:/usr/sbin:/home/.local/bin
+        run: .github/sh/check_links.sh
