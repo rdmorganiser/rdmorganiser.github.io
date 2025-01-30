@@ -1,65 +1,91 @@
 current:
-- text:
-    de: "**Kerstin Wedlich-Zachodin**<a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Sprecherin) ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im DM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
-    en: "**Kerstin Wedlich-Zachodin**<a href='https://orcid.org/0000-0001-7740-7966' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> (Speaker) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
+- name: Kerstin Wedlich-Zachodin
+  orcid: 0000-0001-7740-7966
+  text:
+    de: "(Sprecherin) ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im DM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
+    en: "(Speaker) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
   image: img/team/wedlich.jpg
 
-- text:
-    de: "**Ivonne Anders**<a href='https://orcid.org/0000-0001-7337-3009' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Mitarbeiterin in der Abteilung Datenmanagement des Deutschen Klimarechenzentrum (DKRZ) in Hamburg. Dort ist sie in den Bereichen Portalentwicklung, Trainings für StudentInnen, sowie Prozessoptimierung und Workflows in simualtionsbasierter Klimaforschung tätig. In der RDA leitet sie mit anderen die Arbeitsgruppe „Diszipline-specific Guidance for DMPs“ und arbeitet in weiteren WGs und IGs aktiv mit. Desweiteren ist sie im FDO-Forum (FAIR Digital Objects) als Co-Chair und Mitglied in verschiedenen Gremien tätig."
-    en: "**Ivonne Anders**<a href='https://orcid.org/0000-0001-7337-3009' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> works in the data management department of the German Climate Computing Center (DKRZ) in Hamburg. There she works in the areas of portal development, training for students, as well as process optimization and workflows in simulation-based climate research. In the RDA, she leads the working group <i>Discipline-specific Guidance for DMPs</i> with others and is actively involved in other WGs and IGs. She is also a co-chair of the FDO forum (FAIR Digital Objects) and a member of various committees."
+- name: Ivonne Anders
+  orcid: 0000-0001-7337-3009
+  text:
+    de: "ist Mitarbeiterin in der Abteilung Datenmanagement des Deutschen Klimarechenzentrum (DKRZ) in Hamburg. Dort ist sie in den Bereichen Portalentwicklung, Trainings für StudentInnen, sowie Prozessoptimierung und Workflows in simualtionsbasierter Klimaforschung tätig. In der RDA leitet sie mit anderen die Arbeitsgruppe „Diszipline-specific Guidance for DMPs“ und arbeitet in weiteren WGs und IGs aktiv mit. Desweiteren ist sie im FDO-Forum (FAIR Digital Objects) als Co-Chair und Mitglied in verschiedenen Gremien tätig."
+    en: "works in the data management department of the German Climate Computing Center (DKRZ) in Hamburg. There she works in the areas of portal development, training for students, as well as process optimization and workflows in simulation-based climate research. In the RDA, she leads the working group <i>Discipline-specific Guidance for DMPs</i> with others and is actively involved in other WGs and IGs. She is also a co-chair of the FDO forum (FAIR Digital Objects) and a member of various committees."
   image: img/team/Anders_Y.jpg
 
-- text:
-    de: "**Stephan Brosig**<a href='https://orcid.org/0000-0002-9444-9225' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)](https://www.iamo.de/) in Halle (Saale). Er ist Sprecher der Arbeitsgruppe Forschungsdatenmanagement am Institut und engagiert sich dabei für die RDMO Bereitstellung sowie die Beratung zur RDMO Nutzung."
-    en: "**Stephan Brosig**<a href='https://orcid.org/0000-0002-9444-9225' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is senior researcher at [Leibniz Institute of Agricultural Development in Transition Economies (IAMO)](https://www.iamo.de/) in Halle (Saale). He is speaker of the institute’s research data management working group. As part of this task he facilitates and supports the use of RDMO at IAMO."
+- name: Stephan Brosig
+  orcid: 0000-0002-9444-9225
+  text:
+    de: "ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)](https://www.iamo.de/) in Halle (Saale). Er ist Sprecher der Arbeitsgruppe Forschungsdatenmanagement am Institut und engagiert sich dabei für die RDMO Bereitstellung sowie die Beratung zur RDMO Nutzung."
+    en: "is senior researcher at [Leibniz Institute of Agricultural Development in Transition Economies (IAMO)](https://www.iamo.de/) in Halle (Saale). He is speaker of the institute’s research data management working group. As part of this task he facilitates and supports the use of RDMO at IAMO."
   image: img/team/StephanBrosig_iamo.jpg
 
-- text:
-    de: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Datenmanagerin am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz. Sie ist verantwortlich für die Schulung von wissenschaftlichem Personal im Bereich Forschungsdatenmanagement, die Unterstützung von DMPs in Förderanträgen und Projekten sowie die Entwicklung von RDM-Politiken und -Richtlinien."
-    en: "** Yasmin Demerdash**<a href='https://orcid.org/0000-0002-3246-7604' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a Data Manager at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz. She is responsible for training scientific staff on research data management, supporting DMPs in grants and projects, and developing RDM policies and guidelines."
+- name:  Yasmin Demerdash
+  orcid: 0000-0002-3246-7604
+  text:
+    de: "ist Datenmanagerin am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz. Sie ist verantwortlich für die Schulung von wissenschaftlichem Personal im Bereich Forschungsdatenmanagement, die Unterstützung von DMPs in Förderanträgen und Projekten sowie die Entwicklung von RDM-Politiken und -Richtlinien."
+    en: "is a Data Manager at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz. She is responsible for training scientific staff on research data management, supporting DMPs in grants and projects, and developing RDM policies and guidelines."
   image: img/team/Yasmin_Demerdash.jpg
 
-- text:
-    de: "**Christin Henzen**<a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen."
-    en: "**Christin Henzen**<a href='https://orcid.org/0000-0002-5181-4368' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a research associate and project manager at the professorship for geoinformatics at the Technical University of Dresden. Her research interests include software development and architecture of research data infrastructures, as well as the usability of web-based applications."
+- name: Christin Henzen
+  orcid: 0000-0002-5181-4368
+  text:
+    de: "ist wissenschaftliche Mitarbeiterin und Projektleiterin an der Professur für Geoinformatik an der Technischen Universität Dresden. Ihre Forschungsinteressen umfassen die Softwareentwicklung und Architektur von Forschungsdateninfrastrukturen, sowie die Usability webbasierter Anwendungen."
+    en: "is a research associate and project manager at the professorship for geoinformatics at the Technical University of Dresden. Her research interests include software development and architecture of research data infrastructures, as well as the usability of web-based applications."
   image: img/team/henzen_christin.jpg
 
-- text:
-    de: "**Kathrin Höhner**<a href='https://orcid.org/0000-0002-3988-7839' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> leitet den Geschäftsbereich <i>Digitales Publizieren und Informationskompetenz</i> der Universitätsbibliothek der Technischen Universität Dortmund. Im Forschungsdatenmanagement ist sie an der Technischen Universität Dortmund für den Bereich Datenmanagementpläne verantwortlich und vertritt die TU Dortmund auch in der UA Ruhr dazu."
-    en: "**Kathrin Höhner**<a href='https://orcid.org/0000-0002-3988-7839' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> leads the <i>Digital Publishing and Information Literacy</i> division of the University Library of the Technical University of Dortmund. In research data management, she is responsible for data management plans at the Technical University of Dortmund and also represents the TU Dortmund in the UA Ruhr."
+- name: Kathrin Höhner
+  orcid: 0000-0002-3988-7839
+  text:
+    de: "leitet den Geschäftsbereich <i>Digitales Publizieren und Informationskompetenz</i> der Universitätsbibliothek der Technischen Universität Dortmund. Im Forschungsdatenmanagement ist sie an der Technischen Universität Dortmund für den Bereich Datenmanagementpläne verantwortlich und vertritt die TU Dortmund auch in der UA Ruhr dazu."
+    en: "leads the <i>Digital Publishing and Information Literacy</i> division of the University Library of the Technical University of Dortmund. In research data management, she is responsible for data management plans at the Technical University of Dortmund and also represents the TU Dortmund in the UA Ruhr."
   image: img/team/dummy.jpg
 
-- text:
-    de: "**Jimena Linares**<a href='https://orcid.org/0000-0003-3847-2663' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei."
-    en: "**Jimena Linares**<a href='https://orcid.org/0000-0003-3847-2663' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish."
+- name: Jimena Linares
+  orcid: 0000-0003-3847-2663
+  text:
+    de: "arbeitet als Datenmanagementbeauftragte bei der Gesellschaft für Biologische Daten (GFBio). Sie unterstützt die RDMO-Instanz in GFBio und trägt zur Übersetzung von RDMO ins Spanische bei."
+    en: "works as data manager officer at the German Federation for biological data (GFBio). She supports the RDMO Instance in GFBio and contributes to the RDMO translation into Spanish."
   image: img/team/linares.jpg
 
-- text:
-    de: "**Karsten Peters-von Gehlen**<a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte."
-    en: "**Karsten Peters-von Gehlen**<a href='https://orcid.org/0000-0003-0158-2957' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> works as a research assistant in the data management department of the German Climate Computing Center (DKRZ) in Hamburg. Among other things, he is involved there with advising scientists on all questions of research data management (RDM), with the planning and implementation of projects for the development and implementation of new RDM concepts especially for simulation-based earth system and climate research as well as with the RDMO based development and updating of data management plans for large consortium projects."
+- name: Karsten Peters-von Gehlen
+  orcid: 0000-0003-0158-2957
+  text:
+    de: "arbeitet als wissenschaftlicher Mitarbeiter in der Abteilung Datenmanagement des Deutschen Klimarechenzentrums (DKRZ) in Hamburg. Unter anderem beschäftigt er sich dort mit der Beratung von Wissenschaftler:innen in allen Fragen des Foschungsdatenmanagements (FDM), mit der Planung und Durchführung von Projekten zur Entwicklung und Implementierung neuer FDM-Konzepte speziell für die simulationsbasierte Erdsystem- und Klimaforschung sowie mit der RDMO-basierten Ausarbeitung und Aktualisierung von Datenmanagementplänen für große Konsortialprojekte."
+    en: "works as a research assistant in the data management department of the German Climate Computing Center (DKRZ) in Hamburg. Among other things, he is involved there with advising scientists on all questions of research data management (RDM), with the planning and implementation of projects for the development and implementation of new RDM concepts especially for simulation-based earth system and climate research as well as with the RDMO based development and updating of data management plans for large consortium projects."
   image: img/team/KPvG.jpg
 
-- text:
-    de: "**Thomas Richter**<a href='https://orcid.org/0009-0005-7168-7959' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda University of Applied Sciences](https://www.hs-fulda.de/)."
-    en: "**Thomas Richter**<a href='https://orcid.org/0009-0005-7168-7959' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is Research Data Officer and Technical Data Consultant at [Fulda University of Applied Sciences](https://www.hs-fulda.de/)."
+- name: Thomas Richter
+  orcid: 0009-0005-7168-7959
+  text:
+    de: "ist Forschungsdatenreferent und Technical Data Consultant an der [Hochschule Fulda University of Applied Sciences](https://www.hs-fulda.de/)."
+    en: "is Research Data Officer and Technical Data Consultant at [Fulda University of Applied Sciences](https://www.hs-fulda.de/)."
   image: img/team/Thomas_Richter.jpg
 
-- text:
-    de: "**Jürgen Rohrwild**<a href='https://orcid.org/0000-0002-1167-0339' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Referent für Forschungsdatenmanagement an der [Universitätsbibliothek Erlangen-Nürnberg](https://www.ub.fau.de) und ist Mitglied der [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). Er betreut die [RDMO-Instanz der Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
-    en: "**Jürgen Rohrwild**<a href='https://orcid.org/0000-0002-1167-0339' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data management officer at the [University Library Erlangen-Nürnberg](https://www.ub.fau.de) and a member of the [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). He is in charge of the [RDMO instance of Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
+- name: Jürgen Rohrwild
+  orcid: 0000-0002-1167-0339
+  text:
+    de: "ist Referent für Forschungsdatenmanagement an der [Universitätsbibliothek Erlangen-Nürnberg](https://www.ub.fau.de) und ist Mitglied der [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). Er betreut die [RDMO-Instanz der Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
+    en: "is research data management officer at the [University Library Erlangen-Nürnberg](https://www.ub.fau.de) and a member of the [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). He is in charge of the [RDMO instance of Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
   image: img/team/Rohrwild.jpg
 
-- text:
-    de: "**Frank Rühle**<a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten."
-    en: "**Frank Rühle**<a href='https://orcid.org/0000-0001-7688-2394' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments."
+- name: Frank Rühle
+  orcid: 0000-0001-7688-2394
+  text:
+    de: "ist Mitglied der Bioinformatik Core Facility am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz und unterstützt die wissenschaftlichen Arbeitsgruppen bei der Datenanalyse von Next Generation Sequencing-Experimenten."
+    en: "is a member of the Bioinformatics Core Facility at the [Institute of Molecular Biology (IMB)](https://www.imb.de/) in Mainz and supports the scientific groups in data analysis of Next Generation Sequencing experiments."
   image: img/team/ruehle.jpg
 
-- text:
-    de: "**Sarah Wettermann**<a href='https://orcid.org/0009-0006-5838-095X' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> arbeitet am [Zentrum für Datenverarbeitung (ZDV) an der Johannes-Gutenberg-Universität (JGU) in Mainz](https://www.zdv.uni-mainz.de/) und ist Mitglied des [Netzwerks Forschungsdatenmanagement Rheinland-Pfalz](https://fdm.rlp.net/ueber-uns/das-netzwerk). Sie betreut die [RDMO-Instanz der JGU](https://rdmo.zdv.uni-mainz.de/) und ist Ansprechperson für Anliegen zu Datenmanagementplänen und Datenarchivierung. In der RDMO Community überarbeitet und aktualisiert sie die Webseite und Kataloge und verbessert die Übersetzungen ins Englische."
-    en: "**Sarah Wettermann**<a href='https://orcid.org/0009-0006-5838-095X' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> works at the [Data centre (ZDV) of the Johannes-Gutenberg-University (JGU) in Mainz](https://www.zdv.uni-mainz.de/) and is member of the [Research Data Management Network Rhineland-Palatinate](https://fdm.rlp.net/ueber-uns/das-netzwerk). She is in charge of the RDMO instance at JGU and is the contact person for questions regarding data management plans and data archiving. Within the RDMO community she revises and updates the website and catalogues and improves the translations into English."
+- name: Sarah Wettermann
+  orcid: 0009-0006-5838-095X
+  text:
+    de: "arbeitet am [Zentrum für Datenverarbeitung (ZDV) an der Johannes-Gutenberg-Universität (JGU) in Mainz](https://www.zdv.uni-mainz.de/) und ist Mitglied des [Netzwerks Forschungsdatenmanagement Rheinland-Pfalz](https://fdm.rlp.net/ueber-uns/das-netzwerk). Sie betreut die [RDMO-Instanz der JGU](https://rdmo.zdv.uni-mainz.de/) und ist Ansprechperson für Anliegen zu Datenmanagementplänen und Datenarchivierung. In der RDMO Community überarbeitet und aktualisiert sie die Webseite und Kataloge und verbessert die Übersetzungen ins Englische."
+    en: "works at the [Data centre (ZDV) of the Johannes-Gutenberg-University (JGU) in Mainz](https://www.zdv.uni-mainz.de/) and is member of the [Research Data Management Network Rhineland-Palatinate](https://fdm.rlp.net/ueber-uns/das-netzwerk). She is in charge of the RDMO instance at JGU and is the contact person for questions regarding data management plans and data archiving. Within the RDMO community she revises and updates the website and catalogues and improves the translations into English."
   image: img/team/Sarah_Wettermann.jpg
 
-- text:
-    de: "**Jürgen Windeck**<a href='https://orcid.org/0000-0003-1909-4353' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Forschungsdatenreferent an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den föderierten RDMO-Service in Hessen und ist Koordinator der NFDI Arbeitsgruppe infra-dmp."
-    en: "**Jürgen Windeck**<a href='https://orcid.org/0000-0003-1909-4353' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data officer at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the federated RDMO service in Hesse and is coordinator of the NFDI working group infra-dmp."
+- name: Jürgen Windeck
+  orcid: 0000-0003-1909-4353
+  text:
+    de: "ist Forschungsdatenreferent an der [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/). Er ist zuständig für den föderierten RDMO-Service in Hessen und ist Koordinator der NFDI Arbeitsgruppe infra-dmp."
+    en: "is research data officer at the [University and State Library Darmstadt](https://www.ulb.tu-darmstadt.de/). He is responsible for the federated RDMO service in Hesse and is coordinator of the NFDI working group infra-dmp."
   image: img/team/dummy.jpg

@@ -22,7 +22,9 @@ You can reach the steering group via: rdmo-steuerungsgruppe@listserv.dfn.de
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -38,7 +40,9 @@ The development group ist contactable via: [Slack](https://rdmo.slack.com/archiv
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -52,7 +56,9 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -73,11 +79,10 @@ The general meeting of the RDMO collaboration comprises the entirety of all memb
 <details>
   <summary><u>Former employees</u></summary>
   {% for member in site.data.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
+  <div class="team-member-info">
+    <strong>{{ member.name }}</strong>
+    <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+    {{ member.text.en | markdownify }}
+  </div>
 {% endfor %}
 </details>
