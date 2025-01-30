@@ -1,4 +1,4 @@
-![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/pages.yml/badge.svg) ![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/check-links.yml/badge.svg)
+![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/run_tests.yaml/badge.svg) ![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/deploy_pages.yaml/badge.svg) ![](https://github.com/rdmorganiser/rdmorganiser.github.io/actions/workflows/check_links.yaml/badge.svg)
 
 # rdmorganiser.github.io
 
