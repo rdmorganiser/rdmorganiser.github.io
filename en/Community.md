@@ -19,14 +19,7 @@ The RDMO Consortium is led by a steering group (SG). The representatives of the 
 You can reach the steering group via: rdmo-steuerungsgruppe@listserv.dfn.de
 
 {% for member in site.data.sg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.en | markdownify }}
-    </div>
-</div>
+{% include persons_en.html %}
 {% endfor %}
 
 
@@ -37,14 +30,7 @@ The technical coordination and further development of RDMO is organised by a dev
 The development group ist contactable via: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.en | markdownify }}
-    </div>
-</div>
+{% include persons_en.html %}
 {% endfor %}
 
 ## Content group
@@ -53,14 +39,7 @@ The content group (CG) consists of volunteers who drive the content coordination
 <br/>
 The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
 {% for member in site.data.cg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.en | markdownify }}
-    </div>
-</div>
+{% include persons_en.html %}
 {% endfor %}
 
 
@@ -79,10 +58,6 @@ The general meeting of the RDMO collaboration comprises the entirety of all memb
 <details>
   <summary><u>Formerly engaged people</u></summary>
   {% for member in site.data.former %}
-  <div class="team-member-info">
-    <strong>{{ member.name }}</strong>
-    <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-    {{ member.text.en | markdownify }}
-  </div>
-{% endfor %}
+  {% include persons_en.html %}
+  {% endfor %}
 </details>

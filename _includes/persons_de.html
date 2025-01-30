@@ -1,0 +1,10 @@
+<div class="team-member">
+    <img src="{{ site.baseurl }}/{{ member.image}}" />
+    <div class="team-member-info">
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'>
+        <img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      </a>
+      {{ member.text.de | markdownify }}
+    </div>
+</div>

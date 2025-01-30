@@ -20,14 +20,7 @@ Die SG wird die Richtung der Weiterentwicklung begleiten und die Abstimmungsproz
 So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 
 {% for member in site.data.sg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.de | markdownify }}
-    </div>
-</div>
+{% include persons_de.html %}
 {% endfor %}
 
 
@@ -39,14 +32,7 @@ Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch ein
 So erreichen Sie die Entwicklungsgruppe: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
 
 {% for member in site.data.sw-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.de | markdownify }}
-    </div>
-</div>
+{% include persons_de.html %}
 {% endfor %}
 
 
@@ -58,14 +44,7 @@ Im Fokus der Arbeit stehen die Pflege und die kontrollierte Zusammenführung bes
 So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
 
 {% for member in site.data.cg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.de | markdownify }}
-    </div>
-</div>
+{% include persons_de.html %}
 {% endfor %}
 
 
@@ -85,13 +64,6 @@ Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr z
 <details>
   <summary><u>Ehemalige Mitarbeiterinnen und Mitarbeiter</u></summary>
   {% for member in site.data.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-      <strong>{{ member.name }}</strong>
-      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='./img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
-      {{ member.text.de | markdownify }}
-    </div>
-</div>
-{% endfor %}
+  {% include persons_de.html %}
+  {% endfor %}
 </details>
