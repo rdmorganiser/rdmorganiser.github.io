@@ -11,16 +11,15 @@ ff() {
 
 val() {
   for el in $(ff "${1}"); do
-    dasel -f "${el}" -r yaml >/dev/null 2>&1 || {
+    dasel -f "${el}" >/dev/null 2>&1 || {
       echo -e "\n[error] invalid file: ${el}"
-      dasel -f "${el}" -r yaml
+      dasel -f "${el}"
+      echo ""
       x=1
     }
   done
 }
 
 x=0
-val "ya?ml$"
-val "csv$"
-echo ""
+val "\.(csv|json|ya?ml|toml)$"
 exit ${x}
