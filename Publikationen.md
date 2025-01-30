@@ -76,4 +76,3 @@ Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href
   {% endfor %}
   </ul>
 </details>
-

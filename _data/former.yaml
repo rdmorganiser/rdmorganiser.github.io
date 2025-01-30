@@ -1,69 +1,93 @@
-- text:
-    de: "**Harry Enke**<a href='https://orcid.org/0000-0002-2366-8316' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> (Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
-    en: "**Harry Enke**<a href='https://orcid.org/0000-0002-2366-8316' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> (Speaker) leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
+- name: Harry Enke
+  orcid: 0000-0002-2366-8316
+  text:
+    de: "(Sprecher) leitet die E-Science Gruppe am [Leibniz-Institut für Astrophysik Potsdam (AIP)](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
+    en: "(Speaker) leads the E-Science group at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He works for building digital infrastructures for research data in astrophysics. Also, he is spokesperson for the [Arbeitskreis Forschungsdaten (WG Research Data) of the Leibniz Gemeinschaft](https://www.leibniz-gemeinschaft.de/ueber-uns/organisation/gremien)."
   image: img/team/ehem/HarryEnke.jpg
 
-- text:
-    de: "**Daniela Hausen**<a href='https://orcid.org/0000-0001-9083-0670' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> arbeitet im Bereich Forschungsdatenmanagement an der [RWTH Aachen University](https://www.academy.rwth-aachen.de/de/). Der Fokus ihrer Arbeit liegt auf Datenmanagementplänen, Trainings und (inter-)nationaler Arbeit. Bei der Research Data Alliance ist sie aktiv in den Arbeitsgruppen zu Datenmanagementplänen und Chair der IG 'Research data management in engineering'."
-    en: "**Daniela Hausen**<a href='https://orcid.org/0000-0001-9083-0670' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> works on Research Data Manageme at [RWTH Aachen University](https://www.academy.rwth-aachen.de/en/). Her work focuses on data management plans, trainings and (inter-)national collaborations. She is actively participating in the workgroup on data management plans of the Research Data Alliance. Also she is Chair of IG 'Research data management in engineering'."
+- name: Daniela Hausen
+  orcid: 0000-0001-9083-0670
+  text:
+    de: "arbeitet im Bereich Forschungsdatenmanagement an der [RWTH Aachen University](https://www.academy.rwth-aachen.de/de/). Der Fokus ihrer Arbeit liegt auf Datenmanagementplänen, Trainings und (inter-)nationaler Arbeit. Bei der Research Data Alliance ist sie aktiv in den Arbeitsgruppen zu Datenmanagementplänen und Chair der IG 'Research data management in engineering'."
+    en: "works on Research Data Manageme at [RWTH Aachen University](https://www.academy.rwth-aachen.de/en/). Her work focuses on data management plans, trainings and (inter-)national collaborations. She is actively participating in the workgroup on data management plans of the Research Data Alliance. Also she is Chair of IG 'Research data management in engineering'."
   image: img/team/ehem/hausen.jpg
 
-- text:
-    de: "**Birte Lindstädt** leitet die Abteilung Forschungsdatenmanagment beim [ZB MED Informationszentrum Lebenswissenschaften](https://www.zbmed.de). Dort ist sie für den Aufbau von Informationsinfrastrukturen für die Verarbeitung und Bereitstellung von Forschungsdaten sowie für Beratungs-, Schulungs- und Ausbildungsservices im Kontext von Forschungsdatenmanagement zuständig."
-    en: "**Birte Lindstädt** is Deputy Head leading the section Research Data Management at [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/). She is responsible for information infrastructures for reserach data, and services for research data management."
+- name: Birte Lindstädt
+  orcid: 0000-0002-8251-1597
+  text:
+    de: "leitet die Abteilung Forschungsdatenmanagment beim [ZB MED Informationszentrum Lebenswissenschaften](https://www.zbmed.de). Dort ist sie für den Aufbau von Informationsinfrastrukturen für die Verarbeitung und Bereitstellung von Forschungsdaten sowie für Beratungs-, Schulungs- und Ausbildungsservices im Kontext von Forschungsdatenmanagement zuständig."
+    en: "is Deputy Head leading the section Research Data Management at [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/). She is responsible for information infrastructures for reserach data, and services for research data management."
   image: img/team/ehem/lindstaedt.jpg
 
-- text:
-    de: "**Robert Strötgen**<a href='https://orcid.org/0000-0003-3320-5187' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist stellvertretender Direktor der [Universitätsbibliothek der TU Braunschweig](https://www.tu-braunschweig.de/ub) und Leiter der Abteilung IT und Forschungsnahe Services. Dort verantwortet er auch das Thema Forschungsdatenmanagement. Im Bereich Open Source engagiert er sich unter anderem seit 2012 für 'Kitodo. Key to digital objects e.V.', dessen Vorstandsvorsitzender er ist."
-    en: "**Robert Strötgen**<a href='https://orcid.org/0000-0003-3320-5187' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board."
+- name: Robert Strötgen
+  orcid: 0000-0003-3320-5187
+  text:
+    de: "ist stellvertretender Direktor der [Universitätsbibliothek der TU Braunschweig](https://www.tu-braunschweig.de/ub) und Leiter der Abteilung IT und Forschungsnahe Services. Dort verantwortet er auch das Thema Forschungsdatenmanagement. Im Bereich Open Source engagiert er sich unter anderem seit 2012 für 'Kitodo. Key to digital objects e.V.', dessen Vorstandsvorsitzender er ist."
+    en: "is Deputy Director of the [University Library of the TU Braunschweig](https://www.tu-braunschweig.de/en/ub) and Head of the IT and Research Support Services department. He is also responsible for research data management. In the area of open source, since 2012 he has been involved in projects such as 'Kitodo. Key to digital objects e.V.', of which he is chairman of the board."
   image: img/team/ehem/stroetgen.jpg
 
-- text:
-    de: "**Jens Freund**<a href='https://orcid.org/0000-0001-6232-7568' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist Mitglied des Forschungsdatenmanagement-Teams der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und Mitglied von HeFDI [Hessische Forschungsdaten Infrastruktur](https://www.uni-marburg.de/de/hefdi). Seine Arbeitsgebietes sind RDMO, Elektronische laborbücher und Entwicklung neuer Konzepte der Bibliothek für das Angebot von digitaler wissenschaftlicher Literatur."
-    en: "**Jens Freund**<a href='https://orcid.org/0000-0001-6232-7568' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is a member of the research data management team of the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
+- name: Jens Freund
+  orcid: 0000-0001-6232-7568
+  text:
+    de: "ist Mitglied des Forschungsdatenmanagement-Teams der [Bibliothek der TU Darmstadt](https://www.ulb.tu-darmstadt.de/) und Mitglied von HeFDI [Hessische Forschungsdaten Infrastruktur](https://www.uni-marburg.de/de/hefdi). Seine Arbeitsgebietes sind RDMO, Elektronische laborbücher und Entwicklung neuer Konzepte der Bibliothek für das Angebot von digitaler wissenschaftlicher Literatur."
+    en: "is a member of the research data management team of the [Library of TU Darmstadt](https://www.ulb.tu-darmstadt.de/service/start/index.en.jsp) and part of the HeFDI project [Hessian Research Data Infrastructures](https://www.uni-marburg.de/de/hefdi). His work areas are RDMO, electronic laboratory notebooks and the development of new library concepts for the provision of digital scientific literature."
   image: img/team/ehem/freund.jpg
 
-- text:
-    de: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
-    en: "**Yves Vincent Grossmann**<a href='https://orcid.org/0000-0002-2880-8947' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/></a> is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
+- name: Yves Vincent Grossmann
+  orcid: 0000-0002-2880-8947
+  text:
+    de: "ist Referent für Forschungsdatenmanagement an der [Max Planck Digital Library](https://www.mpdl.mpg.de). Für die RDMO Community hat er verschiedene Beiträge geliefert. Zugleich betreut er die [RDMO-Instanz der MPDL](https://rdmo.mpdl.mpg.de)."
+    en: "is research data management officer at the [Max Planck Digital Library](https://www.mpdl.mpg.de). He has made various contributions to the RDMO community. At the same time, he is in charge of the [RDMO instance of the MPDL](https://rdmo.mpdl.mpg.de)."
   image: img/team/Grossmann.jpg
 
-- text:
-    de: "**Claudia Kramer** ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
-    en: "**Claudia Kramer** is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
+- name: Claudia Kramer
+  text:
+    de: "ist wissenschaftliche Fachreferentin an der [Bibliothek des Karlsruher Instituts für Technologie (KIT)](https://www.bibliothek.kit.edu). Sie koordiniert in der Leitung des Serviceteams [rdm@kit](http://www.rdm.kit.edu/) Projekte im Forschungsdatenmanagement."
+    en: "is a subject librarian at the [Library of the Karlsruhe Institute of Technology (KIT)](https://www.bibliothek.kit.edu). As the leader of the serviceteam [rdm@kit](http://www.rdm.kit.edu/), she coordinates its research data management projects."
   image: img/team/ehem/kramer.jpg
 
-- text:
-    de: "**Jens Ludwig**<a href='https://orcid.org/0000-0002-2998-1696' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist Sprecher der gemeinsamen Arbeitsgruppe \"Forschungsdaten\" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
-    en: "**Jens Ludwig**<a href='https://orcid.org/0000-0002-2998-1696' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
+- name: Jens Ludwig
+  orcid: 0000-0002-2998-1696
+  text:
+    de: "ist Sprecher der gemeinsamen Arbeitsgruppe \"Forschungsdaten\" der [Deutschen Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) und [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
+    en: "is one of the spokespersons of the joint working group \"Forschungsdaten\" (Research Data) of the [Deutsche Initiative für Netzwerkinformation e.V. (DINI)](http://dini.de/) and [nestor - Deutsches Kompetenznetzwerk zur digitalen Langzeitarchivierung](https://www.langzeitarchivierung.de/Webs/nestor/DE/nestor/nestor_node.html)."
   image: img/team/ehem/ludwig.jpg
 
-- text:
-    de: "**Heike Neuroth**<a href='https://orcid.org/0000-0002-3637-3154' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
-    en: "**Heike Neuroth**<a href='https://orcid.org/0000-0002-3637-3154' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is a professor for Library Sciences at [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/). Her work comprises of many activities in the areas of electronic archiving, research data management, long-term preservation and digital humanities."
+- name: Heike Neuroth
+  orcid: 0000-0002-3637-3154
+  text:
+    de: "ist Professorin für Bibliothekswissenschaften an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihre Arbeit umfasst zahlreiche Aktivitäten im Bereich der elektronischen Archivierung, des Forschungsdatenmanagements, der Langzeitarchivieung und den Digital Humanities."
+    en: "is a professor for Library Sciences at [Potsdam University of Applied Sciences (FHP)](http://www.fh-potsdam.de/). Her work comprises of many activities in the areas of electronic archiving, research data management, long-term preservation and digital humanities."
   image: img/team/ehem/neuroth.jpg
 
-- text:
-    de: "**Robert Ulrich** ist wissenschaftlicher Mitarbeiter und Softwareentwickler an der Bibliothek des Karlsruher Instituts für Technologie (KIT). Er koordiniert, managt und entwickelt für re3data, das Serviceteam RDM@KIT und weitere FDM-Projekte. Auf [forschungsdaten.info](http://www.forschungsdaten.info) kümmert er sich um das Hosting der dortigen RDMO-Instanz."
-    en: "**Robert Ulrich** is a research assistant and software developer at the library of the Karlsruhe Institute of Technology (KIT). He coordinates, manages and develops for re3data, the Serviceteam RDM@KIT and other RDM projects. He is responsible for hosting the RDMO instance at [forschungsdaten.info](http://www.forschungsdaten.info)."
+- name: Robert Ulrich
+  text:
+    de: "ist wissenschaftlicher Mitarbeiter und Softwareentwickler an der Bibliothek des Karlsruher Instituts für Technologie (KIT). Er koordiniert, managt und entwickelt für re3data, das Serviceteam RDM@KIT und weitere FDM-Projekte. Auf [forschungsdaten.info](http://www.forschungsdaten.info) kümmert er sich um das Hosting der dortigen RDMO-Instanz."
+    en: "is a research assistant and software developer at the library of the Karlsruhe Institute of Technology (KIT). He coordinates, manages and develops for re3data, the Serviceteam RDM@KIT and other RDM projects. He is responsible for hosting the RDMO instance at [forschungsdaten.info](http://www.forschungsdaten.info)."
   image: img/team/ehem/ulrich.jpg
 
-- text:
-    de: "**Claudia Engelhardt**<a href='https://orcid.org/0000-0002-3391-7638' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> war wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
-    en: "**Claudia Engelhardt**<a href='https://orcid.org/0000-0002-3391-7638' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> has been a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
+- name: Claudia Engelhardt
+  orcid: 0000-0002-3391-7638
+  text:
+    de: "war wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) und der [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Ihre Arbeitsschwerpunkte sind Forschungsdatenmanagement und -infrastrukturen, Langzeitarchivierung sowie Aus-/Weiterbildung und Curricularentwicklung in diesen Bereichen."
+    en: "has been a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/) and [Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB)](http://www.sub.uni-goettingen.de/). Her focus of interest lies on research data management and -infrastructures, long-term preservation as well as training and education in these areas."
   image: img/team/ehem/engelhardt.jpg
 
-- text:
-    de: "**Martin Heger** ist Master in Informationswissenschaft ([Fachhochschule Potsdam](http://www.fh-potsdam.de/)). Seine Masterarbeit ist \"Datenmodellierung für Forschungsdatenmanagementpläne\"."
-    en: "**Martin Heger** is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
+- name: Martin Heger
+  text:
+    de: "ist Master in Informationswissenschaft ([Fachhochschule Potsdam](http://www.fh-potsdam.de/)). Seine Masterarbeit ist \"Datenmodellierung für Forschungsdatenmanagementpläne\"."
+    en: "is Master of Information Science ([Potsdam University of Applied Sciences](http://www.fh-potsdam.de/)). His master thesis is \"Data modeling for Research Data Management Plans\"."
   image: img/team/ehem/heger.jpg
 
-- text:
-    de: "**Frank Tristram** ist wissenschaftlicher Mitarbeiter am KIT. Seine Arbeitsschwerpunkte sind die Bedarfe der wissenschaftlichen Communities und der Transfer von neuen digitalen und datengetriebenen Methoden in die wissenschaftliche Arbeitspraxis."
-    en: "**Frank Tristram** is a research associate at Karlsruhe Institute of Technology (KIT). His work focuses on the needs of scientific communities and the transfer of new digital and data-driven methods into scientific practice."
+- name: Frank Tristram
+  text:
+    de: "ist wissenschaftlicher Mitarbeiter am KIT. Seine Arbeitsschwerpunkte sind die Bedarfe der wissenschaftlichen Communities und der Transfer von neuen digitalen und datengetriebenen Methoden in die wissenschaftliche Arbeitspraxis."
+    en: "is a research associate at Karlsruhe Institute of Technology (KIT). His work focuses on the needs of scientific communities and the transfer of new digital and data-driven methods into scientific practice."
   image: img/team/ehem/tristram.jpg
 
-- text:
-    de: "**Ulrike Wuttke**<a href='https://orcid.org/0000-0002-8217-4025' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
-    en: "**Ulrike Wuttke**<a href='https://orcid.org/0000-0002-8217-4025' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
+- name: Ulrike Wuttke
+  orcid: 0000-0002-8217-4025
+  text:
+    de: "ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
+    en: "is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
   image: img/team/ehem/wuttke.jpg

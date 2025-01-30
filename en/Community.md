@@ -22,7 +22,9 @@ You can reach the steering group via: rdmo-steuerungsgruppe@listserv.dfn.de
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -38,7 +40,9 @@ The development group ist contactable via: [Slack](https://rdmo.slack.com/archiv
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -52,7 +56,9 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 <div class="team-member">
     <img src="{{ site.baseurl }}/{{ member.image}}" />
     <div class="team-member-info">
-        {{ member.text.en | markdownify }}
+      <strong>{{ member.name }}</strong>
+      <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+      {{ member.text.en | markdownify }}
     </div>
 </div>
 {% endfor %}
@@ -60,8 +66,8 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 
 ## Ad Hoc Groups
 
-For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.<br/>
-We would like to invite all institutions that are interested in the preservation and further development of RDMO to sign the MoU and send it to the following e-mail address: rdmo-steuerungsgruppe@listserv.dfn.de.
+For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.
+
 
 ## General meeting
 
@@ -71,13 +77,12 @@ The general meeting of the RDMO collaboration comprises the entirety of all memb
 ## Former community members
 
 <details>
-  <summary><u>Former employees</u></summary>
+  <summary><u>Formerly engaged people</u></summary>
   {% for member in site.data.former %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
+  <div class="team-member-info">
+    <strong>{{ member.name }}</strong>
+    <a href='https://orcid.org/{{ member.orcid }}' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:16px; height:16px; vertical-align:super;' alt='ORCID Logo'/>
+    {{ member.text.en | markdownify }}
+  </div>
 {% endfor %}
 </details>
