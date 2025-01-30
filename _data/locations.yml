@@ -431,8 +431,7 @@
   lon: 11.2789751
   color: blue
 
-- name: Technische Universität Dresden, CIDS - Center for Interdisciplinary Digital Science
-  # name: Sächsische Landesinitiative zum Forschungsdatenmanagement (SaxFDM)
+- name: Sächsische Landesinitiative zum Forschungsdatenmanagement (SaxFDM)
   # url: https://dmp.saxfdm.de/
   contact: Carina Becker
   mail: mailto:carina.becker@tu-dresden.de
