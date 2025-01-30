@@ -2,7 +2,8 @@
 - event: LIBER Research Data Management Working Group webinar
   date: 2024-02-01
   title: "Data Management Plans: Use and Reuse"
-  authors: Kerstin Vanessa Wedlich-Zachodin, Kerstin Soltau, Elisa Rodenburg, Mari Elisa Kuusniemi
+  authors: Kerstin Vanessa Wedlich-Zachodin, Kerstin Soltau, Elisa
+    Rodenburg, Mari Elisa Kuusniemi
   place:
   slides: https://zenodo.org/records/10649084
 
@@ -21,12 +22,15 @@
 
 - event: Open Access Tage Hannover 2019
   date: 2019-10-01
-  title: Tool-Marktplatz: Research Data Management Organiser
+  title: "Tool-Marktplatz: Research Data Management Organiser"
   authors: Olaf Michaelis
 
-- event: DH-Kolloquiums an der Berlin-Brandenburgischen Akademie der Wissenschaften (BBAW)
+- event: DH-Kolloquiums an der Berlin-Brandenburgischen Akademie
+    der Wissenschaften (BBAW)
   date: 2019-08-02
-  title: How FAR is FAIR? Der öffentliche Zugang zu geisteswissenschaftlichen Forschungsdaten als gute wissenschaftliche Praxis und die Rolle des Forschungsdatenmanagements
+  title: How FAR is FAIR? Der öffentliche Zugang zu geisteswissenschaftlichen
+    Forschungsdaten als gute wissenschaftliche Praxis und die
+    Rolle des Forschungsdatenmanagements
   authors: Ulrike Wuttke, Jochen Klar
   slides: https://zenodo.org/record/3365979
 
@@ -34,7 +38,8 @@
   date: 2019-06-06
   place: Jülich
   title: Research Data Management Organiser
-  authors: U. Wuttke, H. Neuroth, J. Klar, H. Enke, J. Straka, K. V. Wedlich-Zachodin, C. Kramer, O. Michaelis, J. Ludwig
+  authors: U. Wuttke, H. Neuroth, J. Klar, H. Enke, J. Straka,
+    K. V. Wedlich-Zachodin, C. Kramer, O. Michaelis, J. Ludwig
   proceeding: http://hdl.handle.net/2128/22279
 
 - event: E-Science-Tage 2019
@@ -65,7 +70,8 @@
   date: 19.-20.02.2019
   place: Potsdam
   title: "Research data management organiser"
-  authors: H. Enke, J. Klar, O. Michaelis, H. Neuroth, J. Straka, C. Kramer, K. Wedlich-Zachodin, F. Tristram, J. Ludwig
+  authors: H. Enke, J. Klar, O. Michaelis, H. Neuroth, J. Straka,
+    C. Kramer, K. Wedlich-Zachodin, F. Tristram, J. Ludwig
   poster: https://www.rda-deutschland.de/events/rda-deutschland-tagung-2019-poster
 
 - event: "International Open Access Week 2018"
@@ -85,7 +91,8 @@
   url: https://www.vdb-online.org/tag/bibliothekartag-2018/
   date: 2018-06-13
   place: Berlin
-  title: Aktives Forschungsdatenmanagement - Das DFG-Projekt Research Data Management Organiser (RDMO)
+  title: Aktives Forschungsdatenmanagement - Das DFG-Projekt Research
+    Data Management Organiser (RDMO)
   authors: Heike Neuroth, Janine Vierheller
   slides: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/RDMO/docId/3688
 
@@ -114,7 +121,8 @@
   slides: https://www.open-science-conference.eu/wp-content/uploads/2018/03/05_osc2018_Presentation.pdf
   poster: https://www.open-science-conference.eu/wp-content/uploads/2018/03/05_osc2018_Poster.pdf
 
-- event: LISA VIII: Astronomy Librarianship in the era of Big Data and Open Science
+- event: "LISA VIII: Astronomy Librarianship in the era of Big
+    Data and Open Science"
   url: http://cds.u-strasbg.fr/meetings/Lisa8
   date: 2017-06-07
   place: Straßburg
@@ -126,16 +134,18 @@
   # url: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
   date: 2017-05-30
   place: Berlin
-  title: RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement
+  title: "RDMO: Ein neues Werkzeug für das Forschungsdatenmanagement"
   authors: Jochen Klar
   # recording: https://www.ibi.hu-berlin.de/de/bbk/abstracts/ss17/klar
 
-- event: EGU General Assembly 2017: Open Data, Reproducible Research, and Open Science
+- event: "EGU General Assembly 2017: Open Data, Reproducible Research,
+    and Open Science"
   url: http://meetingorganizer.copernicus.org/EGU2017/orals/23924
   date: 2017-04-28
   place: Wien
   title: RDMO - Research Data Management Organiser
-  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke, Jens Ludwig
+  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry
+    Enke, Jens Ludwig
   abstract: http://meetingorganizer.copernicus.org/EGU2017/EGU2017-15760.pdf
 
 - event: E-Science-Tage 2017
@@ -160,7 +170,8 @@
   # abstract: http://os.helmholtz.de/de/bewusstsein-schaerfen/workshops/rda-de-16/sessionabstracts/#c6993
   # slides: http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_ludwig.pdf
 
-- event: Herbsttagung der Astronomischen Gesellschaft, Splinter Meeting: E-Science & Virtual Observatory
+- event: "Herbsttagung der Astronomischen Gesellschaft, Splinter
+    Meeting: E-Science & Virtual Observatory"
   url: https://escience.aip.de/ag2016/
   date: 2016-09-15
   place: Bochum
@@ -168,7 +179,8 @@
   authors: Jochen Klar
   slides: https://escience.aip.de/ag2016/klar_AG2016.pdf
 
-- event: DGI-Konferenz 2016: Erfahrung reloaded – Vom Mundaneum zum Web of Everything
+- event: "DGI-Konferenz 2016: Erfahrung reloaded - Vom Mundaneum
+    zum Web of Everything"
   # url: http://dgi-info.de/events/dgi-konferenz-erfahrung-reloaded-vom-mundaneum-zum-web-of-everything/
   date: 2016-05-20
   place: Frankfurt am Main
@@ -177,12 +189,15 @@
   abstract: http://dgi-info.de/wp-content/uploads/2015/11/Heger_DGI2016.pdf
   slides: http://dgi-info.de/wp-content/uploads/2015/11/DGI-Pr%C3%A4sentation_Martin-Heger.pdf
 
-- event: EGU General Assembly 2016: Open Access to Research Data and Public Sector Information towards Open Science
+- event: "EGU General Assembly 2016: Open Access to Research Data
+    and Public Sector Information towards Open Science"
   url: http://www.egu2016.eu/
   date: 2016-04-21
   place: Wien
-  title: DMPwerkzeug - A tool to support the planning, implementation, and organization of research data management.
-  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry Enke
+  title: DMPwerkzeug - A tool to support the planning, implementation,
+    and organization of research data management.
+  authors: Jochen Klar, Claudia Engelhardt, Heike Neuroth, Harry
+    Enke
   abstract: http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16394.pdf
   # slides: http://presentations.copernicus.org/EGU2016-16394_presentation.pdf
 
