@@ -8,8 +8,12 @@
     de: "Vereinsgründung"
     en: "Foundation of the RDMO association"
   event:
-    de: "Die Gründungsversammlung für den "RDMO e.V." findet in der UB der TU Berlin statt. Daran Interessierte können sich sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden."
-    en: "The founding meeting for the “RDMO e.V.” takes place at the the UB of the TU Berlin. Anyone interested in attending can to contact the steering group in advance."
+    de: 'Die Gründungsversammlung für den "RDMO e.V." findet in
+      der UB der TU Berlin statt. Daran Interessierte können sich
+      sehr gerne noch im Vorfeld an die Steuerungsgruppe wenden.'
+    en: "The founding meeting for the “RDMO e.V.” takes place
+      at the the UB of the TU Berlin. Anyone interested in attending
+      can to contact the steering group in advance."
 
 - date: 8.10.2024
   place: "online"
@@ -18,10 +22,12 @@
     de: "12. RDMO-Gemeinschaftstreffen"
     en: "12. RDMO community meeting"
   event:
-    de: "Vorstellung einiger Projekte aus der Community, des NFDI-Basisdienstes DMP4NFDI, der Möglichkeiten
-    von RDMO-Plugins und des neuen RDMO-Features, das das Mergen von Attributen erlaubt."
-    en: "Presentations of some projects from the community, the NFDI basic service DMP4NFDI, the possibilities
-    of RDMO plugins and the new RDMO feature that allows attributes to be merged."
+    de: "Vorstellung einiger Projekte aus der Community, des NFDI-Basisdienstes
+      DMP4NFDI, der Möglichkeiten von RDMO-Plugins und des neuen
+      RDMO-Features, das das Mergen von Attributen erlaubt."
+    en: "Presentations of some projects from the community, the
+      NFDI basic service DMP4NFDI, the possibilities of RDMO plugins
+      and the new RDMO feature that allows attributes to be merged."
 
 - date: 16.10.2024
   place: "LMU, München"
@@ -31,8 +37,12 @@
     de: "RDMO Hackathon an der LMU München"
     en: "RDMO Hackathon at the LMU Munich"
   event:
-    de: "In München findet ein RDMO Hackathon an der Universitätsbibliothek der LMU statt. Registrierung ist bis zum 25.09.2024 möglich. Die Teilnahme ist kostenlos."
-    en: "A RDMO hackathon is taking place in Munich at the university library of the LMU. Registration is possible until 25.09.2024. Participation is free of charge."
+    de: "In München findet ein RDMO Hackathon an der Universitätsbibliothek
+      der LMU statt. Registrierung ist bis zum 25.09.2024 möglich.
+      Die Teilnahme ist kostenlos."
+    en: "A RDMO hackathon is taking place in Munich at the university
+      library of the LMU. Registration is possible until 25.09.2024.
+      Participation is free of charge."
 
 - date: 28.02.2024
   place: "online"
@@ -41,5 +51,11 @@
     de: "11. RDMO-Gemeinschaftstreffen"
     en: "11. RDMO Community Meeting"
   event:
-    de: "Wir planen mit Ihnen und Euch wichtige Themen zu besprechen, u.a. den Stand der geplanten Vereinsgründung, die Migration und das Ende des Supports 1.x -> 2.0 und viele Updates aus den RDMO-Gruppen und Initiativen mit RDMO-Beteiligung."
-    en: "We plan to discuss important topics with you, including Status of the planned founding of the association, migration and the end of the Supports 1.x -> 2.0 and many updates from the RDMO groups and Initiatives with RDMO participation."
+    de: "Wir planen mit Ihnen und Euch wichtige Themen zu besprechen,
+      u.a. den Stand der geplanten Vereinsgründung, die Migration
+      und das Ende des Supports 1.x -> 2.0 und viele Updates aus
+      den RDMO-Gruppen und Initiativen mit RDMO-Beteiligung."
+    en: "We plan to discuss important topics with you, including
+      Status of the planned founding of the association, migration
+      and the end of the Supports 1.x -> 2.0 and many updates
+      from the RDMO groups and Initiatives with RDMO participation."
