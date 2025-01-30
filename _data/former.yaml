@@ -13,6 +13,7 @@
   image: img/team/ehem/hausen.jpg
 
 - name: Birte Lindstädt
+  orcid: 0000-0002-8251-1597
   text:
     de: "leitet die Abteilung Forschungsdatenmanagment beim [ZB MED Informationszentrum Lebenswissenschaften](https://www.zbmed.de). Dort ist sie für den Aufbau von Informationsinfrastrukturen für die Verarbeitung und Bereitstellung von Forschungsdaten sowie für Beratungs-, Schulungs- und Ausbildungsservices im Kontext von Forschungsdatenmanagement zuständig."
     en: "is Deputy Head leading the section Research Data Management at [ZB MED - Information Centre for Life Sciences](https://www.zbmed.de/en/). She is responsible for information infrastructures for reserach data, and services for research data management."

@@ -3,7 +3,7 @@ current:
   orcid: 0000-0002-5883-4273
   text:
     de: "(Sprecher) ist freiberuflicher Softwareentwickler und Berater mit Schwerpunkt auf Forschungsdatenmanagement. Er unterstüzt das Team seit seiner Zeit als wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
-    en: "(Speaker) is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
+    en: "(Spokesperson) is a freelancing software developer and consultant with a focus on research data management. He supports the project since his time as a postdoc at [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de)."
   image: img/team/klar.jpg
 
 - name: David Wallace
@@ -20,9 +20,11 @@ current:
     en: "is a software developer in the [research data team at the Rostock University Library](https://www.ub.uni-rostock.de/en/support-for-researchers/research-data). In addition to the implementation of research data services, he deals with standardized descriptions of research processes, research data management and virtual research environments."
   image: img/team/Max_Schröder.jpg
 
-- text:
-    de: "**Janine Straka**<a href='https://orcid.org/0000-0002-0695-1689' target='_blank'><img src='../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> ist Koordinatorin Forschungsdatenmanagement und Fachreferentin an der [Universitätsbibliothek Potsdam](https://www.ub.uni-potsdam.de/de/). Sie arbeitete von 2017 bis 2021 in verschiedenen Projekten zu Forschungsdatenmanagement an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/), u. a. bei dem zweiten RDMO-Projekt."
-    en: "**Janine Straka**<a href='https://orcid.org/0000-0002-0695-1689' target='_blank'><img src='../../img/logos/ORCiD.PNG' style='width:25px; height:25px;' alt='ORCiD Logo'/></a> is the coordinator of research data management and subject specialist at the [Potsdam University Library](https://www.ub.uni-potsdam.de/en/). From 2017 to 2021 she worked on various research data management projects at the [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/en), e.g. in the second RDMO project."
+- name: Janine Straka
+  orcid: 0000-0002-0695-1689
+  text:
+    de: "ist Koordinatorin Forschungsdatenmanagement und Fachreferentin an der [Universitätsbibliothek Potsdam](https://www.ub.uni-potsdam.de/de/). Sie arbeitete von 2017 bis 2021 in verschiedenen Projekten zu Forschungsdatenmanagement an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/), u. a. bei dem zweiten RDMO-Projekt."
+    en: "is the coordinator of research data management and subject specialist at the [Potsdam University Library](https://www.ub.uni-potsdam.de/en/). From 2017 to 2021 she worked on various research data management projects at the [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/en), e.g. in the second RDMO project."
   image: img/team/straka.jpg
 
 - name: Martin Spenger

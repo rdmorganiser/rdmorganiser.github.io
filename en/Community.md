@@ -66,8 +66,8 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 
 ## Ad Hoc Groups
 
-For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.<br/>
-We would like to invite all institutions that are interested in the preservation and further development of RDMO to sign the MoU and send it to the following e-mail address: rdmo-steuerungsgruppe@listserv.dfn.de.
+For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.
+
 
 ## General meeting
 
@@ -77,7 +77,7 @@ The general meeting of the RDMO collaboration comprises the entirety of all memb
 ## Former community members
 
 <details>
-  <summary><u>Former employees</u></summary>
+  <summary><u>Formerly engaged people</u></summary>
   {% for member in site.data.former %}
   <div class="team-member-info">
     <strong>{{ member.name }}</strong>

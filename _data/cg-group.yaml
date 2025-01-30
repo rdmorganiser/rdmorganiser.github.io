@@ -3,7 +3,7 @@ current:
   orcid: 0000-0001-7740-7966
   text:
     de: "(Sprecherin) ist wissenschaftliche Mitarbeiterin am Karlsruher Institut für Technologie (KIT). Sie arbeitet dort bei den [Forschungsdiensten](http://www.rdm.kit.edu) im DM-Beratung und -Schulung und im RDMO-Projekt. Sie ist Teil des Redaktionsteams von [forschungsdaten.info](http://www.forschungsdaten.info)."
-    en: "(Speaker) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
+    en: "(Spokesperson) is a research associate at Karlsruhe Institute of Technology (KIT). There she works at the [research services](http://www.rdm.kit.edu) in DMP consulting and teaching services and in the RDMO project. She is part of the editorial team of [forschungsdaten.info](http://www.forschungsdaten.info)."
   image: img/team/wedlich.jpg
 
 - name: Ivonne Anders
@@ -20,7 +20,7 @@ current:
     en: "is senior researcher at [Leibniz Institute of Agricultural Development in Transition Economies (IAMO)](https://www.iamo.de/) in Halle (Saale). He is speaker of the institute’s research data management working group. As part of this task he facilitates and supports the use of RDMO at IAMO."
   image: img/team/StephanBrosig_iamo.jpg
 
-- name:  Yasmin Demerdash
+- name: Yasmin Demerdash
   orcid: 0000-0002-3246-7604
   text:
     de: "ist Datenmanagerin am [Institut für Molekulare Biologie (IMB)](https://www.imb.de/) in Mainz. Sie ist verantwortlich für die Schulung von wissenschaftlichem Personal im Bereich Forschungsdatenmanagement, die Unterstützung von DMPs in Förderanträgen und Projekten sowie die Entwicklung von RDM-Politiken und -Richtlinien."
