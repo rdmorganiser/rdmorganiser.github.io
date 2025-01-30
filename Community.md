@@ -20,7 +20,7 @@ Die SG wird die Richtung der Weiterentwicklung begleiten und die Abstimmungsproz
 So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
 
 {% for member in site.data.sg-group.current %}
-{% include person.html %}
+{% include persons.html %}
 {% endfor %}
 
 

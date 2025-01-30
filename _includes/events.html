@@ -5,7 +5,7 @@
       <td style="width: 80%; padding-left:10px;"/>
     </tr>
     <tr style="border-bottom: 1pt solid darkgrey;">
-      <th style="width: 20%;">{{ event.date | markdownify }}<br />{{ event.place }}</th>
+      <th style="width: 20%;">{{ announcement.date | markdownify }}<br />{{ announcement.place }}</th>
       <td style="width: 90%; padding-left:10px;">
         <b>{{ announcement.name[page.lang] | markdownify }}</b>
         <br />
@@ -14,7 +14,7 @@
         {% if announcement.registration %} - <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>{% endif %}
         {% if announcement.program %} - <u><a href='{{ event.program }}' target='_blank'>Program</a></u>{% endif %}
         {% if announcement.report %} - <u><a href='{{ event.report }}' target='_blank'>Report</a></u>{% endif %}
-        {% if announcement.registration %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
+        {% if announcement.further_info %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
       </td>
     </tr>
   </table>
@@ -23,34 +23,34 @@
 <br/>
 <div class="tab">
   {% for year in site.data.events.conf.former_years %}
-  {% assign y = year | replace:'y','' %}
-  {% assign id = "" %}
-  {% if year == site.data.events.conf.former_years[0] %}
-    {% assign id = "defaultOpen" %}
-  {% endif %}
+    {% assign y = year | replace:'y','' %}
+    {% assign id = "" %}
+    {% if year == site.data.events.conf.former_years[0] %}
+      {% assign id = "defaultOpen" %}
+    {% endif %}
     <button class="tablinks" onclick="openYear(event, '{{year}}')" id="{{id}}">{{y}}</button>
   {% endfor %}
 </div>
 
 {% for year in site.data.events.conf.former_years %}
   <div id="{{year}}" class="tabcontent">
-    {% for event in site.data.events[year] %}
+    {% for announcement in site.data.events[year] %}
       <table style="width: 100%;">
         <tr>
           <th style="width: 20%;"/>
           <td style="width: 80%; padding-left:10px;"/>
         </tr>
         <tr style="border-bottom: 1pt solid darkgrey;">
-          <th style="width: 20%;">{{ event.date | markdownify }}<br />{{ event.place }}</th>
+          <th style="width: 20%;">{{ announcement.date | markdownify }}<br />{{ announcement.place }}</th>
           <td style="width: 90%; padding-left:10px;">
-            <b>{{ event.name[page.lang] | markdownify }}</b>
+            <b>{{ announcement.name[page.lang] | markdownify }}</b>
             <br />
-            {{ event.event[page.lang] | markdownify }}
+            {{ announcement.event[page.lang] | markdownify }}
             <br />
-            {% if event.registration %} - <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>{% endif %}
-            {% if event.program %} - <u><a href='{{ event.program }}' target='_blank'>Program</a></u>{% endif %}
-            {% if event.report %} - <u><a href='{{ event.report }}' target='_blank'>Report</a></u>{% endif %}
-            {% if event.registration %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
+            {% if announcement.registration %} - <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>{% endif %}
+            {% if announcement.program %} - <u><a href='{{ event.program }}' target='_blank'>Program</a></u>{% endif %}
+            {% if announcement.report %} - <u><a href='{{ event.report }}' target='_blank'>Report</a></u>{% endif %}
+            {% if announcement.further_info %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
           </td>
         </tr>
       </table>
