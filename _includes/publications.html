@@ -2,8 +2,8 @@
     {{ publication.authors }} ({{ publication.date }}).<br />
     <b>{{ publication.title }}</b> [{{ publication.type }}].<br />
     {% if publication.ads %}ADS: <a href="{{ publication.ads }}">{{ publication.ads }}</a>.<br />{% endif %}
-    {% if publication.doi %}DOI: <a href="{{ publication.doi }}">{{ publication.doi }}</a>.<br />{% endif %}
+    {% if publication.doi %}DOI: {{ publication.doi }}.<br />{% endif %}
     {% if publication.urn %}URN: <a href="{{ publication.urn }}">{{ publication.urn }}</a>.<br />{% endif %}
-    {% if publication.uri %}URL: <a href="{{ publication.urn }}">{{ publication.uri }}</a>.<br />{% endif %}
+    {% if publication.uri %}URL: <a href="{{ publication.uri }}">{{ publication.uri }}</a>.<br />{% endif %}
     <br />
 </li>
