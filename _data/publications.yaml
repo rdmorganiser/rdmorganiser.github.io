@@ -1,476 +1,571 @@
+---
 RDMO_development:
-- publication: 
-  type: Presentation
-  date: 23.05.2015
-  title: Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen
-  authors: Jochen Klar; Harry Enke; Claudia Engelhardt; Jens Ludwig
-  doi:
-  uri: http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf
+  - publication:
+    type: Presentation
+    date: 23.05.2015
+    title: Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen
+    authors: Jochen Klar; Harry Enke; Claudia Engelhardt; Jens
+      Ludwig
+    doi:
+    uri: http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf
 
-- publication: 
-  type: Conference Paper
-  date: 2016
-  title: DMPwerkzeug - A tool to support the planning, implementation, and organization of research data management.
-  authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry Enke 
-  doi:
-  uri: https://meetingorganizer.copernicus.org/EGU2016/orals/20148
-  
-- publication: 
-  type: Presentation
-  date: 15.09.2016
-  title: RDMO - Research Data Management Organiser
-  authors: Jochen Klar
-  doi:
-  uri: https://rdmorganiser.github.io/docs/publications/klar_AG2016.pdf
-  
-- publication:
-  type: Conference Paper
-  date: 2017
-  title: Research data management organiser. In _Proceedings of the 14th International Conference on Digital Preservation_, 25-29.
-  authors: Claudia Engelhardt; Harry Enke; Jochen Klar; Jens Ludwig; Heike Neuroth
-  doi:
-  uri: http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf
+  - publication:
+    type: Conference Paper
+    date: 2016
+    title: DMPwerkzeug - A tool to support the planning, implementation,
+      and organization of research data management.
+    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry
+      Enke
+    doi:
+    uri: https://meetingorganizer.copernicus.org/EGU2016/orals/20148
 
-- publication: 
-  type: Conference Paper
-  date: 01.04.2017
-  title: RDMO - Research Data Management Organiser
-  authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry Enke; Jens Ludwig
-  doi:
-  uri: https://ui.adsabs.harvard.edu/abs/2017EGUGA..1915760K
+  - publication:
+    type: Presentation
+    date: 15.09.2016
+    title: RDMO - Research Data Management Organiser
+    authors: Jochen Klar
+    doi:
+    uri: https://rdmorganiser.github.io/docs/publications/klar_AG2016.pdf
 
-- publication: 
-  type: Presentation
-  date: 07.06.2017
-  title: Research Data Management Organiser
-  authors: Harry Enke; Jochen Klar
-  doi:
-  uri: https://cds.unistra.fr//meetings/Lisa8/public/presentations/wednesday/afternoon/08_RDMO-Talk-LISAVIII.pdf
+  - publication:
+    type: Conference Paper
+    date: 2017
+    title: Research data management organiser. In _Proceedings
+      of the 14th International Conference on Digital Preservation_,
+      25-29.
+    authors: Claudia Engelhardt; Harry Enke; Jochen Klar; Jens
+      Ludwig; Heike Neuroth
+    doi:
+    uri: http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf
 
-- publication: 
-  type: Journal Article
-  date: 2018
-  title: Aktives Forschungsdatenmanagement
-  authors: Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J., & Enke, H.
-  doi: https://doi.org/10.1515/abitech-2018-0008
-  uri: https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml
+  - publication:
+    type: Conference Paper
+    date: 01.04.2017
+    title: RDMO - Research Data Management Organiser
+    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry
+      Enke; Jens Ludwig
+    doi:
 
-- publication: 
-  type: Presentation
-  date: 13.06.2018
-  title: Aktives Forschungsdatenmanagement - das DFG-Projekt Research Data Management Organiser (RDMO)
-  authors: Heike Neuroth, Claudia Engelhardt
-  doi:
-  uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3688
+  - publication:
+    type: Presentation
+    date: 07.06.2017
+    title: Research Data Management Organiser
+    authors: Harry Enke; Jochen Klar
+    doi:
+    uri: https://cds.unistra.fr//meetings/Lisa8/public/presentations/wednesday/afternoon/08_RDMO-Talk-LISAVIII.pdf
 
-- publication: 
-  type: Presentation
-  date: 11.06.2018
-  title: Research data management organiser
-  authors: Jochen Klar; Olaf Michaelis; Harry Enke; Janine Vierheller; Heike Neuroth; Kerstin Wedlich-Zachodin; Frank Tristam; Claudia Kramer; Jens Ludwig
-  doi: 
-  uri: https://escience.aip.de/ak-forschungsdaten/veranstaltungen/7-workshop/
+  - publication:
+    type: Journal Article
+    date: 2018
+    title: Aktives Forschungsdatenmanagement
+    authors: Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J.,
+      & Enke, H.
+    doi: https://doi.org/10.1515/abitech-2018-0008
+    uri: https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml
 
-- publication: 
-  type: Poster
-  date: 2019
-  title: Research data management organiser
-  authors: Harry Enke; Jochen Klar; Olaf Michaelis; Heike Neuroth; Ulrike Wuttke; Claudia Kramer; Kerstin Wedlich-Zachodin; Frank Tristam; Jens Ludwig
-  doi: 
-  uri: https://rdmorganiser.github.io/docs/publications/rdmo-poster_escience_tage_2019.pdf
+  - publication:
+    type: Presentation
+    date: 13.06.2018
+    title: Aktives Forschungsdatenmanagement - das DFG-Projekt
+      Research Data Management Organiser (RDMO)
+    authors: Heike Neuroth, Claudia Engelhardt
+    doi:
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3688
 
-- publication: 
-  type: Proceeding
-  date: 2019
-  title: Research Data Management Organiser, pp. 261
-  authors: Ulrike Wuttke; Heike Neuroth; Jochen Klar; Harry Enke; Janine Straka; Kerstin Wedlich-Zachodin; Claudia Kramer; Olaf Michaelis; Jens Ludwig
-  doi: 
-  uri: https://d-nb.info/1193070686/34#page=270
+  - publication:
+    type: Presentation
+    date: 11.06.2018
+    title: Research data management organiser
+    authors: Jochen Klar; Olaf Michaelis; Harry Enke; Janine Vierheller;
+      Heike Neuroth; Kerstin Wedlich-Zachodin; Frank Tristam;
+      Claudia Kramer; Jens Ludwig
+    doi:
+    uri: https://escience.aip.de/ak-forschungsdaten/veranstaltungen/7-workshop/
 
-- publication: 
-  type: Conference Paper
-  date: 2019
-  title: Aktives Datenmanagement mit RDMO
-  authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth; 
-  doi: 
-  uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16498
+  - publication:
+    type: Poster
+    date: 2019
+    title: Research data management organiser
+    authors: Harry Enke; Jochen Klar; Olaf Michaelis; Heike Neuroth;
+      Ulrike Wuttke; Claudia Kramer; Kerstin Wedlich-Zachodin;
+      Frank Tristam; Jens Ludwig
+    doi:
+    uri: https://rdmorganiser.github.io/docs/publications/rdmo-poster_escience_tage_2019.pdf
 
-- publication: 
-  type: Software
-  date: 2022
-  title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
-  authors:  Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ; Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ; Hasler, Tim
-  doi: 10.5281/ZENODO.7466775
-  uri: https://publications.rwth-aachen.de/record/862126
-  
-- publication: 
-  type: Software
-  date: 2022
-  title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
-  authors:  Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ; Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ; Hasler, Tim
-  doi: 10.5281/ZENODO.7466775
-  uri: https://publications.rwth-aachen.de/record/862126
+  - publication:
+    type: Proceeding
+    date: 2019
+    title: Research Data Management Organiser, pp. 261
+    authors: Ulrike Wuttke; Heike Neuroth; Jochen Klar; Harry
+      Enke; Janine Straka; Kerstin Wedlich-Zachodin; Claudia Kramer;
+      Olaf Michaelis; Jens Ludwig
+    doi:
+    uri: https://d-nb.info/1193070686/34#page=270
 
-- publication: 
-  type: Presentation
-  date: 12.02.2024
-  title: "Research Data Management Working Group Webinar - Data Management Plans: Use and Reuse (Slides)"
-  authors: Wedlich-Zachodin, Kerstin Vanessa; Soltau, Kerstin; Rodenburg, Elisa; Kuusniemi, Mari Elisa
-  doi: 
-  uri: https://zenodo.org/records/10649084
-  
-- publication: 
-  type: Journal Article
-  date: 08.05.2024
-  title: The Research Data Management Organiser (RDMO) – a Strong Community Behind an Established Software for DMPs and Much More
-  authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen; Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis; Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild; Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen Windeck
-  doi: 10.5334/dsj-2024-028
-  uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
+  - publication:
+    type: Conference Paper
+    date: 2019
+    title: Aktives Datenmanagement mit RDMO
+    authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth;
+    doi:
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16498
+
+  - publication:
+    type: Software
+    date: 2022
+    title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
+    authors: Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ;
+      Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten
+      ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ;
+      Hasler, Tim
+    doi: 10.5281/ZENODO.7466775
+    uri: https://publications.rwth-aachen.de/record/862126
+
+  - publication:
+    type: Software
+    date: 2022
+    title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
+    authors: Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ;
+      Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten
+      ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ;
+      Hasler, Tim
+    doi: 10.5281/ZENODO.7466775
+    uri: https://publications.rwth-aachen.de/record/862126
+
+  - publication:
+    type: Presentation
+    date: 12.02.2024
+    title: "Research Data Management Working Group Webinar - Data
+      Management Plans: Use and Reuse (Slides)"
+    authors: Wedlich-Zachodin, Kerstin Vanessa; Soltau, Kerstin;
+      Rodenburg, Elisa; Kuusniemi, Mari Elisa
+    doi:
+    uri: https://zenodo.org/records/10649084
+
+  - publication:
+    type: Journal Article
+    date: 08.05.2024
+    title: The Research Data Management Organiser (RDMO) – a Strong
+      Community Behind an Established Software for DMPs and Much
+      More
+    authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen;
+      Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis;
+      Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild;
+      Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen
+      Windeck
+    doi: 10.5334/dsj-2024-028
+    uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
 
 RDMO_implementation:
-- publication: 
-  type: Report
-  date: 2018
-  title: Introducing Coordinated Research Data Management at RWTH Aachen University. A Brief Project Report
-  authors: Daniela A. Hausen, Ulrike Eich, Bela Brenger, Florian Claus, Benedikt Magrean, Elke Müller, Matthias S. Müller, Marius Politze, Stephan von der Ropp, Dominik Schmitz, Ute Trautwein-Bruns and Ann-Kathrin Wluka
-  doi: 
-  uri: http://publications.rwth-aachen.de/record/725992/files/725992.pdf
+  - publication:
+    type: Report
+    date: 2018
+    title: Introducing Coordinated Research Data Management at
+      RWTH Aachen University. A Brief Project Report
+    authors: Daniela A. Hausen, Ulrike Eich, Bela Brenger, Florian
+      Claus, Benedikt Magrean, Elke Müller, Matthias S. Müller,
+      Marius Politze, Stephan von der Ropp, Dominik Schmitz, Ute
+      Trautwein-Bruns and Ann-Kathrin Wluka
+    doi:
+    uri: http://publications.rwth-aachen.de/record/725992/files/725992.pdf
 
-- publication: 
-  type: Presentation
-  date: 13.06.2018
-  title: "FDM in der Praxis: Datenmanagementpläne mit RDMO als neues Dienstleistungsangebot in WBs?"
-  authors: Sonja Hendriks; Ania López
-  doi: 
-  uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3693
+  - publication:
+    type: Presentation
+    date: 13.06.2018
+    title: "FDM in der Praxis: Datenmanagementpläne mit RDMO als
+      neues Dienstleistungsangebot in WBs?"
+    authors: Sonja Hendriks; Ania López
+    doi:
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3693
 
-- publication: 
-  type: Presentation
-  date: 2019
-  title: Datenmanagement-Pläne interaktiv mit RDMO
-  authors: Maik Stührenberg
-  doi: 
-  uri: https://biecoll.ub.uni-bielefeld.de/index.php/kwi/article/download/863/910
+  - publication:
+    type: Presentation
+    date: 2019
+    title: Datenmanagement-Pläne interaktiv mit RDMO
+    authors: Maik Stührenberg
+    doi:
+    uri: https://biecoll.ub.uni-bielefeld.de/index.php/kwi/article/download/863/910
 
-- publication: 
-  type: Document
-  date: 2019
-  title: Implementierung des Forschungsdatenmanagement an der SUH in Hildesheim – Die Rolle der Universitätsbibliothek Hildesheim auf dem Campus
-  authors: Annette Strauch
-  doi: 
-  uri: https://juser.fz-juelich.de/record/863183
+  - publication:
+    type: Document
+    date: 2019
+    title: Implementierung des Forschungsdatenmanagement an der
+      SUH in Hildesheim – Die Rolle der Universitätsbibliothek
+      Hildesheim auf dem Campus
+    authors: Annette Strauch
+    doi:
+    uri: https://juser.fz-juelich.de/record/863183
 
-- publication: 
-  type: Conference Paper
-  date: 2019
-  title: Aktives Datenmanagement mit RDMO
-  authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth
-  doi: 
-  uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16498
+  - publication:
+    type: Conference Paper
+    date: 2019
+    title: Aktives Datenmanagement mit RDMO
+    authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth
+    doi:
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16498
 
-- publication: 
-  type: Presentation
-  date: 07.03.2019
-  title: RDMO4Life im Projekt EmiMin-Die Anpassung von Datenmanagementplänen an lebenswissenschaftliche Fachspezifika
-  authors: Robin Rothe; Birte Lindstädt
-  doi: 
-  uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16229
+  - publication:
+    type: Presentation
+    date: 07.03.2019
+    title: RDMO4Life im Projekt EmiMin-Die Anpassung von Datenmanagementplänen
+      an lebenswissenschaftliche Fachspezifika
+    authors: Robin Rothe; Birte Lindstädt
+    doi:
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16229
 
-- publication: 
-  type: Journal Article
-  date: 30.08.2019
-  title: Infrastruktur-Dienste für das aktive und passive Forschungsdatenmanagement eines neurowissenschaftlichen Sonderforschungsbereichs
-  authors: Thorsten Arendt; Alexander Schütz 
-  doi: 10.17192/bfdm.2019.2.8070
-  uri: https://bausteine-fdm.de/article/view/8070
+  - publication:
+    type: Journal Article
+    date: 30.08.2019
+    title: Infrastruktur-Dienste für das aktive und passive Forschungsdatenmanagement
+      eines neurowissenschaftlichen Sonderforschungsbereichs
+    authors: Thorsten Arendt; Alexander Schütz
+    doi: 10.17192/bfdm.2019.2.8070
+    uri: https://bausteine-fdm.de/article/view/8070
 
-- publication: 
-  type: Report
-  date: 30.07.2021
-  title: RDMO ‒ Schnellstartanleitung
-  authors: Katja Marciniak; Paul Sutter
-  doi: 
-  uri: https://edoc.bbaw.de/opus4-bbaw/frontdoor/index/index/docId/3529
+  - publication:
+    type: Report
+    date: 30.07.2021
+    title: RDMO ‒ Schnellstartanleitung
+    authors: Katja Marciniak; Paul Sutter
+    doi:
+    uri: https://edoc.bbaw.de/opus4-bbaw/frontdoor/index/index/docId/3529
 
-- publication: 
-  type: Book Section
-  date: 2022
-  title: Product Life Cycle Oriented Data Management Planning with RDMO at the Example of Research Field Data
-  authors: Iryna Mozgova; Gerald Jagusch; Jens Freund; Angelina Kraft; Tobias Glück; Kevin Herrmann; Marvin Knöchelmann; Roland Lachmayer
-  doi: https://doi.org/10.11588/heibooks.979.c13722
-  uri: https://books.ub.uni-heidelberg.de//heibooks/catalog/book/979/chapter/13722
-  
-- publication: 
-  type: Presentation
-  date: 11.11.2022
-  title: Konzeption eines RDMO-Katalogs für einen Software Management Plan
-  authors: Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3473536_3/component/file_3473539/content?download=true
+  - publication:
+    type: Book Section
+    date: 2022
+    title: Product Life Cycle Oriented Data Management Planning
+      with RDMO at the Example of Research Field Data
+    authors: Iryna Mozgova; Gerald Jagusch; Jens Freund; Angelina
+      Kraft; Tobias Glück; Kevin Herrmann; Marvin Knöchelmann;
+      Roland Lachmayer
+    doi: https://doi.org/10.11588/heibooks.979.c13722
+    uri: https://books.ub.uni-heidelberg.de//heibooks/catalog/book/979/chapter/13722
 
-- publication: 
-  type: Presentation
-  date: 24.11.2022
-  title: Entwicklung eines Software-Management-Plans als RDMO-Fragekatalog
-  authors: Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3476007/component/file_3476305/content
+  - publication:
+    type: Presentation
+    date: 11.11.2022
+    title: Konzeption eines RDMO-Katalogs für einen Software Management
+      Plan
+    authors: Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3473536_3/component/file_3473539/content?download=true
 
-- publication: 
-  type: Conference Paper
-  date: 11.-13.09.2023
-  title: Adapting RDMO for the Efficient Management of Educational Research Data
-  authors:  Natalie Kiesler; Daniel Schiffner; Axel Nieder-Vahrenholz
-  doi: 10.18420/delfi2023-51
-  uri: https://dl.gi.de/items/86e5c384-8852-4cc9-aa9d-a61856c93bc9
+  - publication:
+    type: Presentation
+    date: 24.11.2022
+    title: Entwicklung eines Software-Management-Plans als RDMO-Fragekatalog
+    authors: Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3476007/component/file_3476305/content
 
-- publication: 
-  type: Journal Article
-  date: 2023
-  title: FAIR4RS-Viewer for the catalogue “Software Management Plan for Researcher” in RDMO
-  authors: Jan Matthiesen
-  doi: 
-  uri: 
+  - publication:
+    type: Conference Paper
+    date: 11.-13.09.2023
+    title: Adapting RDMO for the Efficient Management of Educational
+      Research Data
+    authors: Natalie Kiesler; Daniel Schiffner; Axel Nieder-Vahrenholz
+    doi: 10.18420/delfi2023-51
 
-- publication: 
-  type: Journal Article
-  date: 07.09.2023
-  title: MaRDMO Plugin
-  authors: Marco Reidelbach; Eloi Ferrer; Marcus Weber 
-  doi: 10.52825/cordi.v1i.254
-  uri: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/254
+  - publication:
+    type: Journal Article
+    date: 2023
+    title: FAIR4RS-Viewer for the catalogue “Software Management
+      Plan for Researcher” in RDMO
+    authors: Jan Matthiesen
+    doi:
+    uri:
 
-- publication: 
-  type: Presentation
-  date: 15.03.2023
-  title: Sustainable and FAIR Software in Research-A New RDMO Catalogue for Software Management Plans
-  authors: Michael Franke; Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3527228/component/file_3527229/content
+  - publication:
+    type: Journal Article
+    date: 07.09.2023
+    title: MaRDMO Plugin
+    authors: Marco Reidelbach; Eloi Ferrer; Marcus Weber
+    doi: 10.52825/cordi.v1i.254
+    uri: https://www.tib-op.org/ojs/index.php/CoRDI/article/view/254
 
-- publication: 
-  type: Presentation
-  date: 02.05.2023
-  title: Softwaremanagementpläne in RDMO
-  authors: Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3508395/component/file_3508396/content
+  - publication:
+    type: Presentation
+    date: 15.03.2023
+    title: Sustainable and FAIR Software in Research-A New RDMO
+      Catalogue for Software Management Plans
+    authors: Michael Franke; Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3527228/component/file_3527229/content
 
-- publication: 
-  type: Journal Article
-  date: 08.05.2024
-  title: The Research Data Management Organiser (RDMO) – a Strong Community Behind an Established Software for DMPs and Much More
-  authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen; Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis; Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild; Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen Windeck
-  doi: 10.5334/dsj-2024-028
-  uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
-  
+  - publication:
+    type: Presentation
+    date: 02.05.2023
+    title: Softwaremanagementpläne in RDMO
+    authors: Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3508395/component/file_3508396/content
+
+  - publication:
+    type: Journal Article
+    date: 08.05.2024
+    title: The Research Data Management Organiser (RDMO) – a Strong
+      Community Behind an Established Software for DMPs and Much
+      More
+    authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen;
+      Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis;
+      Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild;
+      Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen
+      Windeck
+    doi: 10.5334/dsj-2024-028
+    uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
+
 DMP_Tools:
-- publication: 
-  type: Journal Article
-  date: 13.07.2018
-  title: "Datenmanagementpläne leicht gemacht: TUB-DMP, das Web-Tool der TU Berlin für Datenmanagementpläne, p. 47-60"
-  authors: Monika Kuberek; Fabian Fürste
-  doi: 10.5282/o-bib/2018H2S47-60
-  uri: https://www.o-bib.de/bib/article/view/5328
+  - publication:
+    type: Journal Article
+    date: 13.07.2018
+    title: "Datenmanagementpläne leicht gemacht: TUB-DMP, das
+      Web-Tool der TU Berlin für Datenmanagementpläne, p. 47-60"
+    authors: Monika Kuberek; Fabian Fürste
+    doi: 10.5282/o-bib/2018H2S47-60
+    uri: https://www.o-bib.de/bib/article/view/5328
 
-- publication: 
-  type: Dataset
-  date: 24.03.2021
-  title: DMP-Toolguide
-  authors: Kerstin Helbig; Thilo Paul-Stüve; Jessica Rex
-  doi: 10.5281/ZENODO.4632308
-  uri: https://zenodo.org/record/4632308
-  
-- publication: 
-  type: Journal Article
-  date: 07.09.2023
-  title: "Data Management Plan Tools: Overview and Evaluation"
-  authors: Carina Becker; Carolin Hundt; Claudia Engelhardt; Johannes Sperling; Moritz Kurzweil; Ralph Müller-Pfefferkorn
-  doi: 10.52825/cordi.v1i.338
-  uri: https://www.tib-op.org/ojs/index.php/cordi/article/view/338
-  
-- publication: 
-  type: Journal Article
-  date: 24.10.2023
-  title: "DataPLAN: A Web-Based Data Management Plan Generator for the Plant Sciences"
-  authors: Xiao-Ran Zhou; Sebastian Beier; Dominik Brilhaus; Cristina Martins Rodrigues; Timo Mühlhaus; Dirk von Suchodoletz; Richard M. Twyman; Björn Usadel; Angela Kranz
-  doi: 10.3390/data8110159
-  uri: https://www.mdpi.com/2306-5729/8/11/159
-  
+  - publication:
+    type: Dataset
+    date: 24.03.2021
+    title: DMP-Toolguide
+    authors: Kerstin Helbig; Thilo Paul-Stüve; Jessica Rex
+    doi: 10.5281/ZENODO.4632308
+    uri: https://zenodo.org/record/4632308
+
+  - publication:
+    type: Journal Article
+    date: 07.09.2023
+    title: "Data Management Plan Tools: Overview and Evaluation"
+    authors: Carina Becker; Carolin Hundt; Claudia Engelhardt;
+      Johannes Sperling; Moritz Kurzweil; Ralph Müller-Pfefferkorn
+    doi: 10.52825/cordi.v1i.338
+    uri: https://www.tib-op.org/ojs/index.php/cordi/article/view/338
+
+  - publication:
+    type: Journal Article
+    date: 24.10.2023
+    title: "DataPLAN: A Web-Based Data Management Plan Generator
+      for the Plant Sciences"
+    authors: Xiao-Ran Zhou; Sebastian Beier; Dominik Brilhaus;
+      Cristina Martins Rodrigues; Timo Mühlhaus; Dirk von Suchodoletz;
+      Richard M. Twyman; Björn Usadel; Angela Kranz
+    doi: 10.3390/data8110159
+    uri: https://www.mdpi.com/2306-5729/8/11/159
+
 DMP_SMP:
-- publication: 
-  type: Journal Article
-  date: 2018
-  title: A Landscape Survey of ActiveDMPs
-  authors: Stephanie Simms; Sarah Jones; Tomasz Miksa; Daniel Mietchen; Natasha Simons; Kathryn Unsworth
-  doi: 10.2218/ijdc.v13i1.629
-  uri: https://ijdc.net/ijdc/article/view/629
+  - publication:
+    type: Journal Article
+    date: 2018
+    title: A Landscape Survey of ActiveDMPs
+    authors: Stephanie Simms; Sarah Jones; Tomasz Miksa; Daniel
+      Mietchen; Natasha Simons; Kathryn Unsworth
+    doi: 10.2218/ijdc.v13i1.629
+    uri: https://ijdc.net/ijdc/article/view/629
 
-- publication: 
-  type: Journal Article
-  date: 15.05.2019
-  title: Datenmanagementpläne zur Strukturierung von Forschungsvorhaben
-  authors: Jan Leendertse; Susanne Mocken; Dirk von Suchodoletz
-  doi: 10.17192/bfdm.2019.2.8003
-  uri: https://bausteine-fdm.de/article/view/8003
+  - publication:
+    type: Journal Article
+    date: 15.05.2019
+    title: Datenmanagementpläne zur Strukturierung von Forschungsvorhaben
+    authors: Jan Leendertse; Susanne Mocken; Dirk von Suchodoletz
+    doi: 10.17192/bfdm.2019.2.8003
+    uri: https://bausteine-fdm.de/article/view/8003
 
-- publication: 
-  type: Journal Article
-  date: 16.09.2020
-  title: RDA DMP Common Standard for Machine-actionable Data Management Plans
-  authors: Tomasz Miksa; Paul Walk; Peter Neish
-  doi: 10.15497/rda00039
-  uri: https://zenodo.org/record/4036060
+  - publication:
+    type: Journal Article
+    date: 16.09.2020
+    title: RDA DMP Common Standard for Machine-actionable Data
+      Management Plans
+    authors: Tomasz Miksa; Paul Walk; Peter Neish
+    doi: 10.15497/rda00039
+    uri: https://zenodo.org/record/4036060
 
-- publication: 
-  type: Journal Article
-  date: 15.11.2021
-  title: Interconnecting Systems Using Machine-Actionable Data Management Plans – Hackathon Report
-  authors: João Cardoso; Leyla Jael Castro; Tomasz Miksa 
-  doi: 10.5334/dsj-2021-035
-  uri: https://account.datascience.codata.org/index.php/up-j-dsj/article/view/dsj-2021-035
-  
-- publication: 
-  type: Journal Article
-  date: 14.03.2022
-  title: Datenmanagementpläne in der Forschung – von Grundlagen zu Grundfragen
-  authors: Daniela Hausen; Gianpiero Favella; Matthias Fingerhuth; Kerstin Helbig; Sonja Hendriks; Alexia Meyermann; Volker Soßna
-  doi: 10.17192/bfdm.2022.1.8366
-  uri: https://bausteine-fdm.de/article/view/8366
+  - publication:
+    type: Journal Article
+    date: 15.11.2021
+    title: Interconnecting Systems Using Machine-Actionable Data
+      Management Plans – Hackathon Report
+    authors: João Cardoso; Leyla Jael Castro; Tomasz Miksa
+    doi: 10.5334/dsj-2021-035
+    uri: https://account.datascience.codata.org/index.php/up-j-dsj/article/view/dsj-2021-035
 
-- publication: 
-  type: Journal Article
-  date: 14.03.2022
-  title: "Activities and Challenges in developing Discipline-Specific Data Management Plan Templates: From Vertical to Horizontal Integration of RDM Practices"
-  authors: Sebastian Netscher; Ivonne Anders; Christin Henzen 
-  doi: 10.17192/bfdm.2022.1.8371
-  uri: https://bausteine-fdm.de/article/view/8371
+  - publication:
+    type: Journal Article
+    date: 14.03.2022
+    title: Datenmanagementpläne in der Forschung – von Grundlagen
+      zu Grundfragen
+    authors: Daniela Hausen; Gianpiero Favella; Matthias Fingerhuth;
+      Kerstin Helbig; Sonja Hendriks; Alexia Meyermann; Volker
+      Soßna
+    doi: 10.17192/bfdm.2022.1.8366
+    uri: https://bausteine-fdm.de/article/view/8366
 
-- publication: 
-  type: Journal Article
-  date: 05.04.2022
-  title: Checkliste zur Erstellung eines Datenmanagementplans in der empirischen Bildungsforschung
-  authors: Verbund Forschungsdaten Bildung
-  doi: 10.25656/01:22298
-  uri: https://www.pedocs.de/frontdoor.php?source_opus=22298
-  
-- publication: 
-  type: Presentation
-  date: 30.06.2022
-  title: Stamp - Standardisierter Datenmanagementplan für die Bildungsforschung
-  authors: Sebastian Netscher; Anna Schwickerath; Simon Eckert; Gianpiero Favella; Olaf Michaelis
-  doi: https://doi.org/10.5281/zenodo.6782478
-  uri: https://zenodo.org/record/6782478
-  
-- publication: 
-  type: Report
-  date: 25.07.2022
-  title: A Community-driven Collection and Template for DMP Guidance facilitating Data Management across Disciplines and Funding
-  authors: Christin Henzen; Jürgen Rohrwild; Daniela Hausen; Karsten Peters-von Gehlen; Ivonne Anders; Sabine Schönau 
-  doi:  10.5281/ZENODO.6966878 
-  uri: https://zenodo.org/records/6966878
-  
-- publication: 
-  type: Presentation
-  date: 07.09.2022
-  title: Stamp - Standardisierter Datenmanagementplan für die Bildungsforschung
-  authors: Sebastian Netscher; Anna Schwickerath; Simon Eckert; Gianpiero Favella; Alexia Meyermann; Olaf Michaelis
-  doi: 10.5281/zenodo.7057034
-  uri: https://zenodo.org/record/7057035
-  
-- publication: 
-  type: Journal Article
-  date: 25.05.2023
-  title: Data Management for PalMod-II – A FAIR-Based Strategy for Data Handling in Large Climate Modeling Projects
-  authors: Swati Gehlot; Karsten Peters-von Gehlen; Andrea Lammert; Hannes Thiemann
-  doi: 10.5334/dsj-2023-034
-  uri: https://datascience.codata.org/articles/10.5334/dsj-2023-034?_rsc=tnnr0
-  
-- publication: 
-  type: Journal Article
-  date: 22.06.2023
-  title: Data Management Plans for the Photon and Neutron Communities
-  authors: Marjolaine Bodin; Fredrik Bolmsten; Petra Aulin; Teodor Ivănoaica; Alessandro Olivo; Janusz Malka; Krzysztof Wrona; Andy Götz
-  doi: 10.5334/dsj-2023-030
-  uri: https://datascience.codata.org/articles/10.5334/dsj-2023-030?_rsc=5d7ok
-  
-- publication: 
-  type: Journal Article
-  date: 05.09.2023
-  title: Designing and Implementing Practicable Data Management Plans in Large-Scale Projects
-  authors: Soo-Yon Kim; Steffen Hillemacher; Stefan Decker; Bernhard Rumpe; Sandra Geisler
-  doi: 10.17192/bfdm.2023.3.8571
-  uri: https://bausteine-fdm.de/article/view/8571
-  
-- publication: 
-  type: Presentation
-  date: 2023
-  title: Machine-actionable Software Management Plans–High Potentials or Just Gimmicks?
-  authors: Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3525097/component/file_3527897/content
-  
-- publication: 
-  type: Journal Article
-  date: 2023
-  title: RESEARCH DATA MANAGEMENT AND A SYSTEM DESIGN TO SEMI-AUTOMATICALLY COMPLETE INTEGRATED DATA MANAGEMENT PLANS [POSITION PAPER]
-  authors: Syed Ashfaq Hussain Shah; Frank Petzold
-  doi: 10.54729/2789-8547.1235
-  uri: https://digitalcommons.bau.edu.lb/apj/vol28/iss3/40/
-  
-- publication: 
-  type: Journal Article
-  date: 21.09.2023
-  title: Research-data management planning in the German mathematical community
-  authors: Tobias Boege; René Fritze; Christiane Görgen; Jeroen Hanselman; Dorothea Iglezakis; Lars Kastner; Thomas Koprucki; Tabea H. Krause; Christoph Lehrenfeld; Silvia Polla; Marco Reidelbach; Christian Riedel; Jens Saak; Björn Schembera; Karsten Tabelow; Marcus Weber
-  doi: 10.4171/mag/152
-  uri: https://ems.press/journals/mag/articles/12474488
-  
-- publication: 
-  type: Presentation
-  date: 2023
-  title: Software Management Pläne-Definition, Konzeption und RDMO Anwendung
-  authors: Michael Franke; Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3527894/component/file_3527895/content
-  
-- publication: 
-  type: Journal Article
-  date: 09.05.2023
-  title: Standardisierter Datenmanagementplan
-  authors: Simon Eckert; Gianpiero Favella; Anne Gärtner; Ursula Kirschner 
-  doi: 10.17192/bfdm.2023.2.8458
-  uri: https://bausteine-fdm.de/article/view/8458
-  
-- publication: 
-  type: Presentation
-  date: 15.03.2023
-  title: Sustainable and FAIR Software in Research-A New RDMO Catalogue for Software Management Plans
-  authors: Michael Franke; Yves Vincent Grossmann
-  doi: 
-  uri: https://pure.mpg.de/rest/items/item_3527228/component/file_3527229/content
-  
-- publication: 
-  type: Journal Article
-  date: 27.10.2023
-  title: Stamp – Standardisierter Datenmanagementplan für die Bildungsforschung. Ein Konzept zum maßgeschneiderten Forschungsdatenmanagement. Ein Interview mit Sebastian Netscher
-  authors: Nicole Hoffmann; Sebastian Netscher
-  doi: 10.17192/bfdm.2023.4.8593
-  uri: https://bausteine-fdm.de/article/view/8593
-  
-- publication: 
-  type: Software
-  date: 22.08.2023
-  title: RDA DMP Common Standard for Machine-actionable Data Management Plans
-  authors: Tomasz Miksa; Paul Walk; Peter Neish
-  doi: 10.15497/rda00039
-  uri: https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard
-  
-- publication: 
-  type: Report
-  date: 2023
-  title: Five Minutes to Write a Software Management Plan – A Machine-actionable Approach to Simplify the Creation of SMPs
-  authors: Leyla Jael Castro; Lukas Geist; Estéban Gonzalez; Mariaisabel González-Ocanto; Yves Vincent Grossmann; Thomas Pronk; Dhwani Solanki; Carlos Utrilla Guerrero; David Wallace; Jürgen Windeck
-  doi: 10.5281/ZENODO.10374838
-  uri: https://www.i12.rwth-aachen.de/go/id/opqu/lidx/1/file/975680
-  
+  - publication:
+    type: Journal Article
+    date: 14.03.2022
+    title: "Activities and Challenges in developing Discipline-Specific
+      Data Management Plan Templates: From Vertical to Horizontal
+      Integration of RDM Practices"
+    authors: Sebastian Netscher; Ivonne Anders; Christin Henzen
+    doi: 10.17192/bfdm.2022.1.8371
+    uri: https://bausteine-fdm.de/article/view/8371
+
+  - publication:
+    type: Journal Article
+    date: 05.04.2022
+    title: Checkliste zur Erstellung eines Datenmanagementplans
+      in der empirischen Bildungsforschung
+    authors: Verbund Forschungsdaten Bildung
+    doi: 10.25656/01:22298
+    uri: https://www.pedocs.de/frontdoor.php?source_opus=22298
+
+  - publication:
+    type: Presentation
+    date: 30.06.2022
+    title: Stamp - Standardisierter Datenmanagementplan für die
+      Bildungsforschung
+    authors: Sebastian Netscher; Anna Schwickerath; Simon Eckert;
+      Gianpiero Favella; Olaf Michaelis
+    doi: https://doi.org/10.5281/zenodo.6782478
+    uri: https://zenodo.org/record/6782478
+
+  - publication:
+    type: Report
+    date: 25.07.2022
+    title: A Community-driven Collection and Template for DMP
+      Guidance facilitating Data Management across Disciplines
+      and Funding
+    authors: Christin Henzen; Jürgen Rohrwild; Daniela Hausen;
+      Karsten Peters-von Gehlen; Ivonne Anders; Sabine Schönau
+    doi: 10.5281/ZENODO.6966878
+    uri: https://zenodo.org/records/6966878
+
+  - publication:
+    type: Presentation
+    date: 07.09.2022
+    title: Stamp - Standardisierter Datenmanagementplan für die
+      Bildungsforschung
+    authors: Sebastian Netscher; Anna Schwickerath; Simon Eckert;
+      Gianpiero Favella; Alexia Meyermann; Olaf Michaelis
+    doi: 10.5281/zenodo.7057034
+    uri: https://zenodo.org/record/7057035
+
+  - publication:
+    type: Journal Article
+    date: 25.05.2023
+    title: Data Management for PalMod-II – A FAIR-Based Strategy
+      for Data Handling in Large Climate Modeling Projects
+    authors: Swati Gehlot; Karsten Peters-von Gehlen; Andrea Lammert;
+      Hannes Thiemann
+    doi: 10.5334/dsj-2023-034
+    uri: https://datascience.codata.org/articles/10.5334/dsj-2023-034?_rsc=tnnr0
+
+  - publication:
+    type: Journal Article
+    date: 22.06.2023
+    title: Data Management Plans for the Photon and Neutron Communities
+    authors: Marjolaine Bodin; Fredrik Bolmsten; Petra Aulin;
+      Teodor Ivănoaica; Alessandro Olivo; Janusz Malka; Krzysztof
+      Wrona; Andy Götz
+    doi: 10.5334/dsj-2023-030
+    uri: https://datascience.codata.org/articles/10.5334/dsj-2023-030?_rsc=5d7ok
+
+  - publication:
+    type: Journal Article
+    date: 05.09.2023
+    title: Designing and Implementing Practicable Data Management
+      Plans in Large-Scale Projects
+    authors: Soo-Yon Kim; Steffen Hillemacher; Stefan Decker;
+      Bernhard Rumpe; Sandra Geisler
+    doi: 10.17192/bfdm.2023.3.8571
+    uri: https://bausteine-fdm.de/article/view/8571
+
+  - publication:
+    type: Presentation
+    date: 2023
+    title: Machine-actionable Software Management Plans–High Potentials
+      or Just Gimmicks?
+    authors: Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3525097/component/file_3527897/content
+
+  - publication:
+    type: Journal Article
+    date: 2023
+    title: RESEARCH DATA MANAGEMENT AND A SYSTEM DESIGN TO SEMI-AUTOMATICALLY
+      COMPLETE INTEGRATED DATA MANAGEMENT PLANS [POSITION PAPER]
+    authors: Syed Ashfaq Hussain Shah; Frank Petzold
+    doi: 10.54729/2789-8547.1235
+    uri: https://digitalcommons.bau.edu.lb/apj/vol28/iss3/40/
+
+  - publication:
+    type: Journal Article
+    date: 21.09.2023
+    title: Research-data management planning in the German mathematical
+      community
+    authors: Tobias Boege; René Fritze; Christiane Görgen; Jeroen
+      Hanselman; Dorothea Iglezakis; Lars Kastner; Thomas Koprucki;
+      Tabea H. Krause; Christoph Lehrenfeld; Silvia Polla; Marco
+      Reidelbach; Christian Riedel; Jens Saak; Björn Schembera;
+      Karsten Tabelow; Marcus Weber
+    doi: 10.4171/mag/152
+    uri: https://ems.press/journals/mag/articles/12474488
+
+  - publication:
+    type: Presentation
+    date: 2023
+    title: Software Management Pläne-Definition, Konzeption und
+      RDMO Anwendung
+    authors: Michael Franke; Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3527894/component/file_3527895/content
+
+  - publication:
+    type: Journal Article
+    date: 09.05.2023
+    title: Standardisierter Datenmanagementplan
+    authors: Simon Eckert; Gianpiero Favella; Anne Gärtner; Ursula
+      Kirschner
+    doi: 10.17192/bfdm.2023.2.8458
+    uri: https://bausteine-fdm.de/article/view/8458
+
+  - publication:
+    type: Presentation
+    date: 15.03.2023
+    title: Sustainable and FAIR Software in Research-A New RDMO
+      Catalogue for Software Management Plans
+    authors: Michael Franke; Yves Vincent Grossmann
+    doi:
+    uri: https://pure.mpg.de/rest/items/item_3527228/component/file_3527229/content
+
+  - publication:
+    type: Journal Article
+    date: 27.10.2023
+    title: Stamp – Standardisierter Datenmanagementplan für die
+      Bildungsforschung. Ein Konzept zum maßgeschneiderten Forschungsdatenmanagement.
+      Ein Interview mit Sebastian Netscher
+    authors: Nicole Hoffmann; Sebastian Netscher
+    doi: 10.17192/bfdm.2023.4.8593
+    uri: https://bausteine-fdm.de/article/view/8593
+
+  - publication:
+    type: Software
+    date: 22.08.2023
+    title: RDA DMP Common Standard for Machine-actionable Data
+      Management Plans
+    authors: Tomasz Miksa; Paul Walk; Peter Neish
+    doi: 10.15497/rda00039
+    uri: https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard
+
+  - publication:
+    type: Report
+    date: 2023
+    title: Five Minutes to Write a Software Management Plan –
+      A Machine-actionable Approach to Simplify the Creation of
+      SMPs
+    authors: Leyla Jael Castro; Lukas Geist; Estéban Gonzalez;
+      Mariaisabel González-Ocanto; Yves Vincent Grossmann; Thomas
+      Pronk; Dhwani Solanki; Carlos Utrilla Guerrero; David Wallace;
+      Jürgen Windeck
+    doi: 10.5281/ZENODO.10374838
+    uri: https://www.i12.rwth-aachen.de/go/id/opqu/lidx/1/file/975680
+
