@@ -10,13 +10,13 @@ lang: de
 
 ## Werbematerial
 
-Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0- oder CC-BY-Lizenz steht.
+Wir stellen hier Werbematerial zur Verfügung, das frei genutzt werden darf, also unter CC0-Lizenz steht. Vortragsfolien und ganze Präsentationen können unter CC-BY-Lizenz verwendet werden.
 
+* **LOGO** [PNG]({{ site.baseurl }}/img/logos/RDMO-logo.png)
 * **Postkarte**
   - PDF: [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.pdf) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.pdf)
   - SVG: [Vorderseite]({{ site.baseurl }}/img/promo/vdtv4.svg) [Rückseite]({{ site.baseurl }}/img/promo/rdtv6.svg) (kann z. B. mit Inkscape geöffnet werden)
 * **Poster** (auf Englisch): [PDF]({{ site.baseurl }}/img/promo/RDMOPoster.pdf) oder [SVG]({{ site.baseurl }}/img/promo/RDMOPoster.svg)
-*  **Aktuelle Vortragsfolien**: [PDF]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jun_2020.pdf) oder [PPTX]({{ site.baseurl }}/slides/RDMO_Vortragsfolien_Jun_2020.pptx)
 * **Flyer**: [PDF]({{ site.baseurl }}/img/promo/Flyer11.pdf) oder [SLA]({{ site.baseurl }}/img/promo/Flyer4.sla) (kann z. B. mit Scribus geöffnet werden)
 
 <br/>

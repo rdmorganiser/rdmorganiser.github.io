@@ -329,15 +329,14 @@
       zuzuordnen, da Fragen nun beispielsweise mit dem Parameter
       “attribute” über die API lokalisiert werden können. Außerdem
       nutzt RDMO nun “pytest”, mit dem auch die RDMO-App getestet
-      werden kann</a>. Im Januar war RDMO beim <a href="http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020">Workshop
-      der DHd-AG Datenzentren am 23./24.01.2020 in Frankfurt an
-      Main</a> vertreten. Ulrike Wuttke und Olaf Michaelis haben
-      die bisher im Projekt erfolgten Anstrengungen vorgestellt,
-      RDMO Datacite kompatibel zu machen. Der Beitrag “Vom Projekt
-      zum nachhaltigen Werkzeug für das Forschungsdatenmanagement.
-      Das Beispiel Research Data Management Organiser” wurde zum
-      109. Deutschen Bibliothekartag (26. - 29. Mai 2020, Hannover)
-      angenommen.
+      werden kann</a>. Im Januar war RDMO beim Workshop der DHd-AG
+      Datenzentren am 23./24.01.2020 in Frankfurt an Main vertreten.
+      Ulrike Wuttke und Olaf Michaelis haben die bisher im Projekt
+      erfolgten Anstrengungen vorgestellt, RDMO Datacite kompatibel
+      zu machen. Der Beitrag “Vom Projekt zum nachhaltigen Werkzeug
+      für das Forschungsdatenmanagement. Das Beispiel Research
+      Data Management Organiser” wurde zum 109. Deutschen Bibliothekartag
+      (26. - 29. Mai 2020, Hannover) angenommen.
     en: This month we released [RDMO Release 1.0.3.](https://github.com/rdmorganiser/rdmo/releases/tag/1.0.3)
       It contains improvements and minor bug fixes. New API filter
       attributes are provided to make interfaces more flexible,
@@ -346,13 +345,13 @@
       can now be localized via the API using the "attribute" parameter.
       Furthermore, RDMO now uses "pytest", which can also be used
       to test the RDMO app. In January Ulrike Wuttke and Olaf
-      Michaelis presented at the [workshop of the DHd-AG data
-      centers on 23/24.01.2020 in Frankfurt an Main](http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020)
-      the efforts made by the RDMO-project to make it Datacite
-      compatible. The paper "From Project to Sustainable Tool
-      for Research Data Management - The Example of Research Data
-      Management Organiser" was accepted for the 109th German
-      Librarians' Day (26-29 May 2020, Hannover).
+      Michaelis presented at the workshop of the DHd-AG data centers
+      on 23/24.01.2020 in Frankfurt an Main the efforts made by
+      the RDMO-project to make it Datacite compatible. The paper
+      "From Project to Sustainable Tool for Research Data Management
+      - The Example of Research Data Management Organiser" was
+      accepted for the 109th German Librarians' Day (26-29 May
+      2020, Hannover).
   date: Feb 2020
 
 - event:
