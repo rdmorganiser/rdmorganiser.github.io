@@ -264,7 +264,7 @@
       href="https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen">online</a>.
       Ab Mai 2020 gibt es eine “virtuelle RDMO Sprechstunde”,
       bitte <a href="https://rdmorganiser.github.io/">kontaktieren</a>
-      Sie uns für Details. Wir haben den <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/master/shared/fodako">“DFG-Fragenkatalog”</a>
+      Sie uns für Details. Wir haben den <a href="https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/fodako">“DFG-Fragenkatalog”</a>
       vom Projekt FoDaKo, Bergische Universität Wuppertal (Torsten
       Rathmann) (CC0)] in die AIP-Demo-Instanz eingepflegt und
       nehmen weiterhin Kataloge aus der Community in das GitHub
@@ -281,7 +281,7 @@
       There will be a "virtual RDMO consultation" from May 2020,
       please [contact us](/) for details. We have added the ["DFG-Fragenkatalog"
       (DFG Question Catalog) from the FoDaKo project, Bergische
-      Universität Wuppertal (Torsten Rathmann) (CC0)](https://github.com/rdmorganiser/rdmo-catalog/tree/master/shared/fodako)
+      Universität Wuppertal (Torsten Rathmann) (CC0)](https://github.com/rdmorganiser/rdmo-catalog/tree/main/shared/fodako)
       to the AIP demo instance and continue to add catalogs from
       the community to the GitHub repository - either create a
       pull request on GitHub or send the XML files via mail to
