@@ -119,14 +119,6 @@
   lon: 10.46418
   color: blue
 
-- name: Universität Hildesheim
-  url: https://dmp.uni-hildesheim.de/
-  contact: Anna Beer
-  mail: mailto:fdm@uni-hildesheim.de
-  lat: 52.1600497
-  lon: 9.9833092
-  color: blue
-
 - name: Centre de calcul d'IN2P3
   url: https://dmp.in2p3.fr/
   contact: Yonny Cardenas
