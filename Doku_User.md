@@ -14,7 +14,7 @@ Als <b>Nutzende:r</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 * Anpassung der Ausgabe mithilfe der Ansichten
 * Zentrale Verwaltung von Informationen zum Forschungsdatenmanagement
 * fortlaufende Aktualisierbarkeit und Versionierung von Informationen im Verlauf eines Projekts
-* Einfrieren des Informationsstandes für Projekte zu bestimmten Zeitpunkten mittels Snapschüsse
+* Einfrieren des Informationsstandes für Projekte zu einem bestimmt Zeitpunkt mittels Snapschüsse
 * Übersicht über alle eigenen Projekte
 
 ## Erste Hilfestellungen
