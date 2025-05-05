@@ -31,6 +31,14 @@
   lon: 12.09420057012294
   color: blue
 
+- name: Ostbayerische Technische Hochschule Regensburg
+  url: https://rdmo.oth-regensburg.de/
+  contact: FDM@OTH 
+  mail: mailto:fdm@oth-regensburg.de
+  lat: 49.00295151001756
+  lon: 12.095802070452114
+  color: blue
+
 - name: Max Planck Digital Library (MPDL)
   url: https://rdmo.mpdl.mpg.de/
   contact: Laura Bahamón, David Walter
