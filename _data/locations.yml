@@ -283,16 +283,16 @@
   url: https://dmp.tu-berlin.de/
   contact: Britta Steinke
   mail: mailto:szf@ub.tu-berlin.de
-  lat: 52.512556
-  lon: 13.326597
+  lat: 52.510325
+  lon: 13.330651
   color: blue
 
 - name: FD-Policy-Generator für Forschungsprojekte
   url: https://fdpolicygen.tu-berlin.de/
   contact: TU Berlin Servicezentrum Forschungsdatenmanagement
   mail: mailto:szf@ub.tu-berlin.de
-  lat: 52.512556
-  lon: 13.326597
+  lat: 52.51126
+  lon: 13.32710
   color: blue
 
 - name: Universitätsbibliothek Osnabrück
