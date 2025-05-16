@@ -5,12 +5,21 @@ key: rdmo-arge
 lang: de
 ---
 
-# RDMO Arbeitsgemeinschaft
+# Research Data Management Organiser e.V.
 
-Mit dem Ende der DFG-Förderung für RDMO im Herbst 2020 hat sich die Arbeitsgemeinschaft RDMO bei der Nutzerversammlung am 07.10.2020 gegründet. Sie basiert auf der freiwilligen Mitarbeit von Institutionen und Individuen, um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln.
-Mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ site.baseurl }}/docs/Memorandum-of-Understanding-RDMO.pdf) haben sie ihre Unterstützung bekundet.
+Der Verein Research Data Management Organiser e.V. wurde am 21.11.2024 in Berlin gegründet und unterstützt 
 
-Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt.
+
+Rechtsfähige Institutionen können Mitglieder imm Verein werden. 
+
+
+## Vorstand des RDMO e.V.
+
+So erreichen Sie den Verein: ... .
+
+{% for member in site.data.board.current %}
+{% include persons.html %}
+{% endfor %}
 
 ## Steuerungsgruppe
 
