@@ -20,18 +20,6 @@ So erreichen Sie den Verein: .
 {% include persons.html %}
 {% endfor %}
 
-## Steuerungsgruppe
-
-Die RDMO-Arbeitsgemeinschaft wird von einer Steuerungsgruppe (SG) geleitet. Die Vertreter\*innen der Steuerungsgruppe werden durch die Mitglieder auf der Mitgliederversammlung alle drei Jahre oder nach Bedarf neu gewählt.
-Die SG wird die Richtung der Weiterentwicklung begleiten und die Abstimmungsprozesse für die Weiterentwicklung der Software und des Contents koordinieren. Die SG setzt sich aus mindestens fünf Personen zusammen.
-
-So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
-
-{% for member in site.data.sg-group.current %}
-{% include persons.html %}
-{% endfor %}
-
-
 ## Entwicklungsgruppe
 
 Die technische Koordination und Weiterentwicklung von RDMO erfolgt durch eine Entwicklungsgruppe (EG). Neben einem Kern von langfristig engagierten
