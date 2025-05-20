@@ -16,8 +16,6 @@ So erreichen Sie den Verein: .
 
 ### Vorstand des RDMO e.V.
 
-So erreichen Sie den Verein: ... .
-
 {% for member in site.data.board.current %}
 {% include persons.html %}
 {% endfor %}
