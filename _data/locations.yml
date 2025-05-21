@@ -283,8 +283,16 @@
   url: https://dmp.tu-berlin.de/
   contact: Britta Steinke
   mail: mailto:szf@ub.tu-berlin.de
-  lat: 52.512556
-  lon: 13.326597
+  lat: 52.510325
+  lon: 13.330651
+  color: blue
+
+- name: FD-Policy-Generator für Forschungsprojekte
+  url: https://fdpolicygen.tu-berlin.de/
+  contact: TU Berlin Servicezentrum Forschungsdatenmanagement
+  mail: mailto:szf@ub.tu-berlin.de
+  lat: 52.51126
+  lon: 13.32710
   color: blue
 
 - name: Universitätsbibliothek Osnabrück
@@ -309,7 +317,7 @@
   mail: mailto:kontakt-fdm@imt.uni-paderborn.de
   lat: 51.70819
   lon: 8.77271
-  # color: blue
+  color: blue
 
 - name: Johannes Gutenberg Universität Mainz (JGU)
   url: https://rdmo.zdv.uni-mainz.de/
@@ -426,13 +434,13 @@
 - name: Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
   url: https://rdmo.dlr.de/
   contact: Christian Langenbach
-  # mail: https://www.dlr.de/iw/desktopdefault.aspx/tabid-8241/mailcontact-42588/
+  mail: https://www.dlr.de/de/das-dlr/ueber-uns/organisation/wissenschaftliche-information/forschungsdatenmanagement
   lat: 48.0853178
   lon: 11.2789751
   color: blue
 
 - name: Sächsische Landesinitiative zum Forschungsdatenmanagement (SaxFDM)
-  # url: https://dmp.saxfdm.de/
+  url: https://dmp.saxfdm.de/
   contact: Carina Becker
   mail: mailto:carina.becker@tu-dresden.de
   lat: 51.028446
@@ -448,9 +456,9 @@
   color: gray
 
 - name: International Center of Insect Physiology and Ecology (ICIPE)
-  # url: https://dmmg-dmp.icipe.org/
+  url: https://dmmg-dmp.icipe.org/
   # contact: Henri Tonnang
-  # mail: https://dmmg.icipe.org/service_request.html
+  mail: https://dmmg.icipe.org/service_request.html
   lat: -1.2218344
   lon: 36.8966253
   color: blue
