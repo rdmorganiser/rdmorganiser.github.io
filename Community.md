@@ -12,8 +12,6 @@ Software RDMO. Der Verein unterstützt die RDMO-Arbeitsgruppen, ist Anspechpartn
 
 Rechtsfähige Institutionen können Mitglieder im Verein werden.
 
-So erreichen Sie den Verein: .
-
 ### Vorstand des RDMO e.V.
 
 {% for member in site.data.board.current %}
