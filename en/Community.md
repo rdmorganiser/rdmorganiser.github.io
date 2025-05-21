@@ -13,8 +13,6 @@ the software RDMO. The association supports the RDMO working groups, is a contac
 
 Institutions with legal capacity can become members of the association.
 
-How to contact the association: .
-
 ### Board of RDMO e.V.
 
 {% for member in site.data.board.current %}
