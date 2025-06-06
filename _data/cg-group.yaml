@@ -41,6 +41,13 @@ current:
     en: "leads the <i>Digital Publishing and Information Literacy</i> division of the University Library of the Technical University of Dortmund. In research data management, she is responsible for data management plans at the Technical University of Dortmund and also represents the TU Dortmund in the UA Ruhr."
   image: img/team/dummy.jpg
 
+- name: Giacomo Lanza
+  orcid: 0000-0002-2239-3955
+  text:
+    de: "ist Koordinator für das Forschungsdatenmanagement an der [Bibliothek der Physikalisch-Technischen Bundesanstalt (PTB)](https://www.ptb.de/cms/forschung-entwicklung/mit-metrologie-in-die-zukunft/herausforderung-digitalisierung/nutzbarkeitvonforschungsdaten.html#c121491) in Braunschweig. Seine Schwerpunkte sind die [Schnittstelle Forschungsdaten-Metrologie](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); die Entwicklung von Standards, Metadaten und Terminologien; die Erstellung von Datenmanagementplänen für europäische Projekte und deren Implementierung in RDMO."
+    en: "is coordinator for the research data management at the [Library of the Physikalisch-Technische Bundesanstalt (PTB)](https://www.ptb.de/cms/en/research-development/into-the-future-with-metrology/the-challenges-of-digital-transformation/nutzbarkeitvonforschungsdaten.html#c121491) in Brunswick. His main action fields are the [interaction of metrology and research data management](https://www.euramet.org/technical-committees/tc-projects/details/project/research-data-management-and-the-european-open-science-cloud/); the development of standards, metadata and terminologies; the generation of data management plans for European project and their implementation in RDMO."
+  image: img/team/lanza.jpg
+
 - name: Jimena Linares
   orcid: 0000-0003-3847-2663
   text:
