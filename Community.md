@@ -4,6 +4,7 @@ layout: page
 key: rdmo-arge
 lang: de
 ---
+# RDMO-Community
 
 ## Research Data Management Organiser e.V.
 
@@ -46,11 +47,6 @@ So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.
 
 Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
 Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-## Mitgliederversammlung
-
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der Steuerungsgruppe.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 
 ## Ehemalige Community-Mitglieder
