@@ -4,20 +4,21 @@ layout: page
 key: rdmo-arge
 lang: en
 ---
-# RDMO Community
 
-## Research Data Management Organiser e.V.
+# Research Data Management Organiser e.V.
 
 The association Research Data Management Organiser e.V. was founded on 21.11.2024 in Berlin and is dedicated to the further development of 
 the software RDMO. The association supports the RDMO working groups, is a contact partner for developers and users, organizes the release management and does outreach. This is done together with the entire RDMO community. 
 
 Institutions with legal capacity can become members of the association.
 
-### Board of RDMO e.V.
+## Board of RDMO e.V.
 
 {% for member in site.data.board.current %}
 {% include persons.html %}
 {% endfor %}
+
+# RDMO Community
 
 ## Development Group
 
