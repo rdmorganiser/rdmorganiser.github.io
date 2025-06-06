@@ -91,3 +91,17 @@
     de: "ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
     en: "is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
   image: img/team/ehem/wuttke.jpg
+
+  - name: Katja Diederichs
+  orcid: 0000-0003-3409-9902
+  text:
+    de: "arbeitet als Team-Mitglied im Bereich Forschungsdatenmanagement bei ZB MED - Informationszentrum für Lebenswissenschaften. Sie ist zuständig für den PID-Service, das Forschungsdatenmanagement und Forschungsdaten- sowie weitere Publikationsdienste."
+    en: "is working as a team member in the section Research Data Management at ZB MED - Information Centre for Life Sciences. She is responsible for the PID service, reserach data management and publication services."
+  image: img/team/KatjaDiederichsBild.jpg
+
+- name: Daniel Arend
+  orcid: 0000-0002-2455-5938
+  text:
+    de: "arbeitet im [Forschungsdatenmanagement](https://www.leibniz-ipk.de/forschung/zuechtungsforschung/bioinformatik-und-informationstechnologie) am [Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) Gatersleben](https://www.ipk-gatersleben.de/) und ist dort unter anderen für die Entwicklung und Betreuung der Datenpublikationsinfrastruktur verantwortlich. Dabei befasst er sich beispielsweise mit Themen wie Persistente IDs und Metadatenstandards im Bereich der Lebenswissenschaften."
+    en: "is involved in [research data management](https://www.ipk-gatersleben.de/en/research/breeding-research/bioinformatics-and-information-technology) at the [Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben](https://www.ipk-gatersleben.de/en/), where he is responsible, among other things, for the development and maintenance of the data publication infrastructure. He deals, for example, with topics such as persistent IDs and metadata standards in life sciences."
+  image: img/team/arend.jpg
