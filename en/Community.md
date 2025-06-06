@@ -5,23 +5,20 @@ key: rdmo-arge
 lang: en
 ---
 
-# RDMO Consortium
+# Research Data Management Organiser e.V.
 
-With the end of the DFG funding for RDMO in autumn 2020, the RDMO working group was founded at the user meeting on October 7th, 2020. It is based on the voluntary cooperation of institutions and individuals to keep the open source software RDMO usable and to further develop it.
-They have expressed their support by signing the [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf).
+The association Research Data Management Organiser e.V. was founded on 21.11.2024 in Berlin and is dedicated to the further development of 
+the software RDMO. The association supports the RDMO working groups, is a contact partner for developers and users, organizes the release management and does outreach. This is done together with the entire RDMO community. 
 
-The organizational structure with various bodies is intended to support this development and is detailed in the MoU.
+Institutions with legal capacity can become members of the association.
 
-## Steering Group
+## Board of RDMO e.V.
 
-The RDMO Consortium is led by a steering group (SG). The representatives of the steering group are elected by the members at the general meeting every three years or as needed. The SG will accompany the direction of the further development and coordinate the processes for the further development of the software and its content. The SG is composed of at least five persons.
-<br/>
-You can reach the steering group via: rdmo-steuerungsgruppe@listserv.dfn.de
-
-{% for member in site.data.sg-group.current %}
+{% for member in site.data.board.current %}
 {% include persons.html %}
 {% endfor %}
 
+# RDMO Community
 
 ## Development Group
 
@@ -42,16 +39,9 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 {% include persons.html %}
 {% endfor %}
 
-
 ## Ad Hoc Groups
 
 For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.
-
-
-## General meeting
-
-The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the Steering group. The general meeting meets at least once a year as required.
-
 
 ## Former community members
 
