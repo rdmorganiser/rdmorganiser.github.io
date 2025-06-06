@@ -27,6 +27,13 @@ current:
     en: "is the coordinator of research data management and subject specialist at the [Potsdam University Library](https://www.ub.uni-potsdam.de/en/). From 2017 to 2021 she worked on various research data management projects at the [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/en), e.g. in the second RDMO project."
   image: img/team/straka.jpg
 
+- name: Olaf Michaelis
+  orcid: 0000-0002-5282-703X
+  text:
+    de: "ist wissenschaftlicher Mitarbeiter am [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). Er ist Teil der E-Science Gruppe und arbeitet hauptsächlich im Bereich der Softwareentwicklung."
+    en: "is a research associate at the [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de). He is a member of the E-Science group and works primarily as a software developer."
+  image: img/team/michaelis.jpg
+
 - name: Martin Spenger
   orcid: 0000-0002-8841-5985
   text:

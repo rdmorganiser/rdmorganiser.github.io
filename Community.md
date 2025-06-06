@@ -5,24 +5,20 @@ key: rdmo-arge
 lang: de
 ---
 
-# RDMO Arbeitsgemeinschaft
+# Research Data Management Organiser e.V.
 
-Mit dem Ende der DFG-Förderung für RDMO im Herbst 2020 hat sich die Arbeitsgemeinschaft RDMO bei der Nutzerversammlung am 07.10.2020 gegründet. Sie basiert auf der freiwilligen Mitarbeit von Institutionen und Individuen, um die Open Source Software RDMO weiterhin nutzbar zu halten und weiterzuentwickeln.
-Mit Unterzeichnung des [Memorandum of Understanding (MoU)]({{ site.baseurl }}/docs/Memorandum-of-Understanding-RDMO.pdf) haben sie ihre Unterstützung bekundet.
+Der Verein Research Data Management Organiser e.V. wurde am 21.11.2024 in Berlin gegründet und widmet insbesondere die Weiterentwicklung der
+Software RDMO. Der Verein unterstützt die RDMO-Arbeitsgruppen, ist Anspechpartner für Entwickelnde und Nutzdende, organisiert das Releasemanagement und betreibt die Außendarstellung. Dies erfolgt gemeinsam mit der gesamten RDMO-Community.  
 
-Die Organisationsstruktur mit verschiedenen Gremien soll diese Entwicklung tragen und ist im MoU detailliert ausgeführt.
+Rechtsfähige Institutionen können Mitglieder im Verein werden.
 
-## Steuerungsgruppe
+## Vorstand des RDMO e.V.
 
-Die RDMO-Arbeitsgemeinschaft wird von einer Steuerungsgruppe (SG) geleitet. Die Vertreter\*innen der Steuerungsgruppe werden durch die Mitglieder auf der Mitgliederversammlung alle drei Jahre oder nach Bedarf neu gewählt.
-Die SG wird die Richtung der Weiterentwicklung begleiten und die Abstimmungsprozesse für die Weiterentwicklung der Software und des Contents koordinieren. Die SG setzt sich aus mindestens fünf Personen zusammen.
-
-So erreichen Sie die Steuerungsgruppe: rdmo-steuerungsgruppe@listserv.dfn.de
-
-{% for member in site.data.sg-group.current %}
+{% for member in site.data.board.current %}
 {% include persons.html %}
 {% endfor %}
 
+# RDMO-Community
 
 ## Entwicklungsgruppe
 
@@ -52,11 +48,6 @@ So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.
 
 Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
 Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
-
-## Mitgliederversammlung
-
-Die Mitgliederversammlung der RDMO-Arbeitsgemeinschaft stellt die Gesamtheit aller Mitglieder dar. Anwender und weitere Interessenten können an der Mitgliederversammlung teilnehmen. Die Mitglieder wählen die Vertreter\*innen in der Steuerungsgruppe.
-Die Mitgliederversammlung tritt je nach Bedarf mindestens aber einmal pro Jahr zusammen.
 
 
 ## Ehemalige Community-Mitglieder
