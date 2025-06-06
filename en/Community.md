@@ -4,7 +4,7 @@ layout: page
 key: rdmo-arge
 lang: en
 ---
-
+# RDMO Community
 
 ## Research Data Management Organiser e.V.
 
@@ -38,16 +38,9 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 {% include persons.html %}
 {% endfor %}
 
-
 ## Ad Hoc Groups
 
 For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.
-
-
-## General meeting
-
-The general meeting of the RDMO collaboration comprises the entirety of all members. Users and other interested parties can participate in the general meeting. The members elect the representatives in the Steering group. The general meeting meets at least once a year as required.
-
 
 ## Former community members
 
