@@ -86,14 +86,14 @@
   image: img/team/ehem/tristram.jpg
 
 - name: Ulrike Wuttke
- orcid: 0000-0002-8217-4025
+  orcid: 0000-0002-8217-4025
   text:
     de: "ist wissenschaftliche Mitarbeiterin an der [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Ihr Arbeitsschwerpunkte sind Forschungsdatenmanagement – und -infrastrukturen, Open Science und Digital Humanities sowie Aus- und Weiterbildung in diesen Bereichen."
     en: "is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
   image: img/team/ehem/wuttke.jpg
 
 - name: Katja Diederichs
- orcid: 0000-0003-3409-9902
+  orcid: 0000-0003-3409-9902
   text:
     de: "arbeitet als Team-Mitglied im Bereich Forschungsdatenmanagement bei ZB MED - Informationszentrum für Lebenswissenschaften. Sie ist zuständig für den PID-Service, das Forschungsdatenmanagement und Forschungsdaten- sowie weitere Publikationsdienste."
     en: "is working as a team member in the section Research Data Management at ZB MED - Information Centre for Life Sciences. She is responsible for the PID service, reserach data management and publication services."
