@@ -92,7 +92,7 @@
     en: "is a research associate at [Fachhochschule Potsdam (FHP)](http://www.fh-potsdam.de/). Her focus of interest lies on research data management and infrastructures, Open Science, and Digital Humanites, as well as training and education in these areas."
   image: img/team/ehem/wuttke.jpg
 
-  - name: Katja Diederichs
+- name: Katja Diederichs
   orcid: 0000-0003-3409-9902
   text:
     de: "arbeitet als Team-Mitglied im Bereich Forschungsdatenmanagement bei ZB MED - Informationszentrum für Lebenswissenschaften. Sie ist zuständig für den PID-Service, das Forschungsdatenmanagement und Forschungsdaten- sowie weitere Publikationsdienste."

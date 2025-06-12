@@ -1,15 +1,15 @@
 current:
 - wg:
-  name_de: Steuerungsgruppe
-  name_en: steering group
-  content_de1: Austausch der Steuerungsmitglieder
+  name_de: RDMO e.V. Vorstandssitzung
+  name_en: RDMO e.V. board meeting
+  content_de1: Austausch im Vereinsvorstand
   content_de2: nicht öffentlich, keine Teilnahme möglich
-  content_en1: Exchange of steering committee members
+  content_en1: Exchange of association board  members
   content_en2: not public, no participation possible
-  date_de: am 4. Dienstag im Monat (13:00-14:30)
-  date_en: on the 4th Tuesday of the month (13:00-14:30)
-  leader: Steuerungsgruppe
-  leader_mail: mailto:rdmo-steuerungsgruppe@listserv.dfn.de
+  date_de: jeden vierten Freitag (14:00 - 15:00)
+  date_en: every fourth Friday (13:00-15:00)
+  leader: RDMO-Verein
+  leader_mail: mailto:rdmo-contact@listserv.dfn.de
 
 - wg:
   name_de: Softwaregruppe
