@@ -14,7 +14,7 @@ Institutions with legal capacity can become members of the association.
 
 ## Board of RDMO e.V.
 
-{% for member in site.data.board.current %}
+{% for member in site.data.sg-group.current %}
 {% include persons.html %}
 {% endfor %}
 
