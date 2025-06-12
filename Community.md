@@ -14,7 +14,7 @@ Rechtsfähige Institutionen können Mitglieder im Verein werden.
 
 ## Vorstand des RDMO e.V.
 
-{% for member in site.data.sg-group.current %}
+{% for member in site.data.board.current %}
 {% include persons.html %}
 {% endfor %}
 
