@@ -1,12 +1,25 @@
 ---
 - date: 26.08.2025 
   place: "Aachen"
+  registration: "https://terminplaner6.dfn.de/de/e/23a9dd964365fc48d3561a33701d4c7f-1250140"
   name:
     de: "14. RDMO-Gemeinschaftstreffen"
     en: "14th RDMO Community Meeting"
   event:
     de: "Das Treffen findet im Vorfeld der [CoRDI](https://www.nfdi.de/cordi-2025/) von 9:00-11:00 im C.A.R.L.-Zentrum der RWTH statt. Genauer Raum und Agenda folgen. Eine [Anmeldung](https://terminplaner6.dfn.de/de/e/23a9dd964365fc48d3561a33701d4c7f-1250140) ist sehr erwünscht (der Raum fasst 40 Menschen)."   
     en: "The meeting will take place in the run-up to the [CoRDI](https://www.nfdi.de/cordi-2025/) from 9:00-11:00 at the C.A.R.L. Center of the RWTH. Exact room and agenda will follow. A [registration](https://terminplaner6.dfn.de/de/e/23a9dd964365fc48d3561a33701d4c7f-1250140) is highly appreciated (the room holds 40 people)."
+
+- date: 26.08.2025 
+  place: "TU Dortmund, Universitätsbibliothek"
+  registration: "https://eveeno.com/231960663"
+  program: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2025#Agenda"
+  further_info: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2025"
+  name:
+    de: "RDMO Hackathon 2025"
+    en: "RDMO Hackathon 2025"
+  event:
+    de: "Der Hackathon richtet sich an alle Institutionen und Interessierte, die RDMO in Ihre Prozesse besser integrieren möchten. Die RDMO-Entwicklungsgruppe sowie -Contentgruppe begleiten den Workshop und helfen beim Einstieg."   
+    en: "The hackathon is aimed at all institutions and interested parties who would like to better integrate RDMO into their processes. The RDMO development group and content group will accompany the workshop and help you get started."
 
 - date: 25.03.2025
   place: online
