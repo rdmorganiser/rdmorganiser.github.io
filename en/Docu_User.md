@@ -33,7 +33,7 @@ The english documentation is available on [rdmo.readthedocs.io](http://rdmo.read
 * [question overview]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
 
 <b>The XML file of the generic questionnaire can be found here:</b>
-* [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
+* [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). All questionnaires are available with a CC0 license.
 
 
 ## Videos
