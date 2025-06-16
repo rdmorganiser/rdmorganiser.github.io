@@ -9,10 +9,10 @@
       <td style="width: 90%; padding-left:10px;">
         <b>{{ announcement.name[page.lang] }}</b><br />
         {{ announcement.event[page.lang] | markdownify }}<br />
-        {% if announcement.registration %} - <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>{% endif %}
-        {% if announcement.program %} - <u><a href='{{ event.program }}' target='_blank'>Program</a></u>{% endif %}
-        {% if announcement.report %} - <u><a href='{{ event.report }}' target='_blank'>Report</a></u>{% endif %}
-        {% if announcement.further_info %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
+        {% if announcement.registration %} - <u><a href='{{ announcement.registration }}' target='_blank'>Registration</a></u>{% endif %}
+        {% if announcement.program %} - <u><a href='{{ announcement.program }}' target='_blank'>Program</a></u>{% endif %}
+        {% if announcement.report %} - <u><a href='{{ announcement.report }}' target='_blank'>Report</a></u>{% endif %}
+        {% if announcement.further_info %} - <u><a href='{{ announcement.further_info }}' target='_blank'>Further information</a></u>{% endif %}
       </td>
     </tr>
   </table>
@@ -43,10 +43,10 @@
           <td style="width: 90%; padding-left:10px;">
             <b>{{ announcement.name[page.lang] }}</b><br />
             {{ announcement.event[page.lang] | markdownify }}<br />
-            {% if announcement.registration %} - <u><a href='{{ event.registration }}' target='_blank'>Registration</a></u>{% endif %}
-            {% if announcement.program %} - <u><a href='{{ event.program }}' target='_blank'>Program</a></u>{% endif %}
-            {% if announcement.report %} - <u><a href='{{ event.report }}' target='_blank'>Report</a></u>{% endif %}
-            {% if announcement.further_info %} - <u><a href='{{ event.further_info }}' target='_blank'>Further information</a></u>{% endif %}
+            {% if announcement.registration %} - <u><a href='{{ announcement.registration }}' target='_blank'>Registration</a></u>{% endif %}
+            {% if announcement.program %} - <u><a href='{{ announcement.program }}' target='_blank'>Program</a></u>{% endif %}
+            {% if announcement.report %} - <u><a href='{{ announcement.report }}' target='_blank'>Report</a></u>{% endif %}
+            {% if announcement.further_info %} - <u><a href='{{ announcement.further_info }}' target='_blank'>Further information</a></u>{% endif %}
           </td>
         </tr>
       </table>
