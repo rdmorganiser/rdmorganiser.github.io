@@ -4,8 +4,7 @@ RDMO_development:
     type: Presentation
     date: 23.05.2015
     title: Anforderungen an ein Tool zur Erstellung von Forschungsdatenmanagementplänen
-    authors: Jochen Klar; Harry Enke; Claudia Engelhardt; Jens
-      Ludwig
+    authors: Jochen Klar; Harry Enke; Claudia Engelhardt; Jens Ludwig
     doi:
     uri: http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf
 
@@ -14,8 +13,7 @@ RDMO_development:
     date: 2016
     title: DMPwerkzeug - A tool to support the planning, implementation,
       and organization of research data management.
-    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry
-      Enke
+    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry Enke
     doi:
     uri: https://meetingorganizer.copernicus.org/EGU2016/orals/20148
 
@@ -31,10 +29,8 @@ RDMO_development:
     type: Conference Paper
     date: 2017
     title: Research data management organiser. In _Proceedings
-      of the 14th International Conference on Digital Preservation_,
-      25-29.
-    authors: Claudia Engelhardt; Harry Enke; Jochen Klar; Jens
-      Ludwig; Heike Neuroth
+      of the 14th International Conference on Digital Preservation_, 25-29.
+    authors: Claudia Engelhardt; Harry Enke; Jochen Klar; Jens Ludwig; Heike Neuroth
     doi:
     uri: http://www.ipres-conference.org/ipres17/ipres2017.jp/wp-content/uploads/27Claudia-Engelhardt.pdf
 
@@ -42,8 +38,7 @@ RDMO_development:
     type: Conference Paper
     date: 01.04.2017
     title: RDMO - Research Data Management Organiser
-    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry
-      Enke; Jens Ludwig
+    authors: Jochen Klar; Claudia Engelhardt; Heike Neuroth; Harry Enke; Jens Ludwig
     doi:
 
   - publication:
@@ -58,8 +53,7 @@ RDMO_development:
     type: Journal Article
     date: 2018
     title: Aktives Forschungsdatenmanagement
-    authors: Neuroth, H., Engelhardt, C., Klar, J., Ludwig, J.,
-      & Enke, H.
+    authors: Heike Neuroth; Claudia Engelhardt; Jochen Klar; Jens Ludwig; Harry Enke
     doi: https://doi.org/10.1515/abitech-2018-0008
     uri: https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml
 
@@ -68,7 +62,7 @@ RDMO_development:
     date: 13.06.2018
     title: Aktives Forschungsdatenmanagement - das DFG-Projekt
       Research Data Management Organiser (RDMO)
-    authors: Heike Neuroth, Claudia Engelhardt
+    authors: Heike Neuroth; Claudia Engelhardt
     doi:
     uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3688
 
@@ -106,7 +100,7 @@ RDMO_development:
     type: Conference Paper
     date: 2019
     title: Aktives Datenmanagement mit RDMO
-    authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth;
+    authors: Kerstin Wedlich-Zachodin; Olaf Michaelis; Heike Neuroth
     doi:
     uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16498
 
@@ -149,8 +143,7 @@ RDMO_development:
     authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen;
       Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis;
       Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild;
-      Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen
-      Windeck
+      Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen Windeck
     doi: 10.5334/dsj-2024-028
     uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
 
@@ -305,20 +298,6 @@ RDMO_implementation:
     authors: Yves Vincent Grossmann
     doi:
     uri: https://pure.mpg.de/rest/items/item_3508395/component/file_3508396/content
-
-  - publication:
-    type: Journal Article
-    date: 08.05.2024
-    title: The Research Data Management Organiser (RDMO) – a Strong
-      Community Behind an Established Software for DMPs and Much
-      More
-    authors: Ivonne Anders; Harry Enke; Daniela Adele Hausen;
-      Christin Henzen; Gerald Jagusch; Giacomo Lanza; Olaf Michaelis;
-      Karsten Peters-von Gehlen; Torsten Rathmann; Jürgen Rohrwild;
-      Sabine Schönau; Kerstin Vanessa Wedlich-Zachodin; Jürgen
-      Windeck
-    doi: 10.5334/dsj-2024-028
-    uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
 
 DMP_Tools:
   - publication:
