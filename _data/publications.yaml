@@ -54,7 +54,7 @@ RDMO_development:
     date: 2018
     title: Aktives Forschungsdatenmanagement
     authors: Heike Neuroth; Claudia Engelhardt; Jochen Klar; Jens Ludwig; Harry Enke
-    doi: https://doi.org/10.1515/abitech-2018-0008
+    doi: 10.1515/abitech-2018-0008
     uri: https://www.degruyter.com/view/journals/abitech/38/1/article-p55.xml
 
   - publication:
@@ -237,7 +237,7 @@ RDMO_implementation:
     authors: Iryna Mozgova; Gerald Jagusch; Jens Freund; Angelina
       Kraft; Tobias Glück; Kevin Herrmann; Marvin Knöchelmann;
       Roland Lachmayer
-    doi: https://doi.org/10.11588/heibooks.979.c13722
+    doi: 10.11588/heibooks.979.c13722
     uri: https://books.ub.uni-heidelberg.de//heibooks/catalog/book/979/chapter/13722
 
   - publication:
@@ -410,7 +410,7 @@ DMP_SMP:
       Bildungsforschung
     authors: Sebastian Netscher; Anna Schwickerath; Simon Eckert;
       Gianpiero Favella; Olaf Michaelis
-    doi: https://doi.org/10.5281/zenodo.6782478
+    doi: 10.5281/zenodo.6782478
     uri: https://zenodo.org/record/6782478
 
   - publication:
