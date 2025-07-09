@@ -111,7 +111,7 @@ RDMO_development:
     authors: Olaf Michaelis; Giacomo Lanza; Jochen Klar;
       Paul Sutter; Yves Vincent Grossmann; Torsten Rathmann;
       Harry Enke; Johannes Frenzel; Thomas Schneider; Tim Hasler
-    doi: 10.5281/zenodo.7466775
+    doi: 10.5281/ZENODO.7466775
     uri: https://publications.rwth-aachen.de/record/862126
 
   - publication:
@@ -121,7 +121,7 @@ RDMO_development:
     authors: Olaf Michaelis; Giacomo Lanza; Jochen Klar;
       Paul Sutter; Yves Vincent Grossmann; Torsten Rathmann;
       Harry Enke; Johannes Frenzel; Thomas Schneider; Tim Hasler
-    doi: 10.5281/zenodo.7466775
+    doi: 10.5281/ZENODO.7466775
     uri: https://publications.rwth-aachen.de/record/862126
 
   - publication:
@@ -314,7 +314,7 @@ DMP_Tools:
     date: 24.03.2021
     title: DMP-Toolguide
     authors: Kerstin Helbig; Thilo Paul-Stüve; Jessica Rex
-    doi: 10.5281/zenodo.4632308
+    doi: 10.5281/ZENODO.4632308
     uri: https://zenodo.org/record/4632308
 
   - publication:
@@ -421,7 +421,7 @@ DMP_SMP:
       and Funding
     authors: Christin Henzen; Jürgen Rohrwild; Daniela Hausen;
       Karsten Peters-von Gehlen; Ivonne Anders; Sabine Schönau
-    doi: 10.5281/zenodo.6966878
+    doi: 10.5281/ZENODO.6966878
     uri: https://zenodo.org/records/6966878
 
   - publication:
@@ -551,6 +551,6 @@ DMP_SMP:
       Mariaisabel González-Ocanto; Yves Vincent Grossmann; Thomas
       Pronk; Dhwani Solanki; Carlos Utrilla Guerrero; David Wallace;
       Jürgen Windeck
-    doi: 10.5281/zenodo.10374838
+    doi: 10.5281/ZENODO.10374838
     uri: https://www.i12.rwth-aachen.de/go/id/opqu/lidx/1/file/975680
 
