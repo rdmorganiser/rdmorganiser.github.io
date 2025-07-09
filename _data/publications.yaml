@@ -114,10 +114,9 @@ RDMO_development:
     type: Software
     date: 2022
     title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
-    authors: Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ;
-      Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten
-      ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ;
-      Hasler, Tim
+    authors: Olaf Michaelis; Giacomo Lanza; Jochen Klar;
+      Paul Sutter; Yves Vincent Grossmann; Torsten Rathmann;
+      Harry Enke; Johannes Frenzel; Thomas Schneider; Tim Hasler
     doi: 10.5281/ZENODO.7466775
     uri: https://publications.rwth-aachen.de/record/862126
 
@@ -125,10 +124,9 @@ RDMO_development:
     type: Software
     date: 2022
     title: "rdmorganiser/rdmo-catalog: 1.2.0-rdmo-1.6.0"
-    authors: Michaelis, Olaf ; Lanza, Giacomo ; Klar, Jochen ;
-      Raspeanut ; Grossmann, Yves Vincent ; Rathmann, Torsten
-      ; Enke, Harry ; Frenzel, Johannes ; Schneider, Thomas ;
-      Hasler, Tim
+    authors: Olaf Michaelis; Giacomo Lanza; Jochen Klar;
+      Paul Sutter; Yves Vincent Grossmann; Torsten Rathmann;
+      Harry Enke; Johannes Frenzel; Thomas Schneider; Tim Hasler
     doi: 10.5281/ZENODO.7466775
     uri: https://publications.rwth-aachen.de/record/862126
 
@@ -137,9 +135,9 @@ RDMO_development:
     date: 12.02.2024
     title: "Research Data Management Working Group Webinar - Data
       Management Plans: Use and Reuse (Slides)"
-    authors: Wedlich-Zachodin, Kerstin Vanessa; Soltau, Kerstin;
-      Rodenburg, Elisa; Kuusniemi, Mari Elisa
-    doi:
+    authors: Kerstin Vanessa Wedlich-Zachodin; Kerstin Soltau;
+      Elisa Rodenburg; Mari Elisa Kuusniemi
+    doi: 10.5281/zenodo.10649083
     uri: https://zenodo.org/records/10649084
 
   - publication:
@@ -156,16 +154,24 @@ RDMO_development:
     doi: 10.5334/dsj-2024-028
     uri: https://datascience.codata.org/articles/10.5334/dsj-2024-028
 
+  - publication:
+    type: Presentation
+    date: 26.06.2025
+    title: 10 Jahre RDMO - Der Research Data Management Organiser als Software und Community
+    authors: Gerald Jagusch; Laura Meier; Martin Spenger; Janine Straka
+    doi: urn:nbn:de:0290-opus4-198116
+    uri: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19811
+
 RDMO_implementation:
   - publication:
     type: Report
     date: 2018
     title: Introducing Coordinated Research Data Management at
       RWTH Aachen University. A Brief Project Report
-    authors: Daniela A. Hausen, Ulrike Eich, Bela Brenger, Florian
-      Claus, Benedikt Magrean, Elke Müller, Matthias S. Müller,
-      Marius Politze, Stephan von der Ropp, Dominik Schmitz, Ute
-      Trautwein-Bruns and Ann-Kathrin Wluka
+    authors: Daniela A. Hausen; Ulrike Eich; Bela Brenger; Florian
+      Claus; Benedikt Magrean; Elke Müller; Matthias S. Müller;
+      Marius Politze; Stephan von der Ropp; Dominik Schmitz; Ute
+      Trautwein-Bruns; Ann-Kathrin Wluka
     doi:
     uri: http://publications.rwth-aachen.de/record/725992/files/725992.pdf
 
