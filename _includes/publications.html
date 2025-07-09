@@ -2,7 +2,7 @@
     {{ publication.authors }} ({{ publication.date }}).<br />
     <b>{{ publication.title }}</b> [{{ publication.type }}].<br />
     {% if publication.doi %}DOI: <a href="https://doi.org/{{ publication.doi }}">{{ publication.doi }}</a>.
-    {% else %}{% if publication.urn %}URN: <a href="https://nbn-resolving.org/{{ publication.urn }}">{{ publication.urn }}</a>.
-    {% else %}{% if publication.uri %}URL: <a href="{{ publication.uri }}">{{ publication.uri }}</a>.
-    {% endif %}{% endif %}{% endif %}<br /><br />
+    {% elif publication.urn %}URN: <a href="https://nbn-resolving.org/{{ publication.urn }}">{{ publication.urn }}</a>.
+    {% elif publication.uri %}URL: <a href="{{ publication.uri }}">{{ publication.uri }}</a>.
+    {% endif %}<br /><br />
 </li>
