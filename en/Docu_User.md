@@ -21,12 +21,12 @@ As a <b>user</b> you have the option:
 
 The english documentation is available on [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest).
 
-* [Quickstart Guide (pdf document)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
+* [Quickstart Guide (pdf document, in German)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
 <b>You can find views of DMP specifications, e.g. on:</b>
 * forschungsdaten.info under ["Funder Guidelines"](https://forschungsdaten.info/praxis-kompakt/english-pages/funder-guidelines/)
-* forschungsdaten.org unter ["Förderorganisationen"](https://www.forschungsdaten.org/index.php/F%C3%B6rderorganisationen)
+* forschungsdaten.org under ["Förderorganisationen"](https://www.forschungsdaten.org/index.php/F%C3%B6rderorganisationen)
 
 <b>Overview of all questions of the complete RDMO catalog as PDF:</b>
 
