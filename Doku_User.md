@@ -21,7 +21,7 @@ Als <b>Nutzende:r</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 
 RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. 
 
-* [Schnellstart-Anleitung (PDF-Dokument)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
+* [Schnellstart-Anleitung (PDF-Dokument)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2024.pdf)
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
 <b>Übersichten zu DMP-Vorgaben finden Sie u. a. auf:</b>
@@ -30,7 +30,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 
 <b>Überblick aller Fragen des vollständigen RDMO-Katalogs als PDF:</b>
 
-* [Fragenübersicht]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
+* [Fragenübersicht]({{ site.baseurl }}/docs/RDMO_main_questionnaire_overview_DE.pdf)
 
 <b>Die XML-Datei des generischen Fragenkatalogs finden Sie hier:</b>
 * [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). Alle Fragenkataloge sind mit einer CC0-Lizenz veröffentlicht.
