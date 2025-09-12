@@ -21,7 +21,7 @@ As a <b>user</b> you have the option:
 
 The english documentation is available on [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest).
 
-* [Quickstart Guide (pdf document, in German)]({{ site.baseurl }}/docs/Schnellstartanleitung_v2020.pdf)
+* [Quickstart Guide (pdf document)]({{ site.baseurl }}/docs/quick_start_guide_for_users_v2024.pdf)
 * [FAQs](http://www.forschungsdaten.org/index.php/FAQs)
 
 <b>You can find views of DMP specifications, e.g. on:</b>
@@ -30,7 +30,7 @@ The english documentation is available on [rdmo.readthedocs.io](http://rdmo.read
 
 <b>Overview of all questions of the complete RDMO catalog as PDF:</b>
 
-* [question overview]({{ site.baseurl }}/docs/RDMO-Fragenkatalog_nummeriert_201911.pdf)
+* [question overview]({{ site.baseurl }}/docs/RDMO_main_questionnaire_overview_EN.pdf)
 
 <b>The XML file of the generic questionnaire can be found here:</b>
 * [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). All questionnaires are available with a CC0 license.
