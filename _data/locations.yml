@@ -445,7 +445,7 @@
   mail: mailto:carina.becker@tu-dresden.de
   lat: 51.028446
   lon: 13.733930
-  color: gray
+  color: blue
 
 - name: Nationale Forschungsdateninfrastruktur für die Chemie
   url: https://rdmo.nfdi4chem.de/
