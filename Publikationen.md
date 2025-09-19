@@ -8,7 +8,7 @@ key: rdmo-pub
 
 RDMO wurde bereits in zahlreichen Publikationen erwähnt. Im Folgenden sind diese nach bestimmten Inhalten gegliedert aufgelistet. Falls die Liste nicht vollständig sein sollte, schreiben Sie bitte eine <a href="mailto:rdmo-contact@listserv.dfn.de">Mail</a> an die interne Mailingliste.<br/>
 
-Publikationen voon RDMO finden Sie auch auf der <a href="https://zenodo.org/communities/rdmo">Zenodo-Community "Research Data Management Organiser (RDMO)"</a>.
+Publikationen von RDMO finden Sie auch auf der <a href="https://zenodo.org/communities/rdmo">Zenodo-Community "Research Data Management Organiser (RDMO)"</a>.<br/>
 
   <h2>RDMO Development</h2>
   <p>Hier sind die Publikationen über die Entwicklung der RDMO-Software selbst und des Contents (Kataloge, Optionen usw.) aufgelistet.</p>
