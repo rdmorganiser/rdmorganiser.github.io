@@ -35,6 +35,9 @@ The english documentation is available on [rdmo.readthedocs.io](http://rdmo.read
 <b>The XML file of the generic questionnaire can be found here:</b>
 * [GitHub/rdmo-catalog](https://github.com/rdmorganiser/rdmo-catalog). All questionnaires are available with a CC0 license.
 
+<b>A searchable overview of all RDMO objects can be found here:</b>
+* [rdmo-terms](https://rdmorganiser.github.io/terms/) showa all objects (questions, attributes, options, views ...) that are used in curated RDMO questionnaires. After selecting the category (e.g. domain, question, etc.) you can limit the results using the search field.
+
 
 ## Videos
 *Please note that the following videos are available in German language only.*
