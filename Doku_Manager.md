@@ -19,12 +19,17 @@ Als <b>Manager:in</b> haben Sie folgende Berechtigungen und Funktionalitäten:
 
 RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf Englisch dokumentiert. 
 
-* [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) 
+* [Management](http://rdmo.readthedocs.io/en/latest/management/index.html)
+
+* [Guide to developing a catalog in RDMO](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html) (in Englisch)
+
+### Ältere Anleitungen
 * [„Wie erstelle ich einen Fragenkatalog in RDMO?”](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
 * [„Wie erstelle ich eine Ansicht in RDMO?”](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * [„Wie erstelle ich eine Bedingung in RDMO?”](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
 * [„Tutorial zum Import und Export”](http://www.forschungsdaten.org/index.php/Import_Export)
 
+<!--
 ## Videos
 
 <br>
@@ -36,3 +41,4 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 <p style="margin-left:25%;">Screencast: Optionen & Bedingungen (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/optionen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/optionen.mp4">Your browser does not support the video tag.</video>
+-->
