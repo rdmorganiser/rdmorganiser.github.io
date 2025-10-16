@@ -14,17 +14,19 @@ As a <b>manager</b> you have the option:
 * Upload of documents (e.g. metadata documentation, codebooks, etc.)
 * Different widgets (sliders, checkboxes, dropdown menus etc.) for different catalog views
 
-## First Aid
+## Guides and helpful information
 
-RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) In the left-hand site menu there are following keywords:
+* RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) 
+* [Guide to developing a catalog in RDMO](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html) 
 
+## Older resources
 * [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
 * ["How do I create a catalogue in RDMO?"](http://www.forschungsdaten.org/index.php/Katalog_erstellen)
 * ["How do I create a view in RDMO?"](http://www.forschungsdaten.org/index.php/Ansicht_erstellen)
 * ["How do I create conditions in RDMO?"](http://www.forschungsdaten.org/index.php/Bedingung_erstellen)
 * ["Tutorial for import and export"](http://www.forschungsdaten.org/index.php/Import_Export)
 
-
+<!--
 ## Videos
 
 *Please note that the following videos are available in German language only.*
@@ -37,3 +39,4 @@ RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest
 <p style="margin-left:25%;">Screencast: Optionen & Bedingungen (<a href="{{ site.baseurl }}/img/promo/videos/optionen.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/optionen_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/optionen.mp4">Your browser does not support the video tag.</video>
+-->
