@@ -17,7 +17,10 @@ As a <b>manager</b> you have the option:
 ## Guides and helpful information
 
 * RDMO is documented at [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) 
-* [Guide to developing a catalog in RDMO](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html) 
+* [Guide to developing a catalog in RDMO](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html)
+
+<b>A searchable overview of all RDMO objects can be found here:</b>
+* [rdmo-terms](https://rdmorganiser.github.io/terms/) shows all objects (questions, attributes, options, views ...) that are used in curated RDMO questionnaires. After selecting the category (e.g. domain, question, etc.) you can limit the results using the search field.
 
 ## Older resources
 * [Management](http://rdmo.readthedocs.io/en/latest/management/index.html) - manage, create and change the domain tree, catalogues and templates
