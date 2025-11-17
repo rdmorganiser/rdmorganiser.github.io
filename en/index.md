@@ -18,7 +18,7 @@ Register for our public mailing list, to be always updated: [rdmo@listserv.dfn.d
 
 Register for the public mailing list of the Content Group, to contribute to the development of catalogues and other material - no programming experience required! [rdmo-contentgruppe@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo-contentgruppe)
 
-Register to our group chat, for sorking together and for troubleshooting: [RDMO-Slack](https://rdmo.slack.com/signin)
+Register to our group chat, for working together and for troubleshooting: [RDMO-Slack](https://rdmo.slack.com/signin)
 
 
 <div style="width: 35%;margin-top: 1%;">
