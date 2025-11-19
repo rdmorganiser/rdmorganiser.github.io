@@ -2,7 +2,7 @@
   {% for announcement in site.data.announcements.current %}
   <tr style="border: 2px dotted red;">
     <th style="width: 20%; padding: 10px;">{{ announcement.date | markdownify }}</th>
-    <td style="width: 80%; padding: 20px;">{{ announcement.event.[page.lang] | markdownify }}</td>
+    <td style="width: 80%; padding: 20px;"><b>{{ announcement.name[page.lang] }}</b><br />{{ announcement.event.[page.lang] | markdownify }}</td>
   </tr>
   {% endfor %}
 </table>
