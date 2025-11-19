@@ -1,11 +1,8 @@
 ---
 
 - date: "11.09.23, 13:00-17:00"
-  place: "[KIT](https://www.kit.edu/), Bibliothek Campus Süd"
-  registration: "....."
-  program: "....."
+  place: "Karlsruhe, [KIT](https://www.kit.edu/), Bibliothek Campus Süd"
   report: "https://www.forschungsdaten.org/index.php/Zehntes_Community-Treffen"
-  further_info: "....."
   name:
     de: "10. RDMO-Community-Treffen"
     en: "10. RDMO community meeting"
@@ -16,9 +13,9 @@
      Das wird belegt durch die breite Verwendung in NFDI-Konsortien und FDM-Landesinitiativen.
      RDMO wird als Community-getriebenes Projekt fortgeführt.
      Die Mitglieder tragen zur Weiterentwicklung der Software und Plugins, zur Verfassung und Pflege der Inhalte sowie zur Informationsweitergabe bei.
-     Was euch in diesem Treffen erwartet:
-       - Vorstellung des aktuellen Stands und der Perspektiven für die Weiterentwicklung
-       - Diskussionen über die Interoperabilität von Datenmanagementplänen
+     Was euch in diesem Treffen erwartet:  
+       - Vorstellung des aktuellen Stands und der Perspektiven für die Weiterentwicklung  
+       - Diskussionen über die Interoperabilität von Datenmanagementplänen  
        - Erfahrungsaustausch und Vernetzung mit der RDMO Community"
     en: "RDMO, as the leading software for data management plans in the German-speaking region, allows saving of project-related information
     in a structured format and the consequent steering of processes and information ingesting into other research data services.
@@ -26,17 +23,15 @@
     as demonstrated by the wide use in NFDI consortia and regional RDM initiatives.
     RDMO is maintained as a community-driven project.
     The community members contribute to the further development of the software, its plugins and to the composition and curation of the contents as well as to the dissemination.
-    What can you expect from this meeting?
-      - Presentation of the present state and scenarios for the further development
-      - Discussion about the interoperability of data management plans
-      - Exchange and Networking with the RDMO community<br>"
+    What can you expect from this meeting?  
+      - Presentation of the present state and scenarios for the further development  
+      - Discussion about the interoperability of data management plans  
+      - Exchange and Networking with the RDMO community"
 
 
 - date: "10./11. August 2023"
   place: "Darmstadt, ULB"
   registration: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2023"
-  program: "....."
-  report: "....."
   further_info: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2023"
   name:
     de: "RDMO Hackathon an der ULB Darmstadt"

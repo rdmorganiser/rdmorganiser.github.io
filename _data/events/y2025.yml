@@ -1,7 +1,28 @@
 ---
+- date: 11.12.2025
+  place: "online, https://tu-darmstadt.zoom-x.de/j/61239293674?pwd=zPbWpf4GXQURDCZrjtIHb6rWiNWyh5.1"
+  further_info: "https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/"
+  name:
+    de: "RDMO Ho-Ho Mini-Hackathon"
+    en: "RDMO Ho-Ho Mini-Hackathon"
+  event:
+    de: "Der RDMO Online-Mini-Hackathon wird am 11. Dezember 2025, 9:30 bis ca. 16 Uhr, via Zoom (https://tu-darmstadt.zoom-x.de/j/61239293674?pwd=zPbWpf4GXQURDCZrjtIHb6rWiNWyh5.1) stattfinden. Vorab sammeln wir Ideen, woran an diesem Tag gearbeitet werden kann. Tragt Eure Ideen bitte hier ein: https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/ Nach Möglichkeit sollten es Aufgaben sein, die in ca. 4 Stunden zu bearbeiten sind. Wir sind gespannt auf Eure Vorschläge und freuen uns auf den 11. Dezember!"
+    en: "The RDMO Online Mini Hackathon will take place on 11 December 2025, from 9:30 a.m. to approx. 4 p.m. via Zoom (https://tu-darmstadt.zoom-x.de/j/61239293674?pwd=zPbWpf4GXQURDCZrjtIHb6rWiNWyh5.1) We collect ideas about what can be worked on that day. Please enter your ideas here: https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/ If possible, the tasks should take approximately 4 hours to complete. We look forward to receiving your suggestions and to 11 December!"
+
+- date: 13.11.2025 
+  place: online
+  registration: "https://terminplaner6.dfn.de/de/e/23a9dd964365fc48d3561a33701d4c7f-1250140"
+  name:
+    de: "Mitgliederversammlung von RDMO e.V."
+    en: "Meeting of the RDMO e.V. association"
+  event:
+    de: "Die Veranstaltung findet virtuell statt."
+    en: "Virtual meeting for association members."
+
 - date: 26.08.2025 
   place: "Aachen, RWTH, C.A.R.L."
   registration: "https://terminplaner6.dfn.de/de/e/23a9dd964365fc48d3561a33701d4c7f-1250140"
+  report: "https://www.forschungsdaten.org/index.php/14._Community-Treffen"
   name:
     de: "14. RDMO-Gemeinschaftstreffen"
     en: "14th RDMO Community Meeting"
@@ -23,6 +44,7 @@
 
 - date: 25.03.2025
   place: online
+  report: "https://www.forschungsdaten.org/index.php/13._Community-Treffen"
   name:
     de: 13. RDMO-Gemeinschaftstreffen
     en: 13th RDMO community meeting
@@ -39,3 +61,17 @@
   event:
     de: "Während des RDMO-Hackathons 2024 in München haben Mitglieder der RDMO-Community und DMP4NFDI1 begonnen, einen umfassenden Leitfaden zur Entwicklung eines Katalogs in RDMO zu schreiben. Dieser Leitfaden richtet sich an Forschungsdatenmanager und RDMO-Redakteure und deren wichtigste Fragen. In dieser Kaffeevorlesung stellen wir Ihnen die Struktur des Handbuchs vor, zeigen Ihnen, wie Sie es effektiv nutzen können, und heben seine wichtigsten Vorteile hervor. Unabhängig davon, ob Sie neu in RDMO sind oder Ihre Fähigkeiten als RDMO-Editor verfeinern möchten, wird diese Sitzung wertvolle Einblicke bieten."
     en: "During the RDMO Hackathon 2024 in Munich, members of the RDMO Community and DMP4NFDI1 started writing a comprehensive guide on How to develop a catalog within RDMO. This manual addresses research data managers and RDMO editors and their most important questions. In this coffee lecture, we will introduce the structure of the manual, how to use it effectively, and highlight its key benefits. Whether you are new to RDMO or are looking to refine your skills as an RDMO Editor, this session will offer valuable insights."
+
+
+#- date: ""
+#  place: ""
+#  registration: ""
+#  program: ""
+#  report: ""
+#  further_info: ""
+#  name:
+#    de: ""
+#    en: ""
+#  event:
+#    de: ""
+#    en: ""
