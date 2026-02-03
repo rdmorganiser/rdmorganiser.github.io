@@ -3,7 +3,7 @@
   <tr style="border: 2px dotted red;">
     <th style="width: 20%;">
       {{ announcement.date | markdownify }}
-      {% if announcement.place %}<br />{{ announcement.place | markdownify }}
+      {% if announcement.place %}<br />{{ announcement.place | markdownify }}{% endif %}
     </th>
     <td style="width: 80%; padding: 20px;">
       <b>{{ announcement.name[page.lang] }}</b><br />

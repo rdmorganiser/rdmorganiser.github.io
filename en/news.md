@@ -1,4 +1,8 @@
-
+---
+layout: page
+lang: en
+key: news
+---
 
 # News
 

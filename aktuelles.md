@@ -1,6 +1,9 @@
+---
+layout: page
+lang: de
+key: news
+---
 
-<<<<<<< HEAD
-=======
 # Aktuelles
 
 <!--- mdtoc: toc begin -->
@@ -59,5 +62,3 @@ Der [Verein RDMO e.V.]({{ site.baseurl }}/Community) hat sich mit der Gründungs
 	</tr>
 	{% endfor %}
 </table>
-
->>>>>>> 067551d270bfc54d7e9df26d5dc9526feb1f82a4
