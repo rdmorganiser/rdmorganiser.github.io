@@ -1,23 +1,18 @@
----
-layout: page
-lang: en
-key: news
----
+
 
 # News
 
 <!--- mdtoc: toc begin -->
+1. [Announcements](#announcements-)
+2. [Regular RDMO video conference dates](#regular-rdmo-video-conference-dates)
+<!--- mdtoc: toc end -->
 
-1. [Announcements:](#announcements-)
-2. [Regular RDMO video conference dates](#regular-rdmo-video-conference-dates)<!--- mdtoc: toc end -->
+On this page we summarize our current activities. To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), or chat with us on [Slack](https://rdmo.slack.com).  
+(Write an email to us: [rdmo-team@listserv.dfn.de](mailto:rdmo-team@listserv.dfn.de) and we will invite you to Slack.)
 
-On this page we summarize our current activities. To stay up to date, subscribe to our mailing list [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), or chat with us on [Slack](https://rdmo.slack.com). (Write an email to us: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.de</a> and we will invite you to Slack.) <br/>
+## Announcements
 
-## Announcements:
-
-### Love Data Week 2026 (9th-13th February)
-
-In concomitance with the soon coming **Love Data Week** [https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/] many talks are being offered around RDMO and data management plans. We have put together an overview:
+In concomitance with the soon coming [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/) (9th-13th February) many talks are being offered around RDMO and data management plans. We have put together an overview:
 
 {% include announcements.html %}
 

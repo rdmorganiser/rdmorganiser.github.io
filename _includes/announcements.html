@@ -1,8 +1,15 @@
 <table style="display: inline-block; margin-bottom: 18px;">
   {% for announcement in site.data.announcements.current %}
   <tr style="border: 2px dotted red;">
-    <th style="width: 20%; padding: 10px;">{{ announcement.date | markdownify }}</th>
-    <td style="width: 80%; padding: 20px;"><b>{{ announcement.name[page.lang] }}</b><br />{{ announcement.event.[page.lang] | markdownify }}</td>
+    <th style="width: 20%;">
+      {{ announcement.date | markdownify }}
+      {% if announcement.place %}<br />{{ announcement.place | markdownify }}
+    </th>
+    <td style="width: 80%; padding: 20px;">
+      <b>{{ announcement.name[page.lang] }}</b><br />
+      {{ announcement.event.[page.lang] | markdownify }}<br />
+      {% if announcement.further_info %} - <u><a href='{{ announcement.further_info }}' target='_blank'>Further information</a></u>{% endif %}
+    </td>
   </tr>
   {% endfor %}
 </table>

@@ -1,15 +1,3 @@
-current:
-- wg:
-  name_de: RDMO e.V. Vorstandssitzung
-  name_en: RDMO e.V. board meeting
-  content_de1: Austausch im Vereinsvorstand
-  content_de2: nicht öffentlich, keine Teilnahme möglich
-  content_en1: Exchange of association board  members
-  content_en2: not public, no participation possible
-  date_de: jeden vierten Freitag (14:00 - 15:00)
-  date_en: every fourth Friday (13:00-15:00)
-  leader: RDMO-Verein
-  leader_mail: mailto:rdmo-contact@listserv.dfn.de
 
 - wg:
   name_de: Softwaregruppe

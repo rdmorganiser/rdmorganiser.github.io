@@ -1,23 +1,19 @@
----
-layout: page
-lang: de
-key: news
----
 
+<<<<<<< HEAD
+=======
 # Aktuelles
 
 <!--- mdtoc: toc begin -->
+1. [Ankündigungen](#ank%C3%BCndigungen)
+2. [Reguläre RDMO-Videokonferenz-Termine](#regul%C3%A4re-rdmo-videokonferenz-termine)
+<!--- mdtoc: toc end -->
 
-1. [Ankündigung:](#ank%C3%BCndigung)
-2. [Reguläre RDMO-Videokonferenz-Termine](#regul%C3%A4re-rdmo-videokonferenz-termine)<!--- mdtoc: toc end -->
+Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com).  
+(Schreiben Sie eine E-Mail an uns: [rdmo-team@listserv.dfn.de](mailto:rdmo-team@listserv.dfn.de) und wir laden Sie zu Slack ein.)
 
-Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com). (Schreiben Sie eine E-Mail an uns: <a href="mailto:rdmo-team@listserv.dfn.de">rdmo-team@listserv.dfn.demailto:rdmo-team@listserv.dfn.de</a> und wir laden Sie zu Slack ein.)<br/>
+## Ankündigungen
 
-## Ankündigung:
-
-### Love Data Week 2026 (9.- 13. Februar)
-
-Anlässlich der diesjährigen **Love Data Week** [https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/] befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
+Anlässlich der diesjährigen [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/) (9.- 13. Februar) befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
 
 {% include announcements.html %}
 
@@ -63,3 +59,5 @@ Der [Verein RDMO e.V.]({{ site.baseurl }}/Community) hat sich mit der Gründungs
 	</tr>
 	{% endfor %}
 </table>
+
+>>>>>>> 067551d270bfc54d7e9df26d5dc9526feb1f82a4
