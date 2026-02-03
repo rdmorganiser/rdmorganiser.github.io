@@ -27,7 +27,7 @@ The [RDMO association]({{ site.baseurl }}/en/Community) was constituted with the
 
 ## Regular RDMO video conference dates
 
-(Status: April 2023)
+(Status: January 2026)
 
 <table style="width: 100%; border:1px solid black;">
 	<tr>
