@@ -16,7 +16,7 @@ Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. 
 
 ## Ankündigungen
 
-Anlässlich der diesjährigen [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/) (9.- 13. Februar) befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
+Anlässlich der diesjährigen [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/) (9.-13. Februar) befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
 
 {% include announcements.html %}
 
