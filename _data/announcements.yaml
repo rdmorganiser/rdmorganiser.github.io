@@ -1,15 +1,83 @@
 ---
 current:
-  - date: 11.12.2025
+  - date: 09.02.2026, 16:00-18:00
     place: "online"
-    further_info: "https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/"
+    further_info: "https://events.gwdg.de/event/1364/"
     name:
-      de: "RDMO Ho-Ho Mini-Hackathon"
-      en: "RDMO Ho-Ho Mini-Hackathon"
+      de: "How to Manage Research Data? An Introduction to RDMO"
+      en: "How to Manage Research Data? An Introduction to RDMO"
     event:
-      de: "Am 11. Dezember 2025 findet von 9:30 bis ca. 16 Uhr eine RDMO Online-Mini-Hackathon. Vorab sammeln wir Ideen, woran an diesem Tag gearbeitet werden kann. Tragt Eure Ideen bitte hier ein: [Agenda](https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/). Nach Möglichkeit sollten es Aufgaben sein, die in ca. 4 Stunden zu bearbeiten sind. Wir sind gespannt auf Eure Vorschläge und freuen uns auf den 11. Dezember!"
-      en: "On 11 December 2025, from 9:30 a.m. to approx. 4 p.m., a RDMO Online-Mini-Hackathon will take place. We collect ideas about what can be worked on that day. Please enter your ideas here: [Agenda](https://docs.google.com/document/d/1b2--DkEx83wJEE-6Dw5ILYZ-ZpL0_Y-hVhDxk9z8-CI/). If possible, the tasks should take approximately 4 hours to complete. We look forward to receiving your suggestions and to 11 December!"
-  - event:
-      de: Der RDMO-Editor's Guide steht nun in der ersten Version zur Verfügung unter [read-the-docs/management](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html). Diese Anleitung richtet sich an Forschungsdatenmanager und RDMO-Redakteure und ihre wichtigsten Fragen. Bitte senden Sie jedwedes Feedback direkt an [rdmo-contentgruppe@listserv.dfn.de](mailto:rdmo-contentgruppe@listserv.dfn.de).
-      en: The first version of the new editor’s guide is now available at [read-the-docs/management](https://rdmo.readthedocs.io/en/latest/management/catalog-development.html). This manual addresses research data managers and RDMO editors and their most important questions. For any feedback or wishes, please contact the rdmo group directly via [rdmo-contentgruppe@listserv.dfn.de](mailto:rdmo-contentgruppe@listserv.dfn.de).
-    date: 12.02.2025 
+      de: ""
+      en: ""
+  - date: 10.02.2026, 11:00-12:00
+    place: "online"
+    further_info: "https://dmp.services.base4nfdi.de/events/2026-02-10 love-data-week/"
+    name:
+      de: "How to Make Your DMP Template Interoperable in RDMO"
+      en: "How to Make Your DMP Template Interoperable in RDMO"
+    event:
+      de: ""
+      en: ""
+  - date: 10.02.2026, 13:00-13:30
+    place: "online"
+    further_info: "https://www.ub.uni-rostock.de/wissenschaftliche-services/forschungsdaten/veranstaltungen/lovedataweek-2026/"
+    name:
+      de: "Unpacking Animal Data – Ein Fragenkatalog für Tierdaten im RDMO"
+      en: "Unpacking Animal Data – Ein Fragenkatalog für Tierdaten im RDMO"
+    event:
+      de: ""
+      en: ""
+  - date: 11.02.2026, 09:00-11:00
+    place: "online"
+    further_info: "https://events.gwdg.de/event/1364/"
+    name:
+      de: "How to Manage Research Data? An Introduction to RDMO"
+      en: "How to Manage Research Data? An Introduction to RDMO"
+    event:
+      de: ""
+      en: ""
+  - date: 11.02.2026, 10:00-12:00
+    place: "online"
+    further_info: "https://fdm.uni-koeln.de/news-events/international-love-data-week/ldw2026"
+    name:
+      de: "Wir schreiben einen Datenmanagementplan (DMP)"
+      en: "Wir schreiben einen Datenmanagementplan (DMP)"
+    event:
+      de: ""
+      en: ""
+  - date: 11.02.2026, 11:00-11:30
+    place: "online"
+    further_info: "https://tu-freiberg.de/events/love-data-week-2026-wheres-data"
+    name:
+      de: "Coffee-Lecture: Forschungsdaten managen, Förderung sichern: DMP für Drittmittelprojekte"
+      en: "Coffee-Lecture: Forschungsdaten managen, Förderung sichern: DMP für Drittmittelprojekte"
+    event:
+      de: ""
+      en: ""
+  - date: 11.02.2026, 12:30-13:00
+    place: "online"
+    further_info: "https://eveeno.com/117451321"
+    name:
+      de: "RDMO Consent Generator: Einwilligungserklärungen einfach, sicher und effizient"
+      en: "RDMO Consent Generator: Einwilligungserklärungen einfach, sicher und effizient"
+    event:
+      de: ""
+      en: ""
+  - date: 12.02.2026, 10:00-10:30
+    place: "online"
+    further_info: "https://nfdi4ing.de/nfdi4ing-love-data-week-26/"
+    name:
+      de: "DMP guidance on demand: The new NFDI4ING RDMO chatbot"
+      en: "DMP guidance on demand: The new NFDI4ING RDMO chatbot"
+    event:
+      de: ""
+      en: ""
+  - date: 13.02.2026, 10:00-10:30
+    place: "online"
+    further_info: "https://www.uni-augsburg.de/de/organisation/bibliothek/publizieren-zitieren-archivieren/open-science-schulungsangebote/"
+    name:
+      de: "Datenmanagementplan – was ist das und wie erstelle ich einen?"
+      en: "Datenmanagementplan – was ist das und wie erstelle ich einen?"
+    event:
+      de: ""
+      en: ""

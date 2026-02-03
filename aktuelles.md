@@ -15,13 +15,19 @@ Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. 
 
 ## Ankündigung:
 
+### Love Data Week 2026 (9.- 13. Februar)
+
+Anlässlich der diesjährigen **Love Data Week** [https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/] befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
+
 {% include announcements.html %}
 
 Die [Arbeitsgemeinschaft RDMO]({{ site.baseurl }}/Community) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen. Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.
 
+Der [Verein RDMO e.V.]({{ site.baseurl }}/Community) hat sich mit der Gründungsversammlung am 19.11.2024 konstituiert, um dem Werkzeug RDMO die notwendige Langlebigkeit und Zuverlässigkeit zu garantieren.
+
 ## Reguläre RDMO-Videokonferenz-Termine
 
-(Stand: April 2023)
+(Stand: Januar 2026)
 
 <table style="width: 100%; border:1px solid black;">
 	<tr>
