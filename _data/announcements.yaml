@@ -1,5 +1,14 @@
 ---
 current:
+- date: 09.02.2026, 11:00-12:00
+    place: "online"
+    further_info: "https://ldw-bbb.de/#fdm-dienste-fuer-brandenburg---launch-event"
+    name:
+      de: "FDM-Dienste für Brandenburg - Launch-Event"
+      en: "FDM-Dienste für Brandenburg - Launch-Event"
+    event:
+      de: ""
+      en: ""
   - date: 09.02.2026, 16:00-18:00
     place: "online"
     further_info: "https://events.gwdg.de/event/1364/"
@@ -24,6 +33,15 @@ current:
     name:
       de: "Unpacking Animal Data – Ein Fragenkatalog für Tierdaten im RDMO"
       en: "Unpacking Animal Data – Ein Fragenkatalog für Tierdaten im RDMO"
+    event:
+      de: ""
+      en: ""
+  - date: 10.02.2026, 13:30-14:30
+    place: "online"
+    further_info: "https://base4nfdi.de/?view=article&id=168:base4nfdi-demo-sessions&catid=2"
+    name:
+      de: "Demo-Session: DMP4NFDI"
+      en: "Demo-Session: DMP4NFDI"
     event:
       de: ""
       en: ""
