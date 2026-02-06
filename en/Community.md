@@ -25,7 +25,7 @@ RDMO's way from a DFG project to a community with established structures is retr
 
 The technical coordination and further development of RDMO is organised by a development group (EG). In addition to a core of long-term committed developers, who continuously drive the development forward, a low-threshold participation of a larger number of developers is desired and possible. These can, for example, contribute to development on a project-specific basis.
 <br/>
-The development group ist contactable via: [Slack](https://rdmo.slack.com/archives/CFRAZJ9LG)
+The development group ist contactable via: [Matrix](https://matrix.to/#/#rdmo:matrix.org)
 
 {% for member in site.data.sw-group.current %}
 {% include persons.html %}
@@ -35,7 +35,7 @@ The development group ist contactable via: [Slack](https://rdmo.slack.com/archiv
 
 The content group (CG) consists of volunteers who drive the content coordination and further development of RDMO. A low-threshold participation of a larger number of volunteers is desired and possible. They can, for example, contribute to the development of the project. The focus of their work is the maintenance and controlled merging of existing and newly generated content such as attributes or questions for catalog templates. A moderation and support of the individual processes as well as domain adaptations will take place. The CG collects user feedback and checks the general usability against the background of user feedback.
 <br/>
-The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Slack](https://rdmo.slack.com/archives/C8B6VCKJ9)
+The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Matrix](https://matrix.to/#/#rdmo:matrix.org)
 {% for member in site.data.cg-group.current %}
 {% include persons.html %}
 {% endfor %}
