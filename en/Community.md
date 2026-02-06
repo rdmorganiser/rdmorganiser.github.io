@@ -42,7 +42,7 @@ The content group is contactable via: [E-Mail](mailto:rdmo-contentgruppe@listser
 
 ## Ad Hoc Groups
 
-For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Steering Group. The general meeting decides on the continuation of the ad-hoc groups.
+For special tasks and questions, further working groups can be formed from among the members at any time. They are coordinated by the Board. The general meeting decides on the continuation of the ad-hoc groups.
 
 ## Former community members
 

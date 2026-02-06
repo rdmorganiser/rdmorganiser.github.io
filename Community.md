@@ -47,7 +47,7 @@ So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.
 
 ## Ad-Hoc-Gruppen
 
-Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit der Steuerungsgruppe abgestimmt werden.
+Für spezielle Aufgaben und Fragestellungen können aus dem Kreis der Mitglieder jederzeit weitere Arbeitsgruppen gebildet werden, die mit dem Vorstand abgestimmt werden.
 Über die Weiterführung der Ad-Hoc-Gruppen entscheidet die Mitgliederversammlung.
 
 
