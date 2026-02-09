@@ -81,6 +81,15 @@ current:
     event:
       de: ""
       en: ""
+  - date: 11.02.2026, 14:00-15:00
+    place: "online"
+    further_info: "https://www.bibliothek.kit.edu/veranstaltungskalender.php/event/59309#calendar_top"
+    name:
+      de: "Love your data = Plan and design your data management"
+      en: "Love your data = Plan and design your data management"
+    event:
+      de: ""
+      en: ""
   - date: 12.02.2026, 10:00-10:30
     place: "online"
     further_info: "https://nfdi4ing.de/nfdi4ing-love-data-week-26/"
