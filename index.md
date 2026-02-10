@@ -18,7 +18,7 @@ Hier können Sie sich für unsere Mailingliste anmelden, um immer auf dem letzte
 
 Hier können Sie sich zur Mailingliste der Contentgruppe, um bei der Weiterentwicklung vom Katalogen und weiteres Materials beizutragen - keine Programmierkenntnisse erforderlich! [rdmo-contentgruppe@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo-contentgruppe)
 
-Hier können Sie sich in unserer Gruppenchat anmelden, für Zusammenarbeit und Troubleshooting: [RDMO-Matrix](https://matrix.to/#/#rdmo:matrix.org)
+Hier können Sie sich für unseren Gruppenchat anmelden, für Zusammenarbeit und Troubleshooting: [RDMO-Matrix](https://matrix.to/#/#rdmo:matrix.org)
 
 <div style="width: 35%;margin-top: 1%;">
 <h2>Was ist RDMO?</h2>

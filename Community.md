@@ -26,7 +26,7 @@ RDMOs Weg vom Drittmittelprojekt zur Community mit institutionalisierten Struktu
 Die technische Koordination und Weiterentwicklung von RDMO erfolgt durch eine Entwicklungsgruppe (EG). Neben einem Kern von langfristig engagierten
 Entwickler\*innen, die die Entwicklung kontinuierlich vorantreiben, ist auch eine niedrigschwellige Beteiligung einer größeren Anzahl von Entwickler\*innen wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
 
-So erreichen Sie die Entwicklungsgruppe: [Matrix](https://matrix.to/#/#rdmo:matrix.org)
+So erreichen Sie die Entwicklungsgruppe: [Matrix](https://matrix.to/#/!TkuaqRhEvKlDopwKNP:matrix.org)
 
 {% for member in site.data.sw-group.current %}
 {% include persons.html %}
@@ -38,7 +38,7 @@ So erreichen Sie die Entwicklungsgruppe: [Matrix](https://matrix.to/#/#rdmo:matr
 Die Contentgruppe (CG) setzt sich aus Freiwilligen zusammen, die die inhaltliche Koordination und Weiterentwicklung von RDMO vorantreiben. Eine niedrigschwellige Beteiligung einer größeren Anzahl von Freiwilligen ist wünschenswert und möglich. Diese können z. B. projektgebunden zur Entwicklung beitragen.
 Im Fokus der Arbeit stehen die Pflege und die kontrollierte Zusammenführung bestehender und neu generierter Inhalte wie beispielsweise Attribute oder Fragenkatalog-Templates. Es erfolgt eine Moderation und Begleitung der einzelnen Prozesse sowie Domänen-Anpassungen. Die CG dient dazu User Feedback einzusammeln und die allgemeine Usability vor dem Hintergrund des Feedbacks zu prüfen und ggf. zu verbessern.
 
-So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Matrix](https://matrix.to/#/#rdmo:matrix.org)
+So erreichen Sie die Contentgruppe: [E-Mail](mailto:rdmo-contentgruppe@listserv.dfn.de), [Matrix](https://matrix.to/#/!CKcQDXWbFhOGAWySvv:matrix.org)
 
 {% for member in site.data.cg-group.current %}
 {% include persons.html %}
