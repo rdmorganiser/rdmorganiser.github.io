@@ -20,6 +20,8 @@ Hier können Sie sich zur Mailingliste der Contentgruppe, um bei der Weiterentwi
 
 Hier können Sie sich für unseren Gruppenchat anmelden, für Zusammenarbeit und Troubleshooting: [RDMO-Matrix](https://matrix.to/#/#rdmo:matrix.org)
 
+Wenn Sie lediglich Support brauchen, können Sie uns per [E-Mail](mailto:rdmo-support@listserv.dfn.de) oder auf dem dedizierten [Matrix-Kanal](https://matrix.to/#/!IbUclBYgtlGwfEyCdJ:matrix.org) kontaktieren.
+
 <div style="width: 35%;margin-top: 1%;">
 <h2>Was ist RDMO?</h2>
 Der Research Data Management Organiser (RDMO) unterstützt Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben des Forschungsdatenmanagements.
