@@ -11,9 +11,9 @@ ff() {
 
 val() {
   for el in $(ff "${1}"); do
-    dasel -f "${el}" >/dev/null 2>&1 || {
+    cat "${el}" | dasel -i yaml >/dev/null 2>&1 || {
       echo -e "\n[error] invalid file: ${el}"
-      dasel -f "${el}"
+      cat "${el}" | dasel -i yaml
       echo ""
       x=1
     }
