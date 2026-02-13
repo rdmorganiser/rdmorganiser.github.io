@@ -470,3 +470,27 @@
   lat: 45.014953
   lon: 7.637828
   color: gray
+
+- name: NFDI4Culture
+  url: https://rdmo.nfdi4culture.de/
+  contact: NFDI4Culture Helpdesk 
+  mail: https://nfdi4culture.de/de/helpdesk.html
+  # lat: 
+  # lon: 
+  color: blue
+
+- name: NFDI4Chem
+  url: https://rdmo.nfdi4chem.de/
+  contact: NFDI4Chem Helpdesk 
+  mail: mailto:helpdesk@nfdi4chem.de
+  # lat: 
+  # lon: 
+  color: blue
+
+- name: NFDI4ING
+  url: https://rdmo.nfdi4chem.de/
+  contact: NFDI4ING
+  mail: mailto:rdmo@nfdi4ing.de
+  # lat: 
+  # lon: 
+  color: blue
