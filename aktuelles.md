@@ -11,8 +11,8 @@ key: news
 2. [Reguläre RDMO-Videokonferenz-Termine](#regul%C3%A4re-rdmo-videokonferenz-termine)
 <!--- mdtoc: toc end -->
 
-Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), oder diskutieren mit uns auf [Slack](https://rdmo.slack.com).  
-(Schreiben Sie eine E-Mail an uns: [rdmo-team@listserv.dfn.de](mailto:rdmo-team@listserv.dfn.de) und wir laden Sie zu Slack ein.)
+Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. Um immer auf dem neuesten Stand zu bleiben, abonnieren Sie unsere Mailingliste [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/info/rdmo), oder diskutieren mit uns auf [Matrix](https://matrix.to/#/#rdmo:matrix.org).  
+(Schreiben Sie eine E-Mail an uns: [rdmo-team@listserv.dfn.de](mailto:rdmo-team@listserv.dfn.de) und wir laden Sie zu Matrix ein.)
 
 ## Ankündigungen
 
