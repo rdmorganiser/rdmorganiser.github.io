@@ -6,6 +6,16 @@
     de: "RDMO e.V. Mitgliederversammlung"
     en: "RDMO e.V. General Assembly"
   event:
+    de: "Die Mitgliederversammlung findet im Anschluß an das 15. Community-Treffen statt."
+    en: "The General Assembly will take place following the 15th community meeting. "
+
+- date: "24.03.2026"
+  place: "online"
+  further_info: ""
+  name:
+    de: "15. RDMO-Community-Treffen"
+    en: "15th RDMO Community Meeting"
+  event:
     de: ""
     en: ""
 
