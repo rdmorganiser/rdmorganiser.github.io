@@ -494,3 +494,11 @@
   # lat: 
   # lon: 
   color: blue
+
+- name: DMP4NFDI
+  url: https://rdmo-test.dmp4nfdi.ulb.tu-darmstadt.de/
+  contact: DMP4NFDI
+  mail: mailto:dmp4nfdi@lists.nfdi.de
+  # lat: 
+  # lon: 
+  color: gray
