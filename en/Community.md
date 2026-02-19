@@ -13,6 +13,27 @@ Institutions with legal capacity can become members of the association.
 
 RDMO's way from a DFG project to a community with established structures is retraced in the presentation [10 Jahre RDMO - Der Research Data Management Organiser als Software und Community](https://opus4.kobv.de/opus4-bib-info/files/19811/BiblioCon-10-Jahre-RDMO.pdf) (in German).
 
+## Articles of Association
+The [founding articles of association]({{ site.baseurl }}/docs/Beschlossenen_Satzung für den Verein _RDMO. Research Data Management Organiser.pdf) were adopted at the founding meeting on 23th November 2024. The [current version]({{ site.baseurl }}/docs/Fassung_Satzung für den Verein _RDMO. Research Data Management Organiser_Beschluss_13-11-2025.pdf) was passed by the full assembly on the 13th of November 2025.
+
+## Become a Member
+
+Institutions with legal capacity can become members of the association. To do so, please send the completed membership application form to the RDMO office:
+
+<address>
+RDMO. Research Data Management Organiser e.V.<br>
+c/o Universitäts- und Landesbibliothek Darmstadt<br>
+Magdalenenstraße 8 <br>
+64289 Darmstadt<br>
+rdmo-contact@listserv.dfn.de<br>
+</address><br>
+
+The membership fee levels follow the association's membership fee regulations. Prospective members classify themselves when joining. 
+
+**Documents:**
+* [Membership Application Form]({{ site.baseurl }}/docs/Antrag auf Mitgliedschaft.pdf) (in German only)
+* [Membership Fee Regulations]({{ site.baseurl }}/docs/Beschlossene_Beitragsordnung für den Verein _RDMO. Research Data Management Organiser.pdf)(in German only)
+
 ## Board of RDMO e.V.
 
 {% for member in site.data.sg-group.current %}
