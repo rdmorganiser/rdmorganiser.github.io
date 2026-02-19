@@ -26,7 +26,7 @@ c/o Universitäts- und Landesbibliothek Darmstadt<br>
 Magdalenenstraße 8 <br>
 64289 Darmstadt<br>
 rdmo-contact@listserv.dfn.de<br>
-</address><br>
+</address>
 
 The membership fee levels follow the association's membership fee regulations. Prospective members classify themselves when joining. 
 
