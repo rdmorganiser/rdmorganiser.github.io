@@ -32,7 +32,7 @@ The membership fee levels follow the association's membership fee regulations. P
 
 **Documents:**
 * [Membership Application Form]({{ site.baseurl }}/docs/Antrag auf Mitgliedschaft.pdf) (in German only)
-* [Membership Fee Regulations]({{ site.baseurl }}/docs/Beschlossene_Beitragsordnung für den Verein _RDMO. Research Data Management Organiser.pdf)(in German only)
+* [Membership Fee Regulations]({{ site.baseurl }}/docs/Beschlossene_Beitragsordnung für den Verein _RDMO. Research Data Management Organiser.pdf) (in German only)
 
 ## Board of RDMO e.V.
 
