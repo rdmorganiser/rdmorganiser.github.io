@@ -14,9 +14,7 @@ Rechtsfähige Institutionen können Mitglieder im Verein werden.
 RDMOs Weg vom Drittmittelprojekt zur Community mit institutionalisierten Strukturen wird in dem Vortrag [10 Jahre RDMO - Der Research Data Management Organiser als Software und Community](https://opus4.kobv.de/opus4-bib-info/files/19811/BiblioCon-10-Jahre-RDMO.pdf) dargestellt.
 
 ## Satzung des Vereins
-Die [Gründungssatzung]({{ site.baseurl }}/docs/Beschlossenen_Satzung für den Verein _RDMO. Research Data Management Organiser.pdf) wurde am 23.11.2024 auf der Gründungsversammlung beschlossen.
-
-Die[aktuelle Version]({{ site.baseurl }}/docs/Fassung_Satzung für den Verein _RDMO. Research Data Management Organiser_Beschluss_13-11-2025.pdf) der Satzung wurde am 13.11.2026 von der Mitgliederversammlung beschlossen.  
+Die [Gründungssatzung]({{ site.baseurl }}/docs/Beschlossenen_Satzung für den Verein _RDMO. Research Data Management Organiser.pdf) wurde am 23.11.2024 auf der Gründungsversammlung beschlossen. Die [aktuelle Version]({{ site.baseurl }}/docs/Fassung_Satzung für den Verein _RDMO. Research Data Management Organiser_Beschluss_13-11-2025.pdf) der Satzung wurde am 13.11.2026 von der Mitgliederversammlung beschlossen.  
 
 ## Mitglied werden
 Rechtsfähige Institutionen können Mitglieder im Verein werden. Dazu übersenden Sie bitte den vollständig ausgefüllten Mitgliedsantrag an die Geschäftstelle:
