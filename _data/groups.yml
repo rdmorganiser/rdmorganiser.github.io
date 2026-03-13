@@ -71,6 +71,18 @@ current:
   leader: Sarah Wettermann, Jürgen Rohrwild
   leader_mail: mailto:sawetter@uni-mainz.de
 
+- wg:         
+  name_de: UAG Öffentlichkeitsarbeit/ Social Media
+  name_en: UAG Public Relations/ Social Media
+  content_de1: Planung und Redaktion Social Media
+  content_de2: offen, Teilnahme jederzeit möglich
+  content_en1: Social media planning and content creation
+  content_en2: open, participation possible
+  date_de: am 3. Donnerstag im Monat (15:00-16:00)
+  date_en: on the 3rd Thursday of the month (15:00-16:00)
+  leader: Isabel Hohle, Martin Spenger
+  leader_mail: mailto:isabel.hohle@tu-darmstadt.de
+
 former:
 - wg:
   name_de: UAG Ansichten
