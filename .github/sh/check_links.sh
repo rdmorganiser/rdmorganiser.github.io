@@ -7,7 +7,6 @@ muffet --rate-limit 4 -t 300 -b 16384 --skip-tls-verification \
   -e "\.(mkv|mp4|mpg|pdf)$" \
   -e "#" \
   -e "rdmo.*.de" \
-  -e "twitter" \
   -e "www.ub.uni-rostock.de" \
   -e "www.ub.uni-potsdam.de" \
   https://rdmorganiser.github.io
