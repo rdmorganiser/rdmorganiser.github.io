@@ -13,9 +13,9 @@ class: center, middle
 
 # Research Data Management Organiser
 
-[rdmorganiser.github.io](https://rdmorganiser.github.io)
+Website: [rdmorganiser.github.io](https://rdmorganiser.github.io)
 
-[@rdmorganiser](https://twitter.com/rdmorganiser)
+Mastodon: [@rdmo](https://openbiblio.social/@rdmo)
 
 ---
 
@@ -631,15 +631,15 @@ table {
     </td>
   </tr>
   <tr>
-    <td>Twitter:</td>
+    <td>Mastodon:</td>
     <td>
-      <a href="https://twitter.com/rdmorganiser">@rdmorganiser</a>
+      <a href="https://openbiblio.social/@rdmo">@rdmo</a>
     </td>
   </tr>
   <tr>
-    <td>Slack:</td>
+    <td>Matrix:</td>
     <td>
-      <a href="https://rdmo.slack.com">rdmo.slack.com</a>
+      <a href="https://matrix.to/#/#rdmo:matrix.org">#rdmo:matrix.org</a>
     </td>
   </tr>
   <tr>
