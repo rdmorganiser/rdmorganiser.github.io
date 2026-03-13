@@ -16,7 +16,9 @@ Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. 
 
 ## Ankündigungen
 
-Anlässlich der diesjährigen [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/) (9.-13. Februar) befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:
+15.RDMO Community Meeting & Mitgliederversammlung – 24. März 2026, 10–12 Uhr (virtuell)
+Der Vorstand des RDMO e.V. und der Release Manager berichten über aktuelle Entwicklungen und Neuigkeiten. Zudem präsentieren die RDMO-Arbeitsgruppen und Mitglieder der Community ihre Projekte. Im Anschluss (ab ca. 12 Uhr) findet die Mitgliederversammlung des RDMO e.V. statt – exklusiv für Vereinsmitglieder.
+Sie möchten am Community Meeting teilnehmen? Melden Sie sich gerne bei der Geschäftsstelle des RDMO e.V. unter contact@rdmo.org
 
 {% include announcements.html %}
 
