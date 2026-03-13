@@ -111,13 +111,6 @@
   lon: 9.507359
   color: blue
 
-- name: Nationale Forschungsdateninfrastruktur für die Ingenieurwissenschaften
-  url: https://rdmo.nfdi4ing.de/
-  contact: Jürgen Windeck, David Wallace
-  mail: mailto:rdmo@nfdi4ing.de
-  lat: 49.861429
-  lon: 8.680805
-  color: blue
 
 - name: Physikalisch-Technische Bundesanstalt (PTB)
   url: https://dmp.metrology-rdm.eu/
@@ -446,14 +439,6 @@
   lat: 51.028446
   lon: 13.733930
   color: blue
-
-- name: Nationale Forschungsdateninfrastruktur für die Chemie
-  url: https://rdmo.nfdi4chem.de/
-  contact: Ann-Christin Andres, Daniela Hausen
-  mail: mailto:rdmo@nfdi4chem.de
-  lat: 49.861429
-  lon: 8.680805
-  color: gray
 
 - name: International Center of Insect Physiology and Ecology (ICIPE)
   url: https://dmmg-dmp.icipe.org/
