@@ -447,7 +447,7 @@ Vielen Dank für die Aufmerksamkeit
 
 [https://rdmorganiser.github.io/talks/bbk](https://rdmorganiser.github.io/talks/bbk)
 
-jklar@aip.de, [@jochenklar](https://chaos.social/web/@jochenklar)
+[mail@jochenklar.de](mailto:mail@jochenklar.de), [@jochenklar](https://chaos.social/web/@jochenklar)
 
 ---
 
