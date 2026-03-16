@@ -16,10 +16,6 @@ Auf dieser Seite fassen wir komprimiert unsere aktuellen Aktivitäten zusammen. 
 
 ## Ankündigungen
 
-15.RDMO Community Meeting & Mitgliederversammlung – 24. März 2026, 10–12 Uhr (virtuell)
-Der Vorstand des RDMO e.V. und der Release Manager berichten über aktuelle Entwicklungen und Neuigkeiten. Zudem präsentieren die RDMO-Arbeitsgruppen und Mitglieder der Community ihre Projekte. Im Anschluss (ab ca. 12 Uhr) findet die Mitgliederversammlung des RDMO e.V. statt – exklusiv für Vereinsmitglieder.
-Sie möchten am Community Meeting teilnehmen? Melden Sie sich gerne bei der Geschäftsstelle des RDMO e.V. unter contact@rdmo.org
-
 {% include announcements.html %}
 
 Die [Arbeitsgemeinschaft RDMO]({{ site.baseurl }}/Community) hat sich mit der Veranstaltung am 07.10.2020 konstituiert. Sie ruft die Anwender von RDMO auf, sich auf der Grundlage des [Memorandum of Understanding (MoU)]({{ site.baseurl}}/docs/Memorandum-of-Understanding-RDMO.pdf) an der Weiterarbeit zu beteiligen. Für die Verbindungsinformation zu den Workshops und regulären Terminen bitte die RDMO-Arbeitsgemeinschaft oder die jeweiligen Verantwortlichen kontaktieren. Interessierte sind herzlich willkommen.

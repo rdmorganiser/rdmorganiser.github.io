@@ -16,9 +16,26 @@
     de: "15. RDMO-Community-Treffen"
     en: "15th RDMO Community Meeting"
   event:
-    de: "Der Vorstand des RDMO e.V. und der Release Manager berichten über aktuelle Entwicklungen und Neuigkeiten. Zudem präsentieren die RDMO-Arbeitsgruppen und Mitglieder der Community ihre Projekte. Im Anschluss (ab ca. 12 Uhr) findet die Mitgliederversammlung des RDMO e.V. statt – exklusiv für Vereinsmitglieder. Sie möchten am Community Meeting teilnehmen? Melden Sie sich gerne bei der Geschäftsstelle des RDMO e.V. unter contact@rdmo.org"
-    en: "The RDMO e.V. Executive Board and the Release Manager will report on current developments and news. In addition, the RDMO working groups and members of the community will present their projects. This will be followed (from around 12 noon) by the RDMO e.V. General Meeting – exclusively for association members. Would you like to attend the Community Meeting? Please feel free to contact the RDMO e.V. office at contact@rdmo.org"
+    de: "Der Vorstand des RDMO e.V. und der Release Manager berichten über aktuelle Entwicklungen und Neuigkeiten.
+    Zudem präsentieren die RDMO-Arbeitsgruppen und Mitglieder der Community ihre Projekte.
+    Im Anschluss (ab ca. 12 Uhr) findet die Mitgliederversammlung des RDMO e.V. statt – exklusiv für Vereinsmitglieder.
+    Sie möchten am Community Meeting teilnehmen? Melden Sie sich gerne bei der Geschäftsstelle des RDMO e.V. unter contact@rdmo.org"
+    en: "The RDMO e.V. Executive Board and the Release Manager will report on current developments and news.
+    In addition, the RDMO working groups and members of the community will present their projects.
+    This will be followed (from around 12 noon) by the RDMO e.V. General Meeting – exclusively for association members.
+    Would you like to attend the Community Meeting? Please feel free to contact the RDMO e.V. office at contact@rdmo.org"
 
+- date: "09.-13.02.2026"
+  place: "online"
+  further_info: "https://github.com/rdmorganiser/rdmorganiser.github.io/blob/master/_data/events/LoveDataWeek%202026%20-%20DMPs%20und%20RDMO.pdf"
+  name:
+    de: "Love Data Week 2026"
+    en: "Love Data Week 2026"
+  event:
+    de: "Anlässlich der diesjährigen [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/)
+    (9.-13. Februar) befassen sich zahlreiche Vorträge mit RDMO und Datenmanagementplänen. Wir haben hier eine Übersicht zusammengestellt:"
+    en: "In concomitance with the soon coming [**Love Data Week 2026**](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2026/)
+    (9th-13th February) many talks are being offered around RDMO and data management plans. We have put together an overview:"
 
 
 #- date: ""
