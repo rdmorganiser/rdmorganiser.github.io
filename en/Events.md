@@ -41,7 +41,7 @@ key: old_news
 
 # Events, lectures and announcements
 
-So that we can stay up to date, please send us information about new events and publications to <a href="mailto:mail@jochenklar.de">Jochen Klar</a> or <a href="mailto:schoenau@ ub.rwth-aachen.de">Sabine Schönau</a> or make a pull request.
+So that we can stay up to date, please send us information about new events and publications to [Jochen Klar](mailto:mail@jochenklar.de) or [Sabine Schönau](mailto:contact@rdmo.org) or [make a pull request](https://github.com/rdmorganiser/rdmorganiser.github.io/pulls).
 
 ## Workshops and meetings:
 
