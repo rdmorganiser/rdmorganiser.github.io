@@ -239,4 +239,4 @@ sustainable data management
 --
 
 * Slides: [https://rdmorganiser.github.io/talks/egu2017](https://rdmorganiser.github.io/talks/egu2017)
-* Contact: jklar@aip.de, [@jochenklar](https://twitter.com/jochenklar)
+* Contact: [mail@jochenklar.de](mailto:mail@jochenklar.de), [@jochenklar](https://chaos.social/web/@jochenklar)

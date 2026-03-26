@@ -395,7 +395,7 @@ Zusammenarbeit
 
 * Mailingliste: DMPW@LISTSERV.DFN.DE
 * GitHub Issues: [github.com/rdmorganiser/rdmo/issues](https://github.com/rdmorganiser/rdmo/issues)
-* Slack: [rdmo.slack.com](https://rdmo.slack.com)
+* Matrix: [#rdmo:matrix.org](https://matrix.to/#/#rdmo:matrix.org)
 
 
 * Demo: [rdmo.aip.de](https://rdmo.aip.de)
@@ -447,7 +447,7 @@ Vielen Dank für die Aufmerksamkeit
 
 [https://rdmorganiser.github.io/talks/bbk](https://rdmorganiser.github.io/talks/bbk)
 
-jklar@aip.de, [@jochenklar](https://twitter.com/jochenklar)
+[mail@jochenklar.de](mailto:mail@jochenklar.de), [@jochenklar](https://chaos.social/web/@jochenklar)
 
 ---
 
