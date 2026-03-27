@@ -38,7 +38,7 @@ Es werden zu diesem Zweck folgende Daten eines Nutzers erhoben und in der betref
 
 Name, Vorname, E-Mailadresse, Institutszugehörigkeit (Institut / Organisation), Account name (Shibboleth ID, LDAP ID)
 
-Falls der Betreiber eine Authentisierung durch ORCID, Google, Facebook, Twitter, Github zulässt, wird bei Nutzung dieser Authentisierung die Möglichkeit der Registrierung dieser Verbindung zu RDMO bei den verschiedenen genutzten Diensten gegeben. 
+Falls der Betreiber eine Authentisierung durch ORCID, Google, Github zulässt, wird bei Nutzung dieser Authentisierung die Möglichkeit der Registrierung dieser Verbindung zu RDMO bei den verschiedenen genutzten Diensten gegeben. 
 
 Eine andere Variante der Authentisierung ist durch Verwendung von Shibboleth oder LDAP möglich, hier werden die Nutzerdaten (s.o.) aus der Shibboleth- oder LDAP-Umgebung zur Verfügung gestellt. Die Nutzung von LDAP und Shibboleth muss durch die Datenschutzprozesse der Betreiber abgesichert sein.
   

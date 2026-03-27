@@ -33,7 +33,7 @@ Template for your **terms of use**:
 <b>1) RDMO services</b><br/> 
 RDMO requires user accounts. For this purpose, the following user data is collected and stored by the RDMO service:
 Name, First name, Email address, Affiliation (Institute / Organisation), Account name ( || Shibboleth ID || LDAP ID)
-If the RDMO service allows for authentication via ORCID, Google, Facebook, Twitter, Github, this will expose the connection to RDMO to the selected Third Party authentication service.
+If the RDMO service allows for authentication via ORCID, Google, Github, this will expose the connection to RDMO to the selected Third Party authentication service.
 If an institution or collaboration uses Shibboleth or LDAP as authentication method, the user data are provided by Shibboleth or LDAP service and their use is covered by the Terms of Use of these services. 
 RDMO user profile data are used exclusively for RDMO purposes and within the realm of the operating institution or collaboration.   
 The usage of RDMO user data has to be made plain to the user in a "Terms of Use" declaration when creating an account. The user needs to document her/his consent. RDMO provides technical support for this purpose.
