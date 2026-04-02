@@ -156,7 +156,7 @@ RDMO_development:
     uri: http://www.forschungsdaten.org/images/2/27/07--klar--anforderungen-tool.pdf
 
 RDMO_implementation:
- - publication:
+  - publication:
     type: Journal Article
     date: 01.04.2026
     title: Parent Projects in RDMO: How Hierarchies in the 
