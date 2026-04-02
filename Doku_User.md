@@ -52,7 +52,7 @@ RDMO ist unter [rdmo.readthedocs.io](http://rdmo.readthedocs.io/en/latest) auf E
 <video poster="{{ site.baseurl}}/img/promo/videos/fragenkatalog_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
 <source src="{{ site.baseurl}}/img/promo/videos/fragenkatalog_v2.mp4">Your browser does not support the video tag.</video>
 <br>
-<img src="{{ site.baseurl}}/img/team/Oster_Ei.png" alt="RDMOsterei" width="50" style="float: left">
+<img src="{{ site.baseurl}}/img/team/Oster_Ei.png" alt="RDMOsterei" width="25" style="float: right">
 <br>
 <p style="margin-left:25%;">Was kann man mit RDMO machen? (<a href="{{ site.baseurl }}/img/promo/videos/rdmo-erklaert_v4.mp4">Video-Download</a>)</p>
 <video poster="{{ site.baseurl}}/img/promo/videos/rdmo-erklaert_frame.jpg" controls="controls" style="width: 50%; margin-left:25%;">
