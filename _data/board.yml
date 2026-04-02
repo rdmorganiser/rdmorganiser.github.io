@@ -34,7 +34,7 @@ current:
     en: "(Secretary) is research data management officer at the [University Library Erlangen-Nürnberg](https://www.ub.fau.de) and a member of the [FAU Competence Unit for Research Data and Information (CDI)](https://cdi.fau.de). He is in charge of the [RDMO instance of Friedrich-Alexander-Universität Erlangen-Nürnberg](https://rdmo.ub.fau.de)."
   image: img/team/Rohrwild.jpg
 
-  - name: Oster Ei
+- name: Oster Ei
   orcid: 0013-0013-0013-0013
   text:
     de: "(Maskottchen) wird im Oster-Rätsel zu RDMOstern gesucht."
