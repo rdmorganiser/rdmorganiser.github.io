@@ -140,7 +140,7 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
                         {% if location.color == "blue" %}
                             <img src="./img/icons/marker-icon-blue.png" />
                         {% elif location.color == "ei" %}
-                            <img src="./img/team/Oster_Ei.png" height="10" />
+                            <img src="./img/team/Oster_Ei.png"  />
                         {% else %}
                             <img src="./img/icons/marker-icon-grey.png" />
                         {% endif %}
