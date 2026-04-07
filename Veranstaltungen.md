@@ -41,7 +41,7 @@ key: old_news
 
 # Veranstaltungen, Vorträge und Bekanntmachungen
 
-Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informationen zu neuen Veranstaltungen und Publikationen an [Jochen Klar](mailto:mail@jochenklar.de) oder [Sabine Schönau](mailto:contact@rdmo.org) oder [machen Sie einen Pull Request](https://github.com/rdmorganiser/rdmorganiser.github.io/pulls).
+Damit wir auf dem neuesten Stand bleiben können, schicken Sie uns bitte Informationen zu neuen Veranstaltungen und Publikationen an [Jochen Klar](mailto:mail@jochenklar.de) oder die [Geschäftsstelle des RDMO e.V.](mailto:contact@rdmo.org) oder [machen Sie einen Pull Request](https://github.com/rdmorganiser/rdmorganiser.github.io/pulls).
 
 ## Workshops und Treffen
 
