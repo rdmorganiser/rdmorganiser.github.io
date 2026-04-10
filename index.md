@@ -164,7 +164,3 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
         init_table();
     });
 </script>
-
-<div>
-    <img src="{{ site.baseurl}}/img/team/Oster_Ei.png" alt="RDMOsterei" width="25" style="float: right">
-</div>
