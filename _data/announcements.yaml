@@ -1,17 +1,11 @@
 ---
 current:
-  - date: 24.03.2026, 10:00-12:00
-    place: "online"
-    further_info: "https://rdmorganiser.github.io/Veranstaltungen/"
+  - date: 28.05.2026, 10:00 Uhr - 29.05.2026, 14:00 Uhr
+    place: "Universität Bremen"
+    further_info: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2026"
     name:
-      de: "15. RDMO Community Treffen"
-      en: "15. RDMO Community Meeting"
+      de: "RDMO Hackathon 2026"
+      en: "RDMO Hackathon 2026"
     event:
-      de: "Der Vorstand des RDMO e.V. und der Release Manager berichten über aktuelle Entwicklungen und Neuigkeiten.
-      Zudem präsentieren die RDMO-Arbeitsgruppen und Mitglieder der Community ihre Projekte.
-      Im Anschluss (ab ca. 12 Uhr) findet die Mitgliederversammlung des RDMO e.V. statt – exklusiv für Vereinsmitglieder.
-      Sie möchten am Community Meeting teilnehmen? Melden Sie sich gerne bei der Geschäftsstelle des RDMO e.V. unter contact@rdmo.org"
-      en: "The RDMO e.V. Executive Board and the Release Manager will report on current developments and news.
-      In addition, the RDMO working groups and members of the community will present their projects.
-      This will be followed (from around 12 noon) by the RDMO e.V. General Meeting – exclusively for association members.
-      Would you like to attend the Community Meeting? Please feel free to contact the RDMO e.V. office at contact@rdmo.org"
+      de: "Der diesjährige RDMO Hackathon findet an der Universität Bremen statt und wird von der GFBio ausgerichtet. Eine Anmeldung ist bis zum 22.5.2026 möglich: https://events.gfbio.org/e/rdmo-hackathon-2026  "
+      en: "The RDMO Hackathon 2026 takes place at the University of Bremen, hosted by the GFBio association. Registration is now open until May 22nd: https://events.gfbio.org/e/rdmo-hackathon-2026"
