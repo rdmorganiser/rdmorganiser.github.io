@@ -1,4 +1,14 @@
 ---
+- date: 28.05.2026, 10:00 Uhr - 29.05.2026, 14:00 Uhr
+  place: "Universität Bremen"
+  further_info: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2026"
+  name:
+    de: "RDMO Hackathon 2026"
+    en: "RDMO Hackathon 2026"
+  event:
+    de: "Der diesjährige RDMO Hackathon findet an der Universität Bremen statt und wird von der GFBio ausgerichtet. Eine Anmeldung ist bis zum 22.5.2026 möglich: https://events.gfbio.org/e/rdmo-hackathon-2026  "
+    en: "The RDMO Hackathon 2026 takes place at the University of Bremen, hosted by the GFBio association. Registration is now open until May 22nd: https://events.gfbio.org/e/rdmo-hackathon-2026"
+
 - date: "13.04.2026, 08:30-18:00 Uhr"
   place: " Landwehrstrasse 48a, 64293 Darmstadt"
   further_info: "https://2026.pycon.de/sprints/#rdmo-research-data-management-organiser"
@@ -6,8 +16,8 @@
     de: "RDMO Sprint während des Sprint Day at PyConDE & PyData Darmstadt 2026"
     en: "RDMO sprint during the Sprint Day at PyConDE & PyData Darmstadt 2026"
   event:
-    de: "Beschreibung: Der Research Data Management Organiser (RDMO) ist eine Webanwendung, die Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben im Bereich des Forschungsdatenmanagements unterstützt. Er bietet eine Plattform für die Zusammenarbeit von Forschergruppen mit geführten Interviews, um beispielsweise bei der Erfüllung der Anforderungen von Förderorganisationen zu helfen. RDMO ist ein Open-Source-Projekt, dessen Entwicklung im Jahr 2015 begann. Es basiert auf dem Django-Web-Framework und nutzt das Django REST Framework für die Bereitstellung seiner API sowie React als Frontend. Woran werden die Mitwirkenden während des Sprints arbeiten? Während des Sprints wollen wir das MCP-Protokoll für das RDMO-Backend untersuchen und implementieren, damit LLM-Dienste mit RDMO-Projekten zusammenarbeiten können. Wir werden verschiedene Ansätze oder Frameworks, die erforderlichen API-Endpunkte und die RDMO-Plugin-Architektur diskutieren. "
-    en: "Description: The Research Data Management Organiser (RDMO) is a web application supporting research projects in the planning, implementation and administration of all research data management tasks. It provides a collaborative platform for groups of researchers with guided interviews to support, for example, in complying with funding agencies‘ requirements. RDMO is an Open Source project that started its development in 2015. It is build upon the Django Web Framework and leverages the Django REST framework to provide its API, and implements React as frontend. What will contributors work on during the sprint? During the sprint we want to explore and implement the MCP Protocol for the RDMO backend to allow LLM services to work with RDMO projects. We will discuss different approaches or frameworks, the necessary API endpoints and RDMO plugin architecture."
+    de: "Der Research Data Management Organiser (RDMO) ist eine Webanwendung, die Forschungsprojekte bei der Planung, Umsetzung und Verwaltung aller Aufgaben im Bereich des Forschungsdatenmanagements unterstützt. Er bietet eine Plattform für die Zusammenarbeit von Forschergruppen mit geführten Interviews, um beispielsweise bei der Erfüllung der Anforderungen von Förderorganisationen zu helfen. RDMO ist ein Open-Source-Projekt, dessen Entwicklung im Jahr 2015 begann. Es basiert auf dem Django-Web-Framework und nutzt das Django REST Framework für die Bereitstellung seiner API sowie React als Frontend. Woran werden die Mitwirkenden während des Sprints arbeiten? Während des Sprints wollen wir das MCP-Protokoll für das RDMO-Backend untersuchen und implementieren, damit LLM-Dienste mit RDMO-Projekten zusammenarbeiten können. Wir werden verschiedene Ansätze oder Frameworks, die erforderlichen API-Endpunkte und die RDMO-Plugin-Architektur diskutieren. "
+    en: "The Research Data Management Organiser (RDMO) is a web application supporting research projects in the planning, implementation and administration of all research data management tasks. It provides a collaborative platform for groups of researchers with guided interviews to support, for example, in complying with funding agencies‘ requirements. RDMO is an Open Source project that started its development in 2015. It is build upon the Django Web Framework and leverages the Django REST framework to provide its API, and implements React as frontend. What will contributors work on during the sprint? During the sprint we want to explore and implement the MCP Protocol for the RDMO backend to allow LLM services to work with RDMO projects. We will discuss different approaches or frameworks, the necessary API endpoints and RDMO plugin architecture."
 
 - date: "24.03.2026, 12 Uhr"
   place: "online"
