@@ -1,29 +1,12 @@
 ---
 current:
-  - date: 28.05.2026, 10:00 Uhr - 29.05.2026, 14:00 Uhr
-    place: "Universität Bremen"
-    further_info: "https://www.forschungsdaten.org/index.php/RDMO_Hackathon_2026"
+  - date: TBD
+    place: "Virtuller Zoom-Workshop"
+    further_info: ""
     name:
-      de: "RDMO Hackathon 2026"
-      en: "RDMO Hackathon 2026"
+      de: "RDMO Winter Hackathon 2026"
+      en: "RDMO Winter Hackathon 2026"
     event:
-      de: "Der diesjährige RDMO Hackathon findet an der Universität Bremen statt und wird von der GFBio ausgerichtet. Eine Anmeldung ist bis zum 22.5.2026 möglich: https://events.gfbio.org/e/rdmo-hackathon-2026  "
-      en: "The RDMO Hackathon 2026 takes place at the University of Bremen, hosted by the GFBio association. Registration is now open until May 22nd: https://events.gfbio.org/e/rdmo-hackathon-2026"
-  - date: 22.05.2026, 11:30 Uhr - 22.05.2026, 12:00 Uhr
-    place: "Berlin, Bibliocon, Raum III/3"
-    further_info: "https://bibliocon2026.abstractserver.com/program/#/details/presentations/621"
-    name:
-      de: "Bibliocon 2026 Vortrag: Datenmanagementplanung als Baustein für FAIRe Daten – „RDMO as a Service“ für Hochschulen und Forschungseinrichtungen"
-      en: "Bibliocon 2026 Presentation: Datenmanagementplanung als Baustein für FAIRe Daten – „RDMO as a Service“ für Hochschulen und Forschungseinrichtungen"
-    event:
-      de: "Auf der 114. Bibliocon gibt es auch dieses Jahr wieder Vorträge um, mit oder über RDMO und den Einsatz im Forschungsdatenmanagement."
-      en: "At the 114th Bibliocon, there will once again be presentations on, with, or about RDMO and its use in research data management."
-  - date: 19.05.2026, 14:00 Uhr - 22.05.2026, 14:30 Uhr
-    place: "Berlin, Bibliocon, Raum III/3"
-    further_info: "https://bibliocon2026.abstractserver.com/program/#/details/presentations/245"
-    name:
-      de: "Bibliocon 2026 Vortrag: Ein Service für alle: MaRDMO macht mathematische Forschungsdaten auffindbar und nutzbar"
-      en: "Bibliocon 2026 Presentation: Ein Service für alle: MaRDMO macht mathematische Forschungsdaten auffindbar und nutzbar"
-    event:
-      de: "Auf der 114. Bibliocon gibt es auch dieses Jahr wieder Vorträge um, mit oder über RDMO und den Einsatz im Forschungsdatenmanagement."
-      en: "At the 114th Bibliocon, there will once again be presentations on, with, or about RDMO and its use in research data management."
+      de: "Auch in 2026 soll es einen virtuellen RDMO-Hackathon geben."
+      en: "There are plans to hold another virtual RDMO hackathon in 2026 as well."
+
