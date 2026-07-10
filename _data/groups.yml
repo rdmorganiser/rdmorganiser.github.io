@@ -36,19 +36,19 @@ current:
   leader_mail: mailto:kerstin.wedlich@kit.edu
 
 - wg:
-  name_de: UAG Redaktionsprozesse
+  name_de: UAG Redaktionsprozesse (& UAG Webseite)
   name_en: UAG editorial processes
   content_de1: Umsetzung beschlossener Änderungen inhaltlicher Art
   content_de2: offen, Teilnahme jederzeit möglich
   content_en1: Implementation of decided changes of content type
   content_en2: open, participation possible
-  date_de: am 1. Freitag im Monat (10:00-11:00)
-  date_en: on the 1st Friday of the month (10:00-11:00)
-  leader: Giacomo Lanza
-  leader_mail: mailto:giacomo.lanza@ptb.de
+  date_de: am 2. Freitag im Monat (10:00-11:00)
+  date_en: on the 2nd Friday of the month (10:00-11:00)
+  leader: Jürgen Rohrwild
+  leader_mail: mailto:juergen.rohrwild@fau.de
 
 - wg:
-  name_de: UAG Webseite
+  name_de: UAG Webseite (& UAG Redaktionsprozesse)
   name_en: UAG Website
   content_de1: Aktualisierung der offiziellen Website von RDMO
   content_de2: offen, Teilnahme jederzeit möglich
