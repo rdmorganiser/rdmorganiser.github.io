@@ -27,8 +27,8 @@ Publikationen von RDMO finden Sie auch auf der <a href="https://zenodo.org/commu
   {% endfor %}
   </ul>
 
-  <h2>DMP Tools</h2>
-  <p>Hier sind Publikationen über andere DMP-Werkzeuge.</p>
+  <h2>Handreichungen zu RDMO und Übersichten DMP Tools</h2>
+  <p>Hier sind Publikationen zu Handreichungen und Anleitungen zu RDMO sowie Übersichten über DMP tools aufgeführt.</p>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_Tools %}
   {% include publications.html %}
