@@ -311,15 +311,12 @@ RDMO_implementation:
 
 DMP_Tools:
   - publication:
-    type: Journal Article
-    date: 24.10.2023
-    title: "DataPLAN: A Web-Based Data Management Plan Generator
-      for the Plant Sciences"
-    authors: Xiao-Ran Zhou; Sebastian Beier; Dominik Brilhaus;
-      Cristina Martins Rodrigues; Timo Mühlhaus; Dirk von Suchodoletz;
-      Richard M. Twyman; Björn Usadel; Angela Kranz
-    doi: 10.3390/data8110159
-    uri: https://www.mdpi.com/2306-5729/8/11/159
+    type: Working paper
+    date: 12.2024
+    title: "Handreichung: RDMO - Kurzanleitung (H11)"
+    authors: Sanghmitra Banerjee, Karoline Herrmann
+    doi: https://doi.org/10.5281/zenodo.17191830
+    uri: https://zenodo.org/records/17191830
 
   - publication:
     type: Journal Article
@@ -337,15 +334,6 @@ DMP_Tools:
     authors: Kerstin Helbig; Thilo Paul-Stüve; Jessica Rex
     doi: 10.5281/ZENODO.4632308
     uri: https://zenodo.org/record/4632308
-  
-  - publication:
-    type: Journal Article
-    date: 13.07.2018
-    title: "Datenmanagementpläne leicht gemacht: TUB-DMP, das
-      Web-Tool der TU Berlin für Datenmanagementpläne, p. 47-60"
-    authors: Monika Kuberek; Fabian Fürste
-    doi: 10.5282/o-bib/2018H2S47-60
-    uri: https://www.o-bib.de/bib/article/view/5328
 
 DMP_SMP:
   - publication:
