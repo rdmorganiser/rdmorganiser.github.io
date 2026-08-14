@@ -1,6 +1,7 @@
 ---
-current_year: y2026
+current_year: ../announcements
 former_years:
+  - y2026
   - y2025
   - y2024
   - y2023
