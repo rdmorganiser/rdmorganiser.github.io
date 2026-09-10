@@ -1,13 +1,15 @@
 ---
-- date: "14.10.2026, 10:00-12:00 Uhr"
-  place: "virtuell, tbd"
-  further_info: "....."
+- date: "14.10.2026, 10:00-12:30 Uhr"
+  place: "virtuell via Zoom"
+  further_info: "https://tu-darmstadt.zoom.us/meeting/register/_H7KKLtpSF-rRAhZ_ofTbA#/registration"
   name:
     de: "16. RDMO-Community-Treffen"
     en: "16. RDMO-Community-Meeting"
   event:
-    de: "Save the Date! Am 14. Oktober findet das nächste RDMO-Community-Treffen statt. Beiträge können bis zum 10. Sepetmber an contact@rdmo.org eingereicht werden. Weitere Informationen folgen."
-    en: "Save the Date! The next RDMO community meeting will take place on October 14. Submissions can be sent to contact@rdmo.org by September 10. More information will follow."
+    de: "Am 14. Oktober findet das nächste RDMO-Community-Treffen statt. Nach einer kurzen Begrüßung berichten der Vorstand des RDMO e. V. und der Release-Manager über ihre Arbeit.
+        Ab ca. 10:40 Uhr folgen Beiträge aus der Community: Berichte aus den UAGs zu den Themen Redaktionsprozesse, Website (inkl. Relaunch) und Social Media, Vorstellung des DFG-Projekts zum „DAS-Tool”, Vorstellung des MAUS-Projekts, Präsentation des DMP4NFDI-Inkubators Coscine und RDMO sowie Updates und Berichte aus infra-dmp und DMP4NFDI."
+    en: "Following a brief welcome, the Executive Board of RDMO e. V. and the Release Manager will report on their work.
+        From around 10.40 am, there will be contributions from the community: Reports from the working groups on editorial processes, the website (including the relaunch) and social media; a presentation of the DFG project on the ‘DAS Tool’; a presentation of the MAUS project; a presentation of the DMP4NFDI incubator Coscine and RDMO; and updates and reports from infra-dmp and DMP4NFDI."
 
 - date: 28.05.2026, 10:00 Uhr - 29.05.2026, 14:00 Uhr
   place: "Universität Bremen"

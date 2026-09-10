@@ -1,22 +1,22 @@
 ---
 current:
-  - date: TBD
+  - date: 04.12.2026
     place: "via Zoom, tbd"
     further_info: ""
     name:
-      de: "RDMO Winter Hackathon 2026"
-      en: "RDMO Winter Hackathon 2026"
+      de: "Mini RDMO Ho Ho Winter Hackathon 2026"
+      en: "Mini RDMO Ho Ho Winter Hackathon 2026"
     event:
-      de: "Auch in 2026 soll es einen virtuellen RDMO-Hackathon geben."
-      en: "There are plans to hold another virtual RDMO hackathon in 2026 as well."
+      de: "Auch in diesem Jahr wird es wieder einen virtuellen Mini-RDMO-Hackathon geben. Am 4. Dezember von 10 bis 16 Uhr habt ihr wieder die Gelegenheit, gemeinsam an der Weiterentwicklung von RDMO zu arbeiten. Weitere Informationen folgen!"
+      en: "There will be another virtual Mini-RDMO hackathon this year. On 4 December, from 10 am to 4 pm, you’ll once again have the opportunity to work together on further developing RDMO. More information to follow!"
 
   - date: 14.10.2026
     place: "via Zoom"
-    further_info: ""
+    further_info: "https://rdmorganiser.github.io/Veranstaltungen/"
     name:
       de: "16. RDMO-Community-Treffen"
       en: "16. RDMO-Community-Meeting"
     event:
-      de: "Save the Date! Am 14. Oktober findet das nächste RDMO-Community-Treffen statt. Beiträge können bis zum 10. September an contact@rdmo.org eingereicht werden. Weitere Informationen folgen."
-      en: "Save the Date! The next RDMO community meeting will take place on October 14. Submissions can be sent to contact@rdmo.org by September 10. More information will follow."
+      de: "Am 14. Oktober, 10-12:30 Uhr, findet das nächste RDMO-Community-Treffen statt."
+      en: "The next RDMO community meeting will take place on October 14, 10-12:30."
 
