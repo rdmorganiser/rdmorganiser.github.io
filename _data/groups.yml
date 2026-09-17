@@ -36,7 +36,7 @@ current:
   leader_mail: mailto:kerstin.wedlich@kit.edu
 
 - wg:
-  name_de: UAG Redaktionsprozesse (& UAG Webseite)
+  name_de: UAG Redaktionsprozesse 
   name_en: UAG editorial processes
   content_de1: Umsetzung beschlossener Änderungen inhaltlicher Art
   content_de2: offen, Teilnahme jederzeit möglich
@@ -48,16 +48,16 @@ current:
   leader_mail: mailto:juergen.rohrwild@fau.de
 
 - wg:
-  name_de: UAG Webseite (& UAG Redaktionsprozesse)
-  name_en: UAG Website
-  content_de1: Aktualisierung der offiziellen Website von RDMO
+  name_de: UAG Website (und Website Relaunch)
+  name_en: UAG Website (and Website Relaunch)
+  content_de1: Aktualisierung der offiziellen Website von RDMO und Umsetzung Relaunch 
   content_de2: offen, Teilnahme jederzeit möglich
-  content_en1: Updating the official website of RDMO
+  content_en1: Updating the official website of RDMO and Implementation Relaunch Website
   content_en2: open, participation possible
-  date_de: am 2. Freitag im Monat (10:00-11:00)
-  date_en: on the 2nd Friday of the month (10:00-11:00)
-  leader: Sabine Schönau
-  leader_mail: mailto:schoenau@ub.rwth-aachen.de
+  date_de: Mittwochs, alle 3 Wochen (14:00-15:00)
+  date_en: On Wednesdays, every three weeks (14:00-15:00)
+  leader: Geschäftsstelle RDMO e.V., Isabel Hohle
+  leader_mail: mailto:contact@rdmo.org
 
 - wg:         
   name_de: UAG Attribute
