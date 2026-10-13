@@ -473,7 +473,7 @@
   color: blue
 
 - name: NFDI4ING
-  url: https://rdmo.nfdi4chem.de/
+  url: https://rdmo.nfdi4ing.de/
   contact: NFDI4ING
   mail: mailto:rdmo@nfdi4ing.de
   # lat: 
