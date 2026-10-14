@@ -41,6 +41,8 @@ Wir freuen uns auf Sie!
 Alle RDMO-Nutzende und Institutionen, die über eine eigene Instanz verfügen, können sich Rat und Unterstützung von der RDMO-Community holen.<br/>
 Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Feedback aus den Fachwissenschaften zu berücksichtigen, sowie den Austausch und die Abstimmung mit Infrastrukturinitiativen zum Datenmanagement sicherzustellen.
 
+<iframe src="https://karte.fau.de/api/v1/iframe/source/6a998d39cc296/layer/RRZE,RRZE.DE,Esri.WorldImagery,Bayern,Erlangen,Stamen.Toner,OpenTopoMap" width="100%" height="400" seamless style="border: 0; padding: 0; margin: 0; overflow: hidden;"></iframe>
+
 <link rel="stylesheet" href="./css/leaflet.css" />
 
 <script>
