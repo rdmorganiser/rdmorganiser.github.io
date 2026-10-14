@@ -320,6 +320,14 @@
   lon: 8.241576657265096
   color: blue
 
+- name: Universität Basel - Fakultät für Psychologie
+  url: https://psychologie.unibas.ch/en/faculty/it/research-it/research-data-management-organiser-rdmo
+  # contact: 
+  # mail: 
+  lat: 47.56113122756539
+  lon: 7.575440786052255
+  color: blue 
+
 - name: Hochschul-, Landes- und Stadtbibliothek Fulda
   url: https://rdmo.hlsb.hs-fulda.de/
   contact: Thomas Richter
