@@ -12,7 +12,7 @@ On these pages you will find all important information about the RDMO software, 
 
 The free software: [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
-Demo instance: [rdmo.aip.de](https://rdmo.aip.de)
+Demo instance: [demo.rdmo.org](https://demo.rdmo.org/). This demo instance allows you to try out RDMO and explore the application from the perspective of an end user, editor and manager.
 
 Register for our public mailing list, to be always updated: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo)
 
