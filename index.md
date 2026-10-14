@@ -12,9 +12,9 @@ Auf diesen Seiten finden Sie alle wichtigen Informationen rund um die RDMO-Softw
 
 Die freie Software finden Sie unter: [github.com/rdmorganiser](https://github.com/rdmorganiser)
 
-Eine Demo-Instanz finden Sie unter: [rdmo.aip.de](https://rdmo.aip.de)
+Eine Demo-Instanz finden Sie unter: [demo.rdmo.org](https://demo.rdmo.org/). Diese Demo-Instanz ermöglicht es Ihnen, RDMO auszuprobieren und die Anwendung sowohl aus der Sicht von Endnutzenden als auch von Editoren und Managern kennenzulernen. 
 
-Hier können Sie sich für unsere Mailingliste anmelden, um immer auf dem letzten Stand zu bleiben: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo)
+Hier können Sie sich für unsere Mailingliste anmelden, um immer auf dem aktuellen Stand zu bleiben: [rdmo@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo)
 
 Hier können Sie sich zur Mailingliste der Contentgruppe, um bei der Weiterentwicklung vom Katalogen und weiteres Materials beizutragen - keine Programmierkenntnisse erforderlich! [rdmo-contentgruppe@listserv.dfn.de](https://www.listserv.dfn.de/sympa/subscribe/rdmo-contentgruppe)
 
