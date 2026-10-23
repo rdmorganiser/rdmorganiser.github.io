@@ -35,7 +35,7 @@ For the further development of RDMO, we use a roadmap process in which the exist
 * [Medium](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+medium%22)
 * [Low](https://github.com/rdmorganiser/rdmo/issues?q=is%3Aopen+is%3Aissue+label%3A%22priority%3A+low%22)
 
-<img src="./img/icons/RDMOnster.png" style="width: 25px;"/>
+<img src="../img/icons/RDMOnster.png" style="width: 25px;"/>
 
 To transparently communicate the status of the work in progress, we use the "Projects" functionality of GitHub, where the individual issues are displayed on a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board):
 
