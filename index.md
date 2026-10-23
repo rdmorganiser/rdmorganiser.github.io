@@ -141,8 +141,6 @@ Dieses Kooperationsgeflecht ermöglicht RDMO gleichzeitig, Anforderungen und Fee
                     {% if location.lat and location.lon %}
                         {% if location.color == "blue" %}
                             <img src="./img/icons/marker-icon-blue.png" />
-                        {% elseif location.color == "scary" %}
-                             <img src="./img/icons/RDMOnster.png" style="width: 15px;" />
                         {% else %}
                             <img src="./img/icons/marker-icon-grey.png" />
                         {% endif %}
