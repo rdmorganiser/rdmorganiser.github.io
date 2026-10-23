@@ -42,6 +42,8 @@ We look forward to you!
 All RDMO users and institutions that have their own instance can seek advice and support from the RDMO community.<br/>
 At the same time, this network of cooperation enables RDMO to take into account requirements and feedback from the specialist sciences, as well as to ensure the exchange and coordination with infrastructure initiatives for data management.
 
+<iframe src="https://karte.fau.de/api/v1/iframe/source/6a998d39cc296/layer/RRZE,RRZE.DE,Esri.WorldImagery,Bayern,Erlangen,Stamen.Toner,OpenTopoMap" width="100%" height="400" seamless style="border: 0; padding: 0; margin: 0; overflow: hidden;"></iframe>
+
 <link rel="stylesheet" href="../css/leaflet.css" />
 
 <script>
@@ -106,7 +108,7 @@ At the same time, this network of cooperation enables RDMO to take into account 
 
 <link rel="stylesheet" type="text/css" href="../css/table.css">
 
-<div id="map" class="map"></div>
+<!-- <div id="map" class="map"></div> -->
 <div>
     <div class="no_entries"></div>
     <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
