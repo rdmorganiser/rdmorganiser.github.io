@@ -35,7 +35,7 @@ Publikationen von RDMO finden Sie auch auf der <a href="https://zenodo.org/commu
   {% endfor %}
   </ul>
 
-  <h2>DMP and SMP Templates</h2>
+  <h2>DMP and SMP Templates <img src="./img/icons/RDMOnster.png" style="width: 15px;"/></h2>
   <p>Hier sind Publikationen über DMPs und SMPs und deren Vorlagen, losgelost von den DMP-Werkzeugen.</p>
   <ul class="publication">
   {% for publication in site.data.publications.DMP_SMP %}
