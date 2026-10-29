@@ -1,6 +1,16 @@
 ---
+- date: "04.12.2026, 10:00-16:00 Uhr"
+  place: "online"
+  further_info: ""
+  name:
+    de: "Mini RDMO Ho Ho Winter Hackathon 2026"
+    en: "Mini RDMO Ho Ho Winter Hackathon 2026"
+  event:
+    de: "Auch in diesem Jahr wird es wieder einen virtuellen Mini-RDMO-Hackathon geben. Am 4. Dezember von 10 bis 16 Uhr habt ihr wieder die Gelegenheit, gemeinsam an der Weiterentwicklung von RDMO zu arbeiten.[Zur Registrierung](https://tu-darmstadt.zoom-x.de/meeting/register/Z65XwHpDSVqgPKl5ZLP8bg)."
+    en: "There will be another virtual Mini-RDMO hackathon this year. On 4 December, from 10 am to 4 pm, you’ll once again have the opportunity to work together on further developing RDMO. [Registration](https://tu-darmstadt.zoom-x.de/meeting/register/Z65XwHpDSVqgPKl5ZLP8bg)"
+        
 - date: "14.10.2026, 10:00-12:30 Uhr"
-  place: "online [Anmeldung](https://tu-darmstadt.zoom.us/meeting/register/_H7KKLtpSF-rRAhZ_ofTbA#/registration)"
+  place: "online"
   further_info: "https://www.forschungsdaten.org/index.php/16._Community-Treffen"
   name:
     de: "16. RDMO-Community-Treffen"
