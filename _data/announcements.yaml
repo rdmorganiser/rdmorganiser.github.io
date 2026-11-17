@@ -1,5 +1,15 @@
 ---
 current:
+- date: 31.01.2027
+    place: "RDMO Community"
+    further_info: "https://www.forschungsdaten.org/index.php/RDMO-Logo_Ideenwettbewerb"
+    name:
+      de: "RDMO-Logo Ideen-Wettbewerb"
+      en: "RDMO Logo Design Competition"
+    event:
+      de: "Gesucht wird ein neues Logo für RDMO. Die Gestaltung soll eigenständig, zeitgemäß und wiedererkennbar sein und zugleich einen Bezug zur bisherigen visuellen Identität von RDMO ermöglichen. Aus der Community und für die Community: Das neue RDMO-Logo wird als Ideenwettbewerb ausgeschrieben.[Mehr Infos](https://www.forschungsdaten.org/index.php/RDMO-Logo_Ideenwettbewerb)"
+      en: "We are looking for a new logo for RDMO. The design should be original, contemporary and recognisable, whilst also maintaining a link to RDMO’s existing visual identity. From the community and for the community: the new RDMO logo will be selected through a design competition.[More information](https://www.forschungsdaten.org/index.php/RDMO-Logo_Ideenwettbewerb)"
+      
   - date: 04.12.2026
     place: "via Zoom"
     further_info: ""
